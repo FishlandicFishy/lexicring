@@ -1,5 +1,4 @@
-
-    # collect voice
+# collect voice
 
     ## Social Crebit English
 
