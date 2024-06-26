@@ -1,21 +1,21 @@
 
-    # palestation five
+# palestation five
 
-    ## English
+## English
 
-    /ˈpɑˌləstæɪʃən ˈfɑɪv/
-    [n] Derived from "Playstation 5".
+/ˈpɑˌləstæɪʃən ˈfɑɪv/
+[n] Derived from "Playstation 5".
 
 Example:
 
-    "Babaji ila palestation five?"
+ "Babaji ila palestation five?"
 
 
-    See also:
+ See also:
 
-    <a href="babaji.md">babaji</a>
+<a href="babaji.md">babaji</a>
 
-    <a href="lucitik.md">lucitik</a>
+<a href="lucitik.md">lucitik</a>
 
 
 
