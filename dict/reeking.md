@@ -1,13 +1,13 @@
 
-    # reeking
+# reeking
 
-    ## Anguish English
+## Anguish English
 
-    [n] Misspelling of "reckoning".
+ [n] Misspelling of "reckoning".
 
 Example:
 
-    "But the reeking has eome today."
+"But the reeking has eome today."
 
 
 
