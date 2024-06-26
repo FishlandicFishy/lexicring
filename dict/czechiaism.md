@@ -1,6 +1,6 @@
 # Czechiaism
 ## English
-[n] Fictional Genalphid political ideology; synonymous with nationalism.
+[n] Fictional Genalphid political ideology; synonymous with extreme nationalism.
 
 See also:
 <a href="ogism.md">ogism</a>
