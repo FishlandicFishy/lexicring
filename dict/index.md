@@ -1,0 +1,1 @@
+## lexicring dictionary
