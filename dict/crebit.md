@@ -14,7 +14,7 @@ Example:
 
 See also:
 
-<a href="dedit.html">dedit</a>
+<a href="dedit.md">dedit</a>
 
 
 

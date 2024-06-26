@@ -14,7 +14,7 @@ Example:
 
 See also:
 
-<a href="crebit.html">crebit</a>
+<a href="crebit.md">crebit</a>
 
 
 

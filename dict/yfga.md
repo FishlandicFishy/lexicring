@@ -8,11 +8,11 @@
 
     See also:
 
-    <a href="rotatism.html">rotatism</a>
+    <a href="rotatism.md">rotatism</a>
 
-    <a href="ogism.html">ogism</a>
+    <a href="ogism.md">ogism</a>
 
-    <a href="uttp.html">UTTP</a>
+    <a href="uttp.md">UTTP</a>
 
 
 

@@ -13,7 +13,7 @@ Example:
 
       See also:
 
-      <a href="ruboxs.html">ruboxs</a>
+      <a href="ruboxs.md">ruboxs</a>
 
 
 

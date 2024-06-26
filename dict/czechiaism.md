@@ -8,13 +8,13 @@
 
     See also:
 
-      <a href="ogism.html">ogism</a>
+      <a href="ogism.md">ogism</a>
 
-    <a href="rotatism.html">rotatism</a>
+    <a href="rotatism.md">rotatism</a>
 
-    <a href="uttp.html">UTTP</a>
+    <a href="uttp.md">UTTP</a>
 
-    <a href="yfga.html">YFGA</a>
+    <a href="yfga.md">YFGA</a>
 
 
 

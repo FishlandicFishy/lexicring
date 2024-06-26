@@ -13,11 +13,11 @@ Example:
 
     See also:
 
-    <a href="cameraman.html">cameraman</a>
+    <a href="cameraman.md">cameraman</a>
 
-    <a href="fanum-tax.html">Fanum tax</a>
+    <a href="fanum-tax.md">Fanum tax</a>
 
-    <a href="sigma.html">sigma</a>
+    <a href="sigma.md">sigma</a>
 
 
 

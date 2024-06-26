@@ -13,9 +13,9 @@ Example:
 
     See also:
 
-    <a href="cameraman.html">cameraman</a>
+    <a href="cameraman.md">cameraman</a>
 
-    <a href="skibidi.html">skibidi</a>
+    <a href="skibidi.md">skibidi</a>
 
 
 

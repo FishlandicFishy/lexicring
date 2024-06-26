@@ -13,7 +13,7 @@ Example:
 
     See also:
 
-    <a href="lucitik.html">lucitik</a>
+    <a href="lucitik.md">lucitik</a>
 
 
 

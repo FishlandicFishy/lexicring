@@ -4,7 +4,7 @@
 ## English
 
 /ˈbɑbɑˈdʒiː/
-[n] Alternate spelling of <a href="babaji.html">babaji</a>.
+[n] Alternate spelling of <a href="babaji.md">babaji</a>.
 
 
 

@@ -14,7 +14,7 @@ Example:
 
 See also:
 
-<a href="babaji.html">babaji</a>
+<a href="babaji.md">babaji</a>
 
 
 

@@ -14,15 +14,15 @@ Example:
 
 See also:
 
-<a href="babacii.html">babacii (alt. spelling)</a>
+<a href="babacii.md">babacii (alt. spelling)</a>
 
-<a href="baba-g.html">baba g</a>
+<a href="baba-g.md">baba g</a>
 
-<a href="fortinayti.html">fortinayti</a>
+<a href="fortinayti.md">fortinayti</a>
 
-<a href="ikis-bokis-siris-ikis.html">ikis bokis siris ikis</a>
+<a href="ikis-bokis-siris-ikis.md">ikis bokis siris ikis</a>
 
-<a href="palestation-five.html">palestation five</a>
+<a href="palestation-five.md">palestation five</a>
 
 
 

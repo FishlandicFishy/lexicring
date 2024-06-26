@@ -13,9 +13,9 @@ Example:
 
     See also:
 
-    <a href="babaji.html">babaji</a>
+    <a href="babaji.md">babaji</a>
 
-    <a href="lucitik.html">lucitik</a>
+    <a href="lucitik.md">lucitik</a>
 
 
 

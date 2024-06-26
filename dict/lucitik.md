@@ -13,9 +13,9 @@ Example:
 
     See also:
 
-    <a href="palestation-five.html">palestation five</a>
+    <a href="palestation-five.md">palestation five</a>
 
-    <a href="hyper-ikis-ikis-ikis-ikis.html">hyper ikis ikis ikis ikis</a>
+    <a href="hyper-ikis-ikis-ikis-ikis.md">hyper ikis ikis ikis ikis</a>
 
 
 

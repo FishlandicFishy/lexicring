@@ -13,7 +13,7 @@ Example:
 
       See also:
 
-      <a href="rubozs.html">rubozs</a>
+      <a href="rubozs.md">rubozs</a>
 
 
 
