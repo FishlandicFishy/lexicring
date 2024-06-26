@@ -1,19 +1,18 @@
+# ruboxs
 
-    # ruboxs
+## Genalphid English
 
-    ## Genalphid English
-
-    (pronunciation unattested)
-    [n] One of the genalphid forms of "robux".
+(pronunciation unattested)
+[n] One of the genalphid forms of "robux".
 
 Example:
 
-    "Me before i got ruboxs"
+ "Me before i got ruboxs"
 
 
-      See also:
+See also:
 
-      <a href="rubozs.md">rubozs</a>
+<a href="rubozs.md">rubozs</a>
 
 
 
