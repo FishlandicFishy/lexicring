@@ -1,11 +1,9 @@
 
-
+# NotDictionary
 
 ## English
 
-You're so bored you decided to look this up. Derived from not + dictionary.
-
-
+Former name of lexicring. See also [Notcyclopedia](notcyclopedia.md).
 
 
 
