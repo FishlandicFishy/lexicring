@@ -1,5 +1,5 @@
 # Go Go Gadget Forget-it Bird
-![](wiki/freebirdyeah.png "Go Go Gadget Forget-it Bird")
+![ ](/wiki/freebirdyeah.png "Go Go Gadget Forget-it Bird")
 
 A Go Go Gadget Forget-it Bird, sourced from [https://youtu.be/l4Z-wwCkfTw](https://youtu.be/l4Z-wwCkfTw)
 
