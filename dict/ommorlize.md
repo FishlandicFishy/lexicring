@@ -1,13 +1,12 @@
+# ommorlize
 
-    # ommorlize
+## Anguish English
 
-    ## Anguish English
-
-    [v] Misspelling of "immortalize/se". Alternatively a reference to omor (OMORI).
+[v] Misspelling of "immortalize/se". Alternatively a reference to omor (OMORI).
 
 Example:
 
-    "I am alive, ommorlized."
+"I am alive, ommorlized."
 
 
 
