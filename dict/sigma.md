@@ -1,32 +1,32 @@
 
-    # sigma
+# sigma
 
-    ## Genalphid English
+## Genalphid English
 
-    /ˈsɪɡmə/
-    [n, adj] A letter of the Greek alphabet. Also a clipping of "sigma male", what Gen Alpha kids think they are when they harass other people online.
+/ˈsɪɡmə/
+[n, adj] A letter of the Greek alphabet. Also a clipping of "sigma male", what Gen Alpha kids think they are when they harass other people online.
 
 Example:
 
-    "Im a sigma but i still support you bro because sigma stands for
+"Im a sigma but i still support you bro because sigma stands for
 
-      1.respectful
+1.respectful
 
-      2.kind
+2.kind
 
-      3.brave
-
-
-      Bro dosent even have 14 cars."
+3.brave
 
 
-    See also:
+Bro dosent even have 14 cars."
 
-    <a href="cameraman.md">cameraman</a>
 
-    <a href="fanum-tax.md">Fanum tax</a>
+See also:
 
-    <a href="skibidi.md">skibidi</a>
+<a href="cameraman.md">cameraman</a>
+
+<a href="fanum-tax.md">Fanum tax</a>
+
+<a href="skibidi.md">skibidi</a>
 
 
 
