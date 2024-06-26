@@ -1,13 +1,12 @@
+# five o'clock flower six o'clock change
 
-    # five o'clock flower six o'clock change
+## Social Crebit English
 
-    ## Social Crebit English
-
-    [adj] Derived from 五時花六時變. Indecisive; changeable.
+[adj] Derived from 五時花六時變. Indecisive; changeable.
 
 Example:
 
-    "You're really five o'clock flower six o'clock change, right?"
+"You're really five o'clock flower six o'clock change, right?"
 
 
 
