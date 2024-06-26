@@ -3,9 +3,7 @@
 
 ## English
 
-You're so bored you decided to look this up. Derived from not + encyclopedia.
-
-
+Former name of lexicring. See also [NotDictionary](notdictionary.md).
 
 
 
