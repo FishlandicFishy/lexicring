@@ -1,10 +1,7 @@
-;
-    # negavator
-
-    ## Genalphid English
-
-     /ˈnɛgəveɪtɚ/
-    Unknown meaning; discovered through "disposable" personal research. Possibly from negative + elevator. See also <a href="nemator.md">nemator</a>.
+# negavator
+## Genalphid English
+/ˈnɛgəveɪtɚ/
+Unknown meaning; discovered through "disposable" personal research. Possibly from negative + elevator. See also <a href="nemator.md">nemator</a>.
 
 
 
