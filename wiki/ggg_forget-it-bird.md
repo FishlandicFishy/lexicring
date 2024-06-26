@@ -3,7 +3,8 @@
 
 A Go Go Gadget Forget-it Bird, sourced from [https://youtu.be/l4Z-wwCkfTw](https://youtu.be/l4Z-wwCkfTw)
 
-Go Go Gadget Forget-it Bird, also known as Go Go Gadget 金翅忘記鳥, [1](external link) is a Euclid-class SCP– wait wrong wiki
+Go Go Gadget Forget-it Bird, also known as Go Go Gadget 金翅忘記鳥, is a Euclid-class SCP– wait wrong wiki
+
 It is capable of manipulating memory. The object appears as a detailed sculpture of a bird, made of a type of metal with yellow paint over it. Its size is roughly 50 cm³. [citation needed] It possesses the ability to erase someone's memories, making a target forget about anything the user chooses. To activate the ability, the user must simply hold the object and focus on the memory they wish to erase in the target individual's mind. The object will then fly away as if it is a real bird and when the target sees the object, they will have forgotten the desired memory. The object will return to the user's hand upon completion of this process, ready to be used again.
 
 ## Documented Examples of its (mis)Usage
