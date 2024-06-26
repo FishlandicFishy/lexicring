@@ -1,18 +1,17 @@
-;
-    # rotatism
+ # rotatism
 
-    ## English
+ ## English
 
-    [n] Fictional Genalphid political ideology; synonymous with kindergarten fights. Also "rotat".
+[n] Fictional Genalphid political ideology; synonymous with kindergarten fights. Also "rotat".
 
 
-    See also:
+See also:
 
-    <a href="ogism.md">ogism</a>
+<a href="ogism.md">ogism</a>
 
-    <a href="uttp.md">UTTP</a>
+<a href="uttp.md">UTTP</a>
 
-    <a href="yfga.md">YFGA</a>
+<a href="yfga.md">YFGA</a>
 
 
 
