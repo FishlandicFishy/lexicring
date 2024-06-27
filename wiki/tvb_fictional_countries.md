@@ -113,6 +113,7 @@ It has a specialised military ranked high globally. It has a lot of opposing par
 
 ## Notes
 
-[^note 1] This is part of the official lore, I do not intend to offend anyone.</p>
+[^note 1]:
+This is part of the official lore, I do not intend to offend anyone.</p>
 
 
