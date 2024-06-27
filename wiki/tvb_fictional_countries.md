@@ -43,7 +43,72 @@ The culture in Ng Wong Tat includes (Episode 2061) using <a href="https://www.ur
 
 (Episode 2084) Ng Wong Tat maintains a consulate-general. (Episode 1543) Because of the questionable state of tourism in Ng Wong Tat, importing sleeping clothes is considered illegal. If someone brings sleeping clothes, they must complete the AC9527 form to report their status daily, ensuring compliance with the regulations. (Episode I forgot) Ng Wong Tat also has a translation officer who can speak Cantonese, Min Nan, Hakka, among other languages. (Episode 2150) A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.
 
-##
-<script>
-console.log(Math.PI)
-</script>
+## 豺狼國 *(K\*ngdom of Wolves)*
+
+![ ](/wiki/flag_of_aw_hell_naw_cringe.png/)
+
+Flag of K\*ngdom of Wolves sourced from https://youtu.be/LGxMK6PX0as.
+   
+K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/wiki/tvb_wolf_script.md">a one-to-one cipher of Latin</a>. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
+
+### Geography
+
+The terrain in K\*ngdom of Wolves is mostly flat land, half of which covered by forests. There is a wide path in the middle of the forests devoid of trees. The sole exception is the area close to the entrance, which is a steep cliff which leads to flat land. In a specific area, there is an abundance of small caves which have CGI lava within.
+
+### Culture
+Most of the population practice <a href="https://www.urbandictionary.com/define.php?term=awoo">awoo (wolf howl)</a> all the time<sup>[note 1]</sup>, which is an integral part of the culture in K*ngdom of Wolves.
+
+## 獅吼國 *(Shi Hou Guo)*
+
+Shi Hou Guo (Chinese: 獅吼國, also 獅吼共和國) is a republic north of the K\*ngdom of Wolves, and therefore human trafficking exists. Presumably it is a major exporter of coconuts. They have history books.
+
+### Geography
+
+The southern area of the country is a forest and is severely underdeveloped, while the northern area is slightly more developed.
+
+### Culture
+
+Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot<sup>[note 1]</sup>, which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen. For some reason, chocolate is also seen as a solution to all problems and conflicts.
+
+## 幸吾島 *(Hung Island)*
+
+Hung Island (Chinese: 幸吾島) is a fictional island country. Apart from English, it also speaks <a href="tvb_hung_island_language.html">its own language</a>, which is so advanced it has its own set of swear words. 
+
+### Geography
+
+80% of its land is covered by forests.
+
+## 女兒國 *(Nü Er Guo)*
+
+It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. My lawyer had advised me not to elaborate anymore on this section.
+
+## 吾多國 *(Wu Duo Guo)*
+
+Wu Duo Guo (Chinese: 吾多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/wiki/tvb_wu_duo_guo_language.md">language</a> consisting only of swear words.
+
+## 豪多國 *(Hao Duo Guo)*
+
+Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
+
+## 哈多爾 *(Ha Duo Er)*
+
+![ ](/wiki/flag_of_ha_duo_er.png)
+
+Flag of Ha Duo Er, recreated in ibisPaint X. Note that the pixel shape is supposed to be a triangle.
+
+Ha Duo Er (Chinese: 哈多爾) is a fictional African country. Its national language is English, and it is a small country with a small population.</p>
+
+### Geography
+
+It is rich in natural resources, especially in 🦅oil🦅 and rare earth metals.</p>
+
+### Politics
+
+It has a specialised military ranked high globally. It has a lot of opposing parties, which makes its politics complicated and is a leading cause of many terrorist attacks.</p>
+    <h2>Unnamed Countries</h2>
+    <h3>Unnamed 1</h3>
+    <img src="flag_of_unnamed1.png" style="width:30px; height:20px;" alt="Flag."><br>Flag, recreated in ibisPaint X.
+    <br><br>
+    <p>They have engaged in diplomacy with Ha Duo Er.</p>
+    <h2>Notes</h2>
+    <p>1. This is part of the official lore, I do not intend to offend anyone.</p>
