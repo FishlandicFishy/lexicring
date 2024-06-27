@@ -28,7 +28,7 @@ Ng Wong Tat is divided into two main regions: the forest area and the non-forest
 
 ### Culture
 
-The culture in Ng Wong Tat includes (Episode 2061) using <a href="https://www.urbandictionary.com/define.php?term=aimbot">aimbot<img src="ext.svg" style="width:12px; height:12px;" alt="(external link)"></a> in real life (by shooting arrows at random people to indicate interest), (Episode 2095) poking someone's face "lightly" as a lighthearted punishment, and (Episode 2084) eating without hands, which supposedly imitates a Komodo dr*gon but is probably scientifically inaccurate.
+The culture in Ng Wong Tat includes (Episode 2061) using <a href="https://www.urbandictionary.com/define.php?term=aimbot">aimbot</a> in real life (by shooting arrows at random people to indicate interest), (Episode 2095) poking someone's face "lightly" as a lighthearted punishment, and (Episode 2084) eating without hands, which supposedly imitates a Komodo dr*gon but is probably scientifically inaccurate.
         
 
 (Episode 1574) The work culture is also flawed, with everything striving to be as slow as possible. 
