@@ -42,3 +42,8 @@ The culture in Ng Wong Tat includes (Episode 2061) using <a href="https://www.ur
 ### Politics
 
 (Episode 2084) Ng Wong Tat maintains a consulate-general. (Episode 1543) Because of the questionable state of tourism in Ng Wong Tat, importing sleeping clothes is considered illegal. If someone brings sleeping clothes, they must complete the AC9527 form to report their status daily, ensuring compliance with the regulations. (Episode I forgot) Ng Wong Tat also has a translation officer who can speak Cantonese, Min Nan, Hakka, among other languages. (Episode 2150) A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.
+
+##
+<script>
+console.log(Math.PI)
+</script>
