@@ -56,7 +56,7 @@ K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 
 The terrain in K\*ngdom of Wolves is mostly flat land, half of which covered by forests. There is a wide path in the middle of the forests devoid of trees. The sole exception is the area close to the entrance, which is a steep cliff which leads to flat land. In a specific area, there is an abundance of small caves which have CGI lava within.
 
 ### Culture
-Most of the population practice <a href="https://www.urbandictionary.com/define.php?term=awoo">awoo (wolf howl)</a> all the time<sup>[note 1]</sup>, which is an integral part of the culture in K*ngdom of Wolves.
+Most of the population practice <a href="https://www.urbandictionary.com/define.php?term=awoo">awoo (wolf howl)</a> all the time<sup>[^note 1]</sup>, which is an integral part of the culture in K*ngdom of Wolves.
 
 ## 獅吼國 *(Shi Hou Guo)*
 
@@ -68,7 +68,7 @@ The southern area of the country is a forest and is severely underdeveloped, whi
 
 ### Culture
 
-Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot<sup>[note 1]</sup>, which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen. For some reason, chocolate is also seen as a solution to all problems and conflicts.
+Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot<sup>[^note 1]</sup>, which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen. For some reason, chocolate is also seen as a solution to all problems and conflicts.
 
 ## 幸吾島 *(Hung Island)*
 
@@ -110,5 +110,9 @@ It has a specialised military ranked high globally. It has a lot of opposing par
     <img src="flag_of_unnamed1.png" style="width:30px; height:20px;" alt="Flag."><br>Flag, recreated in ibisPaint X.
     <br><br>
     <p>They have engaged in diplomacy with Ha Duo Er.</p>
-    <h2>Notes</h2>
-    <p>1. This is part of the official lore, I do not intend to offend anyone.</p>
+
+## Notes
+
+[^note 1] This is part of the official lore, I do not intend to offend anyone.</p>
+
+
