@@ -12,4 +12,8 @@
 
 Flag of Ng Wong Tat sourced from https://youtu.be/40B0vdrFeV8.
 
+![ ](/wiki/not_the_coat_of_arms_of_ng.png "Is this the cost of arms?")
+
+Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F9QVvkQ.
+
 WIP
