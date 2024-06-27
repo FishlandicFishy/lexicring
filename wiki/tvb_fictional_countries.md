@@ -8,4 +8,8 @@
 (Disclaimer: The quote is from a content farm)
 
 ## Ng Wong Tat
+![ ](/wiki/flag_of_ng.png "flag")
+
+Flag of Ng Wong Tat sourced from https://youtu.be/40B0vdrFeV8.
+
 WIP
