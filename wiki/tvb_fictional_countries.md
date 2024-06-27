@@ -105,11 +105,15 @@ It is rich in natural resources, especially in 🦅oil🦅 and rare earth metals
 ### Politics
 
 It has a specialised military ranked high globally. It has a lot of opposing parties, which makes its politics complicated and is a leading cause of many terrorist attacks.</p>
-    <h2>Unnamed Countries</h2>
-    <h3>Unnamed 1</h3>
-    <img src="flag_of_unnamed1.png" style="width:30px; height:20px;" alt="Flag."><br>Flag, recreated in ibisPaint X.
-    <br><br>
-    <p>They have engaged in diplomacy with Ha Duo Er.</p>
+
+## Unnamed Countries
+
+### Unnamed 1
+![ ](/wiki/flag_of_unnamed1.png)
+
+Flag, recreated in ibisPaint X.
+
+They have engaged in diplomacy with Ha Duo Er.
 
 ## Notes
 
