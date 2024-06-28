@@ -3,10 +3,10 @@
 
 ## 橙不忍島 (Island de Orange)
 
-Flag of Island de Orange.
+![ ](/wiki/not_even_a_flag.png)
 The flag of Island de Orange, sourced from https://youtu.be/VBUkS0WQhVI
 
-Coat of Arms of Island de Orange.
+![ ](/wiki/not_even_a_coat_of_arms.png)
 The coat of arms of Island de Orange, sourced from https://youtu.be/VBUkS0WQhVI
 
 Island de Orange (Chinese: 橙不忍島) is a fictional island. It speaks both Cantonese and English. It has a prison.
