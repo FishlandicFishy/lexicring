@@ -21,7 +21,7 @@ Gu Li Wu Dao (Chinese: 古里梧島) is a fictional island. It participated in a
 
 ## 昆里梧島 (Kun Li Wu Dao)
 
-Kun Li Wu Dao (Chinese: 昆里梧島) is a fictional island. It speaks AnimaleseThe external link SVG for some reason.
+Kun Li Wu Dao (Chinese: 昆里梧島) is a fictional island. It speaks [Animalese](https://nookipedia.com/wiki/Animalese) for some reason.
 
 ### Politics
 
