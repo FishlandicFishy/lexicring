@@ -1,1 +1,1 @@
-# lexicring archival
+# lexicring encyclopedia
