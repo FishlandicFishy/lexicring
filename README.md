@@ -1,6 +1,7 @@
 # lexicring
 Unnecessarily cringe-worthy archive and documentation of obscure stuff
 
-* [Archives](/wiki) (WIP: ~8 more articles)
+* [Encyclopedia](/wiki)
+* [Archival](/archival) (WIP)
 * [Dictionary](/dict)
 * [Miscellaneous](/misc) (WIP: ~2 more articles)
