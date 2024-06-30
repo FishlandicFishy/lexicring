@@ -6,6 +6,8 @@
 
 (-daɪ)
 
+Also "skibid" and "s" (in "s-toilet").
+
 1. [adj, n] Brainrot toilet.
 
 Example:
@@ -17,7 +19,6 @@ Example:
 Example:
 
 "Skibidi rizz" (= "charisma" through committing tax fraud)
-
 
 See also:
 
