@@ -5,6 +5,8 @@
 
 An arbitrarily high "status".
 
+A letter of the Greek alphabet. Also a clipping of "alpha male" or associated with the *Canis lupus*, what Gen Alpha kids think they are when they harass other people online.
+
 Example:
 
 "I'm the alpha, I'm the leader, I'm the one to trust."
