@@ -7,11 +7,10 @@
     <li>*dɑː˨dɑː˧dɑː˦ (presumably "I want my dad (to)" based on context)</li>
     <li>*dɑː˦dɑː˧ (presumably "(to) return west" based on context)</li>
     <li>*də˧.doʊ˧˥.bɔ˧</li>
+    <li>*foʊ˥.saʊ˨˥</li>
+    <li>*loʊ˥ːa˧ː</li>
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
+    <li>*plajn˧˩</li>
   </ul>
-
-
-
-
 
 
