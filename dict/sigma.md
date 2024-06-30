@@ -22,6 +22,8 @@ Bro dosent even have 14 cars."
 
 See also:
 
+[alpha](alpha.md)
+
 <a href="cameraman.md">cameraman</a>
 
 <a href="fanum-tax.md">Fanum tax</a>
