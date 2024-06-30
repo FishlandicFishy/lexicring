@@ -2,7 +2,10 @@
 
 ## Genalphid English
 
-/ˈskɪbədiː/
+/ˈskɪbədiː/ /ˈskɪbɪdiː/ /ˈskibidiː/
+
+(-daɪ)
+
 1. [adj, n] Brainrot toilet.
 
 Example:
