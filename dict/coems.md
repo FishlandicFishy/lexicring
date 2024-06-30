@@ -3,7 +3,7 @@
 
 Singular form "coem".
 
-[n] Brainrot.
+[n] Brainrot. Sometimes synonymous with "come"/"comes".
 
 Example:
 
