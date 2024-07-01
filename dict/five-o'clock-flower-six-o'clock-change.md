@@ -6,7 +6,7 @@
 
 Example:
 
-"You're really five o'clock flower six o'clock change, right?"
+"You're really five o'clock flower six o'clock change when it comes to buying things, right?"
 
 
 
