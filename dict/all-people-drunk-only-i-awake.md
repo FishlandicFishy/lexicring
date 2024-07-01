@@ -5,7 +5,7 @@
 
 Example:
 
-"All people drunk, only I awake."
+"All people drunk, only I awake. I won't tell anyone else."
 
 
 
