@@ -4,7 +4,7 @@
 
 Example:
 
-"My uncle is hard to explain."
+"My uncle is hard to explain, we need more people to support our cause."
 
 
 
