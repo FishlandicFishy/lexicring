@@ -14,9 +14,11 @@
     <li>*də˧.doʊ˧˥.bɔ˧</li>
     <li>*dy˨dy˨dyd˨</li>
     <li>*ɛl˥ji˨</li>
+    <li>*ɛ˨mi˥to˥dad˥di˨˥</li>
     <li>*foʊ˥.saʊ˨˥</li>
     <li>*hə˨hə˨hə˨ta˥hu˩</li>
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
+    <li>*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥</li>
     <li>*jɛɪ˧</li>
     <li>*ji˥˧ː</li>
     <li>*lək˨sɛk˨tɕʲɛ˨˥</li>
