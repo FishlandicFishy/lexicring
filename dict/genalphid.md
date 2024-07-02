@@ -19,9 +19,12 @@
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
     <li>*jɛɪ˧</li>
     <li>*ji˥˧ː</li>
+    <li>*lək˨sɛk˨tɕʲɛ˨˥</li>
+    <li>*lək˨sɪk˥bo˨</li>
     <li>*loʊ˥ːa˧ː</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
     <li>*plajn˧˩</li>
+    <li>*si˨bo˥bo˧</li>
     <li>*tid˨bi˥ (presumably an honorific title to an MTR train)</li>
     <li>*u˨ŋʲa˨˥</li>
   </ul>
