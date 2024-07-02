@@ -4,7 +4,9 @@
 ## Genalphid English
 
 /ˈsɪɡmə/
-[n, adj] A letter of the Greek alphabet. Also a clipping of "sigma male", what Gen Alpha kids think they are when they harass other people online.
+1. [n] A letter of the Greek alphabet.
+
+2. [n, adj.] A clipping of "sigma male", what Gen Alpha kids think they are when they harass other people online.
 
 Example:
 
@@ -19,6 +21,11 @@ Example:
 
 Bro dosent even have 14 cars."
 
+3. [n] Being wanted in 7 states for vehicular manslaughter.
+
+Example:
+
+"I'm so sigma."
 
 See also:
 
