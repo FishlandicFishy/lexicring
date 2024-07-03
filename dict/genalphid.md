@@ -5,6 +5,7 @@
 
   <ul>
     <li>*a˨a˧</li>
+    <li>*a˨ka˥hu˩ka˥hu˩ka˥hu˩ka˥</li>
     <li>*æ˥bæj˨hɛj˨</li>
     <li>*ɐ̃˨lɐ̃w̃˨ɐ̃˨˦</li>
     <li>*bæb˥bæ˧bæ˩bæb˨</li>
@@ -18,6 +19,7 @@
     <li>*ɛ˨mi˥to˥dad˥di˨˥</li>
     <li>*foʊ˥.saʊ˨˥</li>
     <li>*hə˨hə˨hə˨ta˥hu˩</li>
+    <li>*ho˨daɪ˥ɡo˩</li>
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
     <li>*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥</li>
     <li>*jɛɪ˧</li>
@@ -25,6 +27,8 @@
     <li>*lək˨sɛk˨tɕʲɛ˨˥</li>
     <li>*lək˨sɪk˥bo˨</li>
     <li>*loʊ˥ːa˧ː</li>
+    <li>*mɛ˨<li>
+    <li>*mi˨tɕʲi˥</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
     <li>*o˨ɱŋʲaj˧</li>
     <li>*ɔː˦˧</li>
@@ -34,6 +38,7 @@
     <li>*si˨bo˥bo˧</li>
     <li>*tid˨bi˥ (presumably an honorific title to an MTR train)</li>
     <li>*u˨ŋʲa˨˥</li>
+    <li>*uɱ˥ha˥ɾa˩</li>
   </ul>
   
   Documented phrases:
