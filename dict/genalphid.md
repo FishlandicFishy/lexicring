@@ -9,6 +9,7 @@
     <li>*ɐ̃˨lɐ̃w̃˨ɐ̃˨˦</li>
     <li>*bæb˥bæ˧bæ˩bæb˨</li>
     <li>*bi˥bi˥bib˥</li>
+    <li>*daɪ˨tɕʲɛ˦</li>
     <li>*dɑː˨dɑː˧dɑː˦ (presumably "I want my dad (to)" based on context)</li>
     <li>*dɑː˦dɑː˧ (presumably "(to) return west" based on context)</li>
     <li>*də˧.doʊ˧˥.bɔ˧</li>
@@ -25,6 +26,7 @@
     <li>*lək˨sɪk˥bo˨</li>
     <li>*loʊ˥ːa˧ː</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
+    <li>*o˨ɱŋʲaj˧</li>
     <li>*plajn˧˩</li>
     <li>*si˨bo˥bo˧</li>
     <li>*tid˨bi˥ (presumably an honorific title to an MTR train)</li>
