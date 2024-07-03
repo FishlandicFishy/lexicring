@@ -1,7 +1,7 @@
 
 # Genalphid
 
-<b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>. Below is a list of currently undeciphered terms of the Genalphid language, not to be confused with "Genalphid English", the Genalphid dialect of English.
+<b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>. Below is a list of terms of the Genalphid language, not to be confused with "Genalphid English", the Genalphid dialect of English.
 
   <ul>
     <li>*a˨a˧</li>
@@ -28,6 +28,7 @@
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
     <li>*o˨ɱŋʲaj˧</li>
     <li>*plajn˧˩</li>
+    <li>*sæn˥ky˩ (likely "thank you")</li>
     <li>*si˨bo˥bo˧</li>
     <li>*tid˨bi˥ (presumably an honorific title to an MTR train)</li>
     <li>*u˨ŋʲa˨˥</li>
