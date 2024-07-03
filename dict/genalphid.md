@@ -27,11 +27,17 @@
     <li>*loʊ˥ːa˧ː</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
     <li>*o˨ɱŋʲaj˧</li>
+    <li>*ɔː˦˧</li>
+    <li>*ç̩ː</li>
     <li>*plajn˧˩</li>
     <li>*sæn˥ky˩ (likely "thank you")</li>
     <li>*si˨bo˥bo˧</li>
     <li>*tid˨bi˥ (presumably an honorific title to an MTR train)</li>
     <li>*u˨ŋʲa˨˥</li>
   </ul>
-
+  
+  Documented phrases:
+* \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧: "I want my dad to return west"
+* \*sæn˥ky˩: "thank you"
+* \*ɔː˦˧ ç̩ː ç̩ː
 
