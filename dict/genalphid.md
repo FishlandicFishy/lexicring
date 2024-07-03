@@ -45,4 +45,3 @@
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧: "I want my dad to return west"
 * \*sæn˥ky˩: "thank you"
 * \*ɔː˦˧ ç̩ː ç̩ː
-
