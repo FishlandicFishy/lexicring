@@ -28,8 +28,10 @@
 ### d
 
 * \*daɪ˨tɕʲɛ˦
-* \*dɑː˨dɑː˧dɑː˦ (presumably "I want my dad (to)" based on context)
-* \*dɑː˦dɑː˧ (presumably "(to) return west" based on context)
+* \*dɑː˨dɑː˧dɑː˦
+  * presumably "I want my dad (to)" based on context
+* \*dɑː˦dɑː˧
+  * presumably "(to) return west" based on context
 * \*də˧.doʊ˧˥.bɔ˧
 * \*doʊ˨˥
 * \*dy˨dy˨dyd˨
@@ -101,12 +103,14 @@
 * \*plajn˧˩
 
 ### s
-* \*sæn˥ky˩ (likely "thank you")
+* \*sæn˥ky˩
+  * likely "thank you"
 * \*si˨bo˥bo˧
 
 ### t
 
-* \*tid˨bi˥ (presumably an honorific title to an MTR train)
+* \*tid˨bi˥
+  * presumably an honorific title to an MTR train; see T Chai
 
 ### u
 
