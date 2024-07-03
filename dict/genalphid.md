@@ -22,6 +22,7 @@
     <li>*go˧li˧˨</li>
     <li>*hə˨hə˨hə˨ta˥hu˩</li>
     <li>*ho˨daɪ˥ɡo˩</li>
+    <li>*i˥.daʊ˧˦</li>
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
     <li>*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥</li>
     <li>*jɛɪ˧</li>
@@ -45,6 +46,7 @@
   </ul>
   
   Documented phrases:
-* \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧: "I want my dad to return west"
-* \*sæn˥ky˩: "thank you"
+* \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
+* \*sæn˥ky˩ "thank you"
 * \*ɔː˦˧ ç̩ː ç̩ː
+
