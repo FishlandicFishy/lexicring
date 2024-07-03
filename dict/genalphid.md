@@ -18,6 +18,7 @@
     <li>*ɛl˥ji˨</li>
     <li>*ɛ˨mi˥to˥dad˥di˨˥</li>
     <li>*foʊ˥.saʊ˨˥</li>
+    <li>*gi˦</li>
     <li>*hə˨hə˨hə˨ta˥hu˩</li>
     <li>*ho˨daɪ˥ɡo˩</li>
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
@@ -27,9 +28,10 @@
     <li>*lək˨sɛk˨tɕʲɛ˨˥</li>
     <li>*lək˨sɪk˥bo˨</li>
     <li>*loʊ˥ːa˧ː</li>
-    <li>*mɛ˨</li>
+    <li>*mi˦</li>
     <li>*mi˨tɕʲi˥</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
+    <li>*oɪ˨˦jaː˥˧</li>
     <li>*o˨ɱŋʲaj˧</li>
     <li>*ɔː˦˧</li>
     <li>*ç̩ː</li>
