@@ -10,11 +10,13 @@
     <li>*ɐ̃˨lɐ̃w̃˨ɐ̃˨˦</li>
     <li>*bæb˥bæ˧bæ˩bæb˨</li>
     <li>*bi˥bi˥bib˥</li>
+    <li>*ç̩ː</li>
     <li>*daɪ˨tɕʲɛ˦</li>
     <li>*dɑː˨dɑː˧dɑː˦ (presumably "I want my dad (to)" based on context)</li>
     <li>*dɑː˦dɑː˧ (presumably "(to) return west" based on context)</li>
     <li>*də˧.doʊ˧˥.bɔ˧</li>
     <li>*dy˨dy˨dyd˨</li>
+    <li>*ə˦</li>
     <li>*ɛl˥ji˨</li>
     <li>*ɛ˨mi˥to˥dad˥di˨˥</li>
     <li>*foʊ˥.saʊ˨˥</li>
@@ -37,7 +39,6 @@
     <li>*oɪ˨˦jaː˥˧</li>
     <li>*o˨ɱŋʲaj˧</li>
     <li>*ɔː˦˧</li>
-    <li>*ç̩ː</li>
     <li>*plajn˧˩</li>
     <li>*sæn˥ky˩ (likely "thank you")</li>
     <li>*si˨bo˥bo˧</li>
