@@ -27,7 +27,7 @@
     <li>*lək˨sɛk˨tɕʲɛ˨˥</li>
     <li>*lək˨sɪk˥bo˨</li>
     <li>*loʊ˥ːa˧ː</li>
-    <li>*mɛ˨<li>
+    <li>*mɛ˨</li>
     <li>*mi˨tɕʲi˥</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
     <li>*o˨ɱŋʲaj˧</li>
