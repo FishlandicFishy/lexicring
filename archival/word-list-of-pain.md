@@ -1,3 +1,7 @@
+# Word List of Pain
+
+*Note: This word list and this Markdown version of it is under CC0.*
+
 * Aggrandise: [v] increase in power/status/wealth
 * Alteration: [n] action of being altered
 * Amicable: [adj] (legal) friendly
