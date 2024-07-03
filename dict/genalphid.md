@@ -15,6 +15,7 @@
     <li>*dɑː˨dɑː˧dɑː˦ (presumably "I want my dad (to)" based on context)</li>
     <li>*dɑː˦dɑː˧ (presumably "(to) return west" based on context)</li>
     <li>*də˧.doʊ˧˥.bɔ˧</li>
+    <li>*doʊ˨˥</li>
     <li>*dy˨dy˨dyd˨</li>
     <li>*ə˦</li>
     <li>*ɛl˥ji˨</li>
