@@ -33,6 +33,7 @@
     <li>*mi˦</li>
     <li>*mi˨tɕʲi˥</li>
     <li>*ŋɛɪ˨gɛ˨jɑ˨˥</li>
+    <li>*o˥a˦i˨</li>
     <li>*oɪ˨˦jaː˥˧</li>
     <li>*o˨ɱŋʲaj˧</li>
     <li>*ɔː˦˧</li>
