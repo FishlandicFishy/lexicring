@@ -19,6 +19,7 @@
     <li>*ɛ˨mi˥to˥dad˥di˨˥</li>
     <li>*foʊ˥.saʊ˨˥</li>
     <li>*gi˦</li>
+    <li>*go˧li˧˨</li>
     <li>*hə˨hə˨hə˨ta˥hu˩</li>
     <li>*ho˨daɪ˥ɡo˩</li>
     <li>*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩</li>
