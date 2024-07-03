@@ -2,7 +2,7 @@
 # Genalphid
 
 <b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>. Below is a list of terms of the Genalphid language, not to be confused with "Genalphid English", the Genalphid dialect of English.
-`
+
   <ul>
     <li>*a˨a˧</li>
     <li>*a˨ka˥hu˩ka˥hu˩ka˥hu˩ka˥</li>
@@ -45,7 +45,6 @@
     <li>*u˨ŋʲa˨˥</li>
     <li>*uɱ˥ha˥ɾa˩</li>
   </ul>
-  `
   
   Documented phrases:
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
