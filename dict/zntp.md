@@ -2,7 +2,7 @@
 
 ## English
 
- [n] UTTP clone, alternatively "Zirconium Nitrogen Topped Pizza". Troll organisation composed solely of Genalphids.
+ [n] UTTP clone, alternatively "Zirconium Nitride Topped Pizza". Troll organisation composed solely of Genalphids.
 
 
 See also:
