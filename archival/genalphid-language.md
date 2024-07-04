@@ -4,12 +4,37 @@
 
 The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner. It is a language isolate. Not to be confused with "Genalphid English", the Genalphid dialect of English.
 
+## Phonology
+
+| Consonants  | bilabial | labiodental | alveolar | alveolopalatal | palatal | velar | glottal |
+| ----------- | -------- | ----------- | -------- | -------------- | ------- | ----- | ------- |
+| nasal       | m        | ɱ           | n        |                |         | ŋ     |         |
+| stop        | b        |             | d        |                |         | ɡ     |         |
+| stop        | p        |             | t        |                |         | k     |         |
+| fricative   |          | f           | s        | ɕ              | ç       |       | h       |
+| tap/flap    |          |             | ɾ        |                |         |       |         |
+| approximant | w        |             |          |                | j       | (w)   |         |
+| lateral     |          |             | l        |                |         |       |         |
+
+| Vowels    | front | central | back |
+| --------- | ----- | ------- | ---- |
+| close     | i     |         | u    |
+| close     | y     |         |      |
+| nearclose | ɪ     |         | ʊ    |
+| closemid  |       |         | o    |
+| mid       |       | ə       |      |
+| openmid   | ɛ     |         | ɔ    |
+| open      | a     |         | ɑ    |
+| nearopen  | æ     | ɐ       |      |
+## Vocabulary
+
 Below is a list of terms of the Genalphid language.
 
 ### a
 
 * \*a˨a˧
 * \*a˨ka˥hu˩ka˥hu˩ka˥hu˩ka˥
+* \*a˥ma˨˥
 
 ### æ
 
@@ -54,9 +79,9 @@ Below is a list of terms of the Genalphid language.
 
 ### ɡ
 
-* \*gi˦
-* \*go˦di˥
-* \*go˧li˧˨
+* \*ɡi˦
+* \*ɡo˦di˥
+* \*ɡo˧li˧˨
 
 ### h
 
@@ -120,9 +145,8 @@ Below is a list of terms of the Genalphid language.
 * \*u˨ŋʲa˨˥
 * \*uɱ˥ha˥ɾa˩
 
----
-  
-Documented phrases:
+## Documented phrases
+
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
 * \*sæn˥ky˩ "thank you"
 * \*ɔː˦˧ ç̩ː ç̩ː
