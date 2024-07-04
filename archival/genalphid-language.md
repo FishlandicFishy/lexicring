@@ -11,7 +11,7 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 | nasal       | m      | n        |         | ŋ     |         |
 | stop        | b      | d        |         | g     |         |
 | stop        | p      | t        |         | k     |         |
-| fricative   |        | s        |         |       | h       |
+| fricative   |        | s        | ç       |       | h       |
 | approximant | w      |          | j       | (w)   |         |
 | lateral     |        | l        |         |       |         |
 
@@ -19,7 +19,9 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 | -------- | ----- | ------- | ---- |
 | close    | i     | ɪ       | u    |
 | closemid |       |         | o    |
-| openmid  | ɛ      |         |     |
+| openmid  | ɛ     |         |      |
+| open     | a     |         | ɑ    |
+| open     | æ     |          |      |
 ## Vocabulary
 
 Below is a list of terms of the Genalphid language.
