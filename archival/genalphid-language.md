@@ -17,12 +17,14 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 
 | Vowels   | front | central | back |
 | -------- | ----- | ------- | ---- |
-| close    | i     | ɪ       | u    |
+| close    | i     |        | u    |
+| close    | y     |         |      |
+| nearclose | ɪ    |         | ʊ    |
 | closemid |       |         | o    |
 | mid      |        | ə       |      |
 | openmid  | ɛ     |         | ɔ    |
 | open     | a     |         | ɑ    |
-| nearopen | æ     |         |      |
+| nearopen | æ     | ɐ       |      |
 ## Vocabulary
 
 Below is a list of terms of the Genalphid language.
