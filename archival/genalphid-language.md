@@ -6,25 +6,26 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 
 ## Phonology
 
-| Consonants  | labial | alveolar | palatal | velar | glottal |
-| ----------- | ------ | -------- | ------- | ----- | ------- |
-| nasal       | m      | n        |         | ŋ     |         |
-| stop        | b      | d        |         | g     |         |
-| stop        | p      | t        |         | k     |         |
-| fricative   |        | s        | ç       |       | h       |
-| approximant | w      |          | j       | (w)   |         |
-| lateral     |        | l        |         |       |         |
+| Consonants  | bilabial | labiodental | alveolar | alveolopalatal | palatal | velar | glottal |
+| ----------- | -------- | ----------- | -------- | -------------- | ------- | ----- | ------- |
+| nasal       | m        | ɱ           | n        |                |         | ŋ     |         |
+| stop        | b        |             | d        |                |         | g     |         |
+| stop        | p        |             | t        |                |         | k     |         |
+| fricative   |          |             | s        | ɕ              | ç       |       | h       |
+| tap/flap    |          |             | ɾ        |                |         |       |         |
+| approximant | w         |             |          |                | j       | (w)   |         |
+| lateral     |          |             | l        |                |         |       |         |
 
-| Vowels   | front | central | back |
-| -------- | ----- | ------- | ---- |
-| close    | i     |        | u    |
-| close    | y     |         |      |
-| nearclose | ɪ    |         | ʊ    |
-| closemid |       |         | o    |
-| mid      |        | ə       |      |
-| openmid  | ɛ     |         | ɔ    |
-| open     | a     |         | ɑ    |
-| nearopen | æ     | ɐ       |      |
+| Vowels    | front | central | back |
+| --------- | ----- | ------- | ---- |
+| close     | i     |         | u    |
+| close     | y     |         |      |
+| nearclose | ɪ     |         | ʊ    |
+| closemid  |       |         | o    |
+| mid       |       | ə       |      |
+| openmid   | ɛ     |         | ɔ    |
+| open      | a     |         | ɑ    |
+| nearopen  | æ     | ɐ       |      |
 ## Vocabulary
 
 Below is a list of terms of the Genalphid language.
@@ -33,6 +34,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*a˨a˧
 * \*a˨ka˥hu˩ka˥hu˩ka˥hu˩ka˥
+* \*a˥ma˨˥
 
 ### æ
 
