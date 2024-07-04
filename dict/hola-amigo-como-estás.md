@@ -1,4 +1,4 @@
-# Hola amigo, ¿como estás?
+# Hola amigo, ¿cómo estás?
 ## Social Crebit "English"
 
 [phrase] Said in an unrealistic exaggerated stereotypical accent to refer to the Chungking Mansions.
