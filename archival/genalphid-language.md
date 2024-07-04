@@ -9,11 +9,11 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 | Consonants  | bilabial | labiodental | alveolar | alveolopalatal | palatal | velar | glottal |
 | ----------- | -------- | ----------- | -------- | -------------- | ------- | ----- | ------- |
 | nasal       | m        | ɱ           | n        |                |         | ŋ     |         |
-| stop        | b        |             | d        |                |         | g     |         |
+| stop        | b        |             | d        |                |         | ɡ     |         |
 | stop        | p        |             | t        |                |         | k     |         |
-| fricative   |          |             | s        | ɕ              | ç       |       | h       |
+| fricative   |          | f           | s        | ɕ              | ç       |       | h       |
 | tap/flap    |          |             | ɾ        |                |         |       |         |
-| approximant | w         |             |          |                | j       | (w)   |         |
+| approximant | w        |             |          |                | j       | (w)   |         |
 | lateral     |          |             | l        |                |         |       |         |
 
 | Vowels    | front | central | back |
@@ -79,9 +79,9 @@ Below is a list of terms of the Genalphid language.
 
 ### ɡ
 
-* \*gi˦
-* \*go˦di˥
-* \*go˧li˧˨
+* \*ɡi˦
+* \*ɡo˦di˥
+* \*ɡo˧li˧˨
 
 ### h
 
