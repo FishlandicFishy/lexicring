@@ -6,9 +6,10 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 
 ## Phonology
 
-| /     | labial |
-| ----- | ------ |
-| nasal | b      |
+| /     | labial | alveolar | palatal | velar | glottal |
+| ----- | ------ | -------- | ------- | ----- | ------- |
+| nasal | m      | n        |         | ŋ     |         |
+| stop  | b       | d        |          | g    |          |
 
 ## Vocabulary
 
