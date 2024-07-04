@@ -7,4 +7,4 @@ Means "Hello friend, how are you?"
 
 Example:
 
-"Hola amigo, ¿como estás? El que se mueve primero es ghê."
+"Hola amigo, ¿cómo estás? El que se mueve primero es ghê."
