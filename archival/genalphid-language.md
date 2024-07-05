@@ -9,30 +9,29 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 | Consonants  | bilabial | labiodental | alveolar | alveolopalatal | palatal | velar | glottal |
 | ----------- | -------- | ----------- | -------- | -------------- | ------- | ----- | ------- |
 | nasal       | m        | ɱ           | n        |                |         | ŋ     |         |
-| stop        | b        |             | d        |                |         | ɡ     |         |
-| stop        | p        |             | t        |                |         | k     |         |
-| fricative   |          | f           | s        | ɕ              | ç       |       | h       |
+| stop        | b p      |             | d t      |                |         | ɡ k   | ʔ       |
+| fricative   |          | f           | s z      | ɕ              | ç       |       | h       |
 | tap/flap    |          |             | ɾ        |                |         |       |         |
 | approximant | w        |             |          |                | j       | (w)   |         |
 | lateral     |          |             | l        |                |         |       |         |
 
 | Vowels    | front | central | back |
 | --------- | ----- | ------- | ---- |
-| close     | i     |         | u    |
-| close     | y     |         |      |
+| close     | i y   |         | u    |
 | nearclose | ɪ     |         | ʊ    |
 | closemid  |       |         | o    |
 | mid       |       | ə       |      |
 | openmid   | ɛ     |         | ɔ    |
 | open      | a     |         | ɑ    |
 | nearopen  | æ     | ɐ       |      |
+
 ## Vocabulary
 
 Below is a list of terms of the Genalphid language.
 
 ### a
 
-* \*a˨a˧
+* \*a˨ʔa˧
 * \*a˨ka˥hu˩ka˥hu˩ka˥hu˩ka˥
 * \*a˥ma˨˥
 
@@ -71,6 +70,7 @@ Below is a list of terms of the Genalphid language.
 ### ɛ
 
 * \*ɛl˥ji˨
+* \*ɛ˨man˧ŋu˥
 * \*ɛ˨mi˥to˥dad˥di˨˥
 
 ### f
@@ -112,7 +112,10 @@ Below is a list of terms of the Genalphid language.
 
 ### ŋ
 
+* \*ŋa˥ɡɔ˨ɡɔ˧ŋaɪ˩
+* \*ŋa˨˥za˥wɛɪ˧za˥a˧
 * \*ŋɛɪ˨gɛ˨jɑ˨˥
+* \*ŋu˨ŋi˥
 
 ### o
 
@@ -120,6 +123,7 @@ Below is a list of terms of the Genalphid language.
 * \*o˦ɡɛ˥ɡa˧ni˨
 * \*oɪ˨˦jaː˥˧
 * \*o˨ɱŋʲaj˧
+* \*oʊ˨wan˧ʔi˥˨
 * \*oː˨woː˦ʲa˥
 
 ### ɔ
@@ -144,6 +148,11 @@ Below is a list of terms of the Genalphid language.
 
 * \*u˨ŋʲa˨˥
 * \*uɱ˥ha˥ɾa˩
+
+### w
+
+* \*wa˨˥ŋa˨
+* \*wu˨˥shi˥˩
 
 ## Documented phrases
 
