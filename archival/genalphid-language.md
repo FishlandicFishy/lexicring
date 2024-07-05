@@ -6,24 +6,24 @@ The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner.
 
 ## Phonology
 
-| Consonants  | bilabial | labiodental | alveolar | alveolopalatal | palatal | velar | glottal |
-| ----------- | -------- | ----------- | -------- | -------------- | ------- | ----- | ------- |
-| nasal       | m        | ɱ           | n        |                |         | ŋ     |         |
-| stop        | b p      |             | d t      |                |         | ɡ k   | ʔ       |
-| fricative   |          | f           | s z      | ɕ              | ç       |       | h       |
-| tap/flap    |          |             | ɾ        |                |         |       |         |
-| approximant | w        |             |          |                | j       | (w)   |         |
-| lateral     |          |             | l        |                |         |       |         |
+| Consonants  | bilabial | labiodental | alveolar | alveolo-palatal | palatal | velar | uvular | glottal |
+| ----------- | -------- | ----------- | -------- | --------------- | ------- | ----- | ------ | ------- |
+| nasal       | m        | ɱ           | n        |                 |         | ŋ     |        |         |
+| stop        | b p      |             | d t      |                 |         | ɡ k   |        | ʔ       |
+| fricative   |          | f           | s z      | ɕ               |         |       | χ      | h       |
+| tap/flap    |          |             | ɾ        |                 |         |       |        |         |
+| approximant | w        |             |          |                 | j       | (w)   |        |         |
+| lateral     |          |             | l        |                 |         |       |        |         |
 
-| Vowels    | front | central | back |
-| --------- | ----- | ------- | ---- |
-| close     | i y   |         | u    |
-| nearclose | ɪ     |         | ʊ    |
-| closemid  |       |         | o    |
-| mid       |       | ə       |      |
-| openmid   | ɛ     |         | ɔ    |
-| open      | a     |         | ɑ    |
-| nearopen  | æ     | ɐ       |      |
+| Vowels     | front | central | back |
+| ---------- | ----- | ------- | ---- |
+| close      | i y   |         | u    |
+| near-close | ɪ     |         | ʊ    |
+| close-mid  |       |         | o    |
+| mid        |       | ə       |      |
+| open-mid   | ɛ     |         | ɔ    |
+| open       | a     |         | ɑ    |
+| near-open  | æ     | ɐ       |      |
 
 ## Vocabulary
 
@@ -47,10 +47,6 @@ Below is a list of terms of the Genalphid language.
 
 * \*bæb˥bæ˧bæ˩bæb˨
 * \*bi˥bi˥bib˥
-
-### ç
-
-* \*ç̩ː
 
 ### d
 
@@ -154,9 +150,13 @@ Below is a list of terms of the Genalphid language.
 * \*wa˨˥ŋa˨
 * \*wu˨˥shi˥˩
 
+### χ
+
+* \*χː
+
 ## Documented phrases
 
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
 * \*sæn˥ky˩ "thank you"
-* \*ɔː˦˧ ç̩ː ç̩ː
+* \*ɔː˦˧ χː χː
 
