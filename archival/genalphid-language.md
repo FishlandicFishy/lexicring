@@ -32,6 +32,7 @@ Below is a list of terms of the Genalphid language.
 ### a
 
 * \*a˨ʔa˧
+* \*a˥ʔa˦˥ma˦ma˥
 * \*a˨ka˥hu˩ka˥hu˩ka˥hu˩ka˥
 * \*a˥ma˨˥
 
@@ -105,6 +106,10 @@ Below is a list of terms of the Genalphid language.
 
 * \*mi˦
 * \*mi˨tɕʲi˥
+
+### n
+
+* \*na˦na˥
 
 ### ŋ
 
