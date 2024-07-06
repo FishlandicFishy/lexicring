@@ -2,7 +2,7 @@
 
 <b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>.
 
-The <b>Genalphid Language</b> is spoken by the Genalphids in a secretive manner. It is a language isolate. Not to be confused with "Genalphid English", the Genalphid dialect of English.
+The <b>Genalphid Language</b> is spoken by the Genalphids secretively. It is a language isolate. Not to be confused with "Genalphid English", the Genalphid dialect of English.
 
 ## Phonology
 
