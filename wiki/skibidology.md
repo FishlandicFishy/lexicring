@@ -6,4 +6,4 @@ Its only known paper is **Paper 1: Modern depth study**. Time allowed is **1 hou
 
 Its only known option is **Option 30: Cameraman vs toilet in Ohio 2023-4**.
 
-Its exam questions involve studying photos of CGI invasions and suggesting the flaws or limitations of the design of brainrot toilets.
+A sample paper can be found [here](https://www.reddit.com/r/GCSE/comments/1drbwn2/new_gcse_just_dropped/).
