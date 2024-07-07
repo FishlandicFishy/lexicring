@@ -4,7 +4,7 @@ Also:
 * gedagedigedageda'o
 * gedagedigedagedayo
 
-# Genalphid English
+## Genalphid English
 
 1. [n] Brainrot chicken nugget.
 
