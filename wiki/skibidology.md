@@ -2,7 +2,7 @@
 
 Skibidology is a fictional exam subject.
 
-Its only known paper is **Paper 1: Modern depth study**.
+Its only known paper is **Paper 1: Modern depth study**. Time allowed is **1 hour 30 minutes**.
 
 Its only known option is **Option 30: Cameraman vs toilet in Ohio 2023-4**.
 
