@@ -8,6 +8,7 @@
 - [adj] rizzful: With charisma.
 - [n] rizzler: Someone with excessive charisma.
 - [n] rizztraining order: Restraining order caused by excessive charisma.
+- [n] rizzilator: (Presumed) Exam invigilators with rizz, known for taxing gyatts.
 
 2. [v] Using charisma.
 
