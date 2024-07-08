@@ -98,6 +98,7 @@ Below is a list of terms of the Genalphid language.
 * \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
 * \*jɛɪ˧
 * \*ji˥˧ː
+* \*ji˨ji˨ji˨muː˨˥
 
 ### l
 
