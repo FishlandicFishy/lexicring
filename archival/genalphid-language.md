@@ -84,6 +84,8 @@ Below is a list of terms of the Genalphid language.
 
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*ho˨daɪ˥ɡo˩
+* \*hoʊ˥la˥hoʊ˥la˨
+  * often repeated multiple times
 
 ### i
 
@@ -93,6 +95,7 @@ Below is a list of terms of the Genalphid language.
 
 ### j
 
+* \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
 * \*jɛɪ˧
 * \*ji˥˧ː
 
@@ -104,6 +107,8 @@ Below is a list of terms of the Genalphid language.
 
 ### m
 
+* \*ma˥na˥bi˥no˧zaʊ˨˥zaʊ˨˥
+  * often repeated multiple times
 * \*mi˦
 * \*mi˨tɕʲi˥
 
