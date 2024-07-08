@@ -142,6 +142,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*o˥a˦i˨
 * \*o˦ɡɛ˥ɡa˧ni˨
+* \*oɪ˥da˧ju˩
 * \*oɪ˨˦jaː˥˧
 * \*oɪ˨ŋaː˦˥
 * \*o˨ɱŋʲaj˧
