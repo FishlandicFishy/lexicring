@@ -84,6 +84,9 @@ Below is a list of terms of the Genalphid language.
 ### h
 
 * \*hə˨hə˨hə˨ta˥hu˩
+* \*hid˥hid˥dən˩dən˩dən˩
+  * rhythmic: (4/4) `|♩♩♫♩|`
+  * often repeated multiple times
 * \*ho˨daɪ˥ɡo˩
 * \*hoʊ˥la˥hoʊ˥la˨
   * often repeated multiple times
