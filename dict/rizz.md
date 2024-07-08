@@ -18,6 +18,7 @@ Example:
 
 "I have rizz."
 
+4. [n, v] Codeword for selling illegal substances. I do not condone this.
 
 
 
