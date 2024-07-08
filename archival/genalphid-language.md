@@ -48,7 +48,9 @@ Below is a list of terms of the Genalphid language.
 ### b
 
 * \*bæb˥bæ˧bæ˩bæb˨
+  * often repeated multiple times
 * \*bi˥bi˥bib˥
+  * often repeated multiple times
 
 ### d
 
@@ -60,6 +62,7 @@ Below is a list of terms of the Genalphid language.
 * \*də˧.doʊ˧˥.bɔ˧
 * \*doʊ˨˥
 * \*dy˨dy˨dyd˨
+  * often repeated multiple times
 
 ### ə
 
@@ -88,6 +91,7 @@ Below is a list of terms of the Genalphid language.
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
+  * probably a ritual or a command telling someone to walk forward to a certain point
   * often repeated multiple times
 * \*ho˨daɪ˥ɡo˩
 * \*hoʊ˥la˥hoʊ˥la˨
