@@ -107,7 +107,7 @@ Below is a list of terms of the Genalphid language.
 
 ### m
 
-* \*ma˥na˥bi˥no˧zaʊ˨˥zaʊ˨˥
+* \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*mi˦
 * \*mi˨tɕʲi˥
