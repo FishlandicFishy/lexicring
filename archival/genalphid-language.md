@@ -106,6 +106,8 @@ Below is a list of terms of the Genalphid language.
 
 ### j
 
+* \*ja˨di˥
+  * often repeated multiple times
 * \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
 * \*jɛɪ˧
 * \*ji˥˧ː
@@ -183,6 +185,10 @@ Below is a list of terms of the Genalphid language.
 ### χ
 
 * \*χː
+
+### z
+
+* \*za˨ki˥
 
 ## Documented phrases
 
