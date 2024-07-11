@@ -162,6 +162,7 @@ Below is a list of terms of the Genalphid language.
 ### ɔ
 
 * \*ɔː˦˧
+* \*ɔ˥laɪ˨
 
 ### p
 
