@@ -52,6 +52,10 @@ Below is a list of terms of the Genalphid language.
 * \*bi˥bi˥bib˥
   * often repeated multiple times
 
+### ɕ
+
+* \*ɕʲa˥˩
+
 ### d
 
 * \*daɪ˨tɕʲɛ˦
