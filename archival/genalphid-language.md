@@ -59,6 +59,7 @@ Below is a list of terms of the Genalphid language.
   * presumably "I want my dad (to)" based on context
 * \*dɑː˦dɑː˧
   * presumably "(to) return west" based on context
+* \*da˧.zi˥.m̩˩.ji˥
 * \*də˧.doʊ˧˥.bɔ˧
 * \*doʊ˨˥
 * \*dy˨dy˨dyd˨
