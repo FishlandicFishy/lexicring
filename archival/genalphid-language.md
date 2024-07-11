@@ -61,6 +61,7 @@ Below is a list of terms of the Genalphid language.
 
 ### d
 
+* \*da˥dɛ˥ho˥lɛ˩
 * \*daɪ˨tɕʲɛ˦
 * \*dɑː˨dɑː˧dɑː˦
   * presumably "I want my dad (to)" based on context
