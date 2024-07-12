@@ -99,6 +99,7 @@ Below is a list of terms of the Genalphid language.
 
 ### h
 
+* \*ha˦˥ꜛtʃu˧i˩
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
@@ -121,6 +122,9 @@ Below is a list of terms of the Genalphid language.
 * \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
 * \*jɛɪ˧
 * \*ji˥˧ː
+  * falling tone
+* \*ji˧˥ꜛ
+  * rising tone with sudden high pitch
 * \*ji˨ji˨ji˨muː˨˥
 
 ### k
