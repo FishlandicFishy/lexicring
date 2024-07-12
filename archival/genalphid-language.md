@@ -81,6 +81,8 @@ Below is a list of terms of the Genalphid language.
 
 ### ɛ
 
+* \*ɛ˥˩
+  * often repeated multiple times
 * \*ɛ˨˥boɪ˥jɛ˨˥
 * \*ɛl˥ji˨
 * \*ɛ˨man˧ŋu˥
@@ -144,9 +146,13 @@ Below is a list of terms of the Genalphid language.
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*mi˦
+  * singular mid-high pitch
 * \*mi˥mi˧
   * often repeated multiple times
   * alternating pitch, as opposed to \*mi˦ which is a singular pitch
+* \*mi˥˩
+  * descending pitch
+  * often repeated multiple times
 * \*mi˨tɕʲi˥
 
 ### n
