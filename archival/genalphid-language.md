@@ -150,6 +150,8 @@ Below is a list of terms of the Genalphid language.
 * \*na˦na˥
 * \*næ˦næ˦næ˦
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
+* \*noʊ˥vɛɪ˥˩
+  * probably "no way"
 
 ### ŋ
 
@@ -215,6 +217,7 @@ Below is a list of terms of the Genalphid language.
 ## Documented phrases
 
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
+* \*noʊ˥vɛɪ˥˩ "no way"
+* \*ɔː˦˧ χː χː (unknown)
 * \*sæn˥ky˩ "thank you"
-* \*ɔː˦˧ χː χː
 
