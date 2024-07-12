@@ -2,9 +2,13 @@
 
 <b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>.
 
+The <b>Genalphid Language</b> is spoken by the Genalphids secretively.
+
 It refers to the midpoint of the two extremes of Genalphid speech: Pure screaming and Cantonese/English/Any other language.
 
-The <b>Genalphid Language</b> is spoken by the Genalphids secretively. It is previously falsely determined to be a language isolate, but further research shows that it is influenced by mainly Cantonese and English. Not to be confused with "Genalphid English", the Genalphid dialect of English.
+It is previously falsely determined to be a language isolate, but further research shows that it is influenced by mainly Cantonese and English.
+
+Not to be confused with "Genalphid English", the Genalphid dialect of English.
 
 ## Phonology
 
