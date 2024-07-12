@@ -221,6 +221,9 @@ Below is a list of terms of the Genalphid language.
 
 ### w
 
+* \*wa˥bi˧jo˧ba˩ba˧ba˥ba˧ba˧
+  * all syllables are the same length
+  * followed by a request for someone to clap their hands
 * \*wa˨˥ŋa˨
 * \*wu˨˥shi˥˩
 
