@@ -1,17 +1,18 @@
+# Steak Difficulty Chart</h1>
+***I did NOT make any of this, if you own this feel free to take this down idc anymore***
 
-    <h1>Steak Difficulty Chart</h1>
-    <p><b><i>I did NOT make any of this, if you own this feel free to take this down idc anymore</i></b></p>
-    <p>Credits:</p>
-    <ul>
-      <li><a href="https://jtohs-joke-towers.fandom.com">JToH's Joke Towers Wiki</li>
-      <li><a href="https://youtu.be/BgLI_BLePiY">How do you like your steak?</a></li>
-      <li><a href="https://youtu.be/Jiyt_sWrj_w">How do you like your steak? 2</a></li>
-      <li><a href="https://youtu.be/tmZbFQD0icQ">How Do You Like Your Steak? EXTENDED</a></li>
-    </ul>
-    
-    <p><b>warning: fatherless content ahead</b></p>
-    <p>Class -1: History</p>
-    <table>
+## Credits
+* <a href="https://jtohs-joke-towers.fandom.com">JToH's Joke Towers Wiki
+* <a href="https://youtu.be/BgLI_BLePiY">How do you like your steak?</a>
+* <a href="https://youtu.be/Jiyt_sWrj_w">How do you like your steak? 2</a>
+* <a href="https://youtu.be/tmZbFQD0icQ">How Do You Like Your Steak? EXTENDED</a>
+
+---
+
+**warning: fatherless content ahead**
+
+### Class -1: History</p>
+<table>
       <tr>
         <th>Difficulty Name</th>
         <th>Sub-Difficulty of</th> 
@@ -181,8 +182,10 @@
         <th>-10<sup>-273.15</sup></th>
       </tr>
     </table>
-    <p>Class 1: Real</p>
-    <table>
+
+### Class 1: Real
+
+<table>
       <tr>
         <th>Difficulty Name</th>
         <th>Sub-Difficulty of</th>
@@ -258,8 +261,10 @@
         </div></th>
       </tr>
     </table>
-    <p>Class 2: Compliments</p>
-    <table>
+
+### Class 2: Compliments
+
+<table>
       <tr>
         <th>Difficulty Name</th>
         <th>Sub-Difficulty of</th>
@@ -296,8 +301,9 @@
         <th>7.3</th>
       </tr>
     </table>
-    <p>Class 3: The Burning</p>
-    <table>
+
+### Class 3: The Burning
+<table>
       <tr>
         <th>Difficulty Name</th>
         <th>Sub-Difficulty of</th>
@@ -364,8 +370,9 @@
         <th>15.33</th>
       </tr>
     </table>
-    <p>The Rest</p>
-    <table>
+### The Rest
+
+<table>
       <tr>
         <th>Difficulty Name</th>
         <th>Sub-Difficulty of</th>
@@ -409,7 +416,3 @@
         <th>Class Secret</th>
       </tr>
     </table>
-  </h4>
-  </div>
-</body>
-</html>
