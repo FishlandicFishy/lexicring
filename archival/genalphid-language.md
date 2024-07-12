@@ -151,7 +151,7 @@ Below is a list of terms of the Genalphid language.
 * \*ŋa˥u˨
 * \*ŋa˨˥za˥wɛɪ˧za˥a˧
 * \*ŋɛɪ˨gɛ˨jɑ˨˥
-* \*ŋʲap˨˥
+* \*ŋʲap˦˥
   * probably onomatopoeia for duck quacking
 * \*ŋo˨˥da˨˥da˨˥
 * \*ŋu˨ŋi˥
