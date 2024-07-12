@@ -4,7 +4,7 @@
 
 The <b>Genalphid Language</b> is spoken by the Genalphids secretively.
 
-It refers to the midpoint of the two extremes of Genalphid speech: Pure screaming and Cantonese/English/Any other language.
+It refers to the midpoint of the two extremes of Genalphid speech: Pure screaming and Cantonese/Putonghua/English/Any other language.
 
 It is previously falsely determined to be a language isolate, but further research shows that it is influenced by mainly Cantonese and English.
 
