@@ -149,6 +149,9 @@ Below is a list of terms of the Genalphid language.
 * \*ŋa˥ɡɔ˨ɡɔ˧ŋaɪ˩
 * \*ŋa˨˥za˥wɛɪ˧za˥a˧
 * \*ŋɛɪ˨gɛ˨jɑ˨˥
+* \*ŋʲap˥
+  * probably onomatopoeia for duck quackingn
+* \*ŋo˨˥da˨˥da˨˥
 * \*ŋu˨ŋi˥
 
 ### o
