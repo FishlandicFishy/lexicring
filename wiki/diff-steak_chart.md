@@ -79,6 +79,7 @@
         <td>-9</td>
       </tr>
     </table>
+
 ### Class 0: It's Freakin' Raw
 
  <table>
