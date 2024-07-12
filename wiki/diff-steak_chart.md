@@ -79,7 +79,7 @@
         <td>-9</td>
       </tr>
     </table>
-    <p>Class 0: It's Freakin' Raw</p>
+### Class 0: It's Freakin' Raw
     <table>
       <tr>
         <th>Difficulty Name</th>
