@@ -143,6 +143,9 @@ Below is a list of terms of the Genalphid language.
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*mi˦
+* \*mi˦mi˨
+  * often repeated multiple timer
+  * alternating pitch, as opposed to the one above
 * \*mi˨tɕʲi˥
 
 ### n
