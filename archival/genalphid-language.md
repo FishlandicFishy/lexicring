@@ -105,6 +105,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡi˦
 * \*ɡo˦di˥
 * \*ɡo˧li˧˨
+* \*ɡɐ˧zɐ˧ɡe˧ɡe˧ba˥
 
 ### h
 
@@ -123,6 +124,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˥.daʊ˧˦
 * \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
 * \*i˥ʔi˧lɛ˧
+* \*i˧ja˥ji˧ɡɐ˧za˥
 * \*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥
 
 ### j
