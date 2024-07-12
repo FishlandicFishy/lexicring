@@ -18,7 +18,7 @@ Research on the Genalphid Language is still ongoing. Many of the words, its gram
 | stop        | b p      |             | d t      |                 |         | ɡ k   |        | ʔ       |
 | fricative   |          | f           | s z      | ɕ               |         |       | χ      | h       |
 | tap/flap    |          |             | ɾ        |                 |         |       |        |         |
-| approximant | w        |             |          |                 | j       | (w)   |        |         |
+| approximant | w        | v           |          |                 | j       | (w)   |        |         |
 | lateral     |          |             | l        |                 |         |       |        |         |
 
 | Vowels     | front | central | back |
@@ -165,6 +165,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
+* \*na˧ni˥ha˧bo˨vo˨
 * \*næ˦næ˦næ˦
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
 * \*noʊ˥vɛɪ˥˩
