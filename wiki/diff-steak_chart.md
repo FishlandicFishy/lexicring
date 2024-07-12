@@ -80,7 +80,8 @@
       </tr>
     </table>
 ### Class 0: It's Freakin' Raw
-    <table>
+
+ <table>
       <tr>
         <th>Difficulty Name</th>
         <th>Sub-Difficulty of</th>
