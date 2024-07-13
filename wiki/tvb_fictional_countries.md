@@ -20,11 +20,27 @@ Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F
 
 Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
-Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks <a href="/wiki/tvb_ng_wong_tat_language.md">whatever this language is</a> and Cantonese. There is at least one hotel. (Episode 2084) In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone. (Episode 2095) People there are stronger than usual, and thus <sup>[how?]</sup> the life expectancy is about 35 years old. (Episode I forgot) It is also highly illiterate with very few people who can write calligraphy. (Episode 2242) It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless. This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.
+Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks <a href="/wiki/tvb_ng_wong_tat_language.md">whatever this language is</a> and Cantonese. There is at least one hotel.
+
+In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[[2084]](2084)
+
+(Episode 2095) People there are stronger than usual, and thus <sup>[how?]</sup> the life expectancy is about 35 years old.
+
+(Episode I forgot) It is also highly illiterate with very few people who can write calligraphy.
+
+(Episode 2242) It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless. This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.
 
 ### Geography
 
-Ng Wong Tat is divided into two main regions: the forest area and the non-forest area. (Episode 2084) The forest is inhabited by dark green/black lizards with CGI glowing red dots, labelled as <a href="https://en.m.wikipedia.org/wiki/Komodo_dragon">Komodo dr*gons</a> (probably mislabelled, but I can't be sure), which supposedly eats cockroaches, although "conveniently" they left out the close-up shot of them in both of their YouTube videos. (Episode 1543) The highest mountain in Ng Wong Tat is called "小巫山" (Xiao Wu Shan), which is adjacent to "大巫山" (Da Wu Shan). The gap between the two mountains is approximately 4 metres, and both sides are steep cliffs. The forest area is severely underdeveloped, while the non-forest area is more developed. In Ng Wong Tat there are frequent volcano eruptions, and also an abundance of caves, which is what people use their aimbot for.
+Ng Wong Tat is divided into two main regions: the forest area and the non-forest area.
+
+(Episode 2084) The forest is inhabited by dark green/black lizards with CGI glowing red dots, labelled as <a href="https://en.m.wikipedia.org/wiki/Komodo_dragon">Komodo dr*gons</a> (probably mislabelled, but I can't be sure), which supposedly eats cockroaches, although "conveniently" they left out the close-up shot of them in both of their YouTube videos.
+
+(Episode 1543) The highest mountain in Ng Wong Tat is called "小巫山" (Xiao Wu Shan), which is adjacent to "大巫山" (Da Wu Shan). The gap between the two mountains is approximately 4 metres, and both sides are steep cliffs.
+
+The forest area is severely underdeveloped, while the non-forest area is more developed.
+
+In Ng Wong Tat there are frequent volcano eruptions, and also an abundance of caves, which is what people use their aimbot for.
 
 ### Culture
 
@@ -123,4 +139,6 @@ They have engaged in diplomacy with Ha Duo Er.
 
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
 
+## References
 
+[^2084]: "愛回家之開心速遞 ｜屈蛇帶隊去旅行｜繁／簡字幕｜周嘉洛｜吳偉豪｜焦浩軒｜阮政峰｜第2084集劇集精華｜TVB劇集精華", <youtu.be/uIR7JBHPtnk>
