@@ -96,28 +96,21 @@ The southern area of the country is a forest and is severely underdeveloped, whi
 
 Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot[^2082][^1], which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen.[^1059] For some reason, chocolate is also seen as a solution to all problems and conflicts.[^1059]
 
-## 幸吾島 *(Hung Island)*
-
-[^0323]Hung Island (Chinese: 幸吾島) is a fictional island country. Apart from English, it also speaks <a href="/wiki/tvb_hung_island_language.md">its own language</a>, which is so advanced it has its own set of swear words. 
-
-### Geography
-
-80% of its land is covered by forests.
-
 ## 女兒國 *(Nü Er Guo)*
 
-It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. My lawyer had advised me not to elaborate anymore on this section.
+[^2113]It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. My lawyer had advised me not to elaborate anymore on this section.
 
 ## 吾多國 *(Wu Duo Guo)*
 
-Wu Duo Guo (Chinese: 吾多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/wiki/tvb_wu_duo_guo_language.md">language</a> consisting only of swear words.
+[^2113]Wu Duo Guo (Chinese: 吾多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/wiki/tvb_wu_duo_guo_language.md">language</a> consisting only of swear words.
 
 ## 豪多國 *(Hao Duo Guo)*
 
-Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
+[^2113]Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
 
 ## 哈多爾 *(Ha Duo Er)*
 
+[^ytqa2]
 ![ ](/wiki/flag_of_ha_duo_er.png)
 
 Flag of Ha Duo Er, recreated in ibisPaint X. Note that the pixel shape is supposed to be a triangle.
@@ -135,6 +128,7 @@ It has a specialised military ranked high globally. It has a lot of opposing par
 ## Unnamed Countries
 
 ### Unnamed 1
+[^ytqa2]
 ![ ](/wiki/flag_of_unnamed1.png)
 
 Flag, recreated in ibisPaint X.
@@ -143,7 +137,6 @@ They have engaged in diplomacy with Ha Duo Er.
 
 ## References
 
-[^0323]:  Episode 323, <youtu.be/lvhvCThgemM>
 [^1059]: Episode 1059, <youtu.be/Ru4jGPQO5MI>
 [^1543]: Episode 1543, <youtu.be/nTz-xp42xOo>
 [^1567]: Episode 1567, <youtu.be/0IxvsUvuIKw>
@@ -152,6 +145,8 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2082]: Episode 2082, <youtu.be/LGxMK6PX0as>
 [^2084]: Episode 2084, <youtu.be/uIR7JBHPtnk>
 [^2095]: Episode 2095, <youtu.be/a91IuH587nQ>
+[^2113]: Episode 2113, <youtu.be/0nl4Co9it_k>
 [^2150]: Episode 2150, <youtu.be/lJaOhO8JYy0>
 [^2242]: Episode 2242, <youtu.be/a7iFe454h2E>
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
+[^ytqa2]:   Episode 1, <youtu.be/OmouIiAJVrg> (逆天奇案2)
