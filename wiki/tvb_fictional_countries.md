@@ -22,7 +22,7 @@ Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
 Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks <a href="/wiki/tvb_ng_wong_tat_language.md">whatever this language is</a> and Cantonese. There is at least one hotel.
 
-In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[[2084]](2084)
+In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084]
 
 (Episode 2095) People there are stronger than usual, and thus <sup>[how?]</sup> the life expectancy is about 35 years old.
 
