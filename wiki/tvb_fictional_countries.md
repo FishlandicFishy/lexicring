@@ -137,16 +137,16 @@ They have engaged in diplomacy with Ha Duo Er.
 
 ## References
 
-[^1059]: Episode 1059, <youtu.be/Ru4jGPQO5MI>
-[^1543]: Episode 1543, <youtu.be/nTz-xp42xOo>
-[^1567]: Episode 1567, <youtu.be/0IxvsUvuIKw>
-[^1574]: Episode 1574, <youtu.be/40B0vdrFeV8>
-[^2061]: Episode 2061, <youtu.be/zbDCKnPNfF4>
-[^2082]: Episode 2082, <youtu.be/LGxMK6PX0as>
-[^2084]: Episode 2084, <youtu.be/uIR7JBHPtnk>
-[^2095]: Episode 2095, <youtu.be/a91IuH587nQ>
-[^2113]: Episode 2113, <youtu.be/0nl4Co9it_k>
-[^2150]: Episode 2150, <youtu.be/lJaOhO8JYy0>
-[^2242]: Episode 2242, <youtu.be/a7iFe454h2E>
+[^1059]: Episode 1059, <https://youtu.be/Ru4jGPQO5MI>
+[^1543]: Episode 1543, <https://youtu.be/nTz-xp42xOo>
+[^1567]: Episode 1567, <https://youtu.be/0IxvsUvuIKw>
+[^1574]: Episode 1574, <https://youtu.be/40B0vdrFeV8>
+[^2061]: Episode 2061, <https://youtu.be/zbDCKnPNfF4>
+[^2082]: Episode 2082, <https://youtu.be/LGxMK6PX0as>
+[^2084]: Episode 2084, <https://youtu.be/uIR7JBHPtnk>
+[^2095]: Episode 2095, <https://youtu.be/a91IuH587nQ>
+[^2113]: Episode 2113, <https://youtu.be/0nl4Co9it_k>
+[^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
+[^2242]: Episode 2242, <https://youtu.be/a7iFe454h2E>
+[^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
-[^ytqa2]:   Episode 1, <youtu.be/OmouIiAJVrg> (逆天奇案2)
