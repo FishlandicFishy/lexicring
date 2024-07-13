@@ -55,7 +55,7 @@ Fan Bo Wu Dao (Chinese: 橎博梧島) is a fictional island. It speaks Cantonese
 
 ## 幸吾島 (Hung Island)
 
-Hung Island [spelling may not be correct] (Chinese: 幸吾島) is a fictional island. It is also a fictional country. Apart from English, it also speaks [its own language](/wiki/tvb_hung_island_language.md).
+[^0323]Hung Island [spelling may not be correct] (Chinese: 幸吾島) is a fictional island. It is also a fictional country. Apart from English, it also speaks [its own language](/wiki/tvb_hung_island_language.md).
 
 ### Geography
 
@@ -76,3 +76,7 @@ Qiong Kun Lao Island (Chinese: 穹困老島) is a fictional remote island. Its c
 ### Geography
 
 The island has at least one forest, and in one of them, there is an underdeveloped hotel within.
+
+## References
+
+[^0323]:  Episode 323, <youtu.be/lvhvCThgemM>
