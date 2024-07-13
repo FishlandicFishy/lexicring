@@ -75,7 +75,7 @@ Flag of K\*ngdom of Wolves sourced from https://youtu.be/LGxMK6PX0as.
 
 I apologise if this violates copyright, but this, the Konosuba typeface, may actually be the font. Link to the image: <https://harjit.moe/images/1502563327965.png>
 
-K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/wiki/tvb_wolf_script.md">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
+[^2082]K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/wiki/tvb_wolf_script.md">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
 
 ### Geography
 
@@ -86,19 +86,19 @@ Most of the population practice <a href="https://www.urbandictionary.com/define.
 
 ## 獅吼國 *(Shi Hou Guo)*
 
-Shi Hou Guo (Chinese: 獅吼國, also 獅吼共和國) is a republic north of the K\*ngdom of Wolves, and therefore human trafficking exists. Presumably it is a major exporter of coconuts. They have history books.
+Shi Hou Guo (Chinese: 獅吼國, also 獅吼共和國) is a republic north of the K\*ngdom of Wolves, and therefore human trafficking exists.[^2082] Presumably it is a major exporter of coconuts.[^1059] They have history books.[^2082]
 
 ### Geography
 
-The southern area of the country is a forest and is severely underdeveloped, while the northern area is slightly more developed.
+The southern area of the country is a forest and is severely underdeveloped, while the northern area is slightly more developed.[^1059]
 
 ### Culture
 
-Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot[^1], which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen. For some reason, chocolate is also seen as a solution to all problems and conflicts.
+Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot[^2082][^1], which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen.[^1059] For some reason, chocolate is also seen as a solution to all problems and conflicts.[^1059]
 
 ## 幸吾島 *(Hung Island)*
 
-Hung Island (Chinese: 幸吾島) is a fictional island country. Apart from English, it also speaks <a href="/wiki/tvb_hung_island_language.md">its own language</a>, which is so advanced it has its own set of swear words. 
+[^0323]Hung Island (Chinese: 幸吾島) is a fictional island country. Apart from English, it also speaks <a href="/wiki/tvb_hung_island_language.md">its own language</a>, which is so advanced it has its own set of swear words. 
 
 ### Geography
 
@@ -143,10 +143,13 @@ They have engaged in diplomacy with Ha Duo Er.
 
 ## References
 
+[^0323]:  Episode 323, <youtu.be/lvhvCThgemM>
+[^1059]: Episode 1059, <youtu.be/Ru4jGPQO5MI>
 [^1543]: Episode 1543, <youtu.be/nTz-xp42xOo>
 [^1567]: Episode 1567, <youtu.be/0IxvsUvuIKw>
 [^1574]: Episode 1574, <youtu.be/40B0vdrFeV8>
 [^2061]: Episode 2061, <youtu.be/zbDCKnPNfF4>
+[^2082]: Episode 2082, <youtu.be/LGxMK6PX0as>
 [^2084]: Episode 2084, <youtu.be/uIR7JBHPtnk>
 [^2095]: Episode 2095, <youtu.be/a91IuH587nQ>
 [^2150]: Episode 2150, <youtu.be/lJaOhO8JYy0>
