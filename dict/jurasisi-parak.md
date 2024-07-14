@@ -5,7 +5,7 @@ Alternate spellings:
 * jurasissy parak
 * jura-sis-c-peh-rock
 
-[n] Any of the [acoustic](https://knowyourmeme.com/memes/acoustic-slang) extinct bird ancestors, or a fictional park which contains such species.
+[n] Any of the extinct bird ancestors associated with [acoustics](https://knowyourmeme.com/memes/acoustic-slang), or a fictional park which contains such species.
 
 Example:
 
