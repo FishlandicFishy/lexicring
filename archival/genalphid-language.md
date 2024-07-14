@@ -90,6 +90,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɛ˥˩
   * often repeated multiple times
 * \*ɛ˨˥boɪ˥jɛ˨˥
+* \*ɛɪ˥saʔ˥da˧jɔ˥
 * \*ɛl˥ji˨
 * \*ɛ˨man˧ŋu˥
 * \*ɛ˨mi˥to˥dad˥di˨˥
