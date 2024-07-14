@@ -98,7 +98,7 @@ Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi 
 
 ## 女兒國 *(Nü Er Guo)*
 
-[^2113]It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. My lawyer had advised me not to elaborate anymore on this section.
+[^2113]It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. There is also a commemorative 1:1 statue of a random person who went there as a model. My lawyer had advised me not to elaborate anymore on this section.
 
 ## 吾多國 *(Wu Duo Guo)*
 
