@@ -94,7 +94,7 @@ The southern area of the country is a forest and is severely underdeveloped, whi
 
 ### Culture
 
-Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot[^2082][^1], which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen.[^1059] For some reason, chocolate is also seen as a solution to all problems and conflicts.[^1059]
+Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot[^2082] [^1], which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen.[^1059] For some reason, chocolate is also seen as a solution to all problems and conflicts.[^1059]
 
 ## 女兒國 *(Nü Er Guo)*
 
