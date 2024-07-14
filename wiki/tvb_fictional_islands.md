@@ -20,7 +20,7 @@ Importing orange products is prohibited and is liable to life imprisonment, as a
 ## 古里梧島 (Gu Li Wu Dao)
 
 [^0949]
-Gu Li Wu Dao (Chinese: 古里梧島) is a fictional island. It participated in a match and you can puchase awards there. Allegedly it invented the most generic AI product ever.
+Gu Li Wu Dao (Chinese: 古里梧島) is a fictional island. It participated in a match and you can puchase awards there. Allegedly it invented the most generic AI product ever.[^2030]
 
 ## 昆里梧島 (Kun Li Wu Dao)
 
@@ -97,6 +97,7 @@ The island has at least one forest, and in one of them, there is an underdevelop
 [^1023]: Episode 1023, <https://youtu.be/7s0d2FlydZ8>
 [^1646]: Episode 1646, <https://youtu.be/tAE7BQ5ZJsA>
 [^1763]: Episode 1763, <https://youtu.be/1RPEbG5no_E>
+[^2030]: Episode 2030, <https://youtu.be/d6CIjbIHoNY>
 [^2064]: Episode 2064, <https://youtu.be/OfHdjfwvFOw>
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
