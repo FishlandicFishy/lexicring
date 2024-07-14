@@ -154,6 +154,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
+* \*ma˥nɔ˧nɪŋ˥nɪŋ˥a˧˨
 * \*mi˦
   * singular mid-high pitch
 * \*mi˥mi˧
