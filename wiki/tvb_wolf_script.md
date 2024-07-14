@@ -8,18 +8,19 @@ The Wolf Script [unofficial name] is a one-to-one cipher of Latin (and predomina
 
 | Script | Latin |
 | --- | --- |
-| ℭ | C     |
-| ⦛ | D     |
-| 叾 | E     |
-| 7 | F     |
-| 𠃌 | G     |
-| ᚹ | I     |
-| R | K     |
-| ∢ | L     |
-| Ｇ | M     |
-| ∂ | N     |
-| ⊄ | O     |
-| б | S     |
-| ⋉ | T     |
-| ⊅ | V     |
-| ᛞ / ⧖ (idk when to use which) | W     |
+| ℭ | c  |
+| ⦛ | d   |
+| 叾 | e    |
+| 7 | f     |
+| 𠃌 | g    |
+| ᚹ | i   |
+| R | k     |
+| ∢ | l     |
+| Ｇ | m     |
+| ∂ | n     |
+| ⊄ | o     |
+| б | s     |
+| ⋉ | t     |
+| ⊅ | v     |
+| ᛞ | W |
+| ⧖ | w |
