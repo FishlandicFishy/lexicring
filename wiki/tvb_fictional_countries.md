@@ -100,9 +100,9 @@ Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi 
 
 [^2113]It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. There is also a commemorative 1:1 statue of a random person who went there as a model. My lawyer had advised me not to elaborate anymore on this section.
 
-## 吾多國 *(Wu Duo Guo)*
+## 吳多國 *(Wu Duo Guo)*
 
-[^2113]Wu Duo Guo (Chinese: 吾多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/wiki/tvb_wu_duo_guo_language.md">language</a> consisting only of swear words.
+[^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/wiki/tvb_wu_duo_guo_language.md">language</a> consisting only of swear words.
 
 ## 豪多國 *(Hao Duo Guo)*
 
