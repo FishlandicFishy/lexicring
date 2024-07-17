@@ -1,7 +1,7 @@
 # Screwed
 ## Genalphid English
 
-[n] Trash in song form, according to a YouTube commenter.
+[n] The opposite of trash in song form, according to a YouTube commenter.
 
 Example:
 
