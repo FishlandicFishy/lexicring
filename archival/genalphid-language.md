@@ -110,6 +110,8 @@ Below is a list of terms of the Genalphid language.
 
 ### h
 
+* \*ha˨˥la˥ho˨˥lɔ˨
+  * suspiciously similar to \*hoʊ˥la˥hoʊ˥la˨
 * \*ha˦˥ꜛtʃu˧i˩
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*hid˥hid˥dən˩dən˩dən˩
