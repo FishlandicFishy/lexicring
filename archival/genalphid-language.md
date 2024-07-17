@@ -77,6 +77,7 @@ Below is a list of terms of the Genalphid language.
   * presumably "(to) return west" based on context
 * \*da˧.zi˥.m̩˩.ji˥
 * \*də˧.doʊ˧˥.bɔ˧
+* \*di˦di˨jɑː˨
 * \*doʊ˨˥
 * \*dy˨dy˨dyd˨
   * often repeated multiple times
