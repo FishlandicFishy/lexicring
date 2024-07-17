@@ -191,6 +191,7 @@ Below is a list of terms of the Genalphid language.
 * \*o˥ʔa˦ʔi˨
 * \*o˥ɛ˧
 * \*o˦ɡɛ˥ɡa˧ni˨
+* \*o˨˥ɡo˧ho˧bi˥
 * \*oɪ˥da˧ju˩
 * \*oɪ˨˦jaː˥˧
 * \*oɪ˨ŋaː˦˥
