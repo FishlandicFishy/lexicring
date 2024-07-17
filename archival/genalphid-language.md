@@ -103,6 +103,8 @@ Below is a list of terms of the Genalphid language.
 
 ### ɡ
 
+* \*ɡə˥bəɪ˥
+  * probably a generic exclamation
 * \*ɡi˦
 * \*ɡo˦di˥
 * \*ɡo˧li˧˨
