@@ -2,12 +2,20 @@
 
 ## Genalphid English
 /ˈfænəm ˈtæks/
-[n, v] Eating a portion of someone else's food.
+
+1. [n, v] Eating a portion of someone else's food.
 
 Example:
 
-"Someone Fanum taxed the toilet.
+"I can't believe he Fanum taxed my Sigma Meal, Skibidi Slicers."
 
+2. [n, v] Taking something in general.
+
+Examples:
+
+"Someone Fanum taxed the toilet."
+
+"Last Rizzmas, I gave you my gyatt, but the very next day, it got Fanum taxed."
 
 See also:
 
