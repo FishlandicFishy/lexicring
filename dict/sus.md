@@ -1,6 +1,8 @@
 # sus
 ## Genalphid English
 
+Also "sussy".
+
 1. [adj] Suspicious, especially as an imposter in dead game Among Us.
 
 Example:
@@ -12,3 +14,5 @@ Example:
 Example:
 
 "Your chill's all sus." (i.e. Your mood is suspiciously different.)
+
+"Don't be sussy." (i.e. Refrain from strange conduct.)
