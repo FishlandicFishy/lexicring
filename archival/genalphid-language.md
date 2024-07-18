@@ -246,6 +246,7 @@ Below is a list of terms of the Genalphid language.
 ### z
 
 * \*za˨ki˥
+* \*ziː˨˦
 
 ## Documented phrases
 
