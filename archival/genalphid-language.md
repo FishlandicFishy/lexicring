@@ -144,6 +144,7 @@ Below is a list of terms of the Genalphid language.
 * \*ji˧˥ꜛ
   * rising tone with sudden high pitch
 * \*ji˨ji˨ji˨muː˨˥
+* \*jɔ˩˥ꜛ
 
 ### k
 
