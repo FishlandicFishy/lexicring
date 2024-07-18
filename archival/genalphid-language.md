@@ -79,6 +79,7 @@ Below is a list of terms of the Genalphid language.
 * \*də˧.doʊ˧˥.bɔ˧
 * \*di˦di˨jɑː˨
 * \*doʊ˨˥
+* \*du˥tɕə˨
 * \*dy˨dy˨dyd˨
   * often repeated multiple times
 
