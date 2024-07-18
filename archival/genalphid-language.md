@@ -184,6 +184,7 @@ Below is a list of terms of the Genalphid language.
 ### ŋ
 
 * \*ŋa˥ɡɔ˨ɡɔ˧ŋaɪ˩
+* \*ŋa˨ŋˌ˥ŋa˥ꜛ
 * \*ŋa˥u˨
 * \*ŋa˨˥za˥wɛɪ˧za˥a˧
 * \*ŋɛɪ˨gɛ˨jɑ˨˥
