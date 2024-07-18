@@ -216,6 +216,8 @@ Below is a list of terms of the Genalphid language.
 ### p
 
 * \*plajn˧˩
+* \*pɔ˥hɔ˩pɔ˥˩
+  * exclamation
 
 ### s
 * \*sæn˥ky˩
