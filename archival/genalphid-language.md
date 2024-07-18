@@ -43,6 +43,7 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˧bu˥
 * \*a˥ma˨˥
   * exclamation
+  * more than one reported usage
 * \*aː˧maː˨maː˥
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*a˨ŋʲa˦
@@ -219,7 +220,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*plajn˧˩
 * \*pɔ˥hɔ˩pɔ˥˩
-  * exclamation
+  * exclamation, probably a call for someone to be quick and come with them
 
 ### s
 * \*sæn˥ky˩
