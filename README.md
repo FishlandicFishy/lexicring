@@ -6,7 +6,7 @@ I spent way too much time on [the archive of the Genalphid language](/archival/g
 ---
 
 * [Encyclopedia](/wiki)
-* [Archival](/archival) (WIP)
+* [Archival](/archival)
 * [Dictionary](/dict)
 * [Miscellaneous](/misc) (WIP: ~2 more articles)
 
