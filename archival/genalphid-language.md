@@ -42,12 +42,14 @@ Below is a list of terms of the Genalphid language.
 * \*a˥ʔa˦˥ma˦ma˥
 * \*aɪ˧bu˥
 * \*a˥ma˨˥
+  * exclamation
 * \*aː˧maː˨maː˥
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*a˨ŋʲa˦
 * \*aɪ˥ŋaɪ˨
 * \*aɪ˥ŋu˦ŋa˨
 * \*a˥na˥jɛs˥ta˩
+* \*a˥nɛ˨ə˩a˨˥
 
 ### æ
 
@@ -66,7 +68,7 @@ Below is a list of terms of the Genalphid language.
 
 ### ɕ
 
-* \*ɕʲa˥˩
+* \*ɕɪa˥˩
 
 ### d
 
