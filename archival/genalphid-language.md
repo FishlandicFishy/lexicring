@@ -79,8 +79,6 @@ Below is a list of terms of the Genalphid language.
 * \*də˧.doʊ˧˥.bɔ˧
 * \*di˦di˨jɑː˨
 * \*doʊ˨˥
-<!-- * \*du˥tɕə˨
-  * source: it was revealed to me in a dream -->
 * \*dy˨dy˨dyd˨
   * often repeated multiple times
 
