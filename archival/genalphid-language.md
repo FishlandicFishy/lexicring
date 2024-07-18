@@ -44,6 +44,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˥ma˨˥
 * \*aː˧maː˨maː˥
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
+* \*a˨ŋa˦
 * \*aɪ˥ŋaɪ˨
 * \*aɪ˥ŋu˦ŋa˨
 * \*a˥na˥jɛs˥ta˩
