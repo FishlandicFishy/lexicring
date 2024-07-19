@@ -127,6 +127,7 @@ Below is a list of terms of the Genalphid language.
   * probably a ritual or a command telling someone to walk forward to a certain point
   * often repeated multiple times
 * \*ho˨daɪ˥ɡo˩
+* \*hɔ˨˥ɡit˨tsən˥mɛɪ˥jɔ˥
 * \*hoʊ˥la˥hoʊ˥la˨
   * often repeated multiple times
 
