@@ -120,6 +120,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*ha˨˥la˥ho˨˥lɔ˨
   * suspiciously similar to \*hoʊ˥la˥hoʊ˥la˨
+* \*ha˥˨sa˨˥va˩
 * \*ha˦˥ꜛtʃu˧i˩
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*hid˥hid˥dən˩dən˩dən˩
