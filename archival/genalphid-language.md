@@ -142,6 +142,7 @@ Below is a list of terms of the Genalphid language.
 
 ### j
 
+* \*ja˥
 * \*ja˨di˥
   * often repeated multiple times
 * \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
