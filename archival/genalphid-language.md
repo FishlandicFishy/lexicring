@@ -66,7 +66,10 @@ Below is a list of terms of the Genalphid language.
 * \*bæb˥bæ˧bæ˩bæb˨
   * often repeated multiple times
 * \*bi˥bi˥bib˥
+  * more than one recorded usage
   * often repeated multiple times
+* \*biœː˥
+  * related with \*bi˥bi˥bib˥
 
 ### ɕ
 
