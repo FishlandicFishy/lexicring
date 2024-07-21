@@ -194,6 +194,9 @@ Below is a list of terms of the Genalphid language.
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
 * \*næ˦næ˦næ˦
+  * same tone
+* \*næ̃˥næ̃˦næ̃˨
+  * descending and nasalised
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
 * \*noʊ˥vɛɪ˥˩
   * probably "no way"
