@@ -173,6 +173,7 @@ Below is a list of terms of the Genalphid language.
 
 ### l
 
+* \*lɛɪ˧lɛɪ˧sa˧
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
