@@ -84,6 +84,9 @@ Below is a list of terms of the Genalphid language.
 * \*dɑː˦dɑː˧
   * presumably "(to) return west" based on context
 * \*da˧.zi˥.m̩˩.ji˥
+* \*dəd˨dəd˨də˥
+  * rhythmic: (4/4) `|♫♩♫♩|`
+  * often repeated multiple times
 * \*də˧.doʊ˧˥.bɔ˧
 * \*di˦di˨jɑː˨
 * \*doʊ˨˥
