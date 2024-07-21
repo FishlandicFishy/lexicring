@@ -71,6 +71,8 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
 * \*biœː˥
   * related with \*bi˥bi˥bib˥
+* \*bɔ˥bɔ˥bɔ˥
+  * ping-pong ball
 
 ### ɕ
 
@@ -153,6 +155,7 @@ Below is a list of terms of the Genalphid language.
 ### j
 
 * \*jaʔ˥
+* \*ja˩ja˧ja˥
 * \*ja˨di˥
   * often repeated multiple times
 * \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
