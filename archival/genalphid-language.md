@@ -103,6 +103,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɛ˥˩
   * often repeated multiple times
 * \*ɛ˨˥boɪ˥jɛ˨˥
+* \*ɛː˥ꜛʃː
 * \*ɛɪ˥saʔ˥da˧jɔ˥
 * \*ɛl˥ji˨
 * \*ɛ˨man˧ŋu˥
@@ -263,6 +264,7 @@ Below is a list of terms of the Genalphid language.
   * all syllables are the same length
   * followed by a request for someone to clap their hands
 * \*wa˨˥ŋa˨
+* \*wu˩aː˥˩
 * \*wu˨˥shi˥˩
 
 ### χ
