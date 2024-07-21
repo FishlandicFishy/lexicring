@@ -194,6 +194,7 @@ Below is a list of terms of the Genalphid language.
   * descending pitch
   * often repeated multiple times
 * \*mi˨tɕʲi˥
+* \*mɔ˨mɔ˥mɔ˨mo˩
 
 ### n
 
