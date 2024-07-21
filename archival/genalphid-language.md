@@ -174,6 +174,7 @@ Below is a list of terms of the Genalphid language.
 ### l
 
 * \*lək˨sɛk˨tɕʲɛ˨˥
+  * more than one reported usage
 * \*lək˨sɪk˥bo˨
 * \*loʊ˥ːa˧ː
 
