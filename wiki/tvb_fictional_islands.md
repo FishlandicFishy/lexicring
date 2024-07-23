@@ -87,6 +87,11 @@ Qiong Kun Lao Island (Chinese: 穹困老島) is a fictional remote island. Its c
 
 The island has at least one forest, and in one of them, there is an underdeveloped hotel within.
 
+## 悶親里群島 (Men Qin Li Islands)
+
+[^2340]
+Not much is known about the Men Qin Li Islands.
+
 ## References
 
 [^0323]:  Episode 323, <https://youtu.be/lvhvCThgemM>
@@ -101,3 +106,4 @@ The island has at least one forest, and in one of them, there is an underdevelop
 [^2064]: Episode 2064, <https://youtu.be/OfHdjfwvFOw>
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
+[^2340]: Episode 2340, (link pending)
