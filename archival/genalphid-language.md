@@ -327,7 +327,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɔː˦˧ χː χː (unknown)
 * \*sæn˥ky˩ "thank you"
 * \*wa˥ɛ˨ "what is this?" (emotionless)
-I \*wa˥y˥li˥da˩ "what is this?" (emotionful)
+* \*wa˥y˥li˥da˩ "what is this?" (emotionful)
 
 ## Grammar
 
