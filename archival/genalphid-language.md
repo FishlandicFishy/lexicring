@@ -111,9 +111,11 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
 * \*ɛ˨˥boɪ˥jɛ˨˥
 * \*ɛː˥ꜛʃː
+* \*ɛɪ˨ɛɪ˥di˥jaʊ˩
 * \*ɛɪ˥saʔ˥da˧jɔ˥
 * \*ɛl˥ji˨
 * \*ɛ˨man˧ŋu˥
+* \*ɛ˥mi˨da˧
 * \*ɛ˨mi˥to˥dad˥di˨˥
 * \*ɛ˥ŋa˥ŋa˨˥
 * \*ɛ˥ʔɔ˥
@@ -154,6 +156,10 @@ Below is a list of terms of the Genalphid language.
 
 * \*i˨a˥˩
 * \*i˥.daʊ˧˦
+* \*i˨dɛŋ˥da˩
+  * related to \*i˨dɛ˩dɛŋ˥da˩
+* \*i˨dɛ˩dɛŋ˥da˩
+  * related to \*i˨dɛŋ˥da˩
 * \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
 * \*i˥ʔi˧lɛ˧
 * \*i˧ja˥ji˧ɡɐ˧za˥
@@ -185,6 +191,7 @@ Below is a list of terms of the Genalphid language.
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
+* \*lja˨˥o˨ly˥tɕi˨˥
 * \*loʊ˥ːa˧ː
 
 ### m
@@ -220,6 +227,9 @@ Below is a list of terms of the Genalphid language.
 * \*næ̃˥næ̃˦næ̃˨
   * descending and nasalised
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
+* \*nʲa˩nʲa˧nʲa˥
+  * possibly imitating an Undertale food item?
+* \*nʲa˥nʲa˩nʲa˨ɡʷəd˥di˨da˨
 * \*noʊ˥vɛɪ˥˩
   * probably "no way"
 
@@ -290,9 +300,14 @@ Below is a list of terms of the Genalphid language.
   * followed by a request for someone to clap their hands
 * \*wa˥ɛ˨
   * "what is this?" with a neutral emotion
+* \*wa˨hoʊ˨˥ɔ˨
+  * related to \*wa˨hʊk˥ɔ˨
+* \*wa˨hʊk˥ɔ˨
+  * related to \*wa˨hoʊ˨˥ɔ˨
 * \*wa˨˥ŋa˨
 * \*wa˥y˥li˥da˩
   * "what is this?" with an emotional undertone
+* \*wæ˨˥ꜛ
 * \*wu˩aː˥˩
 * \*wu˨˥shi˥˩
 
