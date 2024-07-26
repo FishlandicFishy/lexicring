@@ -65,12 +65,14 @@ Below is a list of terms of the Genalphid language.
 ### b
 
 * \*bæb˥bæ˧bæ˩bæb˨
+  * more than one recorded usage
   * often repeated multiple times
 * \*bi˥bi˥bib˥
   * more than one recorded usage
   * often repeated multiple times
 * \*biœː˥
   * related with \*bi˥bi˥bib˥
+  * last syllable when using \*bi˥bi˥bib˥
 * \*bɔ˥bɔ˥bɔ˥
   * ping-pong ball
 
