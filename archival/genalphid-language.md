@@ -326,4 +326,9 @@ Below is a list of terms of the Genalphid language.
 * \*noʊ˥vɛɪ˥˩ "no way"
 * \*ɔː˦˧ χː χː (unknown)
 * \*sæn˥ky˩ "thank you"
+* \*wa˥ɛ˨ "what is this?" (emotionless)
+I \*wa˥y˥li˥da˩ "what is this?" (emotionful)
 
+## Grammar
+
+There are a few cases documented where emotion is expressed through language. For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*wa˥ɛ˨ carries a neutral emotion while \*wa˥y˥li˥da˩ has an unidentified emotion.
