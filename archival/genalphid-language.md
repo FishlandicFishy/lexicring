@@ -95,6 +95,8 @@ Below is a list of terms of the Genalphid language.
 * \*də˧.doʊ˧˥.bɔ˧
 * \*di˦di˨jɑː˨
 * \*doʊ˨˥
+* \*doʊ˨˥ʔa˨
+  * could be related to \*doʊ˨˥
 * \*dy˨dy˨dyd˨
   * often repeated multiple times
 
@@ -127,6 +129,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡiʊ˨səʊ˨˥ɡəb˥tsiʊ˥toʊ˩
 * \*ɡo˦di˥
 * \*ɡo˧li˧˨
+* \*ɡoʊ˨y˥æ˥ja˨
 * \*ɡɐ˧zɐ˧ɡe˧ɡe˧ba˥
 
 ### h
@@ -136,6 +139,7 @@ Below is a list of terms of the Genalphid language.
 * \*ha˥˨sa˨˥va˩
 * \*ha˦˥ꜛtʃu˧i˩
 * \*hə˨hə˨hə˨ta˥hu˩
+* \*hɛɪ˥hɛɪ˥
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
   * probably a ritual or a command telling someone to walk forward to a certain point
@@ -168,6 +172,7 @@ Below is a list of terms of the Genalphid language.
   * rising tone with sudden high pitch
 * \*ji˨ji˨ji˨muː˨˥
 * \*jɔ˩˥ꜛ
+* \*jo˨y˥jo˨y˥ɛ˥a˧
 
 ### k
 
@@ -247,6 +252,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*ɔː˦˧
 * \*ɔ˥laɪ˨
+* \*ɔ˥za˨hoi˩
 * \*ɔ˨˥zɪ˨kʲa˨˥na˨
 
 ### p
@@ -267,6 +273,7 @@ Below is a list of terms of the Genalphid language.
   * presumably an honorific title to an MTR train; see T Chai
 * \*tɔt˥ti˩
   * chopsticks
+* \*tsjæ˨˥na˨
 
 ### u
 
