@@ -249,7 +249,7 @@ Below is a list of terms of the Genalphid language.
   * exclamation, probably a call for someone to be quick and come with them
 
 ### s
-* \*saɪ˥ɡɔ˨jy˧˥a˨
+* \*saɪ˥ɡɔ˧jy˧˥a˧
 * \*sæn˥ky˩
   * likely "thank you"
 * \*si˨bo˥bo˧
