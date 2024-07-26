@@ -93,6 +93,7 @@ Below is a list of terms of the Genalphid language.
   * rhythmic: (4/4) `|♫♩♫♩|`
   * often repeated multiple times
 * \*də˧.doʊ˧˥.bɔ˧
+  * could be related to \*doʊ˨˥
 * \*di˦di˨jɑː˨
 * \*doʊ˨˥
 * \*doʊ˨˥ʔa˨
