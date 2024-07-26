@@ -184,6 +184,8 @@ Below is a list of terms of the Genalphid language.
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*ma˥nɔ˧nɪŋ˥nɪŋ˥a˧˨
+* \*ma˨tsi˨ja˥
+  * followed by a pronoun
 * \*mæ̃˨mæ̃˨mæ̃˥mæ̃˥mæ̃˨˩
 * \*mɛ˥˧daʔ˧
 * \*mi˦
@@ -202,6 +204,8 @@ Below is a list of terms of the Genalphid language.
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
+* \*na˨tu˨ha˥bɔ˥lan˩ʔa˩
+  * possibly related to Poland?
 * \*næ˦næ˦næ˦
   * same tone
 * \*næ̃˥næ̃˦næ̃˨
