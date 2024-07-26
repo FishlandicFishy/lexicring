@@ -270,6 +270,8 @@ Below is a list of terms of the Genalphid language.
 
 * \*u˨ŋʲa˨˥ꜛ
 * \*uɱ˥ha˥ɾa˩
+* \*u˩wɛɪ˥ja˥˧
+  * preceded by a subject
 
 ### w
 
