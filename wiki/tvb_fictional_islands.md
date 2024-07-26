@@ -106,4 +106,4 @@ Not much is known about the Men Qin Li Islands.
 [^2064]: Episode 2064, <https://youtu.be/OfHdjfwvFOw>
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
-[^2340]: Episode 2340, (link pending)
+[^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
