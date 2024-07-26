@@ -288,7 +288,11 @@ Below is a list of terms of the Genalphid language.
 * \*wa˥bi˧jo˧ba˩ba˧ba˥ba˧ba˧
   * all syllables are the same length
   * followed by a request for someone to clap their hands
+* \*wa˥ɛ˨
+  * "what is this?" with a neutral emotion
 * \*wa˨˥ŋa˨
+* \*wa˥y˥li˥da˩
+  * "what is this?" with an emotional undertone
 * \*wu˩aː˥˩
 * \*wu˨˥shi˥˩
 
