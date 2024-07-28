@@ -8,7 +8,6 @@ I spent way too much time on [the archive of the Genalphid language](/archival/l
 * [Encyclopedia](/wiki)
 * [Archival](/archival)
 * [Dictionary](/dict)
-* [Miscellaneous](/misc) (WIP: ~2 more articles)
 
 ---
 
