@@ -20,7 +20,7 @@ Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F
 
 Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
-Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/wiki/tvb_ng_wong_tat_language.md) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
+Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
 In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless. This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.[^2242]
 
@@ -73,9 +73,9 @@ Flag of K\*ngdom of Wolves sourced from https://youtu.be/LGxMK6PX0as.
    
 ![ ](https://harjit.moe/images/1502563327965.png)
 
-I apologise if this violates copyright, but this, the Konosuba typeface, may actually be the font. Link to the image: <https://harjit.moe/images/1502563327965.png>
+One of the typefaces used in the anime "Konosuba" is confirmed to be the font. Link: <https://harjit.moe/images/1502563327965.png>
 
-[^2082]K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/wiki/tvb_wolf_script.md">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
+[^2082]K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/archival/languages/tvb-fictional-languages.md#wolf-script">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
 
 ### Geography
 
@@ -102,7 +102,7 @@ Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi 
 
 ## 吳多國 *(Wu Duo Guo)*
 
-[^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/wiki/tvb_wu_duo_guo_language.md">language</a> consisting only of swear words.
+[^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">language</a> consisting only of swear words.
 
 ## 豪多國 *(Hao Duo Guo)*
 
