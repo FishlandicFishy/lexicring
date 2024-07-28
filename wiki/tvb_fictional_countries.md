@@ -20,7 +20,7 @@ Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F
 
 Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
-Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/wiki/tvb_ng_wong_tat_language.md) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
+Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
 In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless. This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.[^2242]
 
@@ -75,7 +75,7 @@ Flag of K\*ngdom of Wolves sourced from https://youtu.be/LGxMK6PX0as.
 
 I apologise if this violates copyright, but this, the Konosuba typeface, may actually be the font. Link to the image: <https://harjit.moe/images/1502563327965.png>
 
-[^2082]K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/wiki/tvb_wolf_script.md">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
+[^2082]K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/archival/languages/tvb-fictional-languages.md#wolf-script">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
 
 ### Geography
 
