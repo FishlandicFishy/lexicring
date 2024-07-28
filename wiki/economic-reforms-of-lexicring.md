@@ -13,3 +13,5 @@
 * Removed /misc, as it is redundant
 * Initialised [CJKV Documentation](/archival/cjkv/index.md)
 * Ported prehistoric articles to [/archival/articles](/archival/articles)
+* Ported prehistoric difficulty articles to [/wiki/diff](/wiki/diff)
+  * Moved the Steak Difficulty Chart to [/wiki/diff/diff-steak_chart.md](/wiki/diff/diff-steak_chart.md)
