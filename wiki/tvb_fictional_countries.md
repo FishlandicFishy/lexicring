@@ -73,7 +73,7 @@ Flag of K\*ngdom of Wolves sourced from https://youtu.be/LGxMK6PX0as.
    
 ![ ](https://harjit.moe/images/1502563327965.png)
 
-I apologise if this violates copyright, but this, the Konosuba typeface, may actually be the font. Link to the image: <https://harjit.moe/images/1502563327965.png>
+One of the typefaces used in the anime "Konosuba" is confirmed to be the font. Link: <https://harjit.moe/images/1502563327965.png>
 
 [^2082]K\*ngdom of Wolves (yes I find it cringe), alternatively Cai Lang Guo (Chinese: 豺狼國), transliterated script "`Rᚹ∂𠃌⦛⊄Ｇ ⊄7 ⧖⊄∢⊅叾б`", is a fictional country. English and Cantonese are spoken, and occasionally English is written in <a href="/archival/languages/tvb-fictional-languages.md#wolf-script">a one-to-one cipher of Latin</a>. It might actually be the Konosuba typeface. Despite its name, only one "wolf" inhabits the country, and that "wolf" is actually a German shepherd. The entrance to the K*ngdom of Wolves is marked by a sign which is abnormally close to a steep cliff.
 
