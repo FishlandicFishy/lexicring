@@ -1,6 +1,6 @@
 # TVB Fictional Languages
 
-## TVB Hung Island Language
+## Hung Island Language
 
 The Hung Island Language <sup>[unofficial name]</sup> is spoken in [Hung Island](/wiki/tvb_fictional_islands.md). It is taken from [this TVB episode excerpt](https://youtu.be/lvhvCThgemM).
 
