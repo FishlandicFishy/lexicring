@@ -4,7 +4,7 @@ There have been several occasions where Empty R has arisen.
 
 ## Disclaimer
 
-This article is NOT political and I do NOT endorse the horrible crimes the vandals have done.
+This article is NOT political and I do NOT endorse the crimes the vandals have done.
 
 ## 28th July 2024
 
