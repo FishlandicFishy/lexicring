@@ -25,15 +25,33 @@ Tuen Ma Line                                      ||        East Rail Line
 Kam Sheung Road  Au Tau           Ngau Tam Mei    San Tin         Kwu Tung        Lo Wu South      Man Kam To      Ping Che
 (KSR)            (AUT)            (NTM)           (SAT)           (KTU)
 錦上路            凹頭              牛潭尾           新田             古洞             羅湖南            文錦渡           坪輋
-
-Projected:       2034             2034            2034            2034            East Extension (proposed)
+                                                                   |_______________________________________________|
+                                                                                           |
+                                                                               East Extension (proposed)
 ```
 [^3][^4][^5]
 
-##
+## Tseung Kwan O Line South Extension\* (將軍澳綫南延綫)
+
+It extends Tseung Kwan O line from LOHAS Park Station to Area 137. It may be released in 2034 to 2038.[^6]
+
+## Hong Kong Island West - Hung Shui Kiu Railway Rail Link (港島西至洪水橋鐵路)
+
+Its length is approximately 30 km. It is notable for connecting the remnants of a perfectly fine island. It may be released in 2034 to 2038.[^7]
+
+```
+Tuen Ma Line       Tung Chung Line, Copyright Strikeland Line                  Island Line
+|                                 |                                                |
+⭕===============⭕==============⭕==============⭕==============⭕==============⭕
+Hung Shui Kiu    Tuen Mun East    Sunny Bay   Kau Yi C Island   Kau Yi A Island   HKU
+(HSK)            (TME)            (SUN)
+洪水橋            屯門東            欣澳             交椅C島           交椅A島         香港大學
+```
 
 [^1]: <https://www.thestandard.com.hk/section-news/section/5/263545/Smart-mass-transit-system-proposed-for-East-Kowloon>
 [^2]: <https://hkrail.fandom.com/wiki/東九龍綫_(2014年方案)> *(Chinese)*
 [^3]: <https://hkrail.fandom.com/wiki/北環綫> *(Chinese)*
 [^4]: <https://hkrail.fandom.com/wiki/北環綫東延綫> *(Chinese)*
 [^5]: <https://hkrail.fandom.com/wiki/北環綫支綫> *(Chinese)*
+[^6]: <https://hkrail.fandom.com/wiki/將軍澳綫南延綫> *(Chinese)*
+[^7]: <https://hkrail.fandom.com/wiki/港島西至洪水橋鐵路> *(Chinese)*
