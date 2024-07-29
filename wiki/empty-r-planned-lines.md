@@ -41,10 +41,6 @@ Kam Sheung Road  Au Tau           Ngau Tam Mei    San Tin         Kwu Tung      
 ```
 [^3][^4][^5]
 
-## Tseung Kwan O Line South Extension\* (將軍澳綫南延綫)
-
-It extends Tseung Kwan O line from LOHAS Park Station to Area 137. It may be released in 2034 to 2038.[^6]
-
 ## Hong Kong Island West - Hung Shui Kiu Railway Rail Link (港島西至洪水橋鐵路)
 
 Its length is approximately 30 km. It is notable for connecting the remnants of a perfectly fine island. It may be released in 2034 to 2038.[^7]
@@ -80,6 +76,23 @@ HKU              Queen Mary Hospital   Cyberport       Wah Fu          Tin Wan  
 香港大學           瑪麗醫院               數碼港           華富             田灣             香港仔            黃竹坑
 ```
 
+# Extensions
+
+## Tseung Kwan O Line South Extension (將軍澳綫南延綫)
+
+It extends Tseung Kwan O line from LOHAS Park Station to Area 137. It may be released in 2034 to 2038.[^6]
+
+## Tsuen Wan Line Extension
+
+It extends Tsuen Wan Line from Tsuen Wan to Tsuen King Circuit.[^8][^10]
+
+## Tung Chung Line Extension
+[^11]
+```
+               |
+===============⭕===============⭕===============⭕===============⭕===============⭕
+
+
 [^1]: <https://www.thestandard.com.hk/section-news/section/5/263545/Smart-mass-transit-system-proposed-for-East-Kowloon>
 [^2]: <https://hkrail.fandom.com/wiki/東九龍綫_(2014年方案)> *(Chinese)*
 [^3]: <https://hkrail.fandom.com/wiki/北環綫> *(Chinese)*
@@ -89,3 +102,5 @@ HKU              Queen Mary Hospital   Cyberport       Wah Fu          Tin Wan  
 [^7]: <https://hkrail.fandom.com/wiki/港島西至洪水橋鐵路> *(Chinese)*
 [^8]: <https://hkrail.fandom.com/wiki/中鐵綫> *(Chinese)*
 [^9]: <https://hkrail.fandom.com/wiki/南港島綫（西段）> *(Chinese)*
+[^10]: <https://hkrail.fandom.com/wiki/荃景圍站> *(Chinese)*
+
