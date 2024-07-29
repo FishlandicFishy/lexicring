@@ -18,16 +18,6 @@ My reconstruction of the cover of the booklet.[^1][^2]
 
 The Empty R has arisen on 28th July 2024 to accomodate for large-scale asset renewal work of a tunnel in the Kwun Tong Line[^1]. A limited edition booklet numbered `L1384 07/2024` available in both English and Chinese have been published on that day[^2], only available in stations of the Kwun Tong Line, however as of now I am unable to obtain it due to the abundance of scalpers.
 
-## 5th October 2019
-
-Please refer to [^4].
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mtr_map_on_5_oct.png" alt="5/10/2019" width="640" height="464">
-
-Map of the Empty R on 5th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_map_on_5_oct.png) under CC BY-SA 4.0.
-
-The R being emptier than ever, also caused by political vandals, only the Airport Express Line was open during the severe outage on 5th October 2019.
-
 ## 1st to 9th October 2019
 
 Please refer to [^3].
