@@ -24,22 +24,24 @@ Choi Hung East   Choi Wan          Shun Lee         Shun On          Sau Mau Pin
 
 Its length is approximately 10.7 km.[^3] The representative colour for the Northern Link was grey, but it was later changed to reddish purple, the former colour of West Rail Line.[^3]
 
+Questioned stations may not be part of the east extension.
+
 ```
                                                                   洲頭             港深創科園         皇崗口岸
                                                   Spur Line       (CHT)                            (HUC)
                                                   (proposed)      Chau Tau         HSITP           Huanggang Checkpoint
-                                                  /= = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕
-Tuen Ma Line                                      ||        East Rail Line
-|                                                 ||              |
-⭕===============⭕==============⭕==============⭕==============⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕
-Kam Sheung Road  Au Tau           Ngau Tam Mei    San Tin         Kwu Tung        Lo Wu South      Man Kam To      Ping Che
+                                                  /= = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕                                                                                        East Rail Line
+Tuen Ma Line                                      ||        East Rail Line                                                                                                                      (Fanling)
+|                                                 ||              |                                                                                                                                 ¦
+⭕===============⭕==============⭕==============⭕==============⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕
+Kam Sheung Road  Au Tau           Ngau Tam Mei    San Tin         Kwu Tung        Lo Wu South      Man Kam To      Lo Shue Ling?   Heung Yuen Wai? Ta Kwu Ling?     Ping Che       Queen's Hill?    On Lok Tsuen?
 (KSR)            (AUT)            (NTM)           (SAT)           (KTU)
-錦上路            凹頭              牛潭尾           新田             古洞             羅湖南            文錦渡           坪輋
-                                                                   |_______________________________________________|
-                                                                                           |
-                                                                               East Extension (proposed)
+錦上路            凹頭              牛潭尾           新田             古洞             羅湖南            文錦渡           老鼠嶺?          香園圍?           打鼓嶺?          坪輋            皇后山?            安樂村?
+                                                                   |_________________________________________________________________________________________________________________________________|
+                                                                                                                                 |
+                                                                                                                     East Extension (proposed)
 ```
-[^3][^4][^5]
+[^3][^4][^5][^14]
 
 ## Hong Kong Island West - Hung Shui Kiu Railway Rail Link (港島西至洪水橋鐵路)
 
@@ -76,6 +78,27 @@ HKU              Queen Mary Hospital   Cyberport       Wah Fu          Tin Wan  
 香港大學           瑪麗醫院               數碼港           華富             田灣             香港仔            黃竹坑
 ```
 
+## South North Railway (南北鐵路)
+Its length is approximately 21 km.[^13] The map below may not be accurate due to the lack of information.
+```
+                                                                                      羅湖南
+                                                                                      Lo Wu South*
+                                                                     /================⭕
+Tsuen Wan Line, Tuen Ma Line     East Rail Line, Tuen Ma Line        ||       East Rail Line (Fanling)
+                  |                |                                 ||                ¦
+⭕===============⭕===============⭕===============⭕===============⭕===============⭕
+East Lantau*     Mei Foo           Tai Wai          Lam Tsuen*       Fanling          On Lok Tsuen*
+                 (MEF)             (TAW)                             (FAN)
+東大嶼            美孚               大圍              林村             粉嶺              安樂村
+```
+
+[^13][^14]
+
+Unclear station placements:
+
+* 文錦渡[^13]
+* 香園圍[^13]
+
 # Extensions
 
 ## Tseung Kwan O Line South Extension (將軍澳綫南延綫)
@@ -99,6 +122,17 @@ It is planned for 2029.[^11]
                欣澳              小蠔灣             東涌東            東涌              東涌西
 ```
 
+## Tuen Mun South Extension
+
+It is planned for 2030.[^12]
+```
+      505, 507, 751     507, 614, 614P     507, 610, 614, 614P, 615, 615P
+               |                 |                |
+===============⭕===============⭕===============⭕
+               Tuen Mun          A16*             Tuen Mun South
+               (TUM)             (A16)*           (TMS)
+               屯門               第16區*           屯門南
+```
 
 [^1]: <https://www.thestandard.com.hk/section-news/section/5/263545/Smart-mass-transit-system-proposed-for-East-Kowloon>
 [^2]: <https://hkrail.fandom.com/wiki/東九龍綫_(2014年方案)> *(Chinese)*
@@ -111,3 +145,6 @@ It is planned for 2029.[^11]
 [^9]: <https://hkrail.fandom.com/wiki/南港島綫（西段）> *(Chinese)*
 [^10]: <https://hkrail.fandom.com/wiki/荃景圍站> *(Chinese)*
 [^11]: <https://hkrail.fandom.com/wiki/東涌綫延綫> *(Chinese)*
+[^12]: <https://hkrail.fandom.com/wiki/屯門南延綫> *(Chinese)*
+[^13]: <https://hkrail.fandom.com/wiki/南北鐵路> *(Chinese)*
+[^14]: <https://www.hk01.com/社會新聞/816161> *(Chinese)*
