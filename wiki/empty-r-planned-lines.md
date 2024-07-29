@@ -10,6 +10,16 @@ Map of the East Kowloon Line. [^1][^2]
 
 Also known as "Smart and Green Mass Transit System in East Kowloon"[^1], where "Smart and Green" is a greenwashing marketing ploy. Its length is approximately 7 km[^1][^2], 6 km being viaducts and 1 km being tunnels.[^1] It is estimated to cost HK$262.5 million to conduct the necessary investigation, design and site work for the line.[^1] The line may release in 2034 to 2038.[^2] A suggested Lam Tim North station may arise.[^1]
 
+```
+Kwun Tong Line                                                                                          Kwun Tong Line, Tseung Kwan O Line
+(Choi Hung)                                                                                                          (Yau Tong)
+¦                                                                                                                        ¦
+⭕===============⭕===============⭕===============⭕===============⭕===============⭕===============⭕===============⭕
+Choi Hung East   Choi Wan          Shun Lee         Shun On          Sau Mau Ping     Po Tat           Ma Yau Tong       Yau Tong East
+(CHE)            (CWA)             (SHL)            (SHO)            (SMP)            (POT)            (MYT)             (YTE)
+彩虹東            彩雲               順利              順安              秀茂坪            寶達             馬游塘              油塘東
+```
+
 ## Northern Link (北環綫), its Spur Line, and its East Extension
 
 Its length is approximately 10.7 km. [^3] The representative colour for the Northern Link was grey, but it was later changed to reddish purple, the former colour of West Rail Line.[^3]
