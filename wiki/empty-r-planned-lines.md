@@ -16,8 +16,8 @@ Its length is approximately 10.7 km. [^3] The representative colour for the Nort
 
 ```
                                                                   洲頭             港深創科園         皇崗口岸
-                                                                  (CHT)                            (HUC)
-                                                                  Chau Tau         HSITP           Huanggang Checkpoint
+                                                  Spur Line       (CHT)                            (HUC)
+                                                  (proposed)      Chau Tau         HSITP           Huanggang Checkpoint
                                                   /= = = = = = = =⭕ = = = = = = =⭕ = = = = = = =⭕
 Tuen Ma Line                                      ||        East Rail Line
 |                                                 ||              |
