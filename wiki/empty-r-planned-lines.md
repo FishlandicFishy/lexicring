@@ -2,6 +2,7 @@
 
 ## "Smart and Green Mass Transit System in East Kowloon"
 
+![ ](viaductaqueduct.png)
 [^1]
 
 "Smart and Green" is a greenwashing marketing ploy.
