@@ -28,15 +28,57 @@ Map of the Empty R on 5th October 2019. Image [released on Wikimedia](https://co
 
 The R being emptier than ever, also caused by political vandals, only the Airport Express Line was open during the severe outage on 5th October 2019.
 
-## 1st October 2019
+## 1st to 9th October 2019
 
 Please refer to [^4].
 
+Also known as the original Empty R, the outages from 1st to 9th October 2019 were caused by political vandals.
+
+### 1st October 2019
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Mtr_map_on_1_oct.png" alt="1/10/2019" width="640" height="464">
 
-Map of the Empty R on 1st October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_map_on_1_oct.png) under GFDL and CC BY-SA 4.0.
+Map of the Empty R on 1st October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_map_on_1_oct.png) under GFDL or CC BY-SA 4.0.
 
-Also known as the original Empty R, the partial outage on 1st October 2019 was caused by political vandals.
+### 4th October 2019
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mtr_map_on_4_oct.png" alt="4/10/2019" width="640" height="464">
+
+Map of the Empty R on 4th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_map_on_1_oct.png) under CC BY-SA 4.0.
+
+The R was at its emptiest point, with only West Kowloon "Station" in operation.
+
+### 5th October 2019
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Mtr_map_on_5_oct.png" alt="5/10/2019" width="640" height="464">
+
+Map of the Empty R on 5th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_map_on_5_oct.png) under CC BY-SA 4.0.
+
+Only the Airport Express Line was open.
+
+### 6th October 2019
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mtr_on_1006.png" alt="6/10/2019" width="640" height="464">
+
+Map of the Empty R on 6th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_on_1006.png) under CC BY-SA 4.0.
+
+### 7th October 2019
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Mtr_on_1007.png" alt="7/10/2019" width="640" height="464">
+
+Map of the Empty R on 7th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_on_1007.png) under CC BY-SA 4.0.
+
+### 8th October 2019
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Mtr_on_1008.png" alt="8/10/2019" width="640" height="464">
+
+Map of the Empty R on 8th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_on_1008.png) under CC BY-SA 4.0.
+
+### 9th October 2019
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mtr_on_1009.png" alt="9/10/2019" width="640" height="464">
+
+Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_on_1009.png) under CC BY-SA 4.0.
 
 [^1]: <https://www.mtr.com.hk/en/customer/main/ktl-service-suspension.html>
 [^2]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
