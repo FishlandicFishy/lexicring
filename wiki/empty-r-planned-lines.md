@@ -87,10 +87,17 @@ It extends Tseung Kwan O line from LOHAS Park Station to Area 137. It may be rel
 It extends Tsuen Wan Line from Tsuen Wan to Tsuen King Circuit.[^8][^10]
 
 ## Tung Chung Line Extension
-[^11]
+
+It is planned for 2029.[^11]
+
 ```
-               |
+    Copyright Strikeland Line                               Ngong Ping 360*
+               |                                                   |
 ===============⭕===============⭕===============⭕===============⭕===============⭕
+               Sunny Bay        Oyster Bay        Tung Chung East  Tung Chung       Tung Chung West
+               (SUN)            (OYB)             (TCE)            (TUC)            (TCW)
+               欣澳              小蠔灣             東涌東            東涌              東涌西
+```
 
 
 [^1]: <https://www.thestandard.com.hk/section-news/section/5/263545/Smart-mass-transit-system-proposed-for-East-Kowloon>
@@ -103,4 +110,4 @@ It extends Tsuen Wan Line from Tsuen Wan to Tsuen King Circuit.[^8][^10]
 [^8]: <https://hkrail.fandom.com/wiki/中鐵綫> *(Chinese)*
 [^9]: <https://hkrail.fandom.com/wiki/南港島綫（西段）> *(Chinese)*
 [^10]: <https://hkrail.fandom.com/wiki/荃景圍站> *(Chinese)*
-
+[^11]: <https://hkrail.fandom.com/wiki/東涌綫延綫> *(Chinese)*
