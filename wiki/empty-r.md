@@ -30,7 +30,7 @@ The R being emptier than ever, also caused by political vandals, only the Airpor
 
 ## 1st to 9th October 2019
 
-Please refer to [^4].
+Please refer to [^3].
 
 Also known as the original Empty R, the outages from 1st to 9th October 2019 were caused by political vandals.
 
@@ -82,5 +82,4 @@ Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://co
 
 [^1]: <https://www.mtr.com.hk/en/customer/main/ktl-service-suspension.html>
 [^2]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
-[^3]: <https://www.facebook.com/buslanes/photos/a.1935760483324367/2502949019938841/> *(Chinese)*
-[^4]: <https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8B%E5%8B%95%E6%9C%9F%E9%96%93%E6%B8%AF%E9%90%B5%E7%9B%B8%E9%97%9C%E7%88%AD%E8%AD%B0> *(Chinese)*
+[^3]: <https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8B%E5%8B%95%E6%9C%9F%E9%96%93%E6%B8%AF%E9%90%B5%E7%9B%B8%E9%97%9C%E7%88%AD%E8%AD%B0> *(Chinese)*
