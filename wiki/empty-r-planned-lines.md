@@ -99,17 +99,52 @@ Unclear station placements:
 * 文錦渡[^13]
 * 香園圍[^13]
 
+## Hong Kong‐Shenzhen Western Rail Link (港深西部鐵路)
+[^15]
+```
+Tuen Ma Line     Tsim Bei Tsui‐Pak Nai Automated MRT System*
+|                                  |
+⭕===============⭕===============⭕===============⭕
+Hung Shui Kiu    Ha Tsuen          Lau Fau Shan     Qianhai
+(HSK)
+洪水橋            夏村               流浮山            前海
+```
+
+## Tsim Bei Tsui‐Pak Nai Automated MRT System\* (尖鼻咀至白泥自動捷運系統)
+[^16]
+```
+                                    Green Transit Corridor      Hong Kong‐Shenzhen Western Rail Link
+                                                    |                |
+⭕===============⭕===============⭕===============⭕===============⭕===============⭕
+Ha Pak Nai       Sheung Pak Nai   (Unnamed)         (Unnamed)        Lau Fau Shan     Tsim Bei Tsui
+下白泥            上白泥                                               流浮山             尖鼻咀
+```
+
+## Green Transit Corridor (環保運輸走廊)
+[^17]
+
+Severe lack of information.
+
+```
+610, 614, 615, 751  Tuen Ma Line  Tuen Ma Line  705, 706, 751, 751P, 761P
+  |                 |                |                |
+  ⭕===============⭕===============⭕===============⭕
+  Nai Wai          Hung Shui Kiu     Tin Shui Wai     Chung Fu
+  (NAW)            (HSK)             (TIS)            (CHF)
+  泥圍              洪水橋             天水圍            頌富
+```
+
 # Extensions
 
 ## Tseung Kwan O Line South Extension (將軍澳綫南延綫)
 
 It extends Tseung Kwan O line from LOHAS Park Station to Area 137. It may be released in 2034 to 2038.[^6]
 
-## Tsuen Wan Line Extension
+## Tsuen Wan Line Extension (荃灣綫延綫)
 
 It extends Tsuen Wan Line from Tsuen Wan to Tsuen King Circuit.[^8][^10]
 
-## Tung Chung Line Extension
+## Tung Chung Line Extension (東涌綫延綫)
 
 It is planned for 2029.[^11]
 
@@ -122,7 +157,7 @@ It is planned for 2029.[^11]
                欣澳              小蠔灣             東涌東            東涌              東涌西
 ```
 
-## Tuen Mun South Extension
+## Tuen Mun South Extension (屯門南延綫)
 
 It is planned for 2030.[^12]
 ```
@@ -148,3 +183,6 @@ It is planned for 2030.[^12]
 [^12]: <https://hkrail.fandom.com/wiki/屯門南延綫> *(Chinese)*
 [^13]: <https://hkrail.fandom.com/wiki/南北鐵路> *(Chinese)*
 [^14]: <https://www.hk01.com/社會新聞/816161> *(Chinese)*
+[^15]: <https://hkrail.fandom.com/wiki/港深西部鐵路> *(Chinese)*
+[^16]: <https://hkrail.fandom.com/wiki/尖鼻咀至白泥自動捷運系統> *(Chinese)*
+[^17]: <https://hkrail.fandom.com/wiki/環保運輸走廊> *(Chinese)*
