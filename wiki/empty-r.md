@@ -12,6 +12,10 @@ This article is NOT political and I do NOT endorse the crimes the vandals have d
 
 An image of the "Empty R" on 28th July 2024.[^1]
 
+<img src="https://github.com/user-attachments/assets/e9a0d2f7-8d52-4761-8e58-fc0658900bb8" alt="booklet" width="236" height="500">
+
+Reconstruction of the cover of the booklet.[^2]
+
 The Empty R has arisen on 28th July 2024 to accomodate for large-scale asset renewal work of a tunnel in the Kwun Tong Line[^1]. A limited edition booklet available in both English and Chinese have been published on that day[^2], only available in stations of the Kwun Tong Line, however as of now I am unable to obtain it due to the abundance of scalpers.
 
 ## 5th October 2019
