@@ -26,7 +26,7 @@ Kam Sheung Road  Au Tau           Ngau Tam Mei    San Tin         Kwu Tung      
 (KSR)            (AUT)            (NTM)           (SAT)           (KTU)
 錦上路            凹頭              牛潭尾           新田             古洞             羅湖南            文錦渡           坪輋
 
-Projected:       2034             2034            2034            2034            (proposed)       (proposed)      (proposed)
+Projected:       2034             2034            2034            2034            East Extension (proposed)
 ```
 [^3][^4][^5]
 
