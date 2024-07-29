@@ -12,11 +12,7 @@ This article is NOT political and I do NOT endorse the horrible crimes the vanda
 
 An image of the "Empty R" on 28th July 2024.[^1]
 
-<img src="https://github.com/user-attachments/assets/7d6afe59-ad73-4e97-bc3d-87c1a066a95a" alt="28/7/2024-zh" width="582" height="387">
-
-The same image, but in Chinese.[^2]
-
-The Empty R has arisen on 28th July 2024 to accomodate for large-scale asset renewal work of a tunnel in the Kwun Tong Line[^1]. A limited edition booklet available in both English and Chinese have been published on that day[^3], only available in stations of the Kwun Tong Line, however as of now I am unable to obtain it due to the abundance of scalpers.
+The Empty R has arisen on 28th July 2024 to accomodate for large-scale asset renewal work of a tunnel in the Kwun Tong Line[^1]. A limited edition booklet available in both English and Chinese have been published on that day[^2], only available in stations of the Kwun Tong Line, however as of now I am unable to obtain it due to the abundance of scalpers.
 
 ## 5th October 2019
 
@@ -24,9 +20,8 @@ The Empty R has arisen on 28th July 2024 to accomodate for large-scale asset ren
 
 Map of the Empty R on 5th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_map_on_5_oct.png) under CC BY-SA 4.0.
 
-Also known as the original Empty R, the severe outage[^4] on 5th October 2019 is caused by political vandals. Only the Airport Express Line is open.
+Also known as the original Empty R, the severe outage[^3] on 5th October 2019 is caused by political vandals. Only the Airport Express Line is open.
 
 [^1]: <https://www.mtr.com.hk/en/customer/main/ktl-service-suspension.html>
-[^2]: <https://www.mtr.com.hk/ch/customer/main/ktl-service-suspension.html> *(Chinese)*
-[^3]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
-[^4]: <https://www.facebook.com/buslanes/photos/a.1935760483324367/2502949019938841/> *(Chinese)*
+[^2]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
+[^3]: <https://www.facebook.com/buslanes/photos/a.1935760483324367/2502949019938841/> *(Chinese)*
