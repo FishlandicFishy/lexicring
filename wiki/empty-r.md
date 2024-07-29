@@ -64,6 +64,8 @@ Map of the Empty R on 7th October 2019. Image [released on Wikimedia](https://co
 
 Map of the Empty R on 8th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_on_1008.png) under CC BY-SA 4.0.
 
+From 12pm, Tai Po Market Station and Po Lam Station opened up.
+
 ### 9th October 2019
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mtr_on_1009.png" alt="9/10/2019" width="640" height="464">
