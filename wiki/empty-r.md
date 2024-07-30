@@ -72,6 +72,53 @@ From 12pm, Tai Po Market Station and Po Lam Station opened up.
 
 Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://commons.wikimedia.org/wiki/File:Mtr_on_1009.png) under CC BY-SA 4.0.
 
+## September 2019
+
+| Date | Time | Station Closed                      |
+| ---- | ---- | ----------------------------------- |
+| 1/9  | 1310 | Airport Express (to AsiaWorld-Expo) |
+| 1/9  | 1447 | AsiaWorld-Expo Station              |
+| 1/9  | 1630 | Airport Express                     |
+| 1/9  | 1752 | Tung Chung Station                  |
+| 1/9  | 1805 | Tsing Yi Station                    |
+| 1/9  | 1810 | Copyright Strikeland Line           |
+| 1/9  | 1810 | Tung Chung Line                     |
+| 6/9  | 0000 | Po Lam Station                          |
+| 6/9  | 1622 | Prince Edward Station                   |
+| 6/9  | 2215 | Mong Kok Station                        |
+| 6/9  | 2234 | Yau Ma Tei Station                      |
+| 6/9  | 2352 | Tsuen Wan Line (Lai Chi Kok to Central) |
+| 7/9  | 1622 | Prince Edward Station |
+| 7/9  | 2100 | Mong Kok Station      |
+| 7/9  | 2319 | Sha Tin Station       |
+| 7/9  | 2353 | Tai Po Market Station |
+| 7/9  | 2343 | Tseung Kwan O Station  |
+| 8/9  | 1615 | Central Station       |
+| 8/9  | 1842 | Wan Chai Station      |
+| 8/9  | 2134 | Prince Edward Station |
+| 8/9  | 2202 | Mong Kok Station      |
+| 15/9 | 1648 | Admiralty Station    |
+| 15/9 | 1759 | Wan Chai Station     |
+| 15/9 | 1935 | Causeway Bay Station |
+| 21/9 | 1300 | Tuen Mun Station  |
+| 21/9 | 1500 | Yuen Long Station |
+| 21/9 | 1553 | LR 507, 614P      |
+| 21/9 | 1614 | LR 615P           |
+| 21/9 | 1756 | Tuen Mun Area LR  |
+| 21/9 | 2140 | Yuen Long Area LR |
+| 22/9 | 0900 | Airport Express: Kowloon, Tsing Yi, AsiaWorld-Expo |
+| 22/9 | 1647 | Sha Tin Station       |
+| 22/9 | 1718 | Tsing Yi Station      |
+| 22/9 | 1833 | Kowloon Station       |
+| 22/9 | 1932 | Kwai Fong Station     |
+| 22/9 | 2218 | Prince Edward Station |
+| 22/9 | 2218 | Mong Kok Station      |
+| 25/9 | 2142 | Sha Tin Station |
+| 29/9 | 1545 | Wan Chai Station  |
+| 29/9 | 1647 | Admiralty Station |
+| 29/9 | 1838 | Tin Hau Station   |
+| 29/9 | 1838 | Causeway Bay Station |
+
 [^1]: <https://www.mtr.com.hk/en/customer/main/ktl-service-suspension.html>
 [^2]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
 [^3]: <https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8B%E5%8B%95%E6%9C%9F%E9%96%93%E6%B8%AF%E9%90%B5%E7%9B%B8%E9%97%9C%E7%88%AD%E8%AD%B0> *(Chinese)*
