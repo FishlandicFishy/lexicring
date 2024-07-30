@@ -76,18 +76,18 @@ Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://co
 
 | Date | Time | Station Closed                      |
 | ---- | ---- | ----------------------------------- |
-| 1/9  | 1310 | Airport Express (to AsiaWorld-Expo) |
+| 1/9  | 1310 | 🔷Airport Express (to AsiaWorld-Expo) |
 | 1/9  | 1447 | AsiaWorld-Expo Station              |
-| 1/9  | 1630 | Airport Express                     |
+| 1/9  | 1630 | 🔷Airport Express                     |
 | 1/9  | 1752 | Tung Chung Station                  |
 | 1/9  | 1805 | Tsing Yi Station                    |
-| 1/9  | 1810 | Copyright Strikeland Line           |
-| 1/9  | 1810 | Tung Chung Line                     |
+| 1/9  | 1810 | 🟣Copyright Strikeland Line           |
+| 1/9  | 1810 | 🟧Tung Chung Line                     |
 | 6/9  | 0000 | Po Lam Station                          |
 | 6/9  | 1622 | Prince Edward Station                   |
 | 6/9  | 2215 | Mong Kok Station                        |
 | 6/9  | 2234 | Yau Ma Tei Station                      |
-| 6/9  | 2352 | Tsuen Wan Line (Lai Chi Kok to Central) |
+| 6/9  | 2352 | 🟥Tsuen Wan Line (Lai Chi Kok to Central) |
 | 7/9  | 1622 | Prince Edward Station |
 | 7/9  | 2100 | Mong Kok Station      |
 | 7/9  | 2319 | Sha Tin Station       |
@@ -102,11 +102,11 @@ Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://co
 | 15/9 | 1935 | Causeway Bay Station |
 | 21/9 | 1300 | Tuen Mun Station  |
 | 21/9 | 1500 | Yuen Long Station |
-| 21/9 | 1553 | LR 507, 614P      |
-| 21/9 | 1614 | LR 615P           |
-| 21/9 | 1756 | Tuen Mun Area LR  |
-| 21/9 | 2140 | Yuen Long Area LR |
-| 22/9 | 0900 | Airport Express: Kowloon, Tsing Yi, AsiaWorld-Expo |
+| 21/9 | 1553 | 🟨LR 507, 614P      |
+| 21/9 | 1614 | 🟨LR 615P           |
+| 21/9 | 1756 | 🟨Tuen Mun Area LR  |
+| 21/9 | 2140 | 🟨Yuen Long Area LR |
+| 22/9 | 0900 | 🔷Airport Express: Kowloon, Tsing Yi, AsiaWorld-Expo |
 | 22/9 | 1647 | Sha Tin Station       |
 | 22/9 | 1718 | Tsing Yi Station      |
 | 22/9 | 1833 | Kowloon Station       |
