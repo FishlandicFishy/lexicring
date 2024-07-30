@@ -74,6 +74,8 @@ Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://co
 
 ## September 2019
 
+[^3]
+
 | Date | Time | Station Closed                      |
 | ---- | ---- | ----------------------------------- |
 | 1/9  | 1310 | 🔷Airport Express (to AsiaWorld-Expo) |
@@ -118,6 +120,37 @@ Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://co
 | 29/9 | 1647 | Admiralty Station |
 | 29/9 | 1838 | Tin Hau Station   |
 | 29/9 | 1838 | Causeway Bay Station |
+
+## August 2019
+
+[^3]
+
+| Date | Time | Station Closed |
+| ---- | ---- | -------------- |
+| 3/8  | 2254 | Mong Kok Station |
+| 3/8  | 2254 | Yau Ma Tei Station |
+| 5/8  | 2108 | 🟥Tsuen Wan Line (Sham Shui Po to Lai Chi Kok) |
+| 10/8 | 2230 | Jordan Station |
+| 10/8 | 2230 | Tsim Sha Tsui Station |
+| 11/8 | 1905 | Fortress Hill Station |
+| 11/8 | 2101 | Kwai Fong Station     |
+| 18/8 | 1440 | 🟦Island Line (Fortress Hill to Causeway Bay) |
+| 23/8 | 2100 | (Temporary) Kwai Fong Station |
+| 24/8 | 1200 | 🟩Kwun Tong Line (Tiu King Leng to Choi Hung, except Tiu King Leng, Yau Tong, and Choi Hung) |
+| 25/8 | 1330 | Tsuen Wan Station |
+| 25/8 | 1330 | Kwai Dong Station |
+| 25/8 | 1330 | Tsuen Wan West Station |
+| 31/8 | 1330 | Sai Ying Pun Station | 
+| 31/8 | 1330 | Admiralty Station |
+| 31/8 | 2200 | Jordan Station |
+| 31/8 | 2200 | Wan Chai Station |
+| 31/8 | 2245 | Mong Kok Station |
+| 31/8 | 2258 | Prince Edward Station |
+| 31/8 | 2314 | 🟩Kwun Tong Line |
+| 31/8 | 2314 | 🟥Tsuen Wan Line |
+| 31/8 | 2350 | 🟦Island Line |
+| 31/8 | 2350 | 🟢South Island Line |
+| 31/8 | 2350 | 🟪Tsueng Kwan O Line |
 
 [^1]: <https://www.mtr.com.hk/en/customer/main/ktl-service-suspension.html>
 [^2]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
