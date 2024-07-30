@@ -152,6 +152,23 @@ Map of the Empty R on 9th October 2019. Image [released on Wikimedia](https://co
 | 31/8 | 2350 | 🟢South Island Line |
 | 31/8 | 2350 | 🟪Tsueng Kwan O Line |
 
+# June and July 2019
+
+[^3]
+
+| Date | Time | Station Closed |
+| ---- | ---- | -------------- |
+| 12-13/6 | 2030 | Admiralty Station |
+| 16/6 | 1402 | Tin Hau Station |
+| 16/6 | 1608 | Tin Hau Station (only to Chai Wan) |
+| 16/6 | 1608 | Causeway Bay Station (only to Chau Wan) |
+| 1/7  | 0712 | Wan Chai Station |
+| 1/7  | 0712 | Admiralty Station |
+| 14/7 | 2209 | Sha Tin Station |
+| 21/7 | 2350 | Yuen Long Station |
+| 27/7 | 1922 | Long Ping Station |
+| 28/7 | 2000 | 🟦Island Line (Sai Ying Pun to Kennedy Town) |
+
 [^1]: <https://www.mtr.com.hk/en/customer/main/ktl-service-suspension.html>
 [^2]: <https://www.tkww.hk/a/202407/23/AP669f6a26e4b0519806913b17.html> *(Chinese)*
 [^3]: <https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%B0%8D%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E4%BF%AE%E8%A8%82%E8%8D%89%E6%A1%88%E9%81%8B%E5%8B%95%E6%9C%9F%E9%96%93%E6%B8%AF%E9%90%B5%E7%9B%B8%E9%97%9C%E7%88%AD%E8%AD%B0> *(Chinese)*
