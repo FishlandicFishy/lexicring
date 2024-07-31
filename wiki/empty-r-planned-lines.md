@@ -109,8 +109,8 @@ Hung Shui Kiu    Ha Tsuen          Lau Fau Shan     Qianhai
                                     Green Transit Corridor      Hong Kong‐Shenzhen Western Rail Link
                                                     |                |
 ⭕===============⭕===============⭕===============⭕===============⭕===============⭕
-Ha Pak Nai       Sheung Pak Nai   (Unnamed)         (Unnamed)        Lau Fau Shan     Tsim Bei Tsui
-下白泥            上白泥                                               流浮山             尖鼻咀
+Ha Pak Nai       Sheung Pak Nai   (Unnamed)         Ha Tsuen         Lau Fau Shan     Tsim Bei Tsui
+下白泥            上白泥                              厦村              流浮山             尖鼻咀
 ```
 
 ## Green Transit Corridor (環保運輸走廊)
