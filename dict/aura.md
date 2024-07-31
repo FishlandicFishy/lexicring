@@ -5,7 +5,7 @@
 
 Examples:
 
-"+1,000,000 aura if you saw this on your fyp, -1,000,000 aura if someone sent this to you." (This quote is ineffective and is only meant for demonstration.)
+"+1,000,000 aura if you saw this on your fyp, -1,000,000 aura if someone sent this to you."
 
 "What's up with your aura?"
 
