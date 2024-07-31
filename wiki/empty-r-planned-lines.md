@@ -2,7 +2,7 @@
 
 This article is nearly pointless. <https://hkrail.fandom.com> is a better source.
 
-However, this map I've compiled is NOT pointless:
+However, this map I've compiled (I hereby release it under CC0) is NOT pointless:
 
 ![wdym you can't see it?](biblically-accurate-future-empty-r-map.png)
 
@@ -10,7 +10,7 @@ However, this map I've compiled is NOT pointless:
 
 ![ ](viaductaqueduct.png)
 
-Map of the East Kowloon Line. [^1][^2]
+Map of the East Kowloon Line created by me (released under CC0 where possible). [^1][^2]
 
 Also known as "Smart and Green Mass Transit System in East Kowloon"[^1], where "Smart and Green" is a greenwashing marketing ploy. Its length is approximately 7 km[^1][^2], 6 km being viaducts and 1 km being tunnels.[^1] It is estimated to cost HK$262.5 million to conduct the necessary investigation, design and site work for the line.[^1] The line may release in 2034 to 2038.[^2] A suggested Lam Tim North station may arise.[^1]
 
