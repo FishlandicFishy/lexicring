@@ -100,7 +100,7 @@ Tuen Ma Line     Tsim Bei Tsui‐Pak Nai Automated MRT System*
 ⭕===============⭕===============⭕===============⭕
 Hung Shui Kiu    Ha Tsuen          Lau Fau Shan     Qianhai
 (HSK)
-洪水橋            夏村               流浮山            前海
+洪水橋            厦村               流浮山            前海
 ```
 
 ## Tsim Bei Tsui‐Pak Nai Automated MRT System\* (尖鼻咀至白泥自動捷運系統)
