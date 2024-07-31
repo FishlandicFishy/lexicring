@@ -78,26 +78,19 @@ HKU              Queen Mary Hospital   Cyberport       Wah Fu          Tin Wan  
 香港大學           瑪麗醫院               數碼港           華富             田灣             香港仔            黃竹坑
 ```
 
-## South North Railway (南北鐵路)
+## South-North Railway (南北鐵路)
 Its length is approximately 21 km.[^13] The map below may not be accurate due to the lack of information.
 ```
-                                                                                      羅湖南
-                                                                                      Lo Wu South*
-                                                                     /================⭕
-Tsuen Wan Line, Tuen Ma Line     East Rail Line, Tuen Ma Line        ||       East Rail Line (Fanling)
-                  |                |                                 ||                ¦
-⭕===============⭕===============⭕===============⭕===============⭕===============⭕
-East Lantau*     Mei Foo           Tai Wai          Lam Tsuen*       Fanling          On Lok Tsuen*
+Tsuen Wan Line, Tuen Ma Line     East Rail Line, Tuen Ma Line        
+                  |                |                                 
+⭕===============⭕===============⭕===============⭕===============⭕
+East Lantau*     Mei Foo           Tai Wai          Lam Tsuen*       Fanling 
                  (MEF)             (TAW)                             (FAN)
-東大嶼            美孚               大圍              林村             粉嶺              安樂村
+東大嶼            美孚               大圍              林村             粉嶺             
 ```
 
 [^13][^14]
 
-Unclear station placements:
-
-* 文錦渡[^13]
-* 香園圍[^13]
 
 ## Hong Kong‐Shenzhen Western Rail Link (港深西部鐵路)
 [^15]
