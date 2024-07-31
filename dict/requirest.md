@@ -1,5 +1,5 @@
 # requirest
-## Anguish
+## Anguish English
 
 [v] simultaneous require and request, similar to toki pona "o"[^1]
 
