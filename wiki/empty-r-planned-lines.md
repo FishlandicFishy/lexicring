@@ -2,6 +2,10 @@
 
 This article is nearly pointless. <https://hkrail.fandom.com> is a better source.
 
+However, this map I've compiled is NOT pointless:
+
+![wdym you can't see it?](biblically-accurate-future-empty-r-map.png)
+
 ## East Kowloon Line (東九龍綫)
 
 ![ ](viaductaqueduct.png)
