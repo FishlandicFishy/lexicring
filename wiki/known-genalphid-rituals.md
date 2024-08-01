@@ -23,5 +23,5 @@
 * Gyattmaxxing, i.e. saying the stereotypical words (gyatt, rizz, skibidi, etc.)
   * Sometimes this gyattmaxxing is spontaneous and have no known cause
 * Suddenly doing random poses in public
-  * Most of these poses may be JoJo References(TM)
+  * Most of these poses may be JoJo References™
 * Using a fork to lift up one singular spaghetto, admire it, and then discard it by putting it into a piece of tissue
