@@ -12,14 +12,14 @@ Research on the Genalphid Language is still ongoing. Many of the words, its gram
 
 ## Phonology
 
-| Consonants  | bilabial | labiodental | alveolar | alveolo-palatal | palatal | velar | uvular | glottal |
-| ----------- | -------- | ----------- | -------- | --------------- | ------- | ----- | ------ | ------- |
-| nasal       | m        | ɱ           | n        |                 |         | ŋ     |        |         |
-| stop        | b p      |             | d t      |                 |         | ɡ k   |        | ʔ       |
-| fricative   |          | f           | s z      | ɕ               |         |       | χ      | h       |
-| tap/flap    |          |             | ɾ        |                 |         |       |        |         |
-| approximant | w        | v           |          |                 | j       | (w)   |        |         |
-| lateral     |          |             | l        |                 |         |       |        |         |
+| Consonants  | bilabial | labiodental | post-alveolar | alveolar | alveolo-palatal | palatal | velar | uvular | glottal |
+| ----------- | -------- | ----------- | ------------- | -------- | --------------- | ------- | ----- | ------ | ------- |
+| nasal       | m        | ɱ           |               | n        |                 |         | ŋ     |        |         |
+| stop        | b p      |             |               | d t      |                 |         | ɡ k   |        | ʔ       |
+| fricative   |          | f           | ʃ             | s z      | ɕ               |         | x     | χ      | h       |
+| tap/flap    |          |             |               | ɾ        |                 |         |       |        |         |
+| approximant | w        | v           |               |          |                 | j       | (w)   |        |         |
+| lateral     |          |             |               | l        |                 |         |       |        |         |
 
 | Vowels     | front | central | back |
 | ---------- | ----- | ------- | ---- |
@@ -51,6 +51,7 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˥ŋu˦ŋa˨
 * \*a˥na˥jɛs˥ta˩
 * \*a˥nɛ˨ə˩a˨˥
+* \*ax˧ʃʷa˥
 * \*a˩ʔɔ˧ʔɪ˥ja˦
 
 ### æ
