@@ -129,6 +129,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡə˥bəɪ˥
   * probably a generic exclamation
 * \*ɡi˦
+* \*ɡi˧ɡi˧ɡɛʔ˧
 * \*ɡiʊ˨səʊ˨˥ɡəb˥tsiʊ˥toʊ˩
 * \*ɡo˦di˥
 * \*ɡo˧li˧˨
