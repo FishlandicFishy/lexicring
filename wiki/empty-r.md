@@ -1,5 +1,9 @@
 # Empty R
 
+**Empty R** (Chinese: 空鐵/~~党鐵~~) refers to the MTR when its service is partially disrupted.
+
+The latter Chinese translation is political and means "Party Railway".
+
 There have been several occasions where Empty R has arisen.
 
 ## Disclaimer
