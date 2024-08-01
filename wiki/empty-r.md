@@ -4,7 +4,7 @@
 
 Its theme song and national anthem is **Greensleeves**, the same as that of the HKDSE examinations and the Hang Seng Bank.
 
-The latter Chinese translation is political and means "Party Railway".
+The latter Chinese translation is political and means "(Political) Party Railway".
 
 There have been several occasions where Empty R has arisen.
 
