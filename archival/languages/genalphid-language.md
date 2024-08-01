@@ -90,6 +90,7 @@ Below is a list of terms of the Genalphid language.
 * \*dɑː˦dɑː˧
   * presumably "(to) return west" based on context
 * \*da˧.zi˥.m̩˩.ji˥
+* \*dɛ˧dɛ˥bɛ˦ja˨
 * \*dəd˨dəd˨də˥
   * rhythmic: (4/4) `|♫♩♫♩|`
   * often repeated multiple times
@@ -192,6 +193,7 @@ Below is a list of terms of the Genalphid language.
 
 ### l
 
+* \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
 * \*lɛɪ˧lɛɪ˧sa˧
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
@@ -231,6 +233,7 @@ Below is a list of terms of the Genalphid language.
   * same tone
 * \*næ̃˥næ̃˦næ̃˨
   * descending and nasalised
+* \*nɛ˨ji˥ji˥ja˨˥
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
 * \*nʲa˩nʲa˧nʲa˥
   * possibly imitating an Undertale food item?
@@ -259,6 +262,7 @@ Below is a list of terms of the Genalphid language.
 * \*oɪ˥da˧ju˩
 * \*oɪ˨˦jaː˥˧
 * \*oɪ˨ŋaː˦˥
+* \*o˨ma˥sɔ˧ja˦˥
 * \*o˨ɱŋʲaj˧
 * \*o˨˥ŋa˨˥jɛ˨˥
 * \*oʊ˨wan˧ʔi˥˨
