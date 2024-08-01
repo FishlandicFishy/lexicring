@@ -1,4 +1,4 @@
 # copa
 ## toki pono
 
-[n] copper
+[n] attempt to make copper a word in toki pona
