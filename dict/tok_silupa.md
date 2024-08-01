@@ -1,4 +1,4 @@
 # silupa
 ## toki pono
 
-[n] attempt to make silver a word
+[n] attempt to make silver a word in toki pona
