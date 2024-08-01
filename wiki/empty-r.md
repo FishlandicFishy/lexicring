@@ -2,6 +2,8 @@
 
 **Empty R** (Chinese: 空鐵/~~党鐵~~) refers to the MTR when its service is partially disrupted.
 
+Its theme song and national anthem is **Greensleeves**.
+
 The latter Chinese translation is political and means "Party Railway".
 
 There have been several occasions where Empty R has arisen.
