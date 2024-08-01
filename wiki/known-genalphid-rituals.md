@@ -11,6 +11,8 @@
 * Dance in groups in the most out-of-place locations
   * An example of this would be a dark corner in a shopping mall
 * Walk in inconsistent speeds, blocking the road
+* Intentionally coughing when next to another person
+  * This is especially prevalent when they are wearing a "crown"
 * Praying to skibidi
 * Edging to skibidi
 * Getting inside a toilet and watching Cocom\*lon
