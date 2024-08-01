@@ -2,7 +2,7 @@
 
 **Empty R** (Chinese: 空鐵/~~党鐵~~) refers to the MTR when its service is partially disrupted.
 
-Its theme song and national anthem is **Greensleeves**.
+Its theme song and national anthem is **Greensleeves**, the same as that of the HKDSE examinations and the Hang Seng Bank.
 
 The latter Chinese translation is political and means "Party Railway".
 
