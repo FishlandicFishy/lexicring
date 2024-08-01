@@ -40,6 +40,7 @@ Below is a list of terms of the Genalphid language.
 * \*ãː˧˥
 * \*a˨ʔa˧
 * \*a˥ʔa˦˥ma˦ma˥
+* \*a˧ha˥mi˨
 * \*aɪ˧bu˥
 * \*a˥ma˨˥
   * exclamation
@@ -106,6 +107,7 @@ Below is a list of terms of the Genalphid language.
 ### ə
 
 * \*ə˦
+* \*ə˨˥ʔə˨˥ja˧
 * \*ə˥lɛ˥
   * exclamation
   * often repeated multiple times
