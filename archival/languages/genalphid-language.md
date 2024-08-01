@@ -104,6 +104,9 @@ Below is a list of terms of the Genalphid language.
 ### ə
 
 * \*ə˦
+* \*ə˥lɛ˥
+  * exclamation
+  * often repeated multiple times
 
 ### ɛ
 
