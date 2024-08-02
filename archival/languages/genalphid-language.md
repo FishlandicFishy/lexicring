@@ -379,4 +379,12 @@ Below is a list of terms of the Genalphid language.
 
 ## Grammar
 
-There are a few cases documented where emotion is expressed through language. For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*wa˥ɛ˨ carries a neutral emotion while \*wa˥y˥li˥da˩ has an unidentified emotion.
+### Emotive language
+
+There are a few cases documented where emotion is expressed through language.
+
+For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*wa˥ɛ˨ carries a neutral emotion while \*wa˥y˥li˥da˩ has an unidentified emotion.
+
+### m̩-prefix
+
+The purpose of the prefix `m̩-` is currently unknown.
