@@ -387,4 +387,6 @@ For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*w
 
 ### m̩-prefix
 
-The purpose of the prefix `m̩-` is currently unknown.
+The purpose of the prefix `m̩-` is currently unknown. It is known that this prefix is occasionally dropped in some sentence patterns.
+
+Such instances will be documented with brackets.
