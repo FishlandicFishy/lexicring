@@ -1,4 +1,4 @@
-# Genalphid Language
+ # Genalphid Language
 
 <b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>.
 
@@ -251,7 +251,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*(m̩)a˨˥ma˨
 * \*(m̩)aɱ˥ʔaɱ˥
-  * Hung Hom
+  * [Hung Hom](https://en.m.wikipedia.org/wiki/Hung_Hom), especially [its station](https://en.m.wikipedia.org/wiki/Hung_Hom_station)
 * \*(m̩)a˥tʃuʔ˩
   * onomatopeia of sneezing? (~"achoo")
 * \*(m̩)ɲam˥
