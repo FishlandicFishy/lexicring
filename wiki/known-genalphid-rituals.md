@@ -6,6 +6,7 @@
   * Often their head moves as well
   * Often such singing will get more intense when observed by others
 * Singing "chipi chipi chapa chapa" in public transport while dancing
+* Suddenly lying down in public transport, occupying two seats
 * Dancing while talking
   * Colloquially known as "throwing tantrums"
 * Dance in groups in the most out-of-place locations
