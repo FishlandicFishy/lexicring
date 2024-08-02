@@ -398,7 +398,7 @@ Such instances will be documented with brackets.
 
 ### Emotive language indicated by suffixes
 
-The suffix `-˥ɛ˨` may indicate a neutral emotion and the suffix `-˥y˥li˥da˩` may indicate the "begging/desperate" emotion.
+The suffix `-ɛ˨` may indicate a neutral emotion and the suffix `-y˥li˥da˩` may indicate the "begging/desperate" emotion.
 
 ### Meaning of the m̩-prefix
 
