@@ -70,6 +70,9 @@ Below is a list of terms of the Genalphid language.
 
 ### b
 
+* \*ba˨ba˨ba˨ba˨ba˨ba˨
+  * often repeated multiple times
+  * probably related to \*bæb˥bæ˧bæ˩bæb˨ and \*bi˥bi˥bib˥
 * \*bæb˥bæ˧bæ˩bæb˨
   * more than one recorded usage
   * often repeated multiple times
