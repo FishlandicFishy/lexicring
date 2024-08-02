@@ -104,7 +104,7 @@ Below is a list of terms of the Genalphid language.
   * could be related to \*doʊ˨˥
 * \*di˦di˨jɑː˨
 * \*dɛn˥do˨
-  * onomatopoeia of an Empty R door opening ([best example I could find](https://youtube.be/OHxxUuREqbc))
+  * onomatopoeia of an Empty R door opening ([best example I could find](https://youtu.be/OHxxUuREqbc))
   * often repeated multiple times
   * synonym of \*dɪŋ˥doʊ˨
   * antonym of \*dy˨dy˨dyd˨
