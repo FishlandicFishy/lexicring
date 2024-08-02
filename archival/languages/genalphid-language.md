@@ -390,3 +390,20 @@ For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*w
 The purpose of the prefix `m̩-` is currently unknown. It is known that this prefix is occasionally dropped in some sentence patterns.
 
 Such instances will be documented with brackets.
+
+## Proposals
+
+> [!IMPORTANT]  
+> These are mere guesses and may not reflect reality.
+
+### Emotive language indicated by suffixes
+
+The suffix `-˥ɛ˨` may indicate a neutral emotion and the suffix `-˥y˥li˥da˩` may indicate the "begging/desperate" emotion.
+
+### Meaning of the m̩-prefix
+
+The prefix `m̩-` may be used to indicate a certain type of exclamation. However many exclamations do not follow this rule.
+
+### Pronunciations are not set in stone
+
+The pronunciation of a word can vary.
