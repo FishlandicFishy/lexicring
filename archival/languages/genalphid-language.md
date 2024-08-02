@@ -46,12 +46,16 @@ Below is a list of terms of the Genalphid language.
   * exclamation
   * more than one reported usage
 * \*aː˧maː˨maː˥
+* \*aɪ˥ɛ˨
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*a˨ŋʲa˦
 * \*aɪ˥ŋaɪ˨
 * \*aɪ˥ŋu˦ŋa˨
+* \*a˨ja˥dɛ˨
+* \*a˨ma˥nɛ˩
 * \*a˥na˥jɛs˥ta˩
 * \*a˥nɛ˨ə˩a˨˥
+* \*aʊ˨˥aɪ˨
 * \*ax˧ʃʷa˥
 * \*a˩ʔɔ˧ʔɪ˥ja˦
 
@@ -84,6 +88,7 @@ Below is a list of terms of the Genalphid language.
 
 ### d
 
+* \*da˥ꜛda˥ꜛ
 * \*da˥dɛ˥ho˥lɛ˩
 * \*daɪ˨tɕʲɛ˦
 * \*dɑː˨dɑː˧dɑː˦
@@ -98,11 +103,23 @@ Below is a list of terms of the Genalphid language.
 * \*də˧.doʊ˧˥.bɔ˧
   * could be related to \*doʊ˨˥
 * \*di˦di˨jɑː˨
+* \*dɛn˥do˨
+  * onomatopoeia of a door opening
+  * often repeated multiple times
+  * synonym of \*dɪŋ˥doʊ˨
+  * antonym of \*dy˨dy˨dyd˨
+* \*dɪŋ˥doʊ˨
+  * onomatopoeia of a door opening
+  * often repeated multiple times
+  * synonym of \*dɛn˥do˨
+  * antonym of \*dy˨dy˨dyd˨
 * \*doʊ˨˥
 * \*doʊ˨˥ʔa˨
   * could be related to \*doʊ˨˥
 * \*dy˨dy˨dyd˨
+  * onomatopoeia of a door closing
   * often repeated multiple times
+  * antonym of \*dɛn˥do˨ and \*dɪŋ˥doʊ˨
 
 ### ə
 
@@ -122,6 +139,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɛɪ˥saʔ˥da˧jɔ˥
 * \*ɛl˥ji˨
 * \*ɛ˨man˧ŋu˥
+* \*ɛ˨mə˨zoʊ˩a˨
 * \*ɛ˥mi˨da˧
 * \*ɛ˨mi˥to˥dad˥di˨˥
 * \*ɛ˥ŋa˥ŋa˨˥
@@ -129,6 +147,9 @@ Below is a list of terms of the Genalphid language.
 
 ### f
 
+* \*fan˨˥sə˩la˨
+* \*fɛɪ˧ɡɛɪ˧ɡɛɪ˥
+  * aeroplane/airplane
 * \*foʊ˥.saʊ˨˥
 
 ### ɡ
@@ -145,6 +166,7 @@ Below is a list of terms of the Genalphid language.
 
 ### h
 
+* \*haɪ˨lu˥˩
 * \*ha˨˥la˥ho˨˥lɔ˨
   * suspiciously similar to \*hoʊ˥la˥hoʊ˥la˨
 * \*ha˥˨sa˨˥va˩
@@ -171,6 +193,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
 * \*i˥ʔi˧lɛ˧
 * \*i˧ja˥ji˧ɡɐ˧za˥
+* \*i˥juː˩
 * \*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥
 
 ### j
@@ -195,6 +218,7 @@ Below is a list of terms of the Genalphid language.
 
 ### l
 
+* \*la˥˩ha˨˥mɛɪ˨˥doʊ˥˩ʔa˩
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
 * \*lɛɪ˧lɛɪ˧sa˧
 * \*lək˨sɛk˨tɕʲɛ˨˥
@@ -223,12 +247,22 @@ Below is a list of terms of the Genalphid language.
 * \*mi˨tɕʲi˥
 * \*mɔ˨mɔ˥mɔ˨mo˩
 
+### m̩
+
+* \*(m̩)a˨˥ma˨
+* \*(m̩)aɱ˥ʔaɱ˥
+  * Hung Hom
+* \*(m̩)a˥tʃuʔ˩
+  * onomatopeia of sneezing? (~"achoo")
+* \*(m̩)ɲam˥
+
 ### n
 
 * \*na˥fɛɪ˥ja˨
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
+* \*na˥o˩la˨
 * \*na˨tu˨ha˥bɔ˥lan˩ʔa˩
   * possibly related to Poland?
 * \*næ˦næ˦næ˦
@@ -287,6 +321,7 @@ Below is a list of terms of the Genalphid language.
 * \*saɪ˥ɡɔ˧jy˧˥a˧
 * \*sæn˥ky˩
   * likely "thank you"
+* \*sə˧tsə˨ma˨
 * \*si˨bo˥bo˧
 
 ### t
@@ -329,6 +364,8 @@ Below is a list of terms of the Genalphid language.
 ### z
 
 * \*za˨ki˥
+* \*zə˨mə˨taɪ˥ɕʲa˥
+* \*zʲa˨˥mu˨la˨
 * \*ziː˨˦
 
 ## Documented phrases
