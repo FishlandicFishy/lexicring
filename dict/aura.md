@@ -1,7 +1,7 @@
 # aura
 ## Genalphid English
 
-1. [n] One's appearance, or an arbitrary counter determining one's hierarchy. Roughly synonymous with [gyatt level](gyatt-level.md) or [rizz](rizz.md).
+1. [n] One's appearance, or an arbitrary counter determining one's hierarchy. Roughly synonymous with [gyatt level](gyatt.md) or [rizz](rizz.md).
 
 Examples:
 
