@@ -13,7 +13,7 @@
 
 2. [v] Using charisma.
 
-3. [n] A permanent status in which one would never be approached by someone with two X chromosomes.
+3. [n] A permanent status in which one would never be approached by someone with two X chromosomes, as quoted from Google AI.[^1]
 
 Example:
 
@@ -21,7 +21,4 @@ Example:
 
 4. [n, v] Codeword for selling illegal substances. I do not condone this.
 
-
-
-
-
+[^1]: <https://youtu.be/m3YoWW-D6FM>c
