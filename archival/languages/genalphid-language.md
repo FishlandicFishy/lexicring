@@ -365,6 +365,7 @@ Below is a list of terms of the Genalphid language.
 * \*wa˥y˥li˥da˩
   * "what is this?" with an emotional undertone
 * \*wæ˨˥ꜛ
+* \*wo˩tɛ˥ꜛpaʊ˩
 * \*wu˩aː˥˩
 * \*wu˨˥shi˥˩
 
