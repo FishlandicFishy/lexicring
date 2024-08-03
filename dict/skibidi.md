@@ -6,7 +6,7 @@
 
 (-daɪ)
 
-Also "skibid" and "s" (in "s-toilet").
+Also "skibid" and "s" (in "s-toilet"). Both of these are used as algospeak.
 
 1. [adj, n] Brainrot toilet.
 
