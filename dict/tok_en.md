@@ -2,7 +2,7 @@
 ## toki pona
 
 1. [particle] Separates multiple objects.[^1]
-2. [particle] (nasin kijetesantakalu, an April Fools syntax proposal for toki pona) Subject marker that is omitted at the beginning of a sentence.
+2. [particle] (nasin kijetesantakalu[^2], an April Fools syntax proposal for toki pona) Subject marker that is omitted at the beginning of a sentence.
 
 Examples:
 * **SVO: mi moku e kili.** (SVO is the only official word order in toki pona)
