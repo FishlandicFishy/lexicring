@@ -9,8 +9,10 @@ Examples:
 
 "What's up with your aura?"
 
-2. [n] Slang term used by criminals to describe the number of warrants that are out for their arrest, as quoted by Google AI.
+2. [n] Slang term used by criminals to describe the number of warrants that are out for their arrest, as quoted by Google AI.[^1]
 
 Example:
 
 "I have 50 aura." (= "I have 50 warrants out for my arrest")
+
+[^1]: <https://youtu.be/3fYzwaxhVzU>
