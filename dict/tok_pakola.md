@@ -1,14 +1,18 @@
 # pakola
 ## toki pono
 
-Misspelling of pakala.
+Misspelling of pakala.[^1]
 
 ## toki pona
 
-Broken beyond repair, worse than pakala.
+1. Broken beyond repair, worse than pakala.[^3]
+2. As broken as the HAI video on toki pona.[^2]
 
 ## English
 
-Pakistani soda brand, derived from Pakistan-Cola.[^1]
+Pakistani soda brand, derived from Pakistan-Cola.[^4]
 
-[^1]: <https://en.m.wikipedia.org/wiki/Pakola>
+[^1]: <https://linku.la/words/pakola>
+[^2]: <https://www.reddit.com/r/tokipona/comments/zn3ara/comment/j0j747p>
+[^3]: <https://www.reddit.com/r/tokipona/comments/zn3ara/comment/kgd4xh1>
+[^4]: <https://en.m.wikipedia.org/wiki/Pakola>
