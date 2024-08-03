@@ -7,7 +7,7 @@ Example:
 
 "He got lit sturdy."
 
-2. [adj] Hardening questionably.
+2. [adj] A certain body part hardening due to questionable thoughts.
 
 Example:
 
