@@ -340,6 +340,7 @@ Below is a list of terms of the Genalphid language.
   * presumably an honorific title to an MTR train; see T Chai
 * \*tɔt˥ti˩
   * chopsticks
+* \*tsi˨˥
 * \*tsjæ˨˥na˨
 
 ### u
