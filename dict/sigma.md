@@ -21,7 +21,7 @@ Example:
 
 Bro dosent even have 14 cars."
 
-3. [n, v, adj] Being wanted in 7 states for vehicular manslaughter.
+3. [n, v, adj] Being wanted in 7 states for vehicular manslaughter, as quoted from Google AI.[^1]
 
 Example:
 
@@ -37,8 +37,4 @@ See also:
 
 <a href="skibidi.md">skibidi</a>
 
-
-
-
-
-
+[^1]: <https://youtu.be/E2dp-LHAI7o>
