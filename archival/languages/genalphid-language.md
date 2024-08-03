@@ -52,6 +52,8 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˥ŋaɪ˨
 * \*aɪ˥ŋu˦ŋa˨
 * \*a˨ja˥dɛ˨
+* \*a˩lɔ˥ly˥
+  * "ily" (see \*lɔ˥)
 * \*a˨ma˥nɛ˩
 * \*a˥na˥jɛs˥ta˩
 * \*a˥nɛ˨ə˩a˨˥
@@ -230,6 +232,8 @@ Below is a list of terms of the Genalphid language.
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
 * \*lja˨˥o˨ly˥tɕi˨˥
+* \*lɔ˥
+  * v. "love" (see \*a˩lo˥ly˥)
 * \*loʊ˥ːa˧ː
 
 ### m
