@@ -1,7 +1,7 @@
 # aura
 ## Genalphid English
 
-1. [n] One's appearance, or an arbitrary counter determining one's hierarchy. Roughly synonymous with gyatt level or rizz.
+1. [n] One's appearance, or an arbitrary counter determining one's hierarchy. Roughly synonymous with [gyatt level](gyatt-level.md) or [rizz](rizz.md).
 
 Examples:
 
@@ -9,7 +9,7 @@ Examples:
 
 "What's up with your aura?"
 
-2. [n] Slang term used by criminals to describe the number of warrants that are out for their arrest.
+2. [n] Slang term used by criminals to describe the number of warrants that are out for their arrest, as quoted by Google AI.
 
 Example:
 
