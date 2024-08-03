@@ -264,6 +264,7 @@ Below is a list of terms of the Genalphid language.
 ### n
 
 * \*na˥fɛɪ˥ja˨
+* \*nai˨˥fɔ˥˩
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
