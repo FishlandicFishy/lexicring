@@ -21,3 +21,7 @@ Example:
 
 * gyatt level: Level 5 Gyatt is the highest level.
 * gyattmeister: Someone with a Level 5 Gyatt.
+
+5. Slang for having three bodies buried in one's backyard, as quoted from Google AI.[^1]
+
+[^1]: <https://youtu.be/JIeBS-ij50c>
