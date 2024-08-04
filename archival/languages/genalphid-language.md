@@ -157,6 +157,8 @@ Below is a list of terms of the Genalphid language.
 * \*fan˨˥sə˩la˨
 * \*fɛɪ˧ɡɛɪ˧ɡɛɪ˥
   * aeroplane/airplane
+* \*fɛɪ˨taʊ˥˩
+  * accompanied by repeating \*tu˨
 * \*foʊ˥.saʊ˨˥
 
 ### ɡ
@@ -296,6 +298,8 @@ Below is a list of terms of the Genalphid language.
 * \*ŋɛɪ˨gɛ˨jɑ˨˥
 * \*ŋʲap˦˥
   * probably onomatopoeia for duck quacking
+* \*ŋɔ˨˥tsɛ˥
+  * prefix to form certain sentences
 * \*ŋo˨˥da˨˥da˨˥
 * \*ŋu˨ŋi˥
 
@@ -415,6 +419,10 @@ The suffix `-ɛ˨` may indicate a neutral emotion and the suffix `-y˥li˥da˩` 
 ### Meaning of the m̩-prefix
 
 The prefix `m̩-` may be used to indicate a certain type of exclamation. However many exclamations do not follow this rule.
+
+### Meaning of the \*ŋɔ˨˥tsɛ˥-prefix
+
+The prefix `ŋɔ˨˥tsɛ˥-` may be used to form sentences relating to trains.
 
 ### Pronunciations are not set in stone
 
