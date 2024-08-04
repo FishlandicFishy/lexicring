@@ -241,6 +241,8 @@ Below is a list of terms of the Genalphid language.
 * \*lɔ˥
   * v. (platonic) "love" (see \*a˩lo˥ly˥)
 * \*loʊ˥ːa˧ː
+* \*loʊ˥˩ha˧˩
+  * response: "let's just go home"
 
 ### m
 
@@ -313,6 +315,7 @@ Below is a list of terms of the Genalphid language.
 * \*o˥ɛ˧
 * \*o˦ɡɛ˥ɡa˧ni˨
 * \*o˨˥ɡo˧ho˧bi˥
+* \*ɔ˨he˥lo˩ɡo˧ʔa˩
 * \*oɪ˥da˧ju˩
 * \*oɪ˨˦jaː˥˧
 * \*oɪ˨ŋaː˦˥
