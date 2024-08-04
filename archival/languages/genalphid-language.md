@@ -180,6 +180,7 @@ Below is a list of terms of the Genalphid language.
   * suspiciously similar to \*hoʊ˥la˥hoʊ˥la˨
 * \*ha˥˨sa˨˥va˩
 * \*ha˦˥ꜛtʃu˧i˩
+* \*haʊ˥wa˩
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*hɛɪ˥hɛɪ˥
 * \*hid˥hid˥dən˩dən˩dən˩
@@ -188,6 +189,7 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
 * \*ho˨daɪ˥ɡo˩
 * \*hɔ˨˥ɡit˨tsən˥mɛɪ˥jɔ˥
+* \*hɔɪ˥kɔk˥
 * \*hoʊ˥la˥hoʊ˥la˨
   * often repeated multiple times
 
