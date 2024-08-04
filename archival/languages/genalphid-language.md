@@ -333,6 +333,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*ɔː˦˧
 * \*ɔ˥laɪ˨
+* \*ɔ˨˥lɔ˩wa˨˥
 * \*ɔ˥za˨hoi˩
 * \*ɔ˨˥zɪ˨kʲa˨˥na˨
 
