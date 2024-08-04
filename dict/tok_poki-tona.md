@@ -1,5 +1,8 @@
 # poki tona
 
+## sitelen pona
+![poki-tona](https://github.com/user-attachments/assets/b65e1370-96fd-4220-89f2-69c40310b16c)
+
 ## toki pona
 
 See <https://sona.pona.la/wiki/poki_tona>
