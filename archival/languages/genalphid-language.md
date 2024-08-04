@@ -250,6 +250,8 @@ Below is a list of terms of the Genalphid language.
 
 ### m
 
+* \*ma˩
+  * sometimes a prefix followed by \*mɔ˩wɔ˨˥
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*ma˥nɔ˧nɪŋ˥nɪŋ˥a˧˨
@@ -267,6 +269,7 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
 * \*mi˨tɕʲi˥
 * \*mɔ˨mɔ˥mɔ˨mo˩
+* \*mɔ˩wɔ˨˥
 
 ### m̩
 
@@ -345,6 +348,7 @@ Below is a list of terms of the Genalphid language.
 
 ### s
 * \*saɪ˥ɡɔ˧jy˧˥a˧
+* \*sam˥hɔʔ˨
 * \*sæn˥ky˩
   * likely "thank you"
 * \*sə˧tsə˨ma˨
