@@ -401,12 +401,6 @@ There are a few cases documented where emotion is expressed through language.
 
 For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*wa˥ɛ˨ carries a neutral emotion while \*wa˥y˥li˥da˩ has an unidentified emotion.
 
-### m̩-prefix
-
-The purpose of the prefix `m̩-` is currently unknown. It is known that this prefix is occasionally dropped in some sentence patterns.
-
-Such instances will be documented with brackets.
-
 ## Proposals
 
 > [!IMPORTANT]  
@@ -417,6 +411,8 @@ Such instances will be documented with brackets.
 The suffix `-ɛ˨` may indicate a neutral emotion and the suffix `-y˥li˥da˩` may indicate the "begging/desperate" emotion.
 
 ### Meaning of the m̩-prefix
+
+It is known that this prefix is occasionally dropped in some sentence patterns.
 
 The prefix `m̩-` may be used to indicate a certain type of exclamation. However many exclamations do not follow this rule.
 
