@@ -52,6 +52,7 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˥ŋaɪ˨
 * \*aɪ˥ŋu˦ŋa˨
 * \*a˨ja˥dɛ˨
+* \*a˥laʊː˧
 * \*a˩lɔ˥ly˥
   * (platonic) "ily" (see \*lɔ˥)
 * \*a˨ma˥nɛ˩
@@ -235,6 +236,7 @@ Below is a list of terms of the Genalphid language.
 * \*laʊ˨la˥˩
   * Judy Hopps from the infamous furbait "Zootopia"
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
+* \*laʊ˧sam˥zaʊ˥
 * \*lɛɪ˧lɛɪ˧sa˧
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
