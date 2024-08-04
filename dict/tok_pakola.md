@@ -1,4 +1,7 @@
 # pakola
+## sitelen pona
+![pakola](https://github.com/user-attachments/assets/0bbca0dd-8408-4fdb-85d0-a83f83d6b27e)
+
 ## toki pono
 
 Misspelling of pakala.[^1]
