@@ -228,6 +228,8 @@ Below is a list of terms of the Genalphid language.
 ### l
 
 * \*la˥˩ha˨˥mɛɪ˨˥doʊ˥˩ʔa˩
+* \*laʊ˨la˥˩
+  * Judy Hopps from the infamous furbait "Zootopia"
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
 * \*lɛɪ˧lɛɪ˧sa˧
 * \*lək˨sɛk˨tɕʲɛ˨˥
