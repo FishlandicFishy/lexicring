@@ -1,7 +1,7 @@
 ---
 name: Legal
 about: For legal reasons
-title: 'Important:'
+title: '[Important]'
 labels: for-legal-reasons
 assignees: FishlandicFishy
 
