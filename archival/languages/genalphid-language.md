@@ -441,4 +441,4 @@ The prefix `ŋɔ˨˥tsɛ˥-` may be used to form sentences relating to trains.
 
 ### Pronunciations are not set in stone
 
-The pronunciation of a word can vary.
+The pronunciation of a word can vary. This means that some entries can be unified.
