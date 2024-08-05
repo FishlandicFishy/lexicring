@@ -294,6 +294,8 @@ Below is a list of terms of the Genalphid language.
   * same tone
 * \*næ̃˥næ̃˦næ̃˨
   * descending and nasalised
+* \*nɛ˥ɡə˥ji˥ɡə˨
+* \*nɛ˥ɡɛ˥ɡə˨˥ɡə˨˥jiʊ˩a˥
 * \*nɛ˨ji˥ji˥ja˨˥
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
 * \*nʲa˩nʲa˧nʲa˥
