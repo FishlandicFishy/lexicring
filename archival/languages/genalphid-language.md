@@ -457,6 +457,14 @@ The prefix `m̩-` may be used to indicate a certain type of exclamation. However
 
 The prefix `ŋɔ˨˥tsɛ˥-` may be used to form sentences relating to trains.
 
+### Big difference between \*dɑː˨dɑː˧dɑː˦ ("I want my dad to") and \*saɪ˨lɪk˨ ("I want")?
+
+May be caused by different borrowings.
+
+`dɑː˨dɑː˧dɑː˦` may be native. It is unknown where the "my dad" part in this phrase is.
+
+`saɪ˨lɪk˨` may be borrowed from Cantonese though how it came to be is unknown (perhaps 勢力 "power"?)
+
 ### Pronunciations are not set in stone
 
 The pronunciation of a word can vary. This means that some entries can be unified.
