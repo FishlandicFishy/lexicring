@@ -26,5 +26,7 @@ Example:
 
 6. [adj] Great[^2]
 
+7. [n] Someone with a Level 5 Gyatt.
+
 [^1]: <https://youtu.be/JIeBS-ij50c>
 [^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
