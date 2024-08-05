@@ -24,4 +24,7 @@ Example:
 
 5. Slang for having three bodies buried in one's backyard, as quoted from Google AI.[^1]
 
+6. [adj] Great[^2]
+
 [^1]: <https://youtu.be/JIeBS-ij50c>
+[^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
