@@ -5,9 +5,9 @@ I spent way too much time on [the archive of the Genalphid language](/archival/l
 
 ---
 
-* [Encyclopedia](/wiki)
-* [Archival](/archival)
-* [Dictionary](/dict)
+* [Encyclopedia](wiki)
+* [Archival](archival)
+* [Dictionary](dict)
 
 ---
 
