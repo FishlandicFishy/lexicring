@@ -21,4 +21,7 @@ Example:
 
 4. [n, v] Codeword for selling illegal substances. I do not condone this.
 
-[^1]: <https://youtu.be/m3YoWW-D6FM>c
+5. [v] Love, like.[^2]
+
+[^1]: <https://youtu.be/m3YoWW-D6FM>
+[^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
