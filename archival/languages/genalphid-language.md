@@ -139,9 +139,9 @@ Below is a list of terms of the Genalphid language.
 * \*ə˥lɛ˥
   * exclamation
   * often repeated multiple times
-* \*ə˨pɔ˨˥saɪ˨lɪk˨ɡɛɪ˨˥ɡaʊ˩jaʊ˩
-  * "I want a few pieces of this"
-  * \*ɡɛɪ˨˥ɡaʊ˩ means "a few pieces" borrowed from Cantonese
+* \*ə˨pɔ˨˥
+  * grandma
+  * borrowed from Cantonese "阿婆"
 
 ### ɛ
 
@@ -173,6 +173,10 @@ Below is a list of terms of the Genalphid language.
 
 * \*ɡa˥bʲɛ˨˥xʲa˥ji˨zœ˨
 * \*ɡa˥zi˩ba˥
+* \*ɡɛɪ˨˥ɡaʊ˩jaʊ˩
+  * "a few pieces of this"
+  * \*ɡɛɪ˨˥ɡaʊ˩ means "a few pieces" borrowed from Cantonese "幾舊"
+  * \*jaʊ˩ meaning unknown
 * \*ɡə˥bəɪ˥
   * probably a generic exclamation
 * \*ɡi˦
@@ -362,6 +366,8 @@ Below is a list of terms of the Genalphid language.
 
 ### s
 * \*saɪ˥ɡɔ˧jy˧˥a˧
+* \*saɪ˨lɪk˨
+  * "I want"
 * \*sam˥hɔʔ˨
 * \*sæn˥ky˩
   * likely "thank you"
@@ -417,7 +423,7 @@ Below is a list of terms of the Genalphid language.
 ## Documented phrases
 
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
-* \*ə˨pɔ˨˥saɪ˨lɪk˨ɡɛɪ˨˥ɡaʊ˩jaʊ˩ "I want a few pieces of this"
+* \*ə˨pɔ˨˥ saɪ˨lɪk˨ ɡɛɪ˨˥ɡaʊ˩jaʊ˩ "Grandma, I want a few pieces of this"
 * \*noʊ˥vɛɪ˥˩ "no way"
 * \*ɔː˦˧ χː χː (unknown)
 * \*sæn˥ky˩ "thank you"
