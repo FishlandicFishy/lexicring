@@ -21,6 +21,8 @@ Example:
 
 "Skibidi rizz" (= "charisma" through committing tax fraud)
 
+3. (accusative connector)[^2]
+
 See also:
 
 <a href="cameraman.md">cameraman</a>
@@ -30,8 +32,4 @@ See also:
 
 <a href="sigma.md">sigma</a>
 
-
-
-
-
-
+[^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
