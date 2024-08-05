@@ -19,7 +19,7 @@ Example:
 
 4. [n] The part Definition 2 is referring to.
 
-* gyatt level: Level 5 Gyatt is the highest level.
+* gyatt level: Level 5 Gyatt is the highest level. Level 10 Gyatt is hypothetical.
 * gyattmeister: Someone with a Level 5 Gyatt.
 
 5. Slang for having three bodies buried in one's backyard, as quoted from Google AI.[^1]
