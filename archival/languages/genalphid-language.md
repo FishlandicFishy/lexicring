@@ -417,7 +417,7 @@ Below is a list of terms of the Genalphid language.
 ## Documented phrases
 
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
-* \*\*ə˨pɔ˨˥saɪ˨lɪk˨ɡɛɪ˨˥ɡaʊ˩jaʊ˩ "I want a few pieces of this"
+* \*ə˨pɔ˨˥saɪ˨lɪk˨ɡɛɪ˨˥ɡaʊ˩jaʊ˩ "I want a few pieces of this"
 * \*noʊ˥vɛɪ˥˩ "no way"
 * \*ɔː˦˧ χː χː (unknown)
 * \*sæn˥ky˩ "thank you"
