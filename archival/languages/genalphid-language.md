@@ -447,6 +447,8 @@ For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*w
 
 The suffix `-ɛ˨` may indicate a neutral emotion and the suffix `-y˥li˥da˩` may indicate the "begging/desperate" emotion.
 
+What does `wa˥` mean then? "What is this" in an undefined emotion?
+
 ### Meaning of the m̩-prefix
 
 It is known that this prefix is occasionally dropped in some sentence patterns.
