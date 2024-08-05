@@ -1,4 +1,4 @@
- gf # Genalphid Language
+# Genalphid Language
 
 <b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>.
 
