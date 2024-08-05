@@ -297,6 +297,9 @@ Below is a list of terms of the Genalphid language.
   * descending and nasalised
 * \*nɛ˥ɡə˥ji˥ɡə˨
 * \*nɛ˥ɡɛ˥ɡə˨˥ɡə˨˥jiʊ˩a˥
+* \*nɛ˥ja˨nɛ˥ja˨du˦˩
+  * "this one"
+  * usually followed by "I want this one"
 * \*nɛ˨ji˥ji˥ja˨˥
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
 * \*nʲa˩nʲa˧nʲa˥
