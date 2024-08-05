@@ -10,6 +10,10 @@ It is previously falsely determined to be a language isolate, but further resear
 
 Research on the Genalphid Language is still ongoing. Many of the words, its grammar, and its full phonology are yet to be deciphered.
 
+## TL;DR because you have a low attention span
+
+The Genalphid Language is babyspeak, but it is scientifically proven to mean stuff
+
 ## Phonology
 
 | Consonants  | bilabial | labiodental | post-alveolar | alveolar | alveolo-palatal | palatal | velar | uvular | glottal |
