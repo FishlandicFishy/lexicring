@@ -27,6 +27,8 @@ Example:
 
 "I'm so sigma."
 
+4. Person[^2]
+
 See also:
 
 [alpha](alpha.md)
@@ -38,3 +40,4 @@ See also:
 <a href="skibidi.md">skibidi</a>
 
 [^1]: <https://youtu.be/E2dp-LHAI7o>
+[^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
