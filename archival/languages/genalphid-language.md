@@ -45,27 +45,33 @@ Below is a list of terms of the Genalphid language.
 * \*a˨ʔa˧
 * \*a˥ʔa˦˥ma˦ma˥
 * \*a˧ha˥mi˨
-* \*aɪ˧bu˥
-* \*a˥ma˨˥
-  * exclamation
-  * more than one reported usage
-* \*aː˧maː˨maː˥
-* \*aɪ˥ɛ˨
-* \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
-* \*a˨ŋʲa˦
-* \*aɪ˥ŋaɪ˨
-* \*aɪ˥ŋu˦ŋa˨
 * \*a˨ja˥dɛ˨
 * \*a˥laʊː˧
 * \*a˩lɔ˥ly˥
   * (platonic) "ily" (see \*lɔ˥)
+* \*a˥ma˨˥
+  * exclamation
+  * more than one reported usage
+* \*aː˧maː˨maː˥
 * \*a˨ma˥nɛ˩
+* \*a˥mjɛn˥˨la˨˥di˨˥
 * \*a˥na˥jɛs˥ta˩
 * \*a˥nɛ˨ə˩a˨˥
+* \*a˨ŋʲa˦
+* \*a˨˥ɲaʊ˥˨
+* \*a˩ʔɔ˧ʔɪ˥ja˦
+* \*a˥za˧da˨ʔi˥da˧
+* \*a˨za˨ji˥
+* \*a˨za˨˥ku˨˥zã˨
+* \*aɪ˧bu˥
+* \*aɪ˥ɛ˨
+* \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
+* \*aɪ˨˥na˩
+* \*aɪ˥ŋaɪ˨
+* \*aɪ˥ŋu˦ŋa˨
 * \*aʊ˨˥aɪ˨
 * \*aʊ˩da˥
 * \*ax˧ʃʷa˥
-* \*a˩ʔɔ˧ʔɪ˥ja˦
 
 ### æ
 
@@ -245,6 +251,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*la˨˥
 * \*la˥˩ha˨˥mɛɪ˨˥doʊ˥˩ʔa˩
+* \*laɪ˨˥la˨˥
 * \*laʊ˨la˥˩
   * Judy Hopps from the infamous furbait "Zootopia"
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
@@ -259,6 +266,7 @@ Below is a list of terms of the Genalphid language.
 * \*loʊ˥ːa˧ː
 * \*loʊ˥˩ha˧˩
   * response: "let's just go home"
+* \*loʊ˥mɛɪ˧lɛɪ˨ɔ˨
 
 ### m
 
@@ -347,12 +355,14 @@ Below is a list of terms of the Genalphid language.
 * \*o˨ɱŋʲaj˧
 * \*o˨˥ŋa˨˥jɛ˨˥
 * \*oː˨woː˦ʲa˥
+* \*o˨˥zə˨tə˥a˨ja˨
 * \*oʊ˨˥ʔɛ˨
 * \*oʊ˨wan˧ʔi˥˨
 
 ### ɔ
 
 * \*ɔː˦˧
+* \*o˨˥daʔ˥˨
 * \*ɔ˥laɪ˨
 * \*ɔ˨˥lɔ˩wa˨˥
 * \*ɔ˥za˨hoi˩
