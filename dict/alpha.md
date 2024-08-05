@@ -1,7 +1,7 @@
 # Alpha
 ## Genalphid English
 
-[n, adj] Near-synonymous with [sigma](/dict/sigma).
+1. [n, adj] Near-synonymous with [sigma](/dict/sigma).
 
 An arbitrarily high "status".
 
@@ -13,6 +13,14 @@ Example:
 
 "I am now the alpha."
 
+2. One, 1 [^1]
+
 See also:
 
 [sigma](/dict/sigma.md)
+
+Example:
+
+"Alpha Sigma L rizz maxxing Skibidi, W L streak Tiktok alpha Ohio." (= "I don't like the weather here")
+
+[^1]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
