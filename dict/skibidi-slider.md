@@ -6,4 +6,8 @@
 
 [n] Any car.[^1]
 
+**See also:**
+
+[Kai Cenat Car](kai-cenat-car.md)
+
 [^1]: <https://youtu.be/4SXOHz3eIjs>
