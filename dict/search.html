@@ -23,7 +23,7 @@
     function search() {
       var baseUrl = "https://" + window.location.hostname + "/dict/";
       var inputText = document.getElementById("link").value.toLowerCase();
-      var formattedInput = inputText.split(" ").join("-") + ".html";
+      var formattedInput = inputText.split(" ").join("-") + ".md";
       var url = baseUrl + formattedInput;
       window.location = url;
     }
