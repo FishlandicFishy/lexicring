@@ -1,8 +1,9 @@
 ```txt
-Z Q J D K F B
-C V U X Y H G
-A E I R S T
-W L M N O P
+[layout]
+z q j d k f b
+c v u x y h g
+shift a e i r s t return
+w l m space n o p bck
 ```
 [^1]
 
