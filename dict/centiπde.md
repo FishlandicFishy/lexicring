@@ -1,5 +1,7 @@
-# centipπde
+# centiπde
 ## English
+
+**Note: The previously instated spelling ~~centipπde~~ is incorrect.**
 
 [number] τ/100 = 2π/100 = π/50 ≈ 0.0628
 [^1]
