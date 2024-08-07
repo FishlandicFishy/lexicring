@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>lexicring dictionary | search</title>
+</head>
+
+<body>
+  <div id="header">
+		<h1>lexicring dictionary</h1>
+	</div>
+  <div id="content">
+    <p>Search</p><br>
+    <div align="center">
+       <p><input id="link" onchange="search()">
+       <button onclick="search()">proudly stolen from stack overflow</button></p>
+
+    </div>
+  </div>
+  <script>
+    function search() {
+      var baseUrl = "https://" + window.location.hostname + "/dict/";
+      var inputText = document.getElementById("link").value.toLowerCase();
+      var formattedInput = inputText.split(" ").join("-") + ".html";
+      var url = baseUrl + formattedInput;
+      window.location = url;
+    }
+  </script>
+</body>
+
+</html>
