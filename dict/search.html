@@ -40,9 +40,9 @@
 	const repo = 'FishlandicFishy/lexicring';
 
         async function fetchArticles() {
-            const response = await fetch(`https://api.github.com/repos/${repo}/contents`);
+            const response = await fetch(`https://api.github.com/repos/${repo}/contents/dict`);
             const data = await response.json();
-            return data.filter(item => item.type === 'file' && item.name.endsWith('.html')).map(item => item.name.replace('.html', ''));
+            return data.filter(item => item.type === 'file' && item.name.endsWith('.md')).map(item => item.name.replace('.md', ''));
         }
 
         async function showSuggestions() {
