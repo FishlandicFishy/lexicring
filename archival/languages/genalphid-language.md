@@ -234,6 +234,9 @@ Below is a list of terms of the Genalphid language.
 * \*i˨dɛ˩dɛŋ˥da˩
   * related to \*i˨dɛŋ˥da˩
 * \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
+  * possibly related to \*i˧gla˥gla˨
+* \*i˧gla˥gla˨
+  * possibly related to \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
 * \*i˥ʔi˧lɛ˧
 * \*i˧ja˥ji˧ɡɐ˧za˥
 * \*i˥juː˩
