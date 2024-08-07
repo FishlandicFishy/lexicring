@@ -86,7 +86,7 @@
     }
 
     function search() {
-      var baseUrl = "https://" + window.location.hostname + "/lexicring/dict/";
+      var baseUrl = "https://" + window.location.hostname + "/lexicring/wiki/";
       var inputText = document.getElementById("link").value.toLowerCase();
       var formattedInput = inputText.split(" ").join("-") + ".html";
       var url = baseUrl + formattedInput;
