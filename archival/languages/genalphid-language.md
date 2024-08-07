@@ -96,8 +96,9 @@ Below is a list of terms of the Genalphid language.
 * \*biœː˥
   * related with \*bi˥bi˥bib˥
   * last syllable when using \*bi˥bi˥bib˥
-* blæʔ˥
+* \*blæʔ˥
   * flat (music note)
+  * antonym of \*ʃɔʔ˧
 * \*bɔ˥bɔ˥bɔ˥
   * ping-pong ball
 
@@ -398,6 +399,11 @@ Below is a list of terms of the Genalphid language.
   * likely "thank you"
 * \*sə˧tsə˨ma˨
 * \*si˨bo˥bo˧
+
+### ʃ
+* \*ʃɔʔ˧
+  * sharp (music note)
+  * antonym of \*blæʔ˥
 
 ### t
 
