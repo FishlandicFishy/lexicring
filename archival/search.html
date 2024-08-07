@@ -28,7 +28,7 @@
 
 <body>
   <div id="header">
-    <h1>lexicring archjival</h1>
+    <h1>lexicring archival</h1>
   </div>
   <div id="content">
     <p>Search</p><br>
@@ -83,7 +83,7 @@
     }
 
     function search() {
-      var baseUrl = "https://" + window.location.hostname + "/lexicring/dict/";
+      var baseUrl = "https://" + window.location.hostname + "/lexicring/archival/";
       var inputText = document.getElementById("link").value.toLowerCase();
       var formattedInput = inputText.split(" ").join("-") + ".html";
       var url = baseUrl + formattedInput;
