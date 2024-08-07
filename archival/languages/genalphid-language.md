@@ -96,6 +96,8 @@ Below is a list of terms of the Genalphid language.
 * \*biœː˥
   * related with \*bi˥bi˥bib˥
   * last syllable when using \*bi˥bi˥bib˥
+* blæʔ˥
+  * flat (music note)
 * \*bɔ˥bɔ˥bɔ˥
   * ping-pong ball
 
@@ -143,6 +145,10 @@ Below is a list of terms of the Genalphid language.
 ### ə
 
 * \*ə˦
+* \*əʔ˨
+  * related to \*iʔ˨
+  * exclaimed when writing something down
+  * often repeated multiple times
 * \*ə˨˥ʔə˨˥ja˧
 * \*ə˥lɛ˥
   * exclamation
@@ -217,6 +223,10 @@ Below is a list of terms of the Genalphid language.
 
 ### i
 
+* \*iʔ˨
+  * related to \*əʔ˨
+  * exclaimed when writing something down
+  * often repeated multiple times
 * \*i˨a˥˩
 * \*i˥.daʊ˧˦
 * \*i˨dɛŋ˥da˩
