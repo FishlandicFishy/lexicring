@@ -5,6 +5,23 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>lexicring dictionary | search</title>
+	<style>
+        .suggestions {
+            border: 1px solid #ccc;
+            max-height: 150px;
+            overflow-y: auto;
+            position: absolute;
+            background-color: white;
+            width: 100%;
+        }
+        .suggestion-item {
+            padding: 10px;
+            cursor: pointer;
+        }
+        .suggestion-item:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
 </head>
 
 <body>
@@ -16,10 +33,39 @@
     <div align="center">
        <p><input id="link" onchange="search()">
        <button onclick="search()">proudly stolen from stack overflow</button></p>
-
+	<div id="suggestions" class="suggestions"></div>
     </div>
   </div>
   <script>
+	const repo = 'YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME';
+
+        async function fetchArticles() {
+            const response = await fetch(`https://api.github.com/repos/${repo}/contents`);
+            const data = await response.json();
+            return data.filter(item => item.type === 'file' && item.name.endsWith('.html')).map(item => item.name.replace('.html', ''));
+        }
+
+        async function showSuggestions() {
+            const input = document.getElementById('link').value.toLowerCase();
+            const suggestions = document.getElementById('suggestions');
+            suggestions.innerHTML = '';
+
+            if (input) {
+                const articles = await fetchArticles();
+                const filteredSuggestions = articles.filter(item => item.includes(input));
+                filteredSuggestions.forEach(item => {
+                    const div = document.createElement('div');
+                    div.classList.add('suggestion-item');
+                    div.innerText = item;
+                    div.onclick = () => {
+                        document.getElementById('link').value = item;
+                        suggestions.innerHTML = '';
+                        search();
+                    };
+                    suggestions.appendChild(div);
+                });
+            }
+        }
     function search() {
       var baseUrl = "https://" + window.location.hostname + "/lexicring/dict/";
       var inputText = document.getElementById("link").value.toLowerCase();
