@@ -194,6 +194,8 @@ Below is a list of terms of the Genalphid language.
   * \*jaʊ˩ meaning unknown
 * \*ɡə˥bəɪ˥
   * probably a generic exclamation
+* \*ɡə˨ɡə˥jiw˧(ə˧)
+  ^ probably "we have arrived"
 * \*ɡi˦
 * \*ɡi˧ɡi˧ɡɛʔ˧
 * \*ɡiʊ˨səʊ˨˥ɡəb˥tsiʊ˥toʊ˩
