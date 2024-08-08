@@ -16,3 +16,7 @@ Example:
 "Your chill's all sus." (i.e. Your mood is suspiciously different.)
 
 "Don't be sussy." (i.e. Refrain from strange conduct.)
+
+3. [adj] Inappropriate.
+
+4. [adj] Questionable.
