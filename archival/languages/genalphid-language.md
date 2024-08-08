@@ -45,6 +45,9 @@ Below is a list of terms of the Genalphid language.
 * \*a˨ʔa˧
 * \*a˥ʔa˦˥ma˦ma˥
 * \*a˧ha˥mi˨
+* \*a˨hɛ˥hɛ˥˨
+  * "How many stations left?" (railway)
+  * not to be confused with Navajo "ahéhee' "
 * \*a˨ja˥dɛ˨
 * \*a˥laʊː˧
 * \*a˩lɔ˥ly˥
@@ -99,6 +102,8 @@ Below is a list of terms of the Genalphid language.
 * \*blæʔ˥
   * flat (music note)
   * antonym of \*ʃɔʔ˧
+* \*bo˥ba˩
+  * hug (from "抱(吧)")
 * \*bɔ˥bɔ˥bɔ˥
   * ping-pong ball
 
@@ -138,6 +143,8 @@ Below is a list of terms of the Genalphid language.
 * \*doʊ˨˥
 * \*doʊ˨˥ʔa˨
   * could be related to \*doʊ˨˥
+* \*du˨bi˥shə˩
+  * possibly "Where are we going?" (到邊處？)
 * \*dy˨dy˨dyd˨
   * onomatopoeia of an Empty R door closing ([best example I could find](https://youtu.be/VUsZeN_hZPs))
   * often repeated multiple times
@@ -212,12 +219,20 @@ Below is a list of terms of the Genalphid language.
 * \*ha˥˨sa˨˥va˩
 * \*ha˦˥ꜛtʃu˧i˩
 * \*haʊ˥wa˩
+* \*hə˥˩
+  * related to \*hjy˥˩
+  * accompanied with the head moving down aggressively
+  * possibly a sneeze
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*hɛɪ˥hɛɪ˥
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
   * probably a ritual or a command telling someone to walk forward to a certain point
   * often repeated multiple times
+* \*hjy˥˩
+  * related to \*hə˥˩
+  * accompanied with the head moving down aggressively
+  * possibly a sneeze
 * \*ho˨daɪ˥ɡo˩
 * \*hɔ˨˥ɡit˨tsən˥mɛɪ˥jɔ˥
 * \*hɔɪ˥kɔk˥
@@ -263,6 +278,8 @@ Below is a list of terms of the Genalphid language.
 
 ### k
 
+* \*kan˥lan˩
+  * [Kowloon Tong](https://en.m.wikipedia.org/wiki/Kowloon_Tong), especially [its station](https://en.m.wikipedia.org/wiki/Kowloon_Tong_station)
 * \*koɪ˨˥ki˨taʊ˥si˨ŋa˨˥
 
 ### l
@@ -325,6 +342,7 @@ Below is a list of terms of the Genalphid language.
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
+* \*na˥nɔ˨nɔ˨
 * \*na˥o˩la˨
 * \*na˨tu˨ha˥bɔ˥lan˩ʔa˩
   * possibly related to Poland?
@@ -362,6 +380,7 @@ Below is a list of terms of the Genalphid language.
 ### o
 
 * \*o˥ʔa˦ʔi˨
+* \*o˨˥daʔ˥˨
 * \*o˥ɛ˧
 * \*o˦ɡɛ˥ɡa˧ni˨
 * \*o˨˥ɡo˧ho˧bi˥
@@ -380,8 +399,10 @@ Below is a list of terms of the Genalphid language.
 ### ɔ
 
 * \*ɔː˦˧
-* \*o˨˥daʔ˥˨
 * \*ɔ˥laɪ˨
+* \*ɔ˧lɛ˥˩
+  * often repeated multiple times
+  * exclamation of some sort
 * \*ɔ˨˥lɔ˩wa˨˥
 * \*ɔ˥za˨hoi˩
 * \*ɔ˨˥zɪ˨kʲa˨˥na˨
@@ -450,6 +471,8 @@ Below is a list of terms of the Genalphid language.
 
 * \*za˨ki˥
 * \*zə˨mə˨taɪ˥ɕʲa˥
+* \*zə˧zə˥zə˧zə˩
+  * often repeated several times
 * \*zʲa˨˥mu˨la˨
 * \*ziː˨˦
 
