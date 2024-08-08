@@ -195,7 +195,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡə˥bəɪ˥
   * probably a generic exclamation
 * \*ɡə˨ɡə˥jiw˧(ə˧)
-  ^ probably "we have arrived"
+  * probably "we have arrived"
 * \*ɡi˦
 * \*ɡi˧ɡi˧ɡɛʔ˧
 * \*ɡiʊ˨səʊ˨˥ɡəb˥tsiʊ˥toʊ˩
