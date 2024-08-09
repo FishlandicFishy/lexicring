@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-No rasicm
+![No rasicm](IMG_0349.jpg)
 
 ## Our Standards
 
