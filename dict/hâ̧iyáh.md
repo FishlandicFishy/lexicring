@@ -1,4 +1,4 @@
 # hâ̧iyáh
 ## Social Crebit English
 
-[exclam.] Alternate form of haiyaa
+[exclam.] Alternate form of [haiyaa](haiyaa.md)
