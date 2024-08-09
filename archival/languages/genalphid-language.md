@@ -442,6 +442,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɔ˧lɛ˥
   * often repeated multiple times
   * exclamation of some sort
+  * alternate form: \*ɔ˧lɛ˥˨
 * \*ɔ˨˥lɔ˩wa˨˥
 * \*ɔ˥za˨hoi˩
 * \*ɔ˨˥zɪ˨kʲa˨˥na˨
