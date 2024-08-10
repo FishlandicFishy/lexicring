@@ -6,4 +6,4 @@
 
 See also:
 
-[UTTP](UTTP.md)
+[UTTP](uttp.md)
