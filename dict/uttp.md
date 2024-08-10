@@ -13,9 +13,11 @@ See also:
 
 <a href="ogism.md">ogism</a>
 
-<a href="yfga.md">YFGA</a>
+[TGSE](tgse.md)
 
-<a href="zntp.md">ZNTP</a>
+[YFGA](yfga.md)
+
+[ZNTP](zntp.md)
 
 
 
