@@ -60,6 +60,7 @@ Below is a list of terms of the Genalphid language.
   * more than one reported usage
 * \*aː˧maː˨maː˥
 * \*a˨ma˥nɛ˩
+* \*a˥mɛɪ˨ɡɔ˨˥ɡɔ˧
 * \*a˥mjɛn˥˨la˨˥di˨˥
 * \*a˥na˥jɛs˥ta˩
 * \*a˨na˩na˥ɡɛ˨taʊ˨
