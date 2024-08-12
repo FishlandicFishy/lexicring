@@ -1,6 +1,6 @@
 # Noitave Xat
 ## Genalphid English
 
-[n] Tax evation[^1]
+[n] Misspelling of tax evasion[^1]
 
 [^1]: <https://youtu.be/ZiD34SfDgZk>
