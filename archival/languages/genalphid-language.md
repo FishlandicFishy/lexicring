@@ -301,6 +301,8 @@ Below is a list of terms of the Genalphid language.
   * falling tone
 * \*ji˧˥ꜛ
   * rising tone with sudden high pitch
+* \*ji˥bi˧
+  * "this side" from Cantonese "依邊"
 * \*ji˨ji˨ji˨muː˨˥
 * \*jɔ˩˥ꜛ
 * \*jo˨y˥jo˨y˥ɛ˥a˧
