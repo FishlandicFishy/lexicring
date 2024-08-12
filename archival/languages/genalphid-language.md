@@ -464,6 +464,7 @@ Below is a list of terms of the Genalphid language.
   * "I want"
   * might be derived from Chinese "勢力" (power)?
 * \*sam˥hɔʔ˨
+  * more than one recorded usage
 * \*sæn˥ky˩
   * likely "thank you"
 * \*sə˧tsə˨ma˨
