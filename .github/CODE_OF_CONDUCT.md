@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-![No rasicm](IMG_0349.jpeg)
+![No rasicm](.github/IMG_0349.jpeg)
 
 *No rasicm*
 
