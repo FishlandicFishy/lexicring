@@ -1,8 +1,8 @@
 *Note that the script below may not be entirely accurate.*
 
-If you have any electronic devices, such as databank watch, smartwatch, or any articles that can store information or emit sound, the article must be switched off.
+If you have brought any electronic devices, such as databank watch, smartwatch, or any articles that can store information or emit sound, the article must be switched off.
 
-Put all of your belongings into your school bag and place it under your chair. Put all the stationary that you need on your desk. Nothing should be put in your drawer.
+Put all your belongings into your school bag and place it under your chair. Put all the stationary that you need on your desk. Nothing should be put in your drawer.
 
 If you have a calculator with you, please make sure that the cover does not contain any paper.
 
