@@ -76,6 +76,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˨za˨˥ku˨˥zã˨
 * \*aɪ˧bu˥
 * \*aɪ˥ɛ˨
+* \*aɪ˨ja˥
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*aɪ˨˥na˩
 * \*aɪ˥ŋaɪ˨
