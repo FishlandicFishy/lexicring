@@ -46,6 +46,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˥ʔa˦˥ma˦ma˥
 * \*aː˥baː˨
 * \*a˥bɛ˨lɛ˨ʔi˧da˩
+* \*a˨do˥na˨ɲaʔ˨
 * \*a˧ha˥mi˨
 * \*a˨hɛ˥hɛ˥˨
   * "How many stations left?" (railway)
@@ -302,6 +303,7 @@ Below is a list of terms of the Genalphid language.
 * \*ja˩ja˧ja˥
 * \*ja˥mi˥ja˥mi˧
   * yummy
+* \*jaʊ˥hi˧ja˧˩
 * \*jaʊ˨vo˨a˩
 * \*jɛɪ˧
 * \*ji˥˧ː
@@ -390,6 +392,7 @@ Below is a list of terms of the Genalphid language.
 ### n
 
 * \*naː˥ɛ˥
+* \*na˨ɕʲɛ˥˨ny˨˥ma˩
 * \*na˥ə˨a˧
 * \*na˥fɛɪ˥ja˨
 * \*na˩ma˨˥si˨ja˥haɪ˩
