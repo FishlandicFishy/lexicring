@@ -66,6 +66,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˨na˩na˥ɡɛ˨taʊ˨
 * \*a˥˨na˨pɔ˥pɔ˨˥
 * \*a˥nɛ˨ə˩a˨˥
+* \*a˥nɪŋ˨dən˩
 * \*a˨ŋʲa˦
 * \*a˨˥ɲaʊ˥˨
 * \*a˥saʊ˩a˨
@@ -107,6 +108,7 @@ Below is a list of terms of the Genalphid language.
 * \*bi˥bi˥bib˥
   * more than one recorded usage
   * often repeated multiple times
+* \*bi˥bi˥ma˥ɡɔ˨
 * \*biœː˥
   * related with \*bi˥bi˥bib˥
   * last syllable when using \*bi˥bi˥bib˥
@@ -157,6 +159,7 @@ Below is a list of terms of the Genalphid language.
 * \*doʊ˨˥
 * \*doʊ˨˥ʔa˨
   * could be related to \*doʊ˨˥
+* \*dɔ˨˥sɔ˨˥bin˩do˥
 * \*du˨bi˥shə˩
   * possibly "Where are we going?" (到邊處？)
 * \*dy˨dy˨dyd˨
@@ -216,6 +219,8 @@ Below is a list of terms of the Genalphid language.
 ### ɡ
 
 * \*ɡa˥bʲɛ˨˥xʲa˥ji˨zœ˨
+* \*ɡa˨da˨˥
+  * a noun
 * \*ɡa˥zi˩ba˥
 * \*ɡɛɪ˨˥ɡaʊ˩jaʊ˩
   * "a few pieces of this"
@@ -283,6 +288,7 @@ Below is a list of terms of the Genalphid language.
   * possibly related to \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
 * \*i˥ʔi˧lɛ˧
 * \*i˧ja˥ji˧ɡɐ˧za˥
+* \*i˨˥ja˥tsi˨da˨
 * \*i˥juː˩
 * \*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥
 
@@ -317,6 +323,8 @@ Below is a list of terms of the Genalphid language.
 
 * \*la˨˥
 * \*la˥˩ha˨˥mɛɪ˨˥doʊ˥˩ʔa˩
+* \*la˨sa˥bi˨wan˩
+* \*la˨ʔɛ˨˥
 * \*laɪ˨˥la˨˥
 * \*laʊ˨la˥˩
   * Judy Hopps from the infamous furbait "Zootopia"
@@ -343,9 +351,15 @@ Below is a list of terms of the Genalphid language.
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*ma˥ni˨ɡa˧la˨
+* \*ma˨˥nɔ˨
+  * full stomach
+  * from Cantonese 飽啦
 * \*ma˥nɔ˧nɪŋ˥nɪŋ˥a˧˨
 * \*ma˨tsi˨ja˥
   * followed by a pronoun
+* \*mæ̃˨
+  * no
+  * from Cantonese 唔係
 * \*mæ̃˨mæ̃˨mæ̃˥mæ̃˥mæ̃˨˩
 * \*mɛ˥˧daʔ˧
   * more than one recorded usage
@@ -407,6 +421,9 @@ Below is a list of terms of the Genalphid language.
 * \*nʲa˥nʲa˩nʲa˨ɡʷəd˥di˨da˨
 * \*noʊ˥vɛɪ˥˩
   * probably "no way"
+ 
+### n̩
+* \*n̩˨ma˨n̩˩
 
 ### ŋ
 
@@ -451,6 +468,7 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
   * exclamation of some sort
   * alternate form: \*ɔ˧lɛ˥˩
+* \*ɔ˨˥lɛ˨kɛ˨˥kɛ˨˥kɛ˨˥
 * \*ɔ˨˥lɔ˩wa˨˥
 * \*ɔ˨si˨˦mɛ˥
 * \*ɔ˥za˨hoi˩
@@ -463,6 +481,7 @@ Below is a list of terms of the Genalphid language.
   * exclamation, probably a call for someone to be quick and come with them
 
 ### s
+* \*sa˩dɔ˥hoʊ˨˥sɪ˨ʔa˨
 * \*saɪ˥ɡɔ˧jy˧˥a˧
 * \*saɪ˨lɪk˨
   * "I want"
@@ -512,6 +531,9 @@ Below is a list of terms of the Genalphid language.
 * \*wa˥y˥li˥da˩
   * "what is this?" with an emotional undertone
 * \*wæ˨˥ꜛ
+* \*wəɪ˨wu˨
+  * small stomach (?)
+  * from Cantonese 胃 (stomach)
 * \*wo˩tɛ˥ꜛpaʊ˩
 * \*wɔː˨ʃi˨
 * \*wu˩aː˥˩
