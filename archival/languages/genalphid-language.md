@@ -435,7 +435,8 @@ Below is a list of terms of the Genalphid language.
 * \*ŋʲap˦˥
   * probably onomatopoeia for duck quacking
 * \*ŋɔ˨˥tsɛ˥
-  * prefix to form certain sentences
+  * train
+  * from Cantonese 火車
 * \*ŋo˨˥da˨˥da˨˥
 * \*ŋu˨ŋi˥
 
@@ -589,10 +590,6 @@ What does `wa˥` mean then? "What is this" in an undefined emotion?
 It is known that this prefix is occasionally dropped in some sentence patterns.
 
 The prefix `m̩-` may be used to indicate a certain type of exclamation. However many exclamations do not follow this rule.
-
-### Meaning of the \*ŋɔ˨˥tsɛ˥-prefix
-
-The prefix `ŋɔ˨˥tsɛ˥-` may be used to form sentences relating to trains.
 
 ### Big difference between \*dɑː˨dɑː˧dɑː˦ ("I want my dad to") and \*saɪ˨lɪk˨ ("I want")?
 
