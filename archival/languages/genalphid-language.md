@@ -338,6 +338,8 @@ Below is a list of terms of the Genalphid language.
 
 * \*ma˩
   * sometimes a prefix followed by \*mɔ˩wɔ˨˥
+* \*ma˨lə˨tu˨dɛɪ˦lɛ˦
+  * \*tu˨dɛɪ˦ -> "today"?
 * \*ma˥na˥bi˥nɔ˧zaʊ˨˥zaʊ˨˥
   * often repeated multiple times
 * \*ma˥ni˨ɡa˧la˨
@@ -346,6 +348,7 @@ Below is a list of terms of the Genalphid language.
   * followed by a pronoun
 * \*mæ̃˨mæ̃˨mæ̃˥mæ̃˥mæ̃˨˩
 * \*mɛ˥˧daʔ˧
+  * more than one recorded usage
 * \*mɛɪ˥mɛɪ˥pɔ˨pɔ˨˥
 * \*mi˦
   * singular mid-high pitch
@@ -449,6 +452,7 @@ Below is a list of terms of the Genalphid language.
   * exclamation of some sort
   * alternate form: \*ɔ˧lɛ˥˩
 * \*ɔ˨˥lɔ˩wa˨˥
+* \*ɔ˨si˨˦mɛ˥
 * \*ɔ˥za˨hoi˩
 * \*ɔ˨˥zɪ˨kʲa˨˥na˨
 
@@ -504,6 +508,7 @@ Below is a list of terms of the Genalphid language.
 * \*wa˨hʊk˥ɔ˨
   * related to \*wa˨hoʊ˨˥ɔ˨
 * \*wa˨˥ŋa˨
+* \*wa˨ʔɔ˨˦mɛ˥
 * \*wa˥y˥li˥da˩
   * "what is this?" with an emotional undertone
 * \*wæ˨˥ꜛ
