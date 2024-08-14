@@ -4,7 +4,7 @@
 
 /ˈskɪbədiː/ /ˈskɪbɪdiː/ /ˈskibidiː/
 
-(-daɪ)
+(ˈskaɪ-) (-daɪ)
 
 Also "skibiddy" and "skibbidy".
 Algospeak includes "skibid" and "s" (in "s-toilet").
