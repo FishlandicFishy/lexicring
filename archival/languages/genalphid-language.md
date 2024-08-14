@@ -463,6 +463,7 @@ Below is a list of terms of the Genalphid language.
 * \*o˨˥zə˨tə˥a˨ja˨
 * \*oʊ˨˥ʔɛ˨
 * \*oʊ˨wan˧ʔi˥˨
+* \*o˨ʔa˥lu˥lu˨ʔa˧
 
 ### ɔ
 
