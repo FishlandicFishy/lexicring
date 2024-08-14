@@ -2,7 +2,7 @@
 
 ## Genalphid English
 
-/ˈrɪz/
+/ˈrɪz/ /ˈraɪz/
 1. [n] Charisma.
 
 - [adj] rizzful: With charisma.
