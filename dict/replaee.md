@@ -1,6 +1,6 @@
 # replaee
 ## Anguish English
-[v] Misspelling of "replaee".
+[v] Misspelling of "replace".
 
 
 
