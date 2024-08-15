@@ -23,7 +23,7 @@ A sample quote transliterated into rough IPA is below:
 | lai lai tsən! | 奶奶陳！ | Let's go! | / |
 | lai sa nəŋ cəŋ! | 奶沙龍陳！ | (unknown exclamation) | / |
 | lai cəŋ nəŋ cəŋ, nəŋ sa lai cəŋ, nəŋ sa lai lai cəŋ | 奶陳龍陳，龍沙奶陳，龍沙奶奶陳 | (said in a furry convention) | / |
-| / | 多巫 | warrior | / |
+| dɔ moʊ | 多巫 | warrior | / |
 
 ## Wolf Script
 
