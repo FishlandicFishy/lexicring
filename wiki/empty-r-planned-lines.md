@@ -12,7 +12,10 @@ However, this map I've compiled (I hereby release it under CC0) is NOT pointless
 
 Map of the East Kowloon Line created by me (released under CC0 where possible). [^1][^2]
 
-Also known as "Smart and Green Mass Transit System in East Kowloon"[^1], where "Smart and Green" is a greenwashing marketing ploy. Its length is approximately 7 km[^1][^2], 6 km being viaducts and 1 km being tunnels.[^1] It is estimated to cost HK$262.5 million to conduct the necessary investigation, design and site work for the line.[^1] The line may release in 2034 to 2038.[^2] A suggested Lam Tim North station may arise.[^1]
+Also known as "Smart and Green Mass Transit System in East Kowloon"[^1], where "Smart and Green" is a greenwashing marketing ploy.
+Its length is approximately 7 km[^1][^2], 6 km being viaducts and 1 km being tunnels.[^1]
+It is estimated to cost HK$262.5 million to conduct the necessary investigation, design and site work for the line.[^1]
+The line may release in 2034 to 2038.[^2]
 
 ```
 Kwun Tong Line                                                                                          Kwun Tong Line, Tseung Kwan O Line
