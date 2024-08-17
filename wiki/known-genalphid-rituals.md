@@ -32,5 +32,6 @@
 * Suddenly doing random poses in public
   * Most of these poses may be JoJo References™
 * Using a fork to lift up one singular spaghetto, admire it, and then discard it by putting it into a piece of tissue
-* Gesturing excessively in the air to explain a concept.
-  * Sometimes they aren't explaining to anyone, but explaining to air.
+* Gesturing excessively in the air to explain a concept
+  * Sometimes they aren't explaining to anyone, but explaining to air
+* Intentionally eating LEGO™ pieces
