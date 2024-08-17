@@ -164,6 +164,7 @@ Below is a list of terms of the Genalphid language.
 * \*dɔ˨˥sɔ˨˥bin˩do˥
 * \*du˨bi˥shə˩
   * possibly "Where are we going?" (到邊處？)
+* \*du˨wɔ˨˥ji˨˩
 * \*dy˨dy˨dyd˨
   * onomatopoeia of an Empty R door closing ([best example I could find](https://youtu.be/VUsZeN_hZPs))
   * often repeated multiple times
