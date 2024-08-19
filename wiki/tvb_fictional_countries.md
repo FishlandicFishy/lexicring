@@ -60,6 +60,8 @@ Because of the questionable state of tourism in Ng Wong Tat, importing sleeping 
 
 Exporting fertilised Komodo dr\*gon eggs is illegal.[^1567]
 
+Komodo dr\*gons are supposedly used as bodyguards.[^2079]
+
 <!--(Episode I forgot) Ng Wong Tat also has a translation officer who can speak Cantonese, Min Nan, Hakka, among other languages.-->
 
 A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
@@ -142,6 +144,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^1567]: Episode 1567, <https://youtu.be/0IxvsUvuIKw>
 [^1574]: Episode 1574, <https://youtu.be/40B0vdrFeV8>
 [^2061]: Episode 2061, <https://youtu.be/zbDCKnPNfF4>
+[^2079]: Episode 2079, <https://youtu.be/JbdrZ-tTLvg>
 [^2082]: Episode 2082, <https://youtu.be/LGxMK6PX0as>
 [^2084]: Episode 2084, <https://youtu.be/uIR7JBHPtnk>
 [^2095]: Episode 2095, <https://youtu.be/a91IuH587nQ>
