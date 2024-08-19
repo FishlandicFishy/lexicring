@@ -47,6 +47,9 @@ Below is a list of terms of the Genalphid language.
 * \*aː˥baː˨
 * \*a˥bɛ˨lɛ˨ʔi˧da˩
 * \*a˨do˥na˨ɲaʔ˨
+* \*a˥fa˨˥
+  * exclamation
+  * possibly related to \*a˥ma˨˥
 * \*a˧ha˥mi˨
 * \*a˨hɛ˥hɛ˥˨
   * "How many stations left?" (railway)
@@ -59,6 +62,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˥ma˨˥
   * exclamation
   * more than one reported usage
+  * possibly related to \*a˥fa˨˥
 * \*aː˧maː˨maː˥
 * \*a˨ma˥nɛ˩
 * \*a˥mɛɪ˨ɡɔ˨˥ɡɔ˧
@@ -71,6 +75,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˨ŋʲa˦
 * \*a˨˥ɲaʊ˥˨
 * \*a˥saʊ˩a˨
+* \*a˥sɛ˥sɛ˥˨
 * \*a˩ʔɔ˧ʔɪ˥ja˦
 * \*a˥za˧da˨ʔi˥da˧
 * \*a˨za˨ji˥
@@ -231,6 +236,7 @@ Below is a list of terms of the Genalphid language.
   * \*jaʊ˩ meaning unknown
 * \*ɡə˥bəɪ˥
   * probably a generic exclamation
+* \*ɡə˨doʊ˥fɔŋ˨
 * \*ɡə˨ɡə˥jiw˧(ə˧)
   * probably "we have arrived"
 * \*ɡi˦
@@ -396,6 +402,8 @@ Below is a list of terms of the Genalphid language.
 * \*na˨ɕʲɛ˥˨ny˨˥ma˩
 * \*na˥ə˨a˧
 * \*na˥fɛɪ˥ja˨
+* \*na˥ɡoʊ
+  * LEGO™ pieces
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
