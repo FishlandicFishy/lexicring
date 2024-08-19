@@ -403,7 +403,7 @@ Below is a list of terms of the Genalphid language.
 * \*na˥ə˨a˧
 * \*na˥fɛɪ˥ja˨
 * \*na˥ɡoʊ
-  * LEGO™ pieces
+  * LEGO® pieces
 * \*na˩ma˨˥si˨ja˥haɪ˩
 * \*na˦na˥
 * \*na˧ni˥ha˧bo˨vo˨
