@@ -605,7 +605,7 @@ It is known that this prefix is occasionally dropped in some sentence patterns.
 
 The prefix `m̩-` may be used to indicate a certain type of exclamation. However many exclamations do not follow this rule.
 
-### Big difference between \*dɑː˨dɑː˧dɑː˦ ("I want my dad to") and \*saɪ˨lɪk˨ ("I want")?
+### Big difference between \*dɑː˨dɑː˧dɑː˦ ("I want my dad to") and \*səɪ˨lɪk˨ ("I want")?
 
 May be caused by different borrowings.
 
