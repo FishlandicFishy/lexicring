@@ -498,14 +498,14 @@ Below is a list of terms of the Genalphid language.
 ### s
 * \*sa˩dɔ˥hoʊ˨˥sɪ˨ʔa˨
 * \*saɪ˥ɡɔ˧jy˧˥a˧
-* \*saɪ˨lɪk˨
-  * "I want"
-  * might be derived from Chinese "勢力" (power)?
 * \*sam˥hɔʔ˨
   * more than one recorded usage
 * \*sæn˥ky˩
   * likely "thank you"
 * \*sə˧tsə˨ma˨
+* \*səɪ˨lɪk˨
+  * "I want"
+  * might be derived from Chinese "勢力" (power)?
 * \*si˨bo˥bo˧
 * \*si˥həŋ˩
 
@@ -573,7 +573,7 @@ Below is a list of terms of the Genalphid language.
 ## Documented phrases
 
 * \*dɑː˨dɑː˧dɑː˦ dɑː˦dɑː˧ "I want my dad to return west"
-* \*ə˨pɔ˨˥ saɪ˨lɪk˨ ɡɛɪ˨˥ɡaʊ˩jaʊ˩ "Grandma, I want a few pieces of this"
+* \*ə˨pɔ˨˥ səɪ˨lɪk˨ ɡɛɪ˨˥ɡaʊ˩jaʊ˩ "Grandma, I want a few pieces of this"
 * \*noʊ˥vɛɪ˥˩ "no way"
 * \*ɔː˦˧ χː χː (unknown)
 * \*sæn˥ky˩ "thank you"
@@ -611,7 +611,7 @@ May be caused by different borrowings.
 
 `dɑː˨dɑː˧dɑː˦` may be native. It is unknown where the "my dad" part in this phrase is.
 
-`saɪ˨lɪk˨` may be borrowed from Cantonese though how it came to be is unknown (perhaps 勢力 "power"?)
+`səɪ˨lɪk˨` may be borrowed from Cantonese though how it came to be is unknown (perhaps 勢力 "power"?)
 
 ### Pronunciations are not set in stone
 
