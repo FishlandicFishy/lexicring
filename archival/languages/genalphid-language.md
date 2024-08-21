@@ -30,7 +30,7 @@ The Genalphid Language is babyspeak, but it is scientifically proven to mean stu
 | close      | i y   |         | u ɯ  |
 | near-close | ɪ     |         | ʊ    |
 | close-mid  |       |         | o    |
-| mid        |       | ə       |      |
+| mid        |       | ə ɚ     |      |
 | open-mid   | ɛ     |         | ɔ    |
 | open       | a     |         | ɑ    |
 | near-open  | æ     | ɐ       |      |
@@ -47,6 +47,8 @@ Below is a list of terms of the Genalphid language.
 * \*aː˥baː˨
 * \*a˥bɛ˨lɛ˨ʔi˧da˩
 * \*a˨do˥na˨ɲaʔ˨
+* \*a˨ə˥
+  * exclamation
 * \*a˥fa˨˥
   * exclamation
   * possibly related to \*a˥ma˨˥
@@ -55,7 +57,9 @@ Below is a list of terms of the Genalphid language.
   * "How many stations left?" (railway)
   * not to be confused with Navajo "ahéhee' "
 * \*a˨ja˥dɛ˨
+* \*a˥ji˨ɡa˥ba˧
 * \*a˥laʊː˧
+* \*a˥lɛ˨ɔ˥˨
 * \*a˨li˥da˩
 * \*a˩lɔ˥ly˥
   * (platonic) "ily" (see \*lɔ˥)
@@ -80,8 +84,11 @@ Below is a list of terms of the Genalphid language.
 * \*a˥za˧da˨ʔi˥da˧
 * \*a˨za˨ji˥
 * \*a˨za˨˥ku˨˥zã˨
+* \*aɪ˥bɔ˦
+  * exclamation
 * \*aɪ˧bu˥
 * \*aɪ˥ɛ˨
+* \*aɪ˥ɚ˨
 * \*aɪ˨ja˥
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*aɪ˨˥na˩
@@ -89,7 +96,13 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˥ŋu˦ŋa˨
 * \*aʊ˨˥aɪ˨
 * \*aʊ˩da˥
+* \*aʊ˥˨wɔ˨
+  * exclamation
+* \*a˨wa˥
+  * exclamation
+  * vaguely rising tone
 * \*a˥wa˥˨
+  * vaguely falling tone
 * \*ax˧ʃʷa˥
 * \*a˧za˧zə˧zə˧a˩wa˥ji˩ɔ˩
 
@@ -104,9 +117,13 @@ Below is a list of terms of the Genalphid language.
 
 ### b
 
+* \*ba˥ba˧˩
+  * exclamation
 * \*ba˨ba˨ba˨ba˨ba˨ba˨
   * often repeated multiple times
   * probably related to \*bæb˥bæ˧bæ˩bæb˨ and \*bi˥bi˥bib˥
+* \*bæ˧
+  * exclamation
 * \*bæb˥bæ˧bæ˩bæb˨
   * more than one recorded usage
   * often repeated multiple times
@@ -253,6 +270,7 @@ Below is a list of terms of the Genalphid language.
 
 ### h
 
+* \*haɪ˥bɔ˧
 * \*haɪ˨lu˥˩
 * \*ha˨˥la˥ho˨˥lɔ˨
   * suspiciously similar to \*hoʊ˥la˥hoʊ˥la˨
@@ -294,9 +312,11 @@ Below is a list of terms of the Genalphid language.
   * related to \*i˨dɛŋ˥da˩
 * \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
   * possibly related to \*i˧gla˥gla˨
-* \*i˧gla˥gla˨
+* \*i˨ɡɛ˧i˥bɔ˥˨
+* \*i˧ɡla˥ɡla˨
   * possibly related to \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
 * \*i˥ʔi˧lɛ˧
+* \*i˧˥ja˧
 * \*i˧ja˥ji˧ɡɐ˧za˥
 * \*i˨˥ja˥tsi˨da˨
 * \*i˥juː˩
@@ -429,6 +449,7 @@ Below is a list of terms of the Genalphid language.
   * usually followed by "I want this one"
 * \*nɛ˨ji˥ji˥ja˨˥
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
+* \*ni˥ɡɛ˥su˥˨jɛ˨
 * \*nɪk˥bət˥
 * \*nʲa˩nʲa˧nʲa˥
   * possibly imitating an Undertale food item?
@@ -471,9 +492,10 @@ Below is a list of terms of the Genalphid language.
 * \*o˨˥ŋa˨˥jɛ˨˥
 * \*oː˨woː˦ʲa˥
 * \*o˨˥zə˨tə˥a˨ja˨
+* \*o˨ʔa˥lu˥lu˨ʔa˧
+* \*oʊ˧ɛ˨a˩aɪ˥˨
 * \*oʊ˨˥ʔɛ˨
 * \*oʊ˨wan˧ʔi˥˨
-* \*o˨ʔa˥lu˥lu˨ʔa˧
 
 ### ɔ
 
