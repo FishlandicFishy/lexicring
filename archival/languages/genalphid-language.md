@@ -58,9 +58,13 @@ Below is a list of terms of the Genalphid language.
   * not to be confused with Navajo "ahéhee' "
 * \*a˨ja˥dɛ˨
 * \*a˥ji˨ɡa˥ba˧
+* \*a˥ji˧sa˥˨
 * \*a˥laʊː˧
 * \*a˥lɛ˨ɔ˥˨
 * \*a˨li˥da˩
+* \*a˨loʊ˥la˨
+  * 39 days or 39 seconds
+    * (days and seconds are synonymous)
 * \*a˩lɔ˥ly˥
   * (platonic) "ily" (see \*lɔ˥)
 * \*a˥ma˨˥
@@ -105,6 +109,7 @@ Below is a list of terms of the Genalphid language.
   * vaguely falling tone
 * \*ax˧ʃʷa˥
 * \*a˧za˧zə˧zə˧a˩wa˥ji˩ɔ˩
+* \*a˨ʑʲa˥˨ma˨
 
 ### æ
 
@@ -200,6 +205,7 @@ Below is a list of terms of the Genalphid language.
   * exclaimed when writing something down
   * often repeated multiple times
 * \*ə˨˥ʔə˨˥ja˧
+* \*ə˨ləɪ˨ʔa˥ʔəŋ˥
 * \*ə˥lɛ˥
   * exclamation
   * often repeated multiple times
@@ -219,6 +225,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɛɪ˥saʔ˥da˧jɔ˥
 * \*ɛ˥jɛ˥wan˥be˧
 * \*ɛl˥ji˨
+* \*ɛ˧maɪ˨˥na˩
 * \*ɛ˨man˧ŋu˥
 * \*ɛ˥maʊ˩
 * \*ɛ˧mɛ˧ɲa˥
@@ -260,6 +267,8 @@ Below is a list of terms of the Genalphid language.
 * \*ɡi˦
 * \*ɡi˧ɡi˧ɡɛʔ˧
 * \*ɡiʊ˨səʊ˨˥ɡəb˥tsiʊ˥toʊ˩
+* \*ɡjaʔ˥ɡja˨
+  * often repeated several times
 * \*ɡo˧bɛ˧
   * often repeated several times
 * \*ɡo˨bi˧ta˥mɛ˧ja˨
@@ -325,6 +334,8 @@ Below is a list of terms of the Genalphid language.
 ### j
 
 * \*jaʔ˥
+  * more than one recorded usage
+  * "one" from Cantonese "一"
 * \*ja˨di˥
   * often repeated multiple times
 * \*ja˨˥ɛ˨ʔɛ˥ʔo˨˥la˨
@@ -416,6 +427,7 @@ Below is a list of terms of the Genalphid language.
 * \*(m̩)a˥tʃ(ə)ʔ˩
   * onomatopeia of sneezing? (~"achoo")
 * \*(m̩)ɲam˥
+* \*m̩ː˨ba˧
 
 ### n
 
@@ -433,6 +445,7 @@ Below is a list of terms of the Genalphid language.
 * \*na˥nɔ˨nɔ˨
   * suspicuously similar to \*na˨ni˥nɔ˨
 * \*na˥o˩la˨
+* \*na˥sa˨˥
 * \*na˥to˨vɛ˨
 * \*na˨tu˨ha˥bɔ˥lan˩ʔa˩
   * might be related to Poland?
@@ -524,6 +537,7 @@ Below is a list of terms of the Genalphid language.
 * \*saɪ˥ɡɔ˧jy˧˥a˧
 * \*sam˥hɔʔ˨
   * more than one recorded usage
+* \*saʔ˧mi˧naʊ˧a˧
 * \*sæn˥ky˩
   * likely "thank you"
 * \*sə˧tsə˨ma˨
@@ -542,10 +556,13 @@ Below is a list of terms of the Genalphid language.
 
 * \*tid˨bi˥
   * presumably an honorific title to an MTR train; see T Chai
+* \*tin˥təŋ˥˨
 * \*tɔt˥ti˩
   * chopsticks
 * \*tsi˨˥
+* \*tsiʊː˥jaʊ˥
 * \*tsjæ˨˥na˨
+* \*tsɔ˧kɔ˩
 
 ### u
 
