@@ -174,13 +174,13 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
 * \*də˧.doʊ˧˥.bɔ˧
   * could be related to \*doʊ˨˥
+* \*də˥ɡoʊ˥doʊ˥
 * \*di˦di˨jɑː˨
 * \*dɛn˥do˨
   * onomatopoeia of an Empty R door opening ([best example I could find](https://youtu.be/VUsZeN_hZPs))
   * often repeated multiple times
   * synonym of \*dɪŋ˥doʊ˨
   * antonym of \*dy˨dy˨dyd˨
-* \*də˥ɡoʊ˥doʊ˥
 * \*dɪŋ˥doʊ˨
   * onomatopoeia of an Empty R door opening
   * often repeated multiple times
