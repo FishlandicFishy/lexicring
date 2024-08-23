@@ -47,7 +47,11 @@ Below is a list of terms of the Genalphid language.
 * \*a˨ʔa˧
 * \*a˥ʔa˦˥ma˦ma˥
 * \*aː˥baː˨
+* \*aː˨bɔ˥˨
+  * often repeated multiple times
+  * rhythmic: (2/4) `|♩♩|`
 * \*a˥bɛ˨lɛ˨ʔi˧da˩
+* \*a˨daɪ˨˥
 * \*a˨do˥na˨ɲaʔ˨
 * \*a˨ə˥
   * exclamation
@@ -71,10 +75,12 @@ Below is a list of terms of the Genalphid language.
   * (platonic) "ily" (see \*lɔ˥)
 * \*a˥ma˨˥
   * exclamation
+  * alternate form: \*a˥mã˨˥ (nasalised)
   * more than one reported usage
   * possibly related to \*a˥fa˨˥
 * \*aː˧maː˨maː˥
 * \*a˨ma˥nɛ˩
+* \*a˥mɛ˥ɔ˨˥˨
 * \*a˥mɛɪ˨ɡɔ˨˥ɡɔ˧
 * \*a˥mjɛn˥˨la˨˥di˨˥
 * \*a˥na˥jɛs˥ta˩
@@ -93,6 +99,7 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˥bɔ˦
   * exclamation
 * \*aɪ˧bu˥
+* \*aɪ˥dɛɪ˨˥
 * \*aɪ˥ɛ˨
 * \*aɪ˥ɚ˨
 * \*aɪ˨ja˥
@@ -124,6 +131,8 @@ Below is a list of terms of the Genalphid language.
 
 ### b
 
+* \*ba˨˥
+  * alternate form: \*ba˥˨
 * \*ba˥ba˧˩
   * exclamation
 * \*ba˨ba˨ba˨ba˨ba˨ba˨
@@ -159,17 +168,29 @@ Below is a list of terms of the Genalphid language.
 
 ### d
 
+* \*da˨˥
+  * exclamation
+  * often repeated multiple times
+  * alternate forms:
+    * \*daʊ˨˥
+    * \*ja˨˥
+  * probably relating to tennis
+  * probably from Cantonese or Putonghua "打"
 * \*da˥ꜛda˥ꜛ
 * \*da˥da˦da˧da˨daː˩
 * \*da˨da˨da˨da˥di˨du˨
 * \*da˨da˥ɡa˥ba˥
 * \*da˥dɛ˥ho˥lɛ˩
+* \*da˨˥wɔ˧ɔ˨˥dɚɪ˨
+* \*da˥ʔa˧
 * \*daɪ˨tɕʲɛ˦
 * \*dɑː˨dɑː˧dɑː˦
   * presumably "I want my dad (to)" based on context
 * \*dɑː˦dɑː˧
   * presumably "(to) return west" based on context
 * \*da˧.zi˥.m̩˩.ji˥
+* \*da˥˨ʔa˨˥
+  * often repeated multiple times
 * \*dɛ˧dɛ˥bɛ˦ja˨
 * \*dəd˨dəd˨də˥
   * rhythmic: (4/4) `|♫♩♫♩|`
@@ -220,6 +241,8 @@ Below is a list of terms of the Genalphid language.
 
 ### ɛ
 
+* \*ɛ˥
+  * exclamation
 * \*ɛ˥˩
   * often repeated multiple times
 * \*ɛ˨˥boɪ˥jɛ˨˥
@@ -305,6 +328,9 @@ Below is a list of terms of the Genalphid language.
   * accompanied with the head moving down aggressively
   * possibly a sneeze
 * \*ho˨daɪ˥ɡo˩
+* \*hoɪ˨˥
+  * exclamation
+* \*hoʊ˨˥du˥da˨˥
 * \*hɔ˨˥ɡit˨tsən˥mɛɪ˥jɔ˥
 * \*hɔɪ˥kɔk˥
 * \*hoʊ˥la˥hoʊ˥la˨
@@ -320,6 +346,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˥.daʊ˧˦
 * \*i˨dɛŋ˥da˩
   * related to \*i˨dɛ˩dɛŋ˥da˩
+* \*i˥dɛ˦dɛ˨˥
 * \*i˨dɛ˩dɛŋ˥da˩
   * related to \*i˨dɛŋ˥da˩
 * \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
@@ -327,6 +354,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˨ɡɛ˧i˥bɔ˥˨
 * \*i˧ɡla˥ɡla˨
   * possibly related to \*i˨.dɐ̃w̃˥.dɐ̃w̃˨˩
+* \*i˥ʔi˩ʔaɪ˨
 * \*i˥ʔi˧lɛ˧
 * \*i˧˥ja˧
 * \*i˧ja˥ji˧ɡɐ˧za˥
@@ -336,6 +364,14 @@ Below is a list of terms of the Genalphid language.
 
 ### j
 
+* \*jã˨
+  * exclamation
+  * possibly related to \*ja˨˥
+* \*jã˥˨bwã˥˨
+* \*ja˥˨
+  * exclamation
+  * possibly related to \*ja˨˥
+  * alternate form: \*a˥˨
 * \*jaʔ˥
   * more than one recorded usage
   * "one" from Cantonese "一"
@@ -345,8 +381,18 @@ Below is a list of terms of the Genalphid language.
 * \*ja˩ja˧ja˥
 * \*ja˥mi˥ja˥mi˧
   * yummy
+* \*ja˥wa˨˥
+  * possibly related to \*ja˥ʔa˨˥
+* \*ja˨wɛɪ˥˨
+  * exclamation
+* \*ja˥ʔa˨˥
+  * possibly related to \*ja˥wa˨˥
+* \*ja˦ʔa˨
+  * possibly related to \*ja˥ʔa˨˥
 * \*jaʊ˥hi˧ja˧˩
 * \*jaʊ˨vo˨a˩
+* \*jɛ˥hɛ˨˥
+  * exclamation
 * \*jɛɪ˧
 * \*ji˥˧ː
   * falling tone
@@ -524,10 +570,13 @@ Below is a list of terms of the Genalphid language.
   * alternate form: \*ɔ˧lɛ˥˩
 * \*ɔ˨˥lɛ˨kɛ˨˥kɛ˨˥kɛ˨˥
 * \*ɔ˨˥lɔ˩wa˨˥
+* \*ɔ˥˨miː˥
 * \*ɔ˨mɔ˥aʊ˩
 * \*ɔ˨si˨˦mɛ˥
 * \*ɔ˥za˨hoi˩
 * \*ɔ˨˥zɪ˨kʲa˨˥na˨
+* \*ɔj˥
+  * exclamation
 
 ### p
 
@@ -576,6 +625,8 @@ Below is a list of terms of the Genalphid language.
 
 ### w
 
+* \*waː˥˨
+  * exclamation
 * \*wa˥bi˧jo˧ba˩ba˧ba˥ba˧ba˧
   * all syllables are the same length
   * followed by a request for someone to clap their hands
@@ -585,15 +636,22 @@ Below is a list of terms of the Genalphid language.
   * related to \*wa˨hʊk˥ɔ˨
 * \*wa˨hʊk˥ɔ˨
   * related to \*wa˨hoʊ˨˥ɔ˨
+* \*waɪ˧
+  * exclamation
+  * related to \*wɛɪ˧
 * \*wa˨˥ŋa˨
 * \*wa˨ʔɔ˨˦mɛ˥
 * \*wa˥y˥li˥da˩
   * "what is this?" with an emotional undertone
 * \*wæ˨˥ꜛ
+* \*wɛɪ˧
+  * exclamation
+  * related to \*waɪ˧
 * \*wəɪ˨wu˨
   * small stomach (?)
   * from Cantonese 胃 (stomach)
 * \*wo˩tɛ˥ꜛpaʊ˩
+* \*wɔ˨djɛ˥˨
 * \*wɔː˨ʃi˨
 * \*wu˩aː˥˩
 * \*wu˨˥shi˥˩
