@@ -63,6 +63,7 @@ Below is a list of terms of the Genalphid language.
   * "How many stations left?" (railway)
   * not to be confused with Navajo "ahéhee' "
 * \*a˨ja˥dɛ˨
+* \*a˦ja˨ɛ˧
 * \*a˥ji˨ɡa˥ba˧
 * \*a˥ji˧sa˥˨
 * \*a˥laʊː˧
@@ -176,6 +177,7 @@ Below is a list of terms of the Genalphid language.
     * \*ja˨˥
   * probably relating to tennis
   * probably from Cantonese or Putonghua "打"
+* \*da˥ʔa˨˥˨
 * \*da˥ꜛda˥ꜛ
 * \*da˥da˦da˧da˨daː˩
 * \*da˨da˨da˨da˥di˨du˨
@@ -361,6 +363,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˨˥ja˥tsi˨da˨
 * \*i˥juː˩
 * \*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥
+* \*i˨mɛ˥ji˥ha˥˨
 
 ### j
 
@@ -431,6 +434,7 @@ Below is a list of terms of the Genalphid language.
 * \*loʊ˥ːa˧ː
 * \*loʊ˥˩ha˧˩
   * response: "let's just go home"
+* \*loʊː˨jɛ˥˨
 * \*loʊ˥mɛɪ˧lɛɪ˨ɔ˨
 
 ### m
