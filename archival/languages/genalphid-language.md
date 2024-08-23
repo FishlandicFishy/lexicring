@@ -10,7 +10,7 @@ It is previously falsely determined to be a language isolate, but further resear
 
 Research on the Genalphid Language is still ongoing. Many of the words, its grammar, and its full phonology are yet to be deciphered.
 
-When contributing, it is recommended to use the [optimised keyboard layout.](archival/layouts/optimised.md)
+When contributing, it is recommended to use the [optimised keyboard layout.](/archival/layouts/optimised.md)
 
 ## TL;DR because you have a low attention span
 
