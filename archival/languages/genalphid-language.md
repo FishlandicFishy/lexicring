@@ -694,6 +694,10 @@ There are a few cases documented where emotion is expressed through language.
 
 For example, \*wa˥ɛ˨ and \*wa˥y˥li˥da˩ both mean "what is this?", but \*wa˥ɛ˨ carries a neutral emotion while \*wa˥y˥li˥da˩ has an unidentified emotion.
 
+### Time
+
+Days and seconds are synonymous.
+
 ## Proposals
 
 > [!IMPORTANT]  
