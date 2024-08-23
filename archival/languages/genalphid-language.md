@@ -180,6 +180,7 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
   * synonym of \*dɪŋ˥doʊ˨
   * antonym of \*dy˨dy˨dyd˨
+* \*də˥ɡoʊ˥doʊ˥
 * \*dɪŋ˥doʊ˨
   * onomatopoeia of an Empty R door opening
   * often repeated multiple times
