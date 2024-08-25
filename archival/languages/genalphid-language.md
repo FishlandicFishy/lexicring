@@ -282,6 +282,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡa˥bʲɛ˨˥xʲa˥ji˨zœ˨
 * \*ɡa˨da˨˥
   * a noun
+* \*ɡa˨la˥ɡɔ˨lɔ˨sɛ˥ja˥
 * \*ɡa˥zi˩ba˥
 * \*ɡɛɪ˨˥ɡaʊ˩jaʊ˩
   * "a few pieces of this"
