@@ -112,4 +112,4 @@ Not much is known about Tao Jiu Wu Island, but it is hard to escape.
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
-[^2356]: Episode 2356, (link pending)
+[^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
