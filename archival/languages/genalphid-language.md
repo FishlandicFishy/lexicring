@@ -431,6 +431,8 @@ Below is a list of terms of the Genalphid language.
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
 * \*laʊ˧sam˥zaʊ˥
 * \*lɛɪ˧lɛɪ˧sa˧
+* \*lɛi˨˥sɪʔ˨həʔ˨tsuʔ˩ɡɔ˨˥m̩˩doʊ˨˥loʊ˨˥ɡa˨
+  * from [this ad](youtu.be/q3czUaqW_cI)
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
