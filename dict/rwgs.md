@@ -1,5 +1,5 @@
 # RWGS
-## Genalphid English
+## English
 
 [n] See [UTTP](uttp.md)[^1]
 
