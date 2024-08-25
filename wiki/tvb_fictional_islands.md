@@ -48,8 +48,7 @@ E Li Wu Dao (Chinese: 厄里梧島) is a fictional island. According to the TVB 
 
 ## 聯樂梧島 (Lian Le Wu Dao)
 
-[^0706]
-Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. According to the TVB programme the island costs USD $1,280,000, has only one hotel without Wi-Fi connection, and relies on camels for transportation. Allegedly the hotel went bankrupt.
+Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island.[^2356] According to the TVB programme the island costs USD $1,280,000, has only one hotel without Wi-Fi connection, and relies on camels for transportation. Allegedly the hotel went bankrupt.[^0706]
 
 ## 拐里梧島 (Guai Li Wu Dao)
 
@@ -113,3 +112,4 @@ Not much is known about Tao Jiu Wu Island, but it is hard to escape.
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
+[^2356]: Episode 2356, (link pending)
