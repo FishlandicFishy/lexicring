@@ -36,3 +36,5 @@
   * Sometimes they aren't explaining to anyone, but explaining to air
 * Intentionally eating LEGO™ pieces
 * Putting MTR train models way too close to their mouth
+* Running around with balloon swords while shouting loudly
+* Riding bicycles in the most inappropriate places while shouting loudly
