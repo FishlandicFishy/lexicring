@@ -63,7 +63,10 @@ Below is a list of terms of the Genalphid language.
   * "How many stations left?" (railway)
   * not to be confused with Navajo "ahéhee' "
 * \*a˨ja˥dɛ˨
+  * \*a˨ja˥- prefix?
 * \*a˦ja˨ɛ˧
+* \*a˨ja˥ʔaɪ˥ʔa˥ʔa˨˥˨
+  * \*a˨ja˥- prefix?
 * \*a˥ji˨ɡa˥ba˧
 * \*a˥ji˧sa˥˨
 * \*a˥laʊː˧
@@ -94,6 +97,7 @@ Below is a list of terms of the Genalphid language.
 * \*a˥saʊ˩a˨
 * \*a˥sɛ˥sɛ˥˨
 * \*a˩ʔɔ˧ʔɪ˥ja˦
+* \*a˨wi˥waɪ˨˥wɔ˨
 * \*a˥za˧da˨ʔi˥da˧
 * \*a˨za˨ji˥
 * \*a˨za˨˥ku˨˥zã˨
@@ -251,6 +255,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɛː˥ꜛʃː
 * \*ɛɪ˨ɛɪ˥di˥jaʊ˩
 * \*ɛɪ˥saʔ˥da˧jɔ˥
+* \*ɛ˥ja˨ɔ˨˥a˨
 * \*ɛ˥jɛ˥wan˥be˧
 * \*ɛl˥ji˨
 * \*ɛ˧maɪ˨˥na˩
