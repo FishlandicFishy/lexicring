@@ -328,6 +328,8 @@ Below is a list of terms of the Genalphid language.
   * accompanied with the head moving down aggressively
   * possibly a sneeze
 * \*hə˨hə˨hə˨ta˥hu˩
+* \*həʔ˨tsuʔ˩
+  * walnuts from Cantonese "核桃"[^3]
 * \*hɛɪ˥hɛɪ˥
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
@@ -435,8 +437,6 @@ Below is a list of terms of the Genalphid language.
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
 * \*laʊ˧sam˥zaʊ˥
 * \*lɛɪ˧lɛɪ˧sa˧
-* \*həʔ˨tsuʔ˩
-  * walnuts from Cantonese "核桃"[^3]
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
