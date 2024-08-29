@@ -480,6 +480,10 @@ Below is a list of terms of the Genalphid language.
 * \*mi˥˩
   * descending pitch
   * often repeated multiple times
+* \*mi˥jaʊː˨
+  * "meow"[^1]
+  * often repeated multiple times
+  * clipping: /miː˥/
 * \*mi˨tɕʲi˥
 * \*mɔ˨mɔ˥mɔ˨mo˩
 * \*mɔ˩wɔ˨˥
