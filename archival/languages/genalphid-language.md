@@ -435,8 +435,8 @@ Below is a list of terms of the Genalphid language.
 * \*laʊ˦˥laʊ˦˥ʔu˥tɛ˦wɛ˦˥jɔ˦˥
 * \*laʊ˧sam˥zaʊ˥
 * \*lɛɪ˧lɛɪ˧sa˧
-* \*lɛi˨˥sɪʔ˨həʔ˨tsuʔ˩ɡɔ˨˥m̩˩doʊ˨˥loʊ˨˥ɡa˨
-  * from [this ad](https://youtu.be/q3czUaqW_xI)
+* \*həʔ˨tsuʔ˩
+  * walnuts from Cantonese "核桃"[^3]
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
@@ -745,3 +745,4 @@ The pronunciation of a word can vary. This means that some entries can be unifie
 
 [^1]: <https://youtu.be/JiqL-Z9dxJ8>
 [^2]: <https://youtu.be/wkr3HZUe5rM>
+[^3]: <https://youtu.be/q3czUaqW_xI>
