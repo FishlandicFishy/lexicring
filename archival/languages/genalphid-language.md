@@ -218,6 +218,8 @@ Below is a list of terms of the Genalphid language.
 * \*doʊ˨˥
 * \*doʊ˨˥ʔa˨
   * could be related to \*doʊ˨˥
+* \*dɔː˨
+  * "go"[^1]
 * \*dɔ˨˥sɔ˨˥bin˩do˥
 * \*du˨bi˥shə˩
   * possibly "Where are we going?" (到邊處？)
@@ -346,6 +348,8 @@ Below is a list of terms of the Genalphid language.
 
 ### i
 
+* \*iː˧˩
+  * "oh dear"[^1]
 * \*iʔ˨
   * related to \*əʔ˨
   * exclaimed when writing something down
@@ -621,8 +625,8 @@ Below is a list of terms of the Genalphid language.
 * \*tid˨bi˥
   * presumably an honorific title to an MTR train; see T Chai
 * \*tin˥təŋ˥˨
-* \*tɔt˥ti˩
-  * chopsticks
+* \*tɔt˥tsiː˩
+  * chopsticks[^2]
 * \*tsi˨˥
 * \*tsiʊː˥jaʊ˥
 * \*tsjæ˨˥na˨
@@ -734,3 +738,6 @@ May be caused by different borrowings.
 ### Pronunciations are not set in stone
 
 The pronunciation of a word can vary. This means that some entries can be unified.
+
+[^1]: <https://youtu.be/JiqL-Z9dxJ8>
+[^2]: <https://youtu.be/wkr3HZUe5rM>
