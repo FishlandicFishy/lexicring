@@ -162,9 +162,9 @@ Below is a list of terms of the Genalphid language.
   * flat (music note)
   * antonym of \*ʃɔʔ˧
 * \*bo˥ba˩
-  * hug (from "抱(吧)")
+  * hug (from Chinese "抱吧")
 * \*bɔ˥bɔ˥bɔ˥
-  * ping-pong ball
+  * ping-pong ball (from Cantonese "乒乓波")
 * \*bɾa˨san˥˨san˥
 
 ### ɕ
