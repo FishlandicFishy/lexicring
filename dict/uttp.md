@@ -1,5 +1,7 @@
 # UTTP
 
+Also UTTD.
+
 ## English
 
  [n] Stands for "U-Tube Troll Police", and alternatively "Underage Toddlers Trolling People". Troll organisation composed solely of Genalphids.
