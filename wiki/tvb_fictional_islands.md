@@ -118,4 +118,4 @@ Not much is known about the Huoshan Islands, other than the fact that it has an 
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
-[^2363]: Episode 2363, (link pending)
+[^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
