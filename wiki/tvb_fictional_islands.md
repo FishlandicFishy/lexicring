@@ -96,6 +96,11 @@ Not much is known about the Men Qin Li Islands.
 [^2079]
 Not much is known about Tao Jiu Wu Island, but it is hard to escape.
 
+## 火山群島 (Huoshan Islands)
+
+[^2363]
+Not much is known about the Huoshan Islands, other than the fact that it has an active volcano which smells like burnt soup when it erupts. Very few airlines are willing to send airplanes there.
+
 ## References
 
 [^0323]:  Episode 323, <https://youtu.be/lvhvCThgemM>
@@ -113,3 +118,4 @@ Not much is known about Tao Jiu Wu Island, but it is hard to escape.
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
+[^2363]: Episode 2363, (link pending)
