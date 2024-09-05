@@ -24,7 +24,7 @@ The Genalphid Language is babyspeak, but it is scientifically proven to mean stu
 | stop        | b p      |             |               | d t      |                 |         | ɡ k   |        | ʔ       |
 | fricative   |          | f           | ʃ             | s z      | ɕ               |         | x     | χ      | h       |
 | tap/flap    |          |             |               | ɾ        |                 |         |       |        |         |
-| approximant | w        | v           |               |          |                 | j       | (w)   |        |         |
+| approximant | w        | v           |               | ɹ        |                 | j       | (w)   |        |         |
 | lateral     |          |             |               | l        |                 |         |       |        |         |
 
 | Vowels     | front | central | back |
@@ -378,6 +378,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˥juː˩
 * \*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥
 * \*i˨mɛ˥ji˥ha˥˨
+* \*iː˥ɹʷaː˨
 
 ### j
 
