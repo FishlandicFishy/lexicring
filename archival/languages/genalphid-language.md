@@ -317,6 +317,8 @@ Below is a list of terms of the Genalphid language.
 
 ### h
 
+* \*ha˥boʊ˨
+  * handrail
 * \*haɪ˥bɔ˧
 * \*haɪ˨lu˥˩
 * \*ha˨˥la˥ho˨˥lɔ˨
