@@ -534,6 +534,9 @@ Below is a list of terms of the Genalphid language.
   * usually followed by "I want this one"
 * \*nɛ˨ji˥ji˥ja˨˥
 * \*nɛ˩˦sa˥zɯ˨˦zɯ˨ː
+* \*nɛɪ˨n̩˩nɛɪ˨ɡa˧
+  * "it's someone else's"
+  * from Cantonese 人哋㗎
 * \*ni˥ɡɛ˥su˥˨jɛ˨
 * \*nɪk˥bət˥
 * \*nʲa˩nʲa˧nʲa˥
