@@ -1,4 +1,4 @@
 # fuiyo
 ## Social Crebit English
 
-[exclam.] See [fuiyoh](fuiyoh.md).
+[exclam.] Alternate form of [fuiyoh](fuiyoh.md).
