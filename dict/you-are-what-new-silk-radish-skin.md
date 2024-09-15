@@ -3,4 +3,4 @@
 
 Also "You are what fresh carrot skin?"
 
-[phrase] Who are you to say this? What are your qualifications to say this? Do you know who I am? From Chinese "你乜嘢新絲蘿蔔皮呀？"
+[phrase] Who are you to say this? What are your qualifications to say this? Do you know who I am? From Cantonese "你乜嘢新絲蘿蔔皮呀？"
