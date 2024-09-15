@@ -11,10 +11,11 @@
 * Using containers as a percussion instrument, especially in public transport
 * Dancing while talking
   * Colloquially known as "throwing tantrums"
+* Dancing while walking
 * Dance in groups in the most out-of-place locations
   * An example of this would be a dark corner in a shopping mall
 * Walk in inconsistent speeds, blocking the road
-* Intentionally coughing when next to another person
+* Intentionally coughing or sneezing when next to another person
   * This is especially prevalent when they are wearing a "crown"
 * Praying to skibidi
 * Edging to skibidi
@@ -38,3 +39,4 @@
 * Putting MTR train models way too close to their mouth
 * Running around with balloon swords while shouting loudly
 * Riding bicycles in the most inappropriate places while shouting loudly
+* Saying that yam is forbidden
