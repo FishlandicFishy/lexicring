@@ -11,4 +11,6 @@ Example:
 
 3. Time[^1]
 
+4. the Alphabet Lore series
+
 [^1]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
