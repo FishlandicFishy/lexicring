@@ -17,7 +17,7 @@ Example:
 
 "You've gyatt to see this!"
 
-4. [n] The part Definition 2 is referring to.
+4. [n] A questionable body part, mostly what Definition 2 refers to.
 
 * gyatt level: Level 5 Gyatt is the highest level. Level 10 Gyatt is hypothetical.
 * gyattmeister: Someone with a Level 5 Gyatt.
