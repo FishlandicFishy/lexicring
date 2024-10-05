@@ -3,6 +3,10 @@
 
 1. [n, v] The process of using Microsoft Edge.[^1]
 
+Example:
+
+"We want to see how you Edge. Show us your most memorable edges."
+
 2. [v] Forcing someone to wait too long.
 
 Example:
