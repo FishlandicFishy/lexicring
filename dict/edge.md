@@ -23,6 +23,10 @@ Example:
 
 5. [v] Intentionally making something to be in a state between two states, just before something happens.
 
+Example:
+
+"Edging my microwave."
+
 [^1]: <https://www.reddit.com/r/pcmasterrace/comments/199vks2/chat_is_this_real/>
 [^2]: <https://www.urbandictionary.com/define.php?term=edge>
 [^3]: <https://youtu.be/draCVwfi0-w>
