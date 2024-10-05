@@ -17,6 +17,8 @@ Example:
 
 4. [n, v] Slang term for the action of committing various serious crimes, including but not limited to burglary, kidnapping, and aggravated assault, as quoted from Google AI.[^3]
 
+5. [v] Intentionally making something to be in a state between two states, just before something happens.
+
 [^1]: <https://www.reddit.com/r/pcmasterrace/comments/199vks2/chat_is_this_real/>
 [^2]: <https://www.urbandictionary.com/define.php?term=edge>
 [^3]: <https://youtu.be/draCVwfi0-w>
