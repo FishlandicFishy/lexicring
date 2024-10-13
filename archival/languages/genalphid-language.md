@@ -45,36 +45,65 @@ Below is a list of terms of the Genalphid language.
 
 * \*ãː˧˥
 * \*a˨ʔa˧
+* \*a˨ʔa˥
 * \*a˥ʔa˦˥ma˦ma˥
+* \*aː˨ʔɛ˨ni˨
+* \*a˥ʔɛ˥ʔi˥la˧
+* \*a˥ʔɛ˩tɔ˥ʔai˨˥ʔawɔ˥zɔ˨wɔ˨sɛ˥ji˨ja˧
+* \*aːːaː˨baː˨
+* \*a˦ba˦
 * \*aː˥baː˨
+* \*a˥baɪ˨˥ja˨
 * \*aː˨bɔ˥˨
   * often repeated multiple times
   * rhythmic: (2/4) `|♩♩|`
 * \*a˥bɛ˨lɛ˨ʔi˧da˩
 * \*a˨daɪ˨˥
+* \*a˨daɪ˨hua˨
+* \*a˨da˥ja˧di˧
+* \*a˨dɛ˥a˨˥bɛ˨zɔŋ˦jɛ˨˥a˨
+* \*a˨di˥bɔ˧bɔ˨
+* \*a˨˥di˥na˨a˨ja˩˦
 * \*a˨do˥na˨ɲaʔ˨
+* \*a˥du˨su˦ju˦
+  * often repeated multiple times
+* \*a˨du˥wɔ˧
 * \*a˨ə˥
   * exclamation
 * \*a˥fa˨˥
   * exclamation
   * possibly related to \*a˥ma˨˥
+* \*a˧ɡa˥ji˨nɛ˦da˦˩
 * \*a˧ha˥mi˨
 * \*a˨hɛ˥hɛ˥˨
   * "How many stations left?" (railway)
   * not to be confused with Navajo "ahéhee' "
+* \*a˨˥ja˧
+* \*a˥jaʔ˨
+* \*a˥ja˨a˩ɛ˥
+* \*a˥ja˧bɛ˥kɛɪ˩sy˥jy˨˥
 * \*a˨ja˥dɛ˨
   * \*a˨ja˥- prefix?
+* \*aː˥˨ja˥diʔ˧
 * \*a˦ja˨ɛ˧
 * \*a˨ja˥ʔaɪ˥ʔa˥ʔa˨˥˨
   * \*a˨ja˥- prefix?
+* \*a˥˨jɛ˨˥bi˥˩
 * \*a˥ji˨ɡa˥ba˧
+* \*a˥ji˨nə˨naː˥
 * \*a˥ji˧sa˥˨
+* \*a˥la˩ma˥ji˥
 * \*a˥laʊː˧
+* \*a˥lan˨
+* \*a˨lɛː˨
+  * related to \*a˥zɛː˨
 * \*a˥lɛ˨ɔ˥˨
 * \*a˨li˥da˩
+* \*a˨ljɔ˨fu˧wɔ˩
 * \*a˨loʊ˥la˨
   * 39 days or 39 seconds
     * (days and seconds are synonymous)
+* \*a˥˨lɔ˨a˨
 * \*a˩lɔ˥ly˥
   * (platonic) "ily" (see \*lɔ˥)
 * \*a˥ma˨˥
@@ -84,6 +113,7 @@ Below is a list of terms of the Genalphid language.
   * possibly related to \*a˥fa˨˥
 * \*aː˧maː˨maː˥
 * \*a˨ma˥nɛ˩
+* \*a˩˨mɛ˨nji˨
 * \*a˥mɛ˥ɔ˨˥˨
 * \*a˥mɛɪ˨ɡɔ˨˥ɡɔ˧
 * \*a˥mjɛn˥˨la˨˥di˨˥
@@ -94,41 +124,58 @@ Below is a list of terms of the Genalphid language.
 * \*a˥nɪŋ˨dən˩
 * \*a˨ŋʲa˦
 * \*a˨˥ɲaʊ˥˨
+* \*a˧ɔ˧mɛɪ˨˥taɪ˧
 * \*a˥saʊ˩a˨
 * \*a˥sɛ˥sɛ˥˨
+* \*a˨ʃi˥da˨la˨
+  * followed by \*bi˥jaʔ˧
 * \*a˩ʔɔ˧ʔɪ˥ja˦
-* \*a˨wi˥waɪ˨˥wɔ˨
-* \*a˥za˧da˨ʔi˥da˧
-* \*a˨za˨ji˥
-* \*a˨za˨˥ku˨˥zã˨
-* \*aɪ˥bɔ˦
-  * exclamation
-* \*aɪ˧bu˥
-* \*aɪ˥dɛɪ˨˥
-* \*aɪ˥ɛ˨
-* \*aɪ˥ɚ˨
-* \*aɪ˨ja˥
-* \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
-* \*aɪ˨˥na˩
-* \*aɪ˥ŋaɪ˨
-* \*aɪ˥ŋu˦ŋa˨
-* \*aʊ˨˥aɪ˨
-* \*aʊ˩da˥
-* \*aʊ˥˨wɔ˨
-  * exclamation
+* \*a˨˥wa˨
+  * vaguely rising then falling tone
 * \*a˨wa˥
   * exclamation
   * vaguely rising tone
 * \*a˥wa˥˨
   * vaguely falling tone
+* \*a˨wi˨˥jɛ˨jɛ˥
+* \*a˨wi˥waɪ˨˥wɔ˨
 * \*ax˧ʃʷa˥
 * \*a˧za˧zə˧zə˧a˩wa˥ji˩ɔ˩
 * \*a˨ʑʲa˥˨ma˨
+* \*a˥za˧da˨ʔi˥da˧
+* \*a˨za˨ji˥
+* \*a˨za˨˥ku˨˥zã˨
+* \*a˥zɛː˨
+  * related to \*a˨lɛː˨
+* \*aɪ˥˧
+* \*aɪ˥bɔ˦
+  * exclamation
+* \*aɪ˧bu˥
+* \*aɪ˥˨da˨˥nja˨˥
+* \*aɪ˥dɛɪ˨˥
+* \*aɪ˥dɔ˨˥
+* \*aɪ˥ɛ˨
+* \*aɪ˥ɚ˨
+* \*aɪ˨ja˥
+* \*aɪ˥lɛʔ˧
+* \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
+* \*aɪ˨˥na˩
+* \*aɪ˥ŋaɪ˨
+* \*aɪ˥ŋu˦ŋa˨
+* \*am˨˥
+  * "three" from Cantonese "三"
+* \*aʊ˨˥aɪ˨
+* \*aʊ˩da˥
+* \*aʊ˥wæ˨
+* \*aʊ˥˨wɔ˨
+  * exclamation
 
 ### æ
 
 * \*æ˥bæ̃˩
 * \*æ˥bæj˨hɛj˨
+* \*æ˨˥naʊ˨˥naʊ˨
+* \*æd˥bɔː˧
 
 ### ɐ
 
@@ -140,20 +187,29 @@ Below is a list of terms of the Genalphid language.
   * alternate form: \*ba˥˨
 * \*ba˥ba˧˩
   * exclamation
+* \*ba˧ba˨bã˥
 * \*ba˨ba˨ba˨ba˨ba˨ba˨
   * often repeated multiple times
   * probably related to \*bæb˥bæ˧bæ˩bæb˨ and \*bi˥bi˥bib˥
 * \*bæ˧
   * exclamation
+* \*bæ˨bæ˨bæ˨oʊ˨˥ɚ˨˥æ˨
+* \*bæ˧lɔ˨hɔ˨˥
+* \*bæʔ˧ki˧jaː˨
 * \*bæb˥bæ˧bæ˩bæb˨
   * more than one recorded usage
   * often repeated multiple times
 * \*bɛ˥bɛ˥a˧doŋ˨
 * \*bɛ˨bɛ˨bɛ˧
+* \*bɛɪ˨˥wɔ˨di˥
+* \*bə˥lə˨
 * \*bi˥bi˥bib˥
   * more than one recorded usage
   * often repeated multiple times
 * \*bi˥bi˥ma˥ɡɔ˨
+* \*bi˥jaʔ˧
+  * often repeated multiple times
+  * preceded with \*a˨ʃi˥da˨la˨
 * \*biœː˥
   * related with \*bi˥bi˥bib˥
   * last syllable when using \*bi˥bi˥bib˥
@@ -165,7 +221,11 @@ Below is a list of terms of the Genalphid language.
   * hug (from Chinese "抱吧")
 * \*bɔ˥bɔ˥bɔ˥
   * ping-pong ball (from Cantonese "乒乓波")
+* \*bɔ˥dɛʔ˨
 * \*bɾa˨san˥˨san˥
+* \*bu˧bu˨bu˩ː˥bu˨bu˩bu˦
+  * often repeated multiple times
+* \*bu˨bu˨ɡa˥lə˨dɛɪ˩
 
 ### ɕ
 
@@ -190,20 +250,28 @@ Below is a list of terms of the Genalphid language.
 * \*da˨˥wɔ˧ɔ˨˥dɚɪ˨
 * \*da˥ʔa˧
 * \*daɪ˨tɕʲɛ˦
+* \*das˥nɔʔ˥pɔa˥˧
 * \*dɑː˨dɑː˧dɑː˦
   * presumably "I want my dad (to)" based on context
 * \*dɑː˦dɑː˧
   * presumably "(to) return west" based on context
+* \*da˨mi˥na˨tɔ˩ŋjɔ˨˥
 * \*da˧.zi˥.m̩˩.ji˥
 * \*da˥˨ʔa˨˥
   * often repeated multiple times
+* \*dɛ˥bi˨dɛ˥
 * \*dɛ˧dɛ˥bɛ˦ja˨
+* \*dəː˥də˧də˦dəː˧dəː˨
+  * often repeated multiple times
+* \*də˨doʊ˨˥moʊ˨˥
 * \*dəd˨dəd˨də˥
   * rhythmic: (4/4) `|♫♩♫♩|`
   * often repeated multiple times
 * \*də˧.doʊ˧˥.bɔ˧
   * could be related to \*doʊ˨˥
 * \*də˥ɡoʊ˥doʊ˥
+* \*dəʊ˨dəʊ˥
+  * "dance" (v)
 * \*di˦di˨jɑː˨
 * \*dɛn˥do˨
   * onomatopoeia of an Empty R door opening ([best example I could find](https://youtu.be/VUsZeN_hZPs))
@@ -218,6 +286,8 @@ Below is a list of terms of the Genalphid language.
 * \*doʊ˨˥
 * \*doʊ˨˥ʔa˨
   * could be related to \*doʊ˨˥
+* \*doʊ˥doʊ˥
+  * often repeated multiple times
 * \*dɔː˨
   * "go"[^1]
 * \*dɔ˨˥sɔ˨˥bin˩do˥
@@ -237,6 +307,7 @@ Below is a list of terms of the Genalphid language.
   * exclaimed when writing something down
   * often repeated multiple times
 * \*ə˨˥ʔə˨˥ja˧
+* \*ə˨la˥a˧la˥
 * \*ə˨ləɪ˨ʔa˥ʔəŋ˥
 * \*ə˥lɛ˥
   * exclamation
@@ -245,21 +316,31 @@ Below is a list of terms of the Genalphid language.
   * grandma
   * borrowed from Cantonese "阿婆"
 * \*əmˌː˩
-  * ॐ
+  * om | ॐ
+* \*ən˥wɛɪ˥
 
 ### ɛ
 
 * \*ɛ˥
   * exclamation
+* \*ɛ˧
+  * "two" from Chinese "二"
 * \*ɛ˥˩
   * often repeated multiple times
+* \*ɛ˥bə˥bə˨
 * \*ɛ˨˥boɪ˥jɛ˨˥
-* \*ɛː˥ꜛʃː
-* \*ɛɪ˨ɛɪ˥di˥jaʊ˩
-* \*ɛɪ˥saʔ˥da˧jɔ˥
+* \*ɛ˥˨ɡɔ˨ba˨˦
+* \*ɛ˧hɔ˩hɔ˥dɛ˧˩
+* \*ɛ˥ja˧na˩dɛ˧ja˩
+* \*ɛ˥jɔ˨ba˨jɛ˨˥
+* \*ɛ˨jɔ˦fu˥˩
+* \*ɛ˨jɔ˨ɡa˦ɡa˧mi˥ta˦
+* \*ɛ˨ka˥bɛ˨˦fu
 * \*ɛ˥ja˨ɔ˨˥a˨
 * \*ɛ˥jɛ˥wan˥be˧
-* \*ɛl˥ji˨
+* \*ɛ˧lə˧dɑ˧
+  * exclamation
+  * shouted when one trips
 * \*ɛ˧maɪ˨˥na˩
 * \*ɛ˨man˧ŋu˥
 * \*ɛ˥maʊ˩
@@ -270,10 +351,20 @@ Below is a list of terms of the Genalphid language.
 * \*ɛ˨˥mo˥jə˥
 * \*ɛ˨na˨bɛ˨sa˧
 * \*ɛ˥na˨zu˩zu˥ba˨
+* \*ɛ˥ni˧njɛ˨njɛ˨
 * \*ɛ˥ŋa˥ŋa˨˥
+* \*ɛ˥ɔ˧lu˦da˩
+* \*ɛ˧sɔ˥ɡɔ˨bɔ˨
+* \*ɛː˥ꜛʃː
 * \*ɛ˨ta˥ma˩ma˥
 * \*ɛ˧wə˧da˩
+* \*ɛ˧wɔ˧
+* \*ɛ˨wɔ˥
 * \*ɛ˥ʔɔ˥
+* \*ɛɪ˨ɛɪ˥di˥jaʊ˩
+* \*ɛɪ˥saʔ˥da˧jɔ˥
+* \*ɛɪ˨u˥wɔ˩aʊ˨˥
+* \*ɛl˥ji˨
 
 ### f
 
@@ -290,7 +381,9 @@ Below is a list of terms of the Genalphid language.
 * \*ɡa˨da˨˥
   * a noun
 * \*ɡa˨la˥ɡɔ˨lɔ˨sɛ˥ja˥
+* \*ɡa˨˥n̩˨ja˧ɛɪ˨˥a˥ja˩
 * \*ɡa˥zi˩ba˥
+* \*ɡɛ˨˥da˥wa˧
 * \*ɡɛɪ˨˥ɡaʊ˩jaʊ˩
   * "a few pieces of this"
   * \*ɡɛɪ˨˥ɡaʊ˩ means "a few pieces" borrowed from Cantonese "幾舊"
@@ -300,6 +393,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡə˨doʊ˥fɔŋ˨
 * \*ɡə˨ɡə˥jiw˧(ə˧)
   * probably "we have arrived"
+* \*ɡə˨ləb˧
 * \*ɡi˦
 * \*ɡi˧ɡi˧ɡɛʔ˧
 * \*ɡiʊ˨səʊ˨˥ɡəb˥tsiʊ˥toʊ˩
@@ -310,6 +404,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɡo˨bi˧ta˥mɛ˧ja˨
 * \*ɡo˦di˥
 * \*ɡo˧li˧˨
+* \*ɡɔ˥vɔ˧˩
 * \*ɡoʊ˨y˥æ˥ja˨
 * \*ɡɐ˧zɐ˧ɡe˧ɡe˧ba˥
 * \*ɡy˨dy˨ba˥la˨ba˩ni˥
@@ -334,7 +429,9 @@ Below is a list of terms of the Genalphid language.
 * \*hə˨hə˨hə˨ta˥hu˩
 * \*həʔ˨tsuʔ˩
   * walnuts from Cantonese "核桃"[^3]
+* \*hə˨wu˥ʒaʊ˨˥ɔ˨ba˨˥ji˧
 * \*hɛɪ˥hɛɪ˥
+* \*hɛɪː˥˨ɔː˨˥tsəʔ˨ɔː˨˥pɔʔ˨
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
   * probably a ritual or a command telling someone to walk forward to a certain point
@@ -348,9 +445,12 @@ Below is a list of terms of the Genalphid language.
   * exclamation
 * \*hoʊ˨˥du˥da˨˥
 * \*hɔ˨˥ɡit˨tsən˥mɛɪ˥jɔ˥
+* \*hɔ˥lɔː˨ba˥ə˧baː˥˧
 * \*hɔɪ˥kɔk˥
+* \*hɔɪ˨˥la˩
 * \*hoʊ˥la˥hoʊ˥la˨
   * often repeated multiple times
+* \*hoʊ˨tɔŋ˥
 
 ### i
 
