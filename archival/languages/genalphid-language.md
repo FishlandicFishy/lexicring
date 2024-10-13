@@ -157,6 +157,8 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˥ɛ˨
 * \*aɪ˥ɚ˨
 * \*aɪ˨ja˥
+* \*aɪː˧˨ja˨
+  * response: \*aʊ˨˦wa˨
 * \*aɪ˥lɛʔ˧
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*aɪ˨˥na˩
