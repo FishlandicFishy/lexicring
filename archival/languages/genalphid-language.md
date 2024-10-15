@@ -44,6 +44,7 @@ Below is a list of terms of the Genalphid language.
 ### a
 
 * \*ãː˧˥
+* \*ã˦ã˧aː˥ꜛ
 * \*a˨ʔa˧
 * \*a˨ʔa˥
 * \*a˥ʔa˦˥ma˦ma˥
@@ -74,6 +75,9 @@ Below is a list of terms of the Genalphid language.
   * exclamation
   * possibly related to \*a˥ma˨˥
 * \*a˧ɡa˥ji˨nɛ˦da˦˩
+* \*a˦˧ɡja˨˦
+  * often repeated multiple times
+* \*a˥ɡoʊ˨
 * \*a˧ha˥mi˨
 * \*a˨hɛ˥hɛ˥˨
   * "How many stations left?" (railway)
@@ -116,6 +120,9 @@ Below is a list of terms of the Genalphid language.
 * \*a˩˨mɛ˨nji˨
 * \*a˥mɛ˥ɔ˨˥˨
 * \*a˥mɛɪ˨ɡɔ˨˥ɡɔ˧
+  * possibly related to \*a˧mi˦ɡɔ˥ɡɔ˦
+* \*a˧mi˦ɡɔ˥ɡɔ˦
+  * possibly related to \*a˥mɛɪ˨ɡɔ˨˥ɡɔ˧
 * \*a˥mjɛn˥˨la˨˥di˨˥
 * \*a˥na˥jɛs˥ta˩
 * \*a˨na˩na˥ɡɛ˨taʊ˨
@@ -159,9 +166,11 @@ Below is a list of terms of the Genalphid language.
 * \*aɪ˨ja˥
 * \*aɪː˧˨ja˨
   * response: \*aʊ˨˦wa˨
+* \*aɪ˨˥ja˧wãː˧
 * \*aɪ˥lɛʔ˧
 * \*aɪ˨˥maɪ˥ŋuɪ˨ŋɔ˨ŋæ˩
 * \*aɪ˨˥na˩
+* \*aɪ˥na˧ɡi˨ɡɔ˨
 * \*aɪ˥ŋaɪ˨
 * \*aɪ˥ŋu˦ŋa˨
 * \*am˨˥
@@ -196,6 +205,7 @@ Below is a list of terms of the Genalphid language.
 * \*bæ˧
   * exclamation
 * \*bæ˨bæ˨bæ˨oʊ˨˥ɚ˨˥æ˨
+* \*bæ˧ja˧
 * \*bæ˧lɔ˨hɔ˨˥
 * \*bæʔ˧ki˧jaː˨
 * \*bæb˥bæ˧bæ˩bæb˨
@@ -257,6 +267,7 @@ Below is a list of terms of the Genalphid language.
   * presumably "I want my dad (to)" based on context
 * \*dɑː˦dɑː˧
   * presumably "(to) return west" based on context
+* \*da˧˦mi˨da˥˨
 * \*da˨mi˥na˨tɔ˩ŋjɔ˨˥
 * \*da˧.zi˥.m̩˩.ji˥
 * \*da˥˨ʔa˨˥
@@ -334,6 +345,7 @@ Below is a list of terms of the Genalphid language.
 * \*ɛ˥˨ɡɔ˨ba˨˦
 * \*ɛ˧hɔ˩hɔ˥dɛ˧˩
 * \*ɛ˥ja˧na˩dɛ˧ja˩
+* \*ɛ˧jaʊ˧ɡiː˨
 * \*ɛ˥jɔ˨ba˨jɛ˨˥
 * \*ɛ˨jɔ˦fu˥˩
 * \*ɛ˨jɔ˨ɡa˦ɡa˧mi˥ta˦
@@ -418,6 +430,7 @@ Below is a list of terms of the Genalphid language.
   * handrail
 * \*haɪ˥bɔ˧
 * \*haɪ˨lu˥˩
+* \*hãɪ˥ꜛ
 * \*ha˨˥la˥ho˨˥lɔ˨
   * suspiciously similar to \*hoʊ˥la˥hoʊ˥la˨
 * \*ha˥˨sa˨˥va˩
@@ -434,6 +447,7 @@ Below is a list of terms of the Genalphid language.
 * \*hə˨wu˥ʒaʊ˨˥ɔ˨ba˨˥ji˧
 * \*hɛɪ˥hɛɪ˥
 * \*hɛɪː˥˨ɔː˨˥tsəʔ˨ɔː˨˥pɔʔ˨
+* \*hɛ˧la˧
 * \*hid˥hid˥dən˩dən˩dən˩
   * rhythmic: (4/4) `|♩♩♫♩|`
   * probably a ritual or a command telling someone to walk forward to a certain point
@@ -448,6 +462,9 @@ Below is a list of terms of the Genalphid language.
 * \*hoʊ˨˥du˥da˨˥
 * \*hɔ˨˥ɡit˨tsən˥mɛɪ˥jɔ˥
 * \*hɔ˥lɔː˨ba˥ə˧baː˥˧
+* \*hɔɪ˥
+  * exclamation
+  * often repeated multiple times
 * \*hɔɪ˥kɔk˥
 * \*hɔɪ˨˥la˩
 * \*hoʊ˥la˥hoʊ˥la˨
@@ -481,6 +498,8 @@ Below is a list of terms of the Genalphid language.
 * \*i˥ja˩ɡa˥bə˨daɪ˥
 * \*i˧ja˥ji˧ɡɐ˧za˥
 * \*i˨˥ja˥tsi˨da˨
+* \*i˦jɚ˧a˧mɔ˨ɡɛ˨˦
+* \*i˨jɔ˨˥
 * \*i˥juː˩
 * \*i˥loʊ˨˥wɛ˥loʊ˨˥wɛ˥
 * \*i˨ma˥
@@ -488,6 +507,7 @@ Below is a list of terms of the Genalphid language.
 * \*i˥ma˥maʊ˨˥
 * \*i˨mɛ˥ji˥ha˥˨
 * \*iː˥ɹʷaː˨
+* \*i˨tsɪ˥˧jɔ˧
 * \*i˨zju˥mɪŋ˩
 
 ### j
@@ -504,6 +524,7 @@ Below is a list of terms of the Genalphid language.
 * \*jaʔ˥
   * more than one recorded usage
   * "one" from Cantonese "一"
+* \*ja˦aʊ˨a˦˧
 * \*ja˥boʊ˨
 * \*ja˨di˥
   * often repeated multiple times
@@ -533,6 +554,7 @@ Below is a list of terms of the Genalphid language.
 * \*jɛ˨˥bi˨nɛ˩a˨
 * \*jɛ˥hɛ˨˥
   * exclamation
+* \*jɛ˧lɔ˨lɔ˨
 * \*jɛ˥si˨
   * yes
 * \*jɛɪ˧
@@ -542,11 +564,13 @@ Below is a list of terms of the Genalphid language.
   * rising tone with sudden high pitch
 * \*ji˥bi˧
   * "this side" from Cantonese "依邊"
+* \*jiː˦jiː˧ɡɔː˨
 * \*ji˨ji˨ji˨muː˨˥
 * \*jo˨y˥jo˨y˥ɛ˥a˧
 * \*jɔ˩˥ꜛ
 * \*jɔ˥ba˨˥ni˩
 * \*jɔ˨waɪ˨˦
+* \*jɔ˧wɔ˨˦
 * \*ju˦ba˧jɛ˨˦ɡaʊ˨˦
 
 ### k
@@ -592,6 +616,7 @@ Below is a list of terms of the Genalphid language.
 
 * \*ma˩
   * sometimes a prefix followed by \*mɔ˩wɔ˨˥
+* \*ma˦ɡa˦wuɪ˦˨ə˨
 * \*ma˨lə˨tu˨dɛɪ˦lɛ˦
   * \*tu˨dɛɪ˦ -> "today"?
 * \*maː˩maː˨mɛː˥
@@ -660,6 +685,7 @@ Below is a list of terms of the Genalphid language.
 * \*na˥ɡoʊ˩
   * LEGO® pieces
 * \*na˥hoʊ˧
+* \*na˨i˥tu˧djɛ˧
 * \*na˥jɛ˨˥
   * exclamation
 * \*na˩ma˥haʔ˨˩
@@ -677,7 +703,7 @@ Below is a list of terms of the Genalphid language.
 * \*na˥paʊ˨˥zɪŋ˧wɔ˨
 * \*na˥sa˨˥
 * \*na˥to˨vɛ˨
-* \*na˨i˥tu˧djɛ˧
+* \*na˨tɔ˨˥hwa˥˧
 * \*na˨tu˨ha˥bɔ˥lan˩ʔa˩
   * might be related to Poland?
 * \*na˨˥za˩zi˥ni˨˥ni˨
@@ -693,6 +719,7 @@ Below is a list of terms of the Genalphid language.
 * \*nɛ˥ɡɛ˥ɡə˨˥ɡə˨˥jiʊ˩a˥
 * \*nɛ˥ɡɛ˥ha˥la˥˧
 * \*nɛ˥˧ɡɔː˨
+* \*nɛ˨ɡɔ˦
 * \*nɛ˥ja˨nɛ˥ja˨du˦˩
   * "this one"
   * usually followed by "I want this one"
@@ -843,6 +870,7 @@ Below is a list of terms of the Genalphid language.
 * \*wa˥ɛ˨
   * "what is this?" with a neutral emotion
 * \*wa˩˦ɡa˥ba˧la˨
+* \*wa˧ɡjaʊ˨
 * \*wa˨hoʊ˨˥ɔ˨
   * related to \*wa˨hʊk˥ɔ˨
 * \*wa˨hʊk˥ɔ˨
@@ -853,12 +881,14 @@ Below is a list of terms of the Genalphid language.
 * \*wa˨˥ŋa˨
 * \*wa˨ʔɔ˨˦mɛ˥
 * \*wa˥wəɪ˨
-* \*wa˧ʊ˥
-  * alternate forms \*ma˧ʊ˥ \*daːʊ˧
-* \*waɪː˧s̩ː
-* \*waɪ˦waɪ˧
 * \*wa˥y˥li˥da˩
   * "what is this?" with an emotional undertone
+* \*wa˧ʊ˥
+  * alternate forms \*ma˧ʊ˥ \*daːʊ˧
+* \*waɪ˥ja˧˥
+* \*waɪː˧s̩ː
+* \*waɪ˦waɪ˧
+* \*wãʊ˧
 * \*wæ˨˥ꜛ
 * \*wɛɪ˧
   * exclamation
@@ -868,6 +898,7 @@ Below is a list of terms of the Genalphid language.
   * small stomach (?)
   * from Cantonese 胃 (stomach)
 * \*wəʊ˥
+* \*wi˧aɪː˧˩
 * \*wo˩tɛ˥ꜛpaʊ˩
 * \*woʊ˦a˨
 * \*wɔ˨djɛ˥˨
