@@ -906,7 +906,7 @@ Below is a list of terms of the Genalphid language.
 * \*wɔː˨ʃi˨
 * \*wɔ˨zɛ˥ʃɪ˨nã˨˥
 * \*wu˩aː˥˩
-* \*wu˨˥shi˥˩
+* \*wu˨˥ʃi˥˩
 
 ### χ
 
