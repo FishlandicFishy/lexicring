@@ -69,6 +69,8 @@ Below is a list of terms of the Genalphid language.
 * \*a˥du˨su˦ju˦
   * often repeated multiple times
 * \*a˨du˥wɔ˧
+* \*a˧ʔɛ˨bi˨jaː˨˩
+  * bye
 * \*a˨ə˥
   * exclamation
 * \*a˥fa˨˥
@@ -107,6 +109,9 @@ Below is a list of terms of the Genalphid language.
 * \*a˨loʊ˥la˨
   * 39 days or 39 seconds
     * (days and seconds are synonymous)
+* \*a˥lɔː˧
+  * (but) there's no
+  * from Cantonese 都冇
 * \*a˥˨lɔ˨a˨
 * \*a˩lɔ˥ly˥
   * (platonic) "ily" (see \*lɔ˥)
@@ -601,6 +606,8 @@ Below is a list of terms of the Genalphid language.
 * \*lək˨sɛk˨tɕʲɛ˨˥
   * more than one reported usage
 * \*lək˨sɪk˥bo˨
+* \*lɚ˨˥daɪ˨˥ju˩
+  * [n] a factor causing distress?
 * \*lja˨˥o˨ly˥tɕi˨˥
 * \*lɔ˥
   * v. (platonic) "love" (see \*a˩lo˥ly˥)
@@ -637,7 +644,7 @@ Below is a list of terms of the Genalphid language.
   * often repeated multiple times
 * \*mi˦mi˦mi˨˥
 * \*mæ̃˨
-  * no
+  * no (sense: yes/no)
   * from Cantonese 唔係
 * \*mæ̃˨mæ̃˨mæ̃˥mæ̃˥mæ̃˨˩
 * \*mɛ˥˧daʔ˧
@@ -835,6 +842,9 @@ Below is a list of terms of the Genalphid language.
 * \*si˨bo˥bo˧
 * \*si˨˥bu˩aɪ˥
 * \*si˥həŋ˩
+* \*sɔɪː˨˦
+  * water
+  * from Cantonese 水
 
 ### ʃ
 * \*ʃɔʔ˧
@@ -896,11 +906,14 @@ Below is a list of terms of the Genalphid language.
 * \*wɛɪ˨ha˥ha˥
 * \*wəɪ˨wu˨
   * small stomach (?)
-  * from Cantonese 胃 (stomach)
+  * \*wəɪ˨ from Cantonese 胃 (stomach)
 * \*wəʊ˥
 * \*wi˧aɪː˧˩
 * \*wo˩tɛ˥ꜛpaʊ˩
 * \*woʊ˦a˨
+* \*wɔ˨˦
+  * no (sense: none, absent)
+  * from Cantonese 冇
 * \*wɔ˨djɛ˥˨
 * \*wɔ˥jɔ˧˥
 * \*wɔː˨ʃi˨
@@ -908,6 +921,9 @@ Below is a list of terms of the Genalphid language.
 * \*wu˩aː˥˩
 * \*wuː˨˥ꜛda˨ji˨
 * \*wu˨˥ʃi˥˩
+* \*wuɪ˨˥
+  * seat
+  * from Cantonese 位
 
 ### χ
 
