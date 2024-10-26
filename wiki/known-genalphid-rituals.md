@@ -44,3 +44,4 @@
 * Dancing while playing basketball
 * Standing on seats
   * Occasionally they try to grab something above them
+* Immediately starting a fight after losing a game
