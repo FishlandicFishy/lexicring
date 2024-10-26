@@ -41,3 +41,4 @@
 * Riding bicycles in the most inappropriate places while shouting loudly
 * Saying that yam is forbidden
 * Kneeling down then get up while screaming loudly, turning around partially, and stomping the ground, several times in a row
+* Dancing while playing basketball
