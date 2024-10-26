@@ -42,3 +42,5 @@
 * Saying that yam is forbidden
 * Kneeling down then get up while screaming loudly, turning around partially, and stomping the ground, several times in a row
 * Dancing while playing basketball
+* Standing on seats
+  * Occasionally they try to grab something above them
