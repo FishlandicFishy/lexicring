@@ -45,3 +45,5 @@
 * Standing on seats
   * Occasionally they try to grab something above them
 * Immediately starting a fight after losing a game
+* Holding a handle then thrusting to it
+* Tampering with the emergency glass breaker on a bus when there is no emergency
