@@ -45,6 +45,7 @@
 * Standing on seats
   * Occasionally they try to grab something above them
 * Immediately starting a fight after losing a game
-* Holding a handle on public transport with two hands then thrusting their body towards it
+* Holding something on public transport with two hands then thrusting their body towards it
 * Tampering with the emergency glass breaker on a bus when there is no emergency
 * Kneeling on a seat in public transport then dancing by waving their hands up and down
+* Placing their bag behind a handrail, therefore locking it in place, then pulling a string of the bag towards themselves
