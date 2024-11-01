@@ -3,7 +3,9 @@
 
 Also "sucky tan ducky doo".
 
-/ˈsɔki tʰan ˈdəkʰi duː/
+/ˈsɔkʰi tʰan ˈdəkʰi duː/
 
-[phrase] pretentious Japanese (Google translated)
+1. [phrase] pretentious Japanese (Google translated)
   - from Japanese "そう聞いたんだけど", "I've heard that but"
+
+2. [phrase] used to mock someone who is pretending to speak Japanese
