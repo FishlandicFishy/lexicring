@@ -1,6 +1,8 @@
 # socky tan ducky doo
 ## Yapanese
 
+Also "sucky tan ducky doo".
+
 /ˈsɔki tʰan ˈdəkʰi duː/
 
 [phrase] pretentious Japanese (Google translated)
