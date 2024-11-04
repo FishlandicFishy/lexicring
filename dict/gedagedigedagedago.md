@@ -6,6 +6,8 @@ Also:
 
 ## Genalphid English
 
+/ɡə.dæː.ɡə.diːɡə.dæːɡə.dæː.ʔɔː/[^1]
+
 1. [n] Brainrot chicken nugget.
 
 Example:
@@ -14,6 +16,4 @@ Example:
 
 2. [n] The piece "Cotton Eye Joe" or its first line of lyrics.
 
-Example:
-
-"Gedagedigedagedago, I'd be married a long time ago."
+[^1]: <https://en.wiktionary.org/wiki/gegagedigedagedago>
