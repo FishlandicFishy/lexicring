@@ -49,3 +49,4 @@
 * Tampering with the emergency glass breaker on a bus when there is no emergency
 * Kneeling on a seat in public transport then dancing by waving their hands up and down
 * Placing their bag behind a handrail, therefore locking it in place, then pulling a string of the bag towards themselves
+* Running while holding homework
