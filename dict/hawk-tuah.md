@@ -1,6 +1,7 @@
 # hauk tuah
 ## Genalphid English
 
+/haːʔ tʼɔː/
 /hɔkʰ tʼɤ̂ː/[^1]
 
 1. [onomatopoeia] spitting
