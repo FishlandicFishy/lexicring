@@ -7,8 +7,11 @@ Alleged "OG" pronunciation: /haːʔ tʼɔː/
 
 Alternate pronunciation: /hɔk ˈtu.ə/[^2]
 
-1. [onomatopoeia] spitting
-2. (by extension) lubricant for questionable activities
+1. [onomatopoeia] sound of spitting
+  - [v] spitting
+  - [n] spit
+    - Example: "death by hawk tuah"
+2. (by extension) lubricant for questionable activities[^2]
 
 [^1]: <https://youtube.com/watch?v=msSrhYUrY8E>
 [^2]: <https://en.m.wiktionary.org/wiki/hawk_tuah#English>
