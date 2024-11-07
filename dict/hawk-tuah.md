@@ -5,7 +5,11 @@ Alleged "OG" pronunciation: /haːʔ tʼɔː/[^3]
 
 "Spit on That Thang" pronunciation: /hɔkʰ tʼɤ̂ː/[^1]
 
-Alternate pronunciation: /hɔk ˈtu.ə/[^2]
+Alternate pronunciation:
+
+/hɔk ˈtu.ə/[^2]
+
+( -/twa/)
 
 1. [onomatopoeia] sound of spitting
   - [v] spitting
