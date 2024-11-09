@@ -23,5 +23,8 @@ Example:
 
 5. [v] Love, like.[^2]
 
+6. [n] Utterfully awful odour disorder; often associated with not taking a shower and generally having bad hygiene, as quoted from Google AI.[^3]
+
 [^1]: <https://youtu.be/m3YoWW-D6FM>
 [^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
+[^3]: <https://youtu.be/nac92Z4f71I>
