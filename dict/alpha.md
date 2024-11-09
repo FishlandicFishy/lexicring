@@ -1,7 +1,7 @@
 # Alpha
 ## Genalphid English
 
-1. [n, adj] Near-synonymous with [sigma](/dict/sigma).
+1. [n, adj] Near-synonymous with [sigma](sigma.md).
 
 An arbitrarily high "status".
 
@@ -17,7 +17,7 @@ Example:
 
 See also:
 
-[sigma](/dict/sigma.md)
+[sigma](sigma.md)
 
 Example:
 
