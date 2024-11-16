@@ -1,5 +1,5 @@
 # Domain Expansion
-## English
+## Genalphid English
 
 Possible Chinese term: "空間代"
 
