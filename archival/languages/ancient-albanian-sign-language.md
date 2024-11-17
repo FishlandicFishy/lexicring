@@ -40,11 +40,11 @@
 | R̂2W̘̌ | how are you | / |
 | 3Ř | Saudi Arabia | / |
 | 4Ř | AASL | / |
-| 4Ŝ̘Ř̘Š̘Ř̘Š̘ | goodbye | / |
 | 2Š | hello | / |
 | 3Ŝ̘ | Palestine | / |
 | 3Ŝ[...] | my name is [...] | / |
 | 3Ŝ2Ř | cat | nominative |
+| 4Ŝ̘Ř̘Š̘Ř̘Š̘ | goodbye | / |
 | 10ŜŴ̙ | good | / |
 
 ## Grammar
