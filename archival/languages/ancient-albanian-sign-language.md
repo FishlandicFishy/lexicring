@@ -36,7 +36,7 @@
 
 | AASL | Meaning | Case |
 | --- | --- | --- |
-| Ř̙ | cat | post-survival |
+| W̙̌ | cat | post-survival |
 | R̂2W̘̌ | how are you | / |
 | 3Ř | Saudi Arabia | / |
 | 4Ř | AASL | / |
