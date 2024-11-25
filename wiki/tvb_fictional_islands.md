@@ -129,4 +129,4 @@ Not much is known about the Pu Shai Islands, other than how extreme the UV light
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
-[^2432]: Episode 2432, pending
+[^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
