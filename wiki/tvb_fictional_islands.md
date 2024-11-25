@@ -102,7 +102,14 @@ Not much is known about Tao Jiu Wu Island, but it is hard to escape.
 Not much is known about the Huoshan Islands, other than the fact that it has an active volcano which smells like burnt soup when it erupts. Very few airlines are willing to send airplanes there.
 
 ## 過梧島 (Guo Wu Island)
+
+[^2432]
+Not much is known about Guo Wu Island, other than how it has at least two checkpoints, one that is accessible but uses strict machinery, and one that is on a mountain but conducts manual checking.
+
 ## 曝曬群島 (Pu Shai Islands)
+
+[^2432]
+Not much is known about the Pu Shai Islands, other than how extreme the UV light is there.
 
 ## References
 
@@ -122,3 +129,4 @@ Not much is known about the Huoshan Islands, other than the fact that it has an 
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
+[^2432]: Episode 2432, pending
