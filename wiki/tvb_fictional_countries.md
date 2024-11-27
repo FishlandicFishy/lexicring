@@ -110,6 +110,10 @@ Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi 
 
 [^2113]Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
 
+## 剛罕共和國 *(Gang Han Republic)*
+
+[^2433]Not much is known.
+
 ## 哈多爾 *(Ha Duo Er)*
 
 [^ytqa2]
@@ -151,5 +155,6 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2113]: Episode 2113, <https://youtu.be/0nl4Co9it_k>
 [^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
 [^2242]: Episode 2242, <https://youtu.be/a7iFe454h2E>
+[^2433]: Episode 2433, pending
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
