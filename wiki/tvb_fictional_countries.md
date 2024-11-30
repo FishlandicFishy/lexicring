@@ -155,6 +155,6 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2113]: Episode 2113, <https://youtu.be/0nl4Co9it_k>
 [^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
 [^2242]: Episode 2242, <https://youtu.be/a7iFe454h2E>
-[^2433]: Episode 2433, pending
+[^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
