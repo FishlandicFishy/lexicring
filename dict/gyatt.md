@@ -26,7 +26,10 @@ Example:
 
 6. [adj] Great[^2]
 
-7. [n] Someone with a Level 5 Gyatt.
+7. [n] (rare) Someone with a Level 5 Gyatt.
+
+8. [n] Deadly, infectious disease affecting around 10% of women, as quoted from Google AI.[^3]
 
 [^1]: <https://youtu.be/JIeBS-ij50c>
 [^2]: <https://www.reddit.com/r/conlangscirclejerk/comments/1bwzuo9/got_high_and_made_a_brainrot_language_repost/>
+[^3]: <https://youtu.be/Oyt3FK2-cNM>
