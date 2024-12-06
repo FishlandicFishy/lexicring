@@ -214,6 +214,7 @@ Doom, louder than a math lesson; not like the chaos would lessen
 * Talks about inappropriate shops, "his" refers to one of the best singers ever who is known for having a slightly awry mindset
 
 As lendas se dizem isso, um furry toca a guitarra (owo)
+* "The legends say this: A furry plays the guitar (owo)"
 * Refer to "Como as lendas dizem, o meu guitarrista é furry" ("As the legends say, my guitarist is a furry" from Furry Elise II
   * A person in Roblox chat once said "meu guitarrista é furry)
 
@@ -221,6 +222,7 @@ If you don't know physics, don't you dare barbecue
 * Refer to "Lo, thou shalt not come to the barbecue, lest thou dost not ask a physics question." from Chongqing II
 
 Eu gosto das configurações; então, vá pela surface area
+* "I like the settings; so, go by the surface area"
 * Refer to "Lo, for my favoured application, Settings, thou shalt go through the surface area of the table." from Chongqing III
 
 And the swimming pool: As they'd say, "sacre bleu"
