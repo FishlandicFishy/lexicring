@@ -4,6 +4,7 @@ Trash self-promotion that no one cares about:
 * Chonqging I: <https://suno.com/song/7228d749-9dde-478b-871c-3ec7e0ff57ee>
 * Chongqing II: <https://suno.com/song/d2b1e157-f5f5-4e6d-aafa-46de200dcdd6>
 * Chongqing III: <https://suno.com/song/93145f23-0bfd-402a-9aaf-b5dfc52bdfb6>
+* Chongqing IV: <https://suno.com/song/f119d09c-f8f3-489b-8ac5-26e0570c3205>
 
 ## Chongqing I
 
@@ -169,3 +170,60 @@ If I still see any student talking, I will ask them out.
 
 * Said by a Chemistry teacher.
   * He clearly does not know what it means to ask someone out.
+
+## Chongqing IV
+
+You've clearly seen with your eyes, 我的確係講咗啲嘢。
+* Response to "If I still see any student talking,"
+
+今は、日付に誘うましょう。
+* "Now, ask out for a date" in Japanese. Note that "date" as in date and time is used instead of the romantic one; this is intentional.
+
+Hark, bee, for thou art a swimming pool (length 30 metres)
+* The allegorical Geography Buddy is alsocanonically a bee, though more accurately a wasp.
+* "Length 30 metres" is a reference to a line of lyrics from the satirical Borat anthem referring to a swimming pool: "Its length 30 metres, width 6 metres."
+
+When thou jump in, it turns into a Chongqing hotpot
+* The Geography Buddy is associated with the city of Chongqing.
+
+See the countless pimples, floating around (搶暗瘡)
+* Refer to "搶包山搶暗瘡", which means "snatching buns, snatching pimples".
+
+And the preservatives — the pot's a hotspot
+* i.e. the hotpot uses excessive preservatives, frowned upon by Geography Buddy
+
+You just flew into a spider web
+* "You" here refers to the Geography Buddy, also a wasp
+
+Now they'll get you; but after that, it'll turn into 裂 (點解好似重咗嘅)
+* "they'll" refer to spiders, "it" is one of them which turns into a philosopher named Lit who once said "why is it heavier than usual" (點解好似重咗嘅)
+
+Then "boom", two cars collide; the sixth natural numeral, they'd decide
+* Crashing cars is associated with Lit
+* The number 6 is also associated with Lit; it is said to be a "holy number" for him
+
+To ask them out, like the ones who speak
+* Lit is often the go-to subject for answering questions
+* Also refers to the line "If I still see any student talking, I will ask them out"
+
+Doom, louder than a math lesson; not like the chaos would lessen
+* Math lessons are known for being loud [citation needed]
+
+"This has to be his shop, y'all"
+* Talks about inappropriate shops, "his" refers to one of the best singers ever who is known for having a slightly awry mindset
+
+As lendas se dizem isso, um furry toca a guitarra (owo)
+* Refer to "Como as lendas dizem, o meu guitarrista é furry" ("As the legends say, my guitarist is a furry" from Furry Elise II
+  * A person in Roblox chat once said "meu guitarrista é furry)
+
+If you don't know physics, don't you dare barbecue
+* Refer to "Lo, thou shalt not come to the barbecue, lest thou dost not ask a physics question." from Chongqing II
+
+Eu gosto das configurações; então, vá pela surface area
+* Refer to "Lo, for my favoured application, Settings, thou shalt go through the surface area of the table." from Chongqing III
+
+And the swimming pool: As they'd say, "sacre bleu"
+* The swimming pool causes surprise, thus [the English corruption of the Fr\*nch phrase](https://en.wiktionary.org/wiki/sacr%C3%A9_bleu#English)
+
+喂，行慢啲啦 一千零一、一千零二咁樣啊
+* "Hey, walk a bit slower, like 1001 and 1002"
