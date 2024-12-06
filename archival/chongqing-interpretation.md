@@ -177,6 +177,7 @@ You've clearly seen with your eyes, 我的確係講咗啲嘢。
 * Response to "If I still see any student talking,"
 
 今は、日付に誘うましょう。
+* Next line of previous, "I will ask them out."
 * "Now, ask out for a date" in Japanese. Note that "date" as in date and time is used instead of the romantic one; this is intentional.
 
 Hark, bee, for thou art a swimming pool (length 30 metres)
