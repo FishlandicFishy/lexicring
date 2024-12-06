@@ -180,7 +180,7 @@ You've clearly seen with your eyes, 我的確係講咗啲嘢。
 * "Now, ask out for a date" in Japanese. Note that "date" as in date and time is used instead of the romantic one; this is intentional.
 
 Hark, bee, for thou art a swimming pool (length 30 metres)
-* The allegorical Geography Buddy is alsocanonically a bee, though more accurately a wasp.
+* The allegorical Geography Buddy is also canonically a bee, though more accurately a wasp.
 * "Length 30 metres" is a reference to a line of lyrics from the satirical Borat anthem referring to a swimming pool: "Its length 30 metres, width 6 metres."
 
 When thou jump in, it turns into a Chongqing hotpot
