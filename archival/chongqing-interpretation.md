@@ -227,7 +227,7 @@ Eu gosto das configurações; então, vá pela surface area
 * Refer to "Lo, for my favoured application, Settings, thou shalt go through the surface area of the table." from Chongqing III
 
 And the swimming pool: As they'd say, "sacre bleu"
-* The swimming pool causes surprise, thus [the English corruption of the Fr\*nch phrase](https://en.wiktionary.org/wiki/sacr%C3%A9_bleu#English)
+* The swimming pool causes surprise, thus the English corruption of the Fr\*nch phrase
 
 喂，行慢啲啦 一千零一、一千零二咁樣啊
 * "Hey, walk a bit slower, like 1001 and 1002"
