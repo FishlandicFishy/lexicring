@@ -175,6 +175,7 @@ If I still see any student talking, I will ask them out.
 
 You've clearly seen with your eyes, 我的確係講咗啲嘢。
 * Response to "If I still see any student talking,"
+* Cantonese: "Indeed, I had said something"
 
 今は、日付に誘うましょう。
 * Next line of previous, "I will ask them out."
@@ -205,7 +206,7 @@ Then "boom", two cars collide; the sixth natural numeral, they'd decide
 
 To ask them out, like the ones who speak
 * Lit is often the go-to subject for answering questions
-* Also refers to the line "If I still see any student talking, I will ask them out"
+* Also refers to the line "If I still see any student talking, I will ask them out"; this time he's simultaneously being asked a question and being "asked out"
 
 Doom, louder than a math lesson; not like the chaos would lessen
 * Math lessons are known for being loud [citation needed]
