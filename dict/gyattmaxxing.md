@@ -17,9 +17,11 @@ Not exactly gyattmaxxing, as it is also used unironically outside Gen Alpha.
 * [dip](dip.md)
 * [drop](drop.md)
 * [fire](fire.md)
+* [flex](flex.md)
 * [fuiyoh](fuiyoh.md)
 * [haiyaa](haiyaa.md)
 * [lit](lit.md)
+* [low-key](low-key.md)
 * [mid](mid.md)
 * [pull up](pull-up.md)
 * [slap](slap.md)
@@ -31,8 +33,6 @@ Not exactly gyattmaxxing, as it is also used unironically outside Gen Alpha.
 Used slightly more often than Tier 0.
 
 * [lore](lore.md)
-* [low-key](low-key.md)
-* [pog](pog.md)
 * [salty](salty.md)
 * [solo](solo.md)
 * [tweak](tweak.md)
@@ -43,6 +43,7 @@ Most common.
 
 * [alpha](alpha.md)
 * [aura](aura.md)
+* [Balkan rage](balkan-rage.md)
 * [based](based.md)
 * [edge](edge.md)
 * [Fanum tax](fanum-tax.md)
@@ -60,6 +61,7 @@ Most common.
 * [opp](opp.md)
 * [rizz](rizz.md)
 * [sigma](sigma.md)
+* [still water](still-water.md)
 * [sus](sus.md)
 * [unc](unc.md)
 * [woke](woke.md)
@@ -68,20 +70,19 @@ Most common.
 
 Newly coined. Gaining traction.
 
-* [Balkan rage](balkan-rage.md)
-* [Jamaican smile](jamaican-smile.md)
-* [jonkler](jonkler.md)
-* [still water](still-water.md)
+(none as of now)
 
 ### Tier 2
 
 Slightly less common.
 
-
 * [car](car.md)
 * [Case](case.md)
 * [domain expansion](domain-expansion.md)
+* [drip](drip.md)
 * [giving](giving.md)
+* [Jamaican smile](jamaican-smile.md)
+* [jonkler](jonkler.md)
 * [larp](larp.md)
 * [mald](mald.md)
 * [raged](raged.md)
@@ -95,10 +96,9 @@ Fallen out of use. Was common.
 
 * [banban](banban.md)
 * [coems](coems.md)
-* [drip](drip.md)
 * [fire in the hole](fire-in-the-hole.md)
-* [flex](flex.md)
 * [Jurasisi Parak](jurasisi-parak.md)
+* [pog](pog.md)
 * [ratio](ratio.md)
 * [squad](squad.md)
 * [sturdy](sturdy.md)
