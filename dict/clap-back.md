@@ -5,4 +5,4 @@
 
 Example:
 
-"Copemaxxing that I couldn't clap back."
+"[Copemaxxing](maxxing.md) that I couldn't clap back."
