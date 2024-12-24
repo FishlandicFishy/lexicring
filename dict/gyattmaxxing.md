@@ -125,6 +125,7 @@ Specific and rare.
 
 Not actually slang, but related to Gen Alpha slang.
 
+* [FIFOFA](fifofa.md)
 * [HACPOA](hacpoa.md)
 * [Ogism](ogism.md)
 * [TGSE](tgse.md)
