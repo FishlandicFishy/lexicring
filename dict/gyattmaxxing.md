@@ -47,7 +47,6 @@ Most common.
 * [based](based.md)
 * [edge](edge.md)
 * [Fanum tax](fanum-tax.md)
-* [gedagedigedagedago](gedagedigedagedago.md)
 * [gigachad](gigachad.md)
 * [goat](goat.md)
 * [goofy ahh](goofy-ahh.md)
@@ -58,17 +57,14 @@ Most common.
 * [-maxxing](maxxing.md)
 * [mew](mew.md)
 * [Ohio](ohio.md)
-* [opp](opp.md)
 * [rizz](rizz.md)
 * [sigma](sigma.md)
 * [still water](still-water.md)
 * [sus](sus.md)
-* [unc](unc.md)
-* [woke](woke.md)
 
 ### Tier 1.5
 
-Newly coined. Gaining traction.
+Around the same level as Tier 1 but likely to become less common.
 
 (none as of now)
 
@@ -77,18 +73,20 @@ Newly coined. Gaining traction.
 Slightly less common.
 
 * [car](car.md)
-* [Case](case.md)
 * [domain expansion](domain-expansion.md)
 * [drip](drip.md)
+* [gedagedigedagedago](gedagedigedagedago.md)
 * [giving](giving.md)
 * [Jamaican smile](jamaican-smile.md)
 * [jonkler](jonkler.md)
 * [larp](larp.md)
 * [mald](mald.md)
+* [opp](opp.md)
 * [raged](raged.md)
 * [run](run.md)
-* [sigma meal, skibidi slicers](sigma-meal-skibidi-slicers.md)
+* [unc](unc.md)
 * [un-skibidi toilet](un-skibidi-toilet.md)
+* [woke](woke.md)
 
 ### Tier 3
 
@@ -97,7 +95,6 @@ Fallen out of use. Was common.
 * [banban](banban.md)
 * [coems](coems.md)
 * [fire in the hole](fire-in-the-hole.md)
-* [Jurasisi Parak](jurasisi-parak.md)
 * [pog](pog.md)
 * [ratio](ratio.md)
 * [squad](squad.md)
@@ -108,6 +105,7 @@ Fallen out of use. Was common.
 
 Specific and rare.
 
+* [Case](case.md)
 * [Cheeseburg, Germany with extra mayo](cheeseburg,-germany-with-extra-mayo.md)
 * [chikawaga](chikawaga.md)
 * [cowfish](cowfish.md)
@@ -115,15 +113,17 @@ Specific and rare.
 * [fredibidy](fredibidy.md)
 * [genoseam](genoseam.md)
 * [I hate this pot](i-hate-this-pot.md)
+* [Jurasisi Parak](jurasisi-parak.md)
 * [Kai Cenat car](kai-cenat-car.md)
 * [negavator](negavator.md)
 * [nemator](nemator.md)
+* [sigma meal, skibidi slicers](sigma-meal-skibidi-slicers.md)
 * [skibidi slider](skibidi-slider.md)
 * [Sunkapoor Airline](sunkapoor-airline.md)
 
 ### Organisations
 
-Not actually slang.
+Not actually slang, but related to Gen Alpha slang.
 
 * [HACPOA](hacpoa.md)
 * [Ogism](ogism.md)
