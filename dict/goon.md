@@ -1,6 +1,9 @@
 # goon
 ## Genalphid English
 
+> [!WARNING]
+> Content may be sensitive.
+
 1. [v] Long-term [edging](edge.md)
 2. [n] mind[^1]
 
