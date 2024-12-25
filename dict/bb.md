@@ -5,4 +5,4 @@
 
 Example:
 
-"i don't bb, because i+🔥buff=hepta-ill"
+"i don't bb, because [i+🔥buff=hepta-ill(i+🔥buff=hepta-ill.md)"
