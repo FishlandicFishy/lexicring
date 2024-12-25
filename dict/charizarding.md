@@ -1,8 +1,8 @@
 # Charizarding
-# Genalphid English
+## Genalphid English
 
 > [!WARNING]
-> Content below may be sensitive.
+> Content may be sensitive.
 
 1. [n, v] (The act of) lighting any of another's body parts on fire, extinguishing it using [coem](coems.md), and optionally saying something akin to "You don't have have enough badges to train me" after such acts.[^1]
 
