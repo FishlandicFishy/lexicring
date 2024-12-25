@@ -7,12 +7,4 @@
 
 Example:
 
- "One chicken die, one chicken understand."
-
-
-
-
-
-
-
-
+ "These shady acts will not be forgotten. One chicken die, one chicken understand."
