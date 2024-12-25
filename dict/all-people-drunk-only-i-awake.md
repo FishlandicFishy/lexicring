@@ -5,12 +5,4 @@
 
 Example:
 
-"All people drunk, only I awake. I won't tell anyone else."
-
-
-
-
-
-
-
-
+"All people drunk, only I awake. I'm the only one who knows, and I won't tell anyone else about it."
