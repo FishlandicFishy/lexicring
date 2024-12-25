@@ -6,7 +6,7 @@
 
 Example:
 
-"Why so inch, your heart and belly know lah."
+"Why so [inch](inch.md), your heart and belly know lah."
 
 
 
