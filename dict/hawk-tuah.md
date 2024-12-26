@@ -1,4 +1,4 @@
-# hauk tuah
+# hawk tuah
 ## Genalphid English
 
 Alleged "OG" pronunciation: /haːʔ tʼɔː/[^3]
