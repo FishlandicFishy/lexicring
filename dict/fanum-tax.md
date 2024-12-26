@@ -17,15 +17,9 @@ Examples:
 
 "Last Rizzmas, I gave you my gyatt, but the very next day, it got Fanum taxed."
 
-"That is a one-cent Fanum tax deduction, sir." ( = robbing 1 cent from another person)
+"That is a one-cent Fanum tax deduction, sir." (= "I am robbing you of 1 cent.")
 
 See also:
 
 <a href="cameraman.md">cameraman</a>
 <a href="skibidi.md">skibidi</a>
-
-
-
-
-
-
