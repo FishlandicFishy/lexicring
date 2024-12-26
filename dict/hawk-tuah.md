@@ -16,7 +16,9 @@ Alternate pronunciation:
   - [n] spit
     - Example: "death by hawk tuah"
 2. (by extension) lubricant for questionable activities[^2]
-3. Tuah, a fictional country/state associated with hawks
+3. [v] stun, amaze, "kill"[^2]
+  - Example: "nah this is hawk tuahing me"
+4. (rare) Tuah, a fictional country/state associated with hawks
   - not to be confused with neighbouring Utah
 
 [^1]: <https://youtube.com/watch?v=msSrhYUrY8E>
