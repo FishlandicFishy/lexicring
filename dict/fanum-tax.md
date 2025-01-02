@@ -1,6 +1,9 @@
 # Fanum tax
 
 ## Genalphid English
+
+Also Fanum-tax or fanum-tax, as per [Standardised Spellings](https://genius.com/33561732).
+
 /ˈfænəm ˈtæks/
 
 1. [n, v] Eating a portion of someone else's food.
