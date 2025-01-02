@@ -1,6 +1,8 @@
 # hawk tuah
 ## Genalphid English
 
+Also [onomatopoeia] hawk-tuah and [n] Hawk Tuah, as per [Standardised Spellings](https://genius.com/33561732).
+
 Alleged "OG" pronunciation: /haːʔ tʼɔː/[^3]
 
 "Spit on That Thang" pronunciation: /hɔkʰ tʼɤ̂ː/[^1]
