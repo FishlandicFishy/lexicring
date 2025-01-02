@@ -2,7 +2,9 @@
 
 ## Genalphid English
 
-Also Fanum-tax or fanum-tax, as per [Standardised Spellings](https://genius.com/33561732).
+Also [v] Fanum-tax or [v] fanum-tax, as per [Standardised Spellings](https://genius.com/33561732).
+
+Note that the noun form is preferably capitalised as "Fanum Tax".
 
 /ˈfænəm ˈtæks/
 
@@ -20,7 +22,7 @@ Examples:
 
 "Last Rizzmas, I gave you my gyatt, but the very next day, it got Fanum taxed."
 
-"That is a one-cent Fanum tax deduction, sir." (= "I am robbing you of 1 cent.")
+"That is a one-cent Fanum Tax deduction, sir." (= "I am robbing you of 1 cent.")
 
 See also:
 
