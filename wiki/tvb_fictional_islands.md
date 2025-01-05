@@ -113,6 +113,7 @@ Not much is known about the Pu Shai Islands, other than how extreme the UV light
 
 ## 凱發梧島 (Kai Fa Wu Island)
 
+[^2465]
 Not much is known about the Kai Fa Wu Island, other than how many corporations have attempted to develop it.
 
 ## References
@@ -134,3 +135,4 @@ Not much is known about the Kai Fa Wu Island, other than how many corporations h
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
 [^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
+[^2465]: Episode 2465, pending
