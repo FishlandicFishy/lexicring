@@ -111,6 +111,10 @@ Not much is known about Guo Wu Island, other than how it has at least two checkp
 [^2432]
 Not much is known about the Pu Shai Islands, other than how extreme the UV light is there.
 
+## 凱發梧島 (Kai Fa Wu Island)
+
+Not much is known about the Kai Fa Wu Island, other than how many corporations have attempted to develop it.
+
 ## References
 
 [^0323]:  Episode 323, <https://youtu.be/lvhvCThgemM>
