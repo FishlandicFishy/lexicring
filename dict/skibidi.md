@@ -6,6 +6,10 @@
 
 (ˈskaɪ-) (-daɪ)
 
+Most likely from Bulgarian *щипя (štipja)*, "pinch/poke".
+
+Possibly derived from scat singing or sped up "(so) give it to me", but both are unlikely.
+
 Also "skibiddy" and "skibbidy".
 Algospeak includes "skibid" and "s" (in "s-toilet").
 
