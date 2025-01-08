@@ -1,7 +1,8 @@
 # molecule
 ## Genalphid English
 
-[n] atom[^1]
+1. [n] atom[^1]
+2. (by extension) [n] a portion of anything, often removed one or two at a time
 
 ### Usage Notes
 
