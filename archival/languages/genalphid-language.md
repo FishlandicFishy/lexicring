@@ -1,5 +1,7 @@
 # Genalphid Language
 
+<i>This file is now deprecated as we move on to https://fishlandicfishy.github.io/genalphid-database.</i>
+
 <b>Genalphid</b> is a term I have coined to refer to <b>people within Generation Alpha</b>.
 
 The <b>Genalphid Language</b> is spoken by the Genalphids. Not to be confused with "Genalphid English", the Genalphid dialect of English.
