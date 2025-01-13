@@ -1,6 +1,6 @@
 # lexicring
 
-![lexicring](lexicring.png)
+![lexicring](Lexicring.png)
 
 Unnecessarily cringe-worthy archive and documentation of obscure stuff
 
