@@ -1,5 +1,7 @@
 # Code of Conduct
 
+**Disclaimer:** *This file is only for reference and is not effective. Please use your common sense.*
+
 ## Our Pledge
 
 ![No rasicm](/.github/IMG_0349.jpeg)
@@ -13,12 +15,9 @@ You should do these:
 * Give constructive feedback
 * Accept constructive feedback
 
-You can do these in moderation, but please refrain from overdoing these:
-
-* Mild trolling that is not destructive
-
 You should not do these:
 
+* Trolling a bit more than acceptable
 * Swearing (No saying cuss words guys! /hj)
 * Spamming
 * Add DRMs or make this software non-free
