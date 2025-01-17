@@ -5,4 +5,4 @@
 
 Example:
 
-"What you [upping](upping.md) about ah don't bb"
+"What you [upping](up.md) about ah don't bb"
