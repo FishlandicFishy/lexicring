@@ -5,6 +5,8 @@
 
 2. [n] A tiger, as opposed to an eagle.
 
+3. [n] Any bank, especially one engaging in scams.
+
 See also:
 
 * [ii](ii.md)
