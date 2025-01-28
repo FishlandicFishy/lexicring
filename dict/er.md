@@ -5,7 +5,7 @@
 
 2. [n] A tiger, as opposed to an eagle.
 
-3. [n] (by extension) Any bank, especially one engaging in scams.
+3. [n] (by extension) (~"ra") Any bank, especially one engaging in scams.
 
 See also:
 
