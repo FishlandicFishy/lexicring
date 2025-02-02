@@ -4,7 +4,8 @@ Trash self-promotion that no one cares about:
 * Chonqging I: <https://suno.com/song/7228d749-9dde-478b-871c-3ec7e0ff57ee>
 * Chongqing II: <https://suno.com/song/d2b1e157-f5f5-4e6d-aafa-46de200dcdd6>
 * Chongqing III: <https://suno.com/song/93145f23-0bfd-402a-9aaf-b5dfc52bdfb6>
-* Chongqing IV: <https://suno.com/song/6d914af1-15b3-4f11-a452-c4be17a6cc69>
+* Chongqing IV: <https://suno.com/song/f119d09c-f8f3-489b-8ac5-26e0570c3205>
+* Chongqing V: <https://suno.com/song/6d914af1-15b3-4f11-a452-c4be17a6cc69>
 ## Chongqing I
 
 Indeed, the doctors tell the liars, that they'll lose their front teeth (ah)
