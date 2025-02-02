@@ -4,8 +4,7 @@ Trash self-promotion that no one cares about:
 * Chonqging I: <https://suno.com/song/7228d749-9dde-478b-871c-3ec7e0ff57ee>
 * Chongqing II: <https://suno.com/song/d2b1e157-f5f5-4e6d-aafa-46de200dcdd6>
 * Chongqing III: <https://suno.com/song/93145f23-0bfd-402a-9aaf-b5dfc52bdfb6>
-* Chongqing IV: <https://suno.com/song/f119d09c-f8f3-489b-8ac5-26e0570c3205>
-
+* Chongqing IV: <https://suno.com/song/6d914af1-15b3-4f11-a452-c4be17a6cc69>
 ## Chongqing I
 
 Indeed, the doctors tell the liars, that they'll lose their front teeth (ah)
@@ -231,3 +230,104 @@ And the swimming pool: As they'd say, "sacre bleu"
 
 喂，行慢啲啦 一千零一、一千零二咁樣啊
 * "Hey, walk a bit slower, like 1001 and 1002"
+
+## Chongqing V
+
+One thousand and one, one thousand and two, how slowly I tread, getting through
+* Continuation from Chongqing IV
+
+Alas, this haste was too swift for thee; with that, I echo your whispered decree
+* The reason the other person said "like 1001 and 1002" is because they find the pace to be too fast
+
+For thou art so mad that thou playeth the guitar
+* A person is known for playing the guitar
+
+Minor chords near and far (it's 'probly A Minor)
+* Reference to "Not Like Us" by Kendrick Lamar, in which the line "it's 'probly A Minor" implies that Drake is a pedophile
+
+"因為我冇互聯網啊", thou hast sputtered in mirth,
+* "Because I don't have an Internet connection"
+
+"Like a Geography teacher," and they've muttered in earth
+* This is because the subject have taken many pictures of geographic descriptions
+
+I dreamt I was swimming in a sea of matrices, with all the numbers and oddities
+* An excuse for sleeping in class
+
+"What you should do when I am talking? Once again, what you should do when I am talking?"
+* What the Glorious Leader once said
+
+For thou hath obtained a plushie, flipping it inside out, despite policies; "係劣啊," thou shalt proclaim
+* "Despite policies" shows that there are ulterior motives in flipping the plushie inside out; in this case "劣" refers to one's "Johnson"
+
+And 大早餐 of al-Q'ọor̥h'a̱ama, thou shalt complain:
+* al-Q'ọor̥h'a̱ama is known for big breakfasts
+
+Though large, they claim, only a sausage it has, how plain
+* It has been revealed that al-Q'ọor̥h'a̱ama's lunch, contrary to his breakfast, consists merely of a singular sausage
+
+Now you whine and shout for another's feast, no doubt
+* al-Q'ọor̥h'a̱ama is also known for asking to eat other's meals
+
+我哋俾錢阿Super Rare自修M1, thou hast backed Super Rare with a hand
+* This is because the M1 class had been failing and "Super Rare" is regarded as a great math teacher (who had not studied M1 yet)
+
+Rare, medium, medium-well, well done (congratulation)
+* A reference to the Extended Steak Chart
+
+In the assessments, 5\*\*\* thou might land
+* 5\*\* is the highest level achieved in the HKDSE
+
+Oh M2, amidst thy M1 fright, D D D D D thou shalt write; yet, how bleak they all are: "Not recommended ah!"
+* Refers to selecting D for all multiple choice questions, in an act of desperation
+* "Not recommended" is a catchphrase
+
+Forsooth, thou hast faked an accent — a Chongqing one, that is, 係accent啊
+* The Geography Buddy's accent sounds fake
+
+都唔知你笑咩 係器皿啊
+* Philosopher Lit's first name is cognate with a Chinese term for containers
+
+How amusing came thy ways, when thou said how it "backfired"
+* Philosopher Lit's quote using the word "backfired" was, for some reason, found to be "funny" by some
+
+Alas, there's merely one phrase, the most we've admired
+* Philosopher Lit had also said "big little bird", which is self-contradictory
+
+Lo, the big little bird doth appear, very awkward
+* See previous line; he had also appended "very awkward" to his quote
+
+Hawk 2, uh, how it's suddenly so hawkward
+* "Hawk 2: Uh" is euphemism for the onomatopoeia "hawk tuah" meaning to spit; "hawkward" is a portmanteau of "hawk" and "awkward"
+
+Hawk tuah, they've banned; talk tuah, they've banned; so they'd say "skibidi" as they stand
+* Allegedly a community have banned the term "hawk tuah"; in response, they started to say "skibidi" to remain their status
+
+我哋將呢杯嘢俾啊Squeak
+* Because "Squeak" is the only one who have not yet drank a cup of a Starbucks drink
+
+Why is it grande, and not tall
+* A direct quote from a group of spoiled Sephora enthusiasts in response to receiving the aforementioned cup
+
+You only gave it to me because you didn't want it, how bleak; is that all?
+* A response from the teacher giving out Starbucks drinks
+
+For his differentiation unfolded; his initials are D, a mystery molded
+* Philosopher Lit: "I know why his initials are D, because he got differentiated, dx/dy"
+
+Thou art a CAH, sohcahtoa, and thine solids are hues of three, a vivid panorama
+* "CAH" is an acronym for "Canadian, Australian, Hong Kong", relating to the ethnicities of a certain person
+* "SOHCAHTOA" is a mnemonic for "Sine, Opposite Hypotenuse; Cosine, Adjacent Hypotenuse; Tangent, Opposite Adjacent", referring to the three basic trigonometric functions
+* "Thine solids are hues of three" refers to solids from each of the ethnicities, according to Lit
+
+偷偷 偷偷哋入咗教員室 偷咗本書，偷偷哋返咗屋企 但係，小偷趁偷偷瞌着咗，偷咗偷偷偷嘅書
+* "Toutou secretly entered the staff room and stole a book, and secretly went home; but a thief, using the opportunity of her sleep, stole the book Toutou stole"
+* A tonguetwister invented by Our Supreme Leader
+
+아파트 아파트, yo
+* "APT, APT, yo"
+* From an interpretation of "hip-hop" by a teacher
+
+係nuclear atomic explosion啊 有佢出現，一個係Hiroshima，一個係Nagasaki啊
+* "It's a nuclear atomic explosion. When he appears, it's Hiroshima and Nagasaki." - Lit
+下個禮拜變Jingle Bells啊
