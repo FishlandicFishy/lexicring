@@ -3,8 +3,8 @@
 > [!WARNING]
 > This is a heavy WIP
 
->Señor, an *n*<sup>th</sup> fursona has hit the TVB Broadcasting centre, where *n* ∈ ℤ<sup>+</sup>.
-- me, probably
+> Señor, an *n*<sup>th</sup> fursona has hit the TVB Broadcasting centre, where *n* ∈ ℤ<sup>+</sup>.
+> &mdash; <cite>me, probably</cite>
 
 And as Michael "Mikaeli" Lee would say, "I am happy." ~~(Just how many times have I made this reference to *Mikaeli Hitting Metal*?)~~
 
