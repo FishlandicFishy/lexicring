@@ -3,4 +3,4 @@
 
 [n] Any ripoff of FNAF[^1]
 
-[^1]: <youtu.be/6CmuuhHN-_c>
+[^1]: <https://youtu.be/6CmuuhHN-_c>
