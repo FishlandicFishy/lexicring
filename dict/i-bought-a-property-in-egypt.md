@@ -5,4 +5,6 @@
 
 [n] Pseudo-"inspirational" brainrot.
 
-See also [eye of rah](eye-of-rah.md).
+See also:
+* [chopped chin](chopped-chin.md)
+* [eye of rah](eye-of-rah.md)
