@@ -5,6 +5,8 @@
 
 Example:
 
-"You're amonisy is that spunky has a gatt."
+"911. 911 what's you're amonisy
+
+Me. Spunky has a gatt"
 
 [^1]: <https://www.reddit.com/r/youngpeopleyoutube/comments/1i9becf/spunky_has_a_gatt/>
