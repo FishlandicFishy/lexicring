@@ -202,6 +202,7 @@ Now they'll get you; but after that, it'll turn into 裂 (點解好似重咗嘅)
 
 Then "boom", two cars collide; the sixth natural numeral, they'd decide
 * Crashing cars is associated with Lit
+  * It is now canon that both cars run on hydrogen gas
 * The number 6 is also associated with Lit; it is said to be a "holy number" for him
 
 To ask them out, like the ones who speak
