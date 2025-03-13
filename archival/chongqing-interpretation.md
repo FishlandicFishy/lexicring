@@ -324,7 +324,7 @@ Thou art a CAH, sohcahtoa, and thine solids are hues of three, a vivid panorama
 
 偷偷 偷偷哋入咗教員室 偷咗本書，偷偷哋返咗屋企 但係，小偷趁偷偷瞌着咗，偷咗偷偷偷嘅書
 * "Toutou secretly entered the staff room and stole a book, and secretly went home; but a thief, using the opportunity of her sleep, stole the book Toutou stole"
-* A tonguetwister invented by Our Supreme Leader
+* A tongue twister invented by Our Supreme Leader
 
 아파트 아파트, yo
 * "APT, APT, yo"
@@ -332,4 +332,6 @@ Thou art a CAH, sohcahtoa, and thine solids are hues of three, a vivid panorama
 
 係nuclear atomic explosion啊 有佢出現，一個係Hiroshima，一個係Nagasaki啊
 * "It's a nuclear atomic explosion. When he appears, it's Hiroshima and Nagasaki." - Lit
+
 下個禮拜變Jingle Bells啊
+* A reference to a contact, カベㇽ゚
