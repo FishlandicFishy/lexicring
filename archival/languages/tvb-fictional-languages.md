@@ -35,7 +35,7 @@ Terms:
 Nai Sa Long Chan (Na)
 
 拉 洞 嗌 窿 鬥
-Lai I Lone Dau
+Lai (Dong) I Lone Dau
 
 There are also alternate CJK forms for some of the characters. They are, from left to right, 奶 沙 龍 陳 拿 拉.
 
