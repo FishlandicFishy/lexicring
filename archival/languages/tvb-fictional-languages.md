@@ -42,10 +42,15 @@ There are also alternate CJK forms for some of the characters. They are, from le
 ![FontForge screenshot](https://github.com/user-attachments/assets/b1a8be97-cfd3-47e3-9bd4-3c1bff13c687)
 
 陳: yes/you too/thanks
+
 瀨瀨棟: beef
+
 洞人: the huzz
+
 洞乸: the bruzz
+
 洞奶: turtle
+
 拿窿: above, upwards
 
 (陳窿窿)鬥奶(奶): thank you
