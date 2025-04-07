@@ -71,6 +71,14 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 陳陳陳奶龍陳: Allow us to commence say gex/sesbian lex. OR: (humorous, but highly honorific) Good night.
 
+陳龍沙，奶沙陳: I wish you all a happy cooperation.
+
+奶沙陳，龍龍陳: It's getting late, I need to go home and rest.
+
+奶奶沙: I never thought you would say something like that.
+
+沙沙奶: Seeing your proactiveness, I will give you a chance.
+
 陳沙窿沙奶，奶沙陳陳: (unknown)
 
 ## Wolf Script
