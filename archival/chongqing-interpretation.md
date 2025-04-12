@@ -6,6 +6,8 @@ Trash self-promotion that no one cares about:
 * Chongqing III: <https://suno.com/song/93145f23-0bfd-402a-9aaf-b5dfc52bdfb6>
 * Chongqing IV: <https://suno.com/song/f119d09c-f8f3-489b-8ac5-26e0570c3205>
 * Chongqing V: <https://suno.com/song/6d914af1-15b3-4f11-a452-c4be17a6cc69>
+* Chongqing VI: <https://suno.com/song/aab1b597-a830-42d2-908e-0c32afa3d9cc>
+
 ## Chongqing I
 
 Indeed, the doctors tell the liars, that they'll lose their front teeth (ah)
@@ -335,3 +337,78 @@ Thou art a CAH, sohcahtoa, and thine solids are hues of three, a vivid panorama
 
 下個禮拜變Jingle Bells啊
 * A reference to a contact, カベㇽ゚
+
+
+## Chongqing VI
+
+Jingle bells, jingle bells; 三十口，三十個 Sabel
+* Another reference to カベㇽ゚
+
+Forsooth, he picks... *Yell* HOLY NUMBER SIX!
+* Philosopher Lit Chung
+
+Lo! 3M tape is what thou study
+* M3 -> 3M, which is a tape brand
+
+Stretch’d to three metres, o Geography Buddy!
+* 3M -> 3m, three metres
+
+"我下世讀M3，D爆你條數啊"
+* Direct quote from Lit Chung
+
+Now hark, as we see they M1 students undergo a: *Pause* Facial and gym session! That is M1. Not about Hydrogen Mobile Cars, none
+* According to Lit, the M1 curriculum consists only of "facial and gym". In fact M1 covers Calculus and Statistics.
+
+Yet thou, fool, didst solve M2 'midst iProducts' fanfare, whilst Vision Pro eclips'd thy M2 glare
+* Lytcou al-Q'oorhaama did M2 math in an Apple Store, yet looked for Apple Vision Pro models in M2 class.
+
+The Chem mystery, in the wedding thou hath seen; yet she bestows not rings, but iodine. 愛的宣言係periodic table
+* A Chemistry teacher was in a wedding.
+
+Like ten moles of Fe³⁺ — for Syrians, a fable
+* Lit thought that Fe³⁺ ions are a necessity for Syrians affected by the earthquake.
+
+たくさんの鶏皮を食べた, Droppingsの中に鶏皮があった
+* A reference to a legendary singer who eats way too much chicken skin.
+
+喂 做咩放啊劣チョウ入嚟打交啊
+* 劣チョウ is an alternate rendering of the first name of Lytcou al-Q'oorhaama, "Lytcou".
+
+Brawl Starsを遊ばなかった
+* Because the subject went to Spain.
+
+O Berlin Airlift, granting calculators: Unfathomably H.K.E.A.A Approved ones, do you believe?
+* "你信唔信個Berlin Airlift送勁多個H.K.E.A.A Approved計數機俾你啊？信唔信？" - Lit Chung
+
+A Big Mac in the paper, put forth by its creator. And a teacher will find out if it would achieve: *Pause* Three distinct layers! Like the burger's an essay
+* Chinese essays require three layers; Big Macs are used as an analogy.
+
+Though no real individual would it put asway
+* Because it's a burger, not actual words.
+
+係新減舊除舊 定係舊減舊除新 定係舊加舊啊？ What have you done?
+* Confusion in a Biology exam.
+
+Forsooth, in the metropolis of Chongqing
+* Callback to Chongqing I.
+
+The colour of "super-diluted" litmus, against all odds, changes to "ultra-red", without regards
+* Both "super-dilute" and "ultra-red" are coined by Geography Buddy.
+
+たくさんの鶏皮を食べた, Droppingsの中に鶏皮があった
+
+喂 大劣要劣式餐具啊, cope
+* Except for "cope", this is a direct quote from Lit Chung.
+
+佢話我啲字係正slope，所以佢啲字係負slope
+* Another direct quote from Lit.
+
+Find the local maximum of the year which Hitler died
+* Another direct quote from Lit.
+
+Find the local maximum of the Chinese papers you put aside
+* Lit did not focus on Chinese, only on his Hydrogen Mobile Cars.
+
+Find the local maximum of the local maximum of the local maximum of the local of the
+
+Find the local maximum of your Chongqing hotpots
