@@ -343,6 +343,7 @@ Thou art a CAH, sohcahtoa, and thine solids are hues of three, a vivid panorama
 
 Jingle bells, jingle bells; 三十口，三十個 Sabel
 * Another reference to カベㇽ゚
+* Latter line: "Thirty bites, Thirty Sabels
 
 Forsooth, he picks... *Yell* HOLY NUMBER SIX!
 * Philosopher Lit Chung
@@ -355,6 +356,7 @@ Stretch’d to three metres, o Geography Buddy!
 
 "我下世讀M3，D爆你條數啊"
 * Direct quote from Lit Chung
+* "I'll study M3 in my next life and absolutely differentiate your equations"
 
 Now hark, as we see they M1 students undergo a: *Pause* Facial and gym session! That is M1. Not about Hydrogen Mobile Cars, none
 * According to Lit, the M1 curriculum consists only of "facial and gym". In fact M1 covers Calculus and Statistics.
@@ -370,12 +372,15 @@ Like ten moles of Fe³⁺ — for Syrians, a fable
 
 たくさんの鶏皮を食べた, Droppingsの中に鶏皮があった
 * A reference to a legendary singer who eats way too much chicken skin.
+* "He ate a lot of chicken skin. There was chicken skin in his droppings.
 
 喂 做咩放啊劣チョウ入嚟打交啊
 * 劣チョウ is an alternate rendering of the first name of Lytcou al-Q'oorhaama, "Lytcou".
+* "Hey, why did you let Lytcou in to fight?
 
 Brawl Starsを遊ばなかった
 * Because the subject went to Spain.
+* "He did not play Brawl Stars"
 
 O Berlin Airlift, granting calculators: Unfathomably H.K.E.A.A Approved ones, do you believe?
 * "你信唔信個Berlin Airlift送勁多個H.K.E.A.A Approved計數機俾你啊？信唔信？" - Lit Chung
@@ -388,6 +393,7 @@ Though no real individual would it put asway
 
 係新減舊除舊 定係舊減舊除新 定係舊加舊啊？ What have you done?
 * Confusion in a Biology exam.
+* "Is it (new-old)/old, or (old-old)/old, or old+old?"
 
 Forsooth, in the metropolis of Chongqing
 * Callback to Chongqing I.
@@ -399,9 +405,11 @@ The colour of "super-diluted" litmus, against all odds, changes to "ultra-red", 
 
 喂 大劣要劣式餐具啊, cope
 * Except for "cope", this is a direct quote from Lit Chung.
+* "Hey, Big Lyt needs Lyt-type utensils"
 
 佢話我啲字係正slope，所以佢啲字係負slope
 * Another direct quote from Lit.
+* "He said my handwriting is a positive slope, so his handwriting is a negative slope
 
 Find the local maximum of the year which Hitler died
 * Another direct quote from Lit.
