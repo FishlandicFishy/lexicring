@@ -131,6 +131,10 @@ It is rich in natural resources, especially in 🦅oil🦅 and rare earth metals
 
 It has a specialised military ranked high globally. It has a lot of opposing parties, which makes its politics complicated and is a leading cause of many terrorist attacks.</p>
 
+## 薩卡比亞 *(Sa Ka Bi Ya)*
+
+The fakest country that's ever faked.
+
 ## Unnamed Countries
 
 ### Unnamed 1
