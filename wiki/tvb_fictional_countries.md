@@ -135,6 +135,8 @@ It has a specialised military ranked high globally. It has a lot of opposing par
 
 The fakest country that's ever faked.
 
+There is an island nearby named 秀亞島.
+
 ## Unnamed Countries
 
 ### Unnamed 1
