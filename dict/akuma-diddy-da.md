@@ -4,27 +4,21 @@
 Alternate forms:
 
 ```
-ah~
-```
+ah
 
-```
 ~cku~
 ~co~
 ~coo~
 ~cu~
 ~ku~
 ~kuu~
-```
 
-```
 ~ma~
 ~mah~
 ~meon~
 ~mi~
 ~mma~
-```
 
-```
 ~ahh
 ~dah 
 ```
