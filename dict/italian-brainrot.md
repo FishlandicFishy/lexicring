@@ -58,6 +58,8 @@ and the Georgian, raising his hands, says,
 
 *Also known as* ***Tralalero Tralala***.
 
+Etymology: Teasing in Italian.
+
 1. [n] shark with Nike shoes
 2. (rare) [n] chicken with cat face
 
