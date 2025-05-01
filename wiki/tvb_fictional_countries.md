@@ -104,7 +104,7 @@ Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi 
 
 ## 吳多國 *(Wu Duo Guo)*
 
-[^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">language</a> consisting only of swear words.
+[^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">language</a> consisting only of swear words. Also, the country is prone to earthquakes.
 
 ## 豪多國 *(Hao Duo Guo)*
 
