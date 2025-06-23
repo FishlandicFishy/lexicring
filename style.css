@@ -34,6 +34,10 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+.item-name {
+  color: black;
+}
+
 .logo, .link {
   color: var(--dtx);
   text-decoration: none;
@@ -244,4 +248,8 @@ body.light-mode button {
 body.light-mode button:hover {
   background-color: var(--lsc-hover);
   color: var(--lli);
+}
+
+body.lightmode .item-name {
+  color: white;
 }
