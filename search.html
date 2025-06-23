@@ -1,0 +1,126 @@
+   <header>
+      <div class="header">
+        <a href="https://fishlandicfishy.github.io/lexicring/" class="logo"><b>lexicring</b></a>
+        <a href="https://fishlandicfishy.github.io/lexicring/wiki" class="link">Encyclopedia</a>
+        <a href="https://fishlandicfishy.github.io/lexicring/dict" class="link">Dictionary</a>
+      </div>
+    </header>
+    <div class="left-sidebar">
+      <!-- Placeholder left sidebar content -->
+    </div>
+    <div class="content">
+      <div align="center">
+         <p><input id="link" onkeyup="showSuggestions()">
+           <button onclick="search()">Search</button>
+         </p>
+      <div id="suggestions" class="suggestions"></div>
+    </div>
+    <h2>Hardly Searchable Articles</h2>
+  <h3>Non-ASCII</h3>
+  <a href="dict/æùgh.html">Dict:æùgh</a><br>
+  <a href="dict/æügh.html">Dict:æügh</a><br>
+  <h3>CJKVZ+</h3>
+  <a href="dict/嗯咁醒.html">Dict:嗯咁醒</a><br>
+  <a href="dict/爆炸糖.html">Dict:爆炸糖</a><br>
+  <a href="dict/花式落樓梯.html">Dict:花式落樓梯</a><br>
+  <a href="dict/偽人.html">Dict:偽人</a><br>
+  <a href="dict/病龍.html">Dict:病龍</a><br>
+  <h3>Hairy Pottah 🐙lang</h3>
+  <a href="dict/ч.html">Dict:ч</a><br>
+  <a href="dict/Ⴞ.html">Dict:Ⴞ</a><br>
+  <a href="dict/の.html">Dict:の</a><br>
+  <h3>Other</h3>
+  <a href="dict/🐬.html">Dict:🐬</a><br>
+  <a href="dict/🚡.html">Dict:🚡</a><br>
+  <a href="dict/🧴🪑.html">Dict:🧴🪑</a><br>
+  <a href="dict/💢⭕️💢.html">Dict:💢⭕️💢</a><br>
+    </div>
+    <div class="right-sidebar">
+      <div class="settings-option">
+        <div class="settings-title">Text</div>
+        <div class="settings-item" onclick="setTextSize('small')">Small</div>
+        <div class="settings-item selected" onclick="setTextSize('standard')">Standard</div>
+        <div class="settings-item" onclick="setTextSize('large')">Large</div>
+      </div>
+      <div class="settings-option">
+        <div class="settings-title">Color</div>
+        <div class="settings-item" onclick="setColorMode('light')">Light</div>
+        <div class="settings-item selected" onclick="setColorMode('dark')">Dark</div>
+      </div>
+    </div>
+    <div class="footer">
+      <hr>
+      <p>
+        <i>
+          Content and website are in the public domain. Please refer to the
+          <a href="https://github.com/FishlandicFishy/lexicring">GitHub repository</a>.
+        </i>
+      </p>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+    const repo = 'FishlandicFishy/lexicring';
+
+    async function fetchArticles(directory) {
+      try {
+        const response = await fetch(`https://api.github.com/repos/${repo}/contents/${directory}`);
+        const data = await response.json();
+        return data.filter(item => item.type === 'file' && item.name.endsWith('.md')).map(item => ({
+          name: item.name.replace('.md', ''),
+          source: directory
+        }));
+      } catch (error) {
+        console.error(`Error fetching ${directory}:`, error);
+        return [];
+      }
+    }
+
+    async function showSuggestions() {
+      const input = document.getElementById('link').value.toLowerCase();
+      const suggestions = document.getElementById('suggestions');
+      suggestions.innerHTML = '';
+
+      if (input) {
+        const dictArticles = await fetchArticles('dict');
+        const wikiArticles = await fetchArticles('wiki');
+        const allArticles = [...dictArticles, ...wikiArticles];
+        
+        const filteredSuggestions = allArticles.filter(item => 
+          item.name.toLowerCase().includes(input)
+        );
+        
+        filteredSuggestions.forEach(item => {
+          const div = document.createElement('div');
+          div.classList.add('suggestion-item');
+          
+          const prefix = document.createElement('span');
+          prefix.classList.add('prefix');
+          prefix.textContent = item.source === 'dict' ? 'Dict: ' : 'Wiki: ';
+          
+          const text = document.createElement('span');
+          text.textContent = item.name;
+          
+          div.appendChild(prefix);
+          div.appendChild(text);
+          
+          div.onclick = () => {
+            document.getElementById('link').value = item.name;
+            suggestions.innerHTML = '';
+            search(item.source);
+          };
+          suggestions.appendChild(div);
+        });
+      }
+    }
+
+    function search(source = 'dict') {
+      var baseUrl = "https://" + window.location.hostname + `/lexicring/${source}/`;
+      var inputText = document.getElementById("link").value.toLowerCase();
+      var formattedInput = inputText.split(" ").join("-") + ".html";
+      var url = baseUrl + formattedInput;
+      window.location = url;
+    }
+  </script>
+</body>
+</html>
