@@ -249,7 +249,3 @@ body.light-mode button:hover {
   background-color: var(--lsc-hover);
   color: var(--lli);
 }
-
-body.lightmode .item-name {
-  color: white;
-}
