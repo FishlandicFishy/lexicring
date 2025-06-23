@@ -17,106 +17,8 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Gentium+Book+Plus"
     />
+    <link rel="stylesheet" href="style.css">
   </head>
-  <style>
-    :root {
-      --dbg:#1b1b1b;
-      --dfg:#2b2b2b;
-      --dhd:#444444;
-      --dtx:white;
-      --dli:thistle;
-      
-      --lbg:#f5f5f5;
-      --lfg:#d4d4d4;
-      --ltx:#333;
-      --lhd:#ddd;
-      --lli:darkviolet;
-    }
-    body {
-      background-color: var(--dbg);
-      color: var(--dtx);
-      font-family: Pretendard, Inter, sans-serif;
-      margin: 0;
-      display: grid;
-      grid-template-columns: 200px 1fr 200px;
-    }
-    .logo, .link {
-      color: var(--dtx);
-      text-decoration: none;
-    }
-    h1, h2, h3 {
-      font-family: "Gentium Book Plus";
-    }
-    header {
-      background-color: var(--dhd);
-      grid-column: 1 / 4;
-    }
-    .logo {
-      font-family: "Gentium Book Plus";
-      font-size: 2.5rem;
-      margin-left: 12px;
-    }
-    .logo, .link {
-      display: inline;
-      margin-right: 12px;
-    }
-    .content {
-      padding: 20px;
-      grid-column: 2;
-      min-height: 80vh;
-    }
-    .left-sidebar, .right-sidebar {
-      background-color: var(--dfg);
-      padding: 20px;
-    }
-    .footer {
-      grid-column: 1 / 4;
-    }
-    .settings-option {
-      margin-bottom: 15px;
-    }
-    .settings-title {
-      font-weight: bold;
-      margin-bottom: 5px;
-    }
-    .settings-item {
-      cursor: pointer;
-      margin-left: 10px;
-    }
-    a, .settings-item:hover, .selected {
-      color: var(--dli);
-    }
-    .selected {
-      font-weight: bold;
-    }
-    .lexicring-box {
-      text-align: center;
-      display: inline;
-      padding: 5px;
-    }
-
-    /* Light mode styles */
-    body.light-mode {
-      background-color: var(--lbg);
-      color: var(--ltx);
-    }
-    body.light-mode header {
-      background-color: var(--lhd);
-    }
-    body.light-mode .left-sidebar,
-    body.light-mode .right-sidebar {
-      background-color: var(--lfg);
-    }
-    body.light-mode a,
-    body.light-mode .settings-item:hover,
-    body.light-mode .selected {
-      color: var(--lli);
-    }
-    body.light-mode .logo,
-    body.light-mode .link {
-      color: var(--ltx);
-    }
-  </style>
   <body>
     <header>
       <div class="header">
@@ -132,7 +34,8 @@
       <h2>the low-effort 'pedia no one asked for</h2>
       <div class="lexicring-box"><a href="wiki">Encyclopedia</a></div>
       <div class="lexicring-box"><a href="dict">Dictionary</a></div>
-      <p>henlo</p>
+      <p>Unnecessarily cringe-worthy archive and documentation of obscure content</p>
+      <p><noscript>This website requires JavaScript to function properly.</noscript></p>
       <h2>Reposting</h2>
       <p>
         Reposting of lexicring is allowed, whether the repost is modified or
@@ -166,43 +69,6 @@
       </p>
     </div>
 
-    <script>
-      function setTextSize(size) {
-        // Remove selected class from all text size options
-        document.querySelectorAll('.settings-option:first-child .settings-item').forEach(item => {
-          item.classList.remove('selected');
-        });
-        
-        // Add selected class to clicked option
-        event.target.classList.add('selected');
-        
-        // Apply text size
-        const content = document.querySelector('.content');
-        if (size === 'small') {
-          content.style.fontSize = '0.8rem';
-        } else if (size === 'standard') {
-          content.style.fontSize = '1rem';
-        } else if (size === 'large') {
-          content.style.fontSize = '1.2rem';
-        }
-      }
-      
-      function setColorMode(mode) {
-        // Remove selected class from all color options
-        document.querySelectorAll('.settings-option:last-child .settings-item').forEach(item => {
-          item.classList.remove('selected');
-        });
-        
-        // Add selected class to clicked option
-        event.target.classList.add('selected');
-        
-        // Apply color mode by toggling class on body
-        if (mode === 'light') {
-          document.body.classList.add('light-mode');
-        } else if (mode === 'dark') {
-          document.body.classList.remove('light-mode');
-        }
-      }
-    </script>
+    <script src="script.js"></script>
   </body>
 </html>
