@@ -21,15 +21,21 @@
   <style>
     .suggestions-container {
       display: flex;
-      max-height: 300px;
+      height: 300px;
       overflow-y: auto;
       border: 1px solid #ccc;
       border-radius: 4px;
       margin-top: 5px;
+      justify-content: center;
+      background-color: #f9f9f9;
     }
     .suggestion-column {
       flex: 1;
       min-width: 0;
+      max-width: 50%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
     .suggestion-column:first-child {
       border-right: 1px solid #ccc;
@@ -37,6 +43,9 @@
     .suggestion-item {
       padding: 8px 12px;
       cursor: pointer;
+      width: 100%;
+      box-sizing: border-box;
+      text-align: center;
     }
     .suggestion-item:hover {
       background-color: #f0f0f0;
@@ -44,6 +53,12 @@
     .prefix {
       font-weight: bold;
       color: #666;
+    }
+    .empty-message {
+      padding: 8px 12px;
+      color: #999;
+      text-align: center;
+      width: 100%;
     }
   </style>
 </head>
@@ -64,7 +79,9 @@
         <input id="link" onkeyup="showSuggestions()">
         <button onclick="search()">Search</button>
       </p>
-      <div id="suggestions" class="suggestions-container"></div>
+      <div id="suggestions" class="suggestions-container">
+        <!-- Initial empty state will be populated by JavaScript -->
+      </div>
     </div>
     <h2>Hardly Searchable Articles</h2>
     <h3>Non-ASCII</h3>
@@ -113,6 +130,11 @@
   <script>
     const repo = 'FishlandicFishy/lexicring';
 
+    // Initialize suggestions box on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      initializeSuggestions();
+    });
+
     async function fetchArticles(directory) {
       try {
         const response = await fetch(`https://api.github.com/repos/${repo}/contents/${directory}`);
@@ -127,47 +149,65 @@
       }
     }
 
+    function initializeSuggestions() {
+      const suggestions = document.getElementById('suggestions');
+      suggestions.innerHTML = `
+        <div class="suggestion-column">
+          <div class="empty-message">Dict suggestions will appear here</div>
+        </div>
+        <div class="suggestion-column">
+          <div class="empty-message">Wiki suggestions will appear here</div>
+        </div>
+      `;
+    }
+
     async function showSuggestions() {
       const input = document.getElementById('link').value.toLowerCase();
       const suggestions = document.getElementById('suggestions');
-      suggestions.innerHTML = '';
-
-      if (input) {
-        const [dictArticles, wikiArticles] = await Promise.all([
-          fetchArticles('dict'),
-          fetchArticles('wiki')
-        ]);
-        
-        const filteredDict = dictArticles.filter(item => 
-          item.name.toLowerCase().includes(input)
-        );
-        const filteredWiki = wikiArticles.filter(item => 
-          item.name.toLowerCase().includes(input)
-        );
-
-        if (filteredDict.length > 0 || filteredWiki.length > 0) {
-          const container = document.createElement('div');
-          container.className = 'suggestions-container';
-          
-          // Create Dict column
-          const dictColumn = document.createElement('div');
-          dictColumn.className = 'suggestion-column';
-          filteredDict.forEach(item => {
-            dictColumn.appendChild(createSuggestionItem(item));
-          });
-          container.appendChild(dictColumn);
-          
-          // Create Wiki column
-          const wikiColumn = document.createElement('div');
-          wikiColumn.className = 'suggestion-column';
-          filteredWiki.forEach(item => {
-            wikiColumn.appendChild(createSuggestionItem(item));
-          });
-          container.appendChild(wikiColumn);
-          
-          suggestions.appendChild(container);
-        }
+      
+      if (!input) {
+        initializeSuggestions();
+        return;
       }
+
+      const [dictArticles, wikiArticles] = await Promise.all([
+        fetchArticles('dict'),
+        fetchArticles('wiki')
+      ]);
+      
+      const filteredDict = dictArticles.filter(item => 
+        item.name.toLowerCase().includes(input)
+      );
+      const filteredWiki = wikiArticles.filter(item => 
+        item.name.toLowerCase().includes(input)
+      );
+
+      // Clear and rebuild the suggestions container
+      suggestions.innerHTML = '';
+      
+      // Create Dict column
+      const dictColumn = document.createElement('div');
+      dictColumn.className = 'suggestion-column';
+      if (filteredDict.length > 0) {
+        filteredDict.forEach(item => {
+          dictColumn.appendChild(createSuggestionItem(item));
+        });
+      } else {
+        dictColumn.appendChild(createEmptyMessage('No matching Dict articles'));
+      }
+      suggestions.appendChild(dictColumn);
+      
+      // Create Wiki column
+      const wikiColumn = document.createElement('div');
+      wikiColumn.className = 'suggestion-column';
+      if (filteredWiki.length > 0) {
+        filteredWiki.forEach(item => {
+          wikiColumn.appendChild(createSuggestionItem(item));
+        });
+      } else {
+        wikiColumn.appendChild(createEmptyMessage('No matching Wiki articles'));
+      }
+      suggestions.appendChild(wikiColumn);
     }
 
     function createSuggestionItem(item) {
@@ -190,6 +230,13 @@
         search(item.source);
       };
       
+      return div;
+    }
+
+    function createEmptyMessage(text) {
+      const div = document.createElement('div');
+      div.className = 'empty-message';
+      div.textContent = text;
       return div;
     }
 
