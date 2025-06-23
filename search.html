@@ -219,6 +219,7 @@
       prefix.textContent = item.source === 'dict' ? 'Dict: ' : 'Wiki: ';
       
       const text = document.createElement('span');
+      text.classList.add('item-name');
       text.textContent = item.name;
       
       div.appendChild(prefix);
