@@ -10,6 +10,9 @@
 	 --lhd:#ddd;
 	 --lli:darkviolet;
 }
+::-moz-selection, ::selection {
+  background: thistle;
+}
  body {
 	 background-color: var(--dbg);
 	 color: var(--dtx);
