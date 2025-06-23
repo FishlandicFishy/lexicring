@@ -27,7 +27,7 @@
 body {
   background-color: var(--dbg);
   color: var(--dtx);
-  font-family: Pretendard, Inter, sans-serif;
+  font-family: Pretendard, Inter, "Chocolate Classical Sans", sans-serif;
   margin: 0;
   display: grid;
   grid-template-columns: 200px 1fr 200px;
