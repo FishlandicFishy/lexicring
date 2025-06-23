@@ -1,94 +1,247 @@
 :root {
-	 --dbg:#1b1b1b;
-	 --dfg:#2b2b2b;
-	 --dhd:#444444;
-	 --dtx:white;
-	 --dli:thistle;
-	 --lbg:#f5f5f5;
-	 --lfg:#d4d4d4;
-	 --ltx:#333;
-	 --lhd:#ddd;
-	 --lli:darkviolet;
+  --dbg: #1b1b1b;
+  --dfg: #2b2b2b;
+  --dhd: #444444;
+  --dtx: white;
+  --dli: thistle;
+  --dsc-bg: #333333;
+  --dsc-border: #555555;
+  --dsc-hover: #444444;
+  --dsc-empty: #999999;
+  
+  --lbg: #f5f5f5;
+  --lfg: #d4d4d4;
+  --ltx: #333;
+  --lhd: #ddd;
+  --lli: darkviolet;
+  --lsc-bg: #f9f9f9;
+  --lsc-border: #cccccc;
+  --lsc-hover: #f0f0f0;
+  --lsc-empty: #999999;
 }
+
 ::-moz-selection, ::selection {
   background: thistle;
 }
- body {
-	 background-color: var(--dbg);
-	 color: var(--dtx);
-	 font-family: Pretendard, Inter, sans-serif;
-	 margin: 0;
-	 display: grid;
-	 grid-template-columns: 200px 1fr 200px;
+
+body {
+  background-color: var(--dbg);
+  color: var(--dtx);
+  font-family: Pretendard, Inter, sans-serif;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 200px 1fr 200px;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
- .logo, .link {
-	 color: var(--dtx);
-	 text-decoration: none;
+
+.logo, .link {
+  color: var(--dtx);
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
- h1, h2, h3 {
-	 font-family: "Gentium Book Plus";
+
+h1, h2, h3 {
+  font-family: "Gentium Book Plus";
 }
- header {
-	 background-color: var(--dhd);
-	 grid-column: 1 / 4;
+
+header {
+  background-color: var(--dhd);
+  grid-column: 1 / 4;
+  transition: background-color 0.3s ease;
 }
- .logo {
-	 font-family: "Gentium Book Plus";
-	 font-size: 2.5rem;
-	 margin-left: 12px;
+
+.logo {
+  font-family: "Gentium Book Plus";
+  font-size: 2.5rem;
+  margin-left: 12px;
 }
- .logo, .link {
-	 display: inline;
-	 margin-right: 12px;
+
+.logo, .link {
+  display: inline;
+  margin-right: 12px;
 }
- .content {
-	 padding: 20px;
-	 grid-column: 2;
-	 min-height: 80vh;
+
+.content {
+  padding: 20px;
+  grid-column: 2;
+  min-height: 80vh;
+  transition: font-size 0.3s ease;
 }
- .left-sidebar, .right-sidebar {
-	 background-color: var(--dfg);
-	 padding: 20px;
+
+.left-sidebar, .right-sidebar {
+  background-color: var(--dfg);
+  padding: 20px;
+  transition: background-color 0.3s ease;
 }
- .footer {
-	 grid-column: 1 / 4;
+
+.footer {
+  grid-column: 1 / 4;
 }
- .settings-option {
-	 margin-bottom: 15px;
+
+.settings-option {
+  margin-bottom: 15px;
 }
- .settings-title {
-	 font-weight: bold;
-	 margin-bottom: 5px;
+
+.settings-title {
+  font-weight: bold;
+  margin-bottom: 5px;
 }
- .settings-item {
-	 cursor: pointer;
-	 margin-left: 10px;
+
+.settings-item {
+  cursor: pointer;
+  margin-left: 10px;
+  transition: color 0.3s ease;
 }
- a, .settings-item:hover, .selected {
-	 color: var(--dli);
+
+a, .settings-item:hover, .selected {
+  color: var(--dli);
 }
- .selected {
-	 font-weight: bold;
+
+.selected {
+  font-weight: bold;
 }
- .lexicring-box {
-	 text-align: center;
-	 display: inline;
-	 padding: 5px;
+
+.lexicring-box {
+  text-align: center;
+  display: inline;
+  padding: 5px;
 }
+
+/* Search suggestions styles */
+.suggestions-container {
+  display: flex;
+  height: 300px;
+  overflow-y: auto;
+  border: 1px solid var(--dsc-border);
+  border-radius: 4px;
+  margin-top: 5px;
+  justify-content: center;
+  background-color: var(--dsc-bg);
+  transition: all 0.3s ease;
+}
+
+.suggestion-column {
+  flex: 1;
+  min-width: 0;
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.suggestion-column:first-child {
+  border-right: 1px solid var(--dsc-border);
+}
+
+.suggestion-item {
+  padding: 8px 12px;
+  cursor: pointer;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  transition: background-color 0.2s ease;
+}
+
+.suggestion-item:hover {
+  background-color: var(--dsc-hover);
+}
+
+.prefix {
+  font-weight: bold;
+  color: var(--dsc-empty);
+}
+
+.empty-message {
+  padding: 8px 12px;
+  color: var(--dsc-empty);
+  text-align: center;
+  width: 100%;
+}
+
+input {
+  background-color: var(--dfg);
+  color: var(--dtx);
+  border: 1px solid var(--dsc-border);
+  padding: 8px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+button {
+  background-color: var(--dhd);
+  color: var(--dtx);
+  border: 1px solid var(--dsc-border);
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--dsc-hover);
+  color: var(--dli);
+}
+
 /* Light mode styles */
- body.light-mode {
-	 background-color: var(--lbg);
-	 color: var(--ltx);
+body.light-mode {
+  background-color: var(--lbg);
+  color: var(--ltx);
 }
- body.light-mode header {
-	 background-color: var(--lhd);
+
+body.light-mode header {
+  background-color: var(--lhd);
 }
- body.light-mode .left-sidebar, body.light-mode .right-sidebar {
-	 background-color: var(--lfg);
+
+body.light-mode .left-sidebar,
+body.light-mode .right-sidebar {
+  background-color: var(--lfg);
 }
- body.light-mode a, body.light-mode .settings-item:hover, body.light-mode .selected {
-	 color: var(--lli);
+
+body.light-mode a,
+body.light-mode .settings-item:hover,
+body.light-mode .selected {
+  color: var(--lli);
 }
- body.light-mode .logo, body.light-mode .link {
-	 color: var(--ltx);
+
+body.light-mode .logo,
+body.light-mode .link {
+  color: var(--ltx);
+}
+
+body.light-mode .suggestions-container {
+  background-color: var(--lsc-bg);
+  border-color: var(--lsc-border);
+}
+
+body.light-mode .suggestion-column:first-child {
+  border-right-color: var(--lsc-border);
+}
+
+body.light-mode .suggestion-item:hover {
+  background-color: var(--lsc-hover);
+}
+
+body.light-mode .prefix {
+  color: var(--lsc-empty);
+}
+
+body.light-mode .empty-message {
+  color: var(--lsc-empty);
+}
+
+body.light-mode input {
+  background-color: var(--lfg);
+  color: var(--ltx);
+  border-color: var(--lsc-border);
+}
+
+body.light-mode button {
+  background-color: var(--lhd);
+  color: var(--ltx);
+  border-color: var(--lsc-border);
+}
+
+body.light-mode button:hover {
+  background-color: var(--lsc-hover);
+  color: var(--lli);
 }
