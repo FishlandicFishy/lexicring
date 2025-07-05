@@ -1,28 +1,6 @@
 # akuma diddy da
 ## Genalphid English
 
-Alternate forms:
-
-```
-ah
-
-~cku~
-~co~
-~coo~
-~cu~
-~ku~
-~kuu~
-
-~ma~
-~mah~
-~meon~
-~mi~
-~mma~
-
-~ahh
-~dah 
-```
-
 From Korean 무궁화 꽃이 피었습니다 ("The Mugunghwa Has Bloomed"), sang during "Red Light Green Light"; from "Squid Game".
 
 1. [phrase] Squid Games, especially its Red Light Green Light section[^1]
