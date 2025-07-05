@@ -6,5 +6,3 @@
 Examples:
 
 "Bro is larping."
-
-"Bro is larp."
