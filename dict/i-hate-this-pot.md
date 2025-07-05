@@ -1,4 +1,4 @@
 # I hate this pot
 ## Genalphid English
 
-[phrase] Meaningless phrase used as an excuse to shoot random pots with an arrow
+[phrase] Mandatory phrase whenever one would encounter any pot-shaped object.
