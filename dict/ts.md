@@ -1,4 +1,5 @@
 # ts
 ## Genalphid English
 
-[phrase] this s\*\*\*; this stuff
+1. [phrase] this s\*\*\*; this stuff
+2. (rare, incorrect) this
