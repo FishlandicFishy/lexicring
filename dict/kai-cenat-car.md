@@ -1,7 +1,7 @@
 # Kai Cenat Car
 ## Genalphid English
 
-[n] Any car with the [Fanum tax](fanum-tax.md) being ironically Fanum taxed away, i.e. without the Fanum tax.[^1]
+[n] Any car without the [Fanum tax](fanum-tax.md), i.e. theft/tax-free car[^1]
 
 **See also:**
 
