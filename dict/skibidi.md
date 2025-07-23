@@ -14,7 +14,7 @@ Possibly derived from scat singing or sped up "(so) give it to me", but both are
 
 Also "skibiddy" and "skibbidy".
 
-Algospeak includes "skibid" and "s" (in "s-toilet").
+Algospeak (self-censoring) includes "skibid" and "s" (in "s-toilet").
 
 1. [adj] Good.
   * Example: "You're so skibidi."
