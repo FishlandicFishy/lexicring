@@ -2,7 +2,7 @@
 
 ## Genalphid English
 
-/ˈskɪbədiː/ /ˈskɪbɪdiː/ /ˈskibidiː/
+/ˈskɪbədiː/ /ˈskɪbɪdiː/ /ˈskibidiː/ /skiˈbidiː/
 
 (ˈskaɪ-) (-daɪ)
 
@@ -13,19 +13,16 @@ Possibly derived from scat singing or sped up "(so) give it to me", but both are
 Also "skibiddy" and "skibbidy".
 Algospeak includes "skibid" and "s" (in "s-toilet").
 
-1. [adj, n] Brainrot toilet.
-
-Example:
-
-"You're so skibidi, you're so Fanum tax."
-
-2. [n, v] Committing exactly five counts of tax fraud, as quoted from Google AI.[^1]
-
-Example:
-
-"Skibidi rizz" (= "charisma" through committing tax fraud)
-
-3. (accusative connector)[^2]
+1. [adj] Good.
+  * Example: "You're so skibidi."
+2. [adj] Bad.
+3. [intensifier] Very.
+  * Example: "Skibidi rizz" (i.e. very intense rizz)
+4. (interjection)
+  * Example: "What the skibidi?"
+5. (rare) [n, v] Committing exactly five counts of tax fraud, as quoted from Google AI.[^1]
+  * Example: "Skibidi rizz" (= "charisma" through committing tax fraud)
+6. (rare) (accusative connector)[^2]
 
 See also:
 
