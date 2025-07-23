@@ -1,8 +1,8 @@
 # cowfish
+## English
+[n] Lactoria cornuta, i.e. longhorn cowfish, which is a genuine species of boxfish[^2]
 ## Genalphid English
-
-1. [n] Lactoria cornuta, i.e. longhorn cowfish, which is a genuine species of boxfish[^2]
-2. [n] Fictional aquatic creature with the head of a cow. Often used in conjunction with [dogfish](dogfish.md) and [fishpig](fishpig.md).
+[n] Fictional aquatic creature with the head of a cow. Often used in conjunction with [dogfish](dogfish.md) and [fishpig](fishpig.md).
 [^1]
 
 [^1]: <https://youtu.be/LSDaXMkp5Rc/note-that-theres-literally-LSD-in-the-title>
