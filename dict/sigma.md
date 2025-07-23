@@ -8,9 +8,13 @@
   * Sigma particle: An alpha particle that is "sigma".[^3]
   * Example:
     >Im a sigma but i still support you bro because sigma stands for
+    >
     >1.respectful
+    >
     >2.kind
+    >
     >3.brave
+    >
     >Bro dosent even have 14 cars.
 2. [n, v, adj] Being wanted in 7 states for vehicular manslaughter, as quoted from Google AI.[^1]
   * Example: "I'm so sigma."
