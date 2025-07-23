@@ -6,11 +6,14 @@
 
 (ˈskaɪ-) (-daɪ)
 
+In reference to "Skibidi Toilet", a series directed towards children. The *Skibidi Toilet* franchise has been overused (or "milked") by numerous content farms, contributing to its notoriety.
+
 Most likely from Bulgarian *щипя (štipja)*, "pinch/poke".
 
 Possibly derived from scat singing or sped up "(so) give it to me", but both are unlikely.
 
 Also "skibiddy" and "skibbidy".
+
 Algospeak includes "skibid" and "s" (in "s-toilet").
 
 1. [adj] Good.
