@@ -24,6 +24,7 @@ A sample quote transliterated into rough IPA is below:
 | lai sa nəŋ tsən! | 奶沙龍陳！ | (unknown exclamation) | / |
 | lai tsəŋ nəŋ tsən, nəŋ sa lai tsən, nəŋ sa lai lai tsən | 奶陳龍陳，龍沙奶陳，龍沙奶奶陳 | (said in a furry convention) | / |
 | dɔ moʊ | 多巫 | warrior | / |
+| lai tsən nəŋ nai tsən! | 奶陳龍奶陳！ | I absolutely support you! | Good night! |
 
 ### Ng Wong Tat Explanatory
 
