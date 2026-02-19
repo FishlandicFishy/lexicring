@@ -48,7 +48,13 @@ E Li Wu Dao (Chinese: 厄里梧島) is a fictional island. According to the TVB 
 
 ## 聯樂梧島 (Lian Le Wu Dao)
 
-Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island.[^2356] According to the TVB programme the island costs USD $1,280,000, has only one hotel without Wi-Fi connection, and relies on camels for transportation. Allegedly the hotel went bankrupt.[^0706]
+![dude I don't speak Epsteinian](https://github.com/user-attachments/assets/f41b099b-cde6-42bc-9e21-afc25c48200b)
+
+Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island,[^2356] and there is no Internet connection throughout the island.[^2747] The island speaks Cantonese. The island has only one hotel that once went bankrupt[^0706] but resumed operation[^2747], and relies on camels for transportation. It is valued at USD $1,280,000.[^0706] During Lunar New Year, the island celebrates Washing Month, which emphasises simple living and peace in aspects such as clothing and thought.[^2747]
+
+### Politics
+
+During Washing Month, being "too excited" is illegal. Specific prohibitions include wearing bright-coloured clothes in public, speech related to festive congratulation, and owning "unpeaceful articles" (which are confiscated and brought to court as evidence). An alternative to applause is "silent appreciation". Contraband ("unpeaceful articles") includes "colourful" foods and dice.[^2747]
 
 ## 拐里梧島 (Guai Li Wu Dao)
 
@@ -135,4 +141,5 @@ Not much is known about the Kai Fa Wu Island, other than how many corporations h
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
 [^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
-[^2465]: Episode 2465, pending
+[^2465]: Episode 2465, <https://youtu.be/tDa8ympYu5g>
+[^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
