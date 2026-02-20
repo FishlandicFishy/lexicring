@@ -137,6 +137,12 @@ The fakest country that's ever faked.
 
 There is an island nearby named 秀亞島.
 
+In *Anonymous Signal*, Sa Ka Bi Ya has a high crime rate as well as frequent wars and a low living standard. It is home to criminal organisations.[^anonsignal]
+
+### K₃PC
+
+The result of someone failing chemistry class.[^anonsignal]
+
 ## 珊卡拉共和國 (Republic of San Ka La)
 
 [^2495]
@@ -190,5 +196,6 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
+[^anonsignal]: <https://zh.wikipedia.org/zh-hk/%E5%A5%AA%E5%91%BD%E6%8F%90%E7%A4%BA> (奪命提示)
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
