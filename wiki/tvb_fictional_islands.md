@@ -64,11 +64,12 @@ Guai Li Wu Dao (Chinese: 拐里梧島) is a fictional island with prevalent huma
 ## 橎博梧島 (Fan Bo Wu Dao)
 
 [^1646]
-Fan Bo Wu Dao (Chinese: 橎博梧島) is a fictional island. It speaks Cantonese and is probably identical to Hong Kong for some reason. It has a prevalent kung fu culture, and thus has an award for International Kung Fu Contributors. Presumably Fan Bo Wu Dao is majority Muslim.
+Fan Bo Wu Dao (Chinese: 橎博梧島) is a fictional island. It speaks Cantonese and is probably identical to Hong Kong for some reason. It has a prevalent kung fu culture and has an award for International Kung Fu Contributors. Presumably Fan Bo Wu Dao is majority Muslim.
 
 ## 幸吾島 (Hung Island)
 
-[^0323]Hung Island [spelling may not be correct] (Chinese: 幸吾島) is a fictional island. It is also a fictional country. Apart from English, it also speaks [its own language](/archival/languages/tvb-fictional-languages.md#hung-island-language).
+[^0323]
+Hung Island [spelling may not be correct] (Chinese: 幸吾島) is a fictional island. It is also a fictional country. Apart from English, it also speaks [its own language](/archival/languages/tvb-fictional-languages.md#hung-island-language).
 
 ### Geography
 
@@ -76,7 +77,8 @@ Fan Bo Wu Dao (Chinese: 橎博梧島) is a fictional island. It speaks Cantonese
 
 ## 山旯旮群島 (Shan La Ga Islands)
 
-Not much is known about the Shan La Ga Islands except that it is very remote.
+[^2117]
+Not much is known about the Shan La Ga Islands except that it is very remote and highly isolated.
 
 ## 姬臥群島 (Ji Wo Islands)
 
@@ -99,8 +101,11 @@ Not much is known about the Men Qin Li Islands.
 
 ## 桃酒梧島 (Tao Jiu Wu Island)
 
-[^2079]
-Not much is known about Tao Jiu Wu Island, but it is hard to escape.
+![Ferry sign on Tao Jiu Wu Island](https://github.com/user-attachments/assets/d0ab3df8-b620-45e2-90fb-94024750593e)
+![View 1 of Tao Jiu Wu Island](https://github.com/user-attachments/assets/4de72f04-7dc5-4b74-9878-0a6911116dc5)
+![View 2 of Tao Jiu Wu Island](https://github.com/user-attachments/assets/0dee793f-6332-404c-86dd-0cd9a0c3dcdb)
+
+Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818]
 
 ## 火山群島 (Huoshan Islands)
 
@@ -122,8 +127,68 @@ Not much is known about the Pu Shai Islands, other than how extreme the UV light
 [^2465]
 Not much is known about the Kai Fa Wu Island, other than how many corporations have attempted to develop it.
 
+## 蚊患群島 (Wen Huan Islands)
+[^2145]
+Not much is known about the Wen Huan Islands, other than its exceptionally high amount of mosquitoes.
+
+## 大花筒群島 (Da Hua Tong Islands)
+[^2021]
+Not much is known about the Da Hua Tong Islands.
+
+## 地鎮群島 (Di Zhen Islands)
+[^2346]
+![Wu Yi Xing Mian Hotel and surroundings](https://github.com/user-attachments/assets/52d21c87-6d63-481a-8216-e2f19ff18164)
+Not much is known about the Di Zhen Islands. A Magnitude 6.8 earthquake occurred on the Di Zhen Islands, destroying the Wu Yi Xing Mian Hotel (巫壹杏冕大酒店).
+
+## 實穩吾島 (Shi Wen Wu Island)
+[^2294]
+Not much is known about Shi Wen Wu Island, except that it has at least one hotel.
+
+## 始地巫銀群島 (Shi Di Wu Yin Islands)
+[^1]
+Supposedly exists in Episode 2294, but evidence not found on YouTube.
+
+## 芬葛梧島 (Fen Ge Wu Island)
+[^2116]
+![Signs on Fen Ge Wu Island](ttps://github.com/user-attachments/assets/9fd1fcb9-ed67-4334-8fab-febb1f5106d5)
+![Signs on Fen Ge Wu Island (cont.)](https://github.com/user-attachments/assets/0d73797c-aea0-4e23-85cd-0c2993c849f1)
+Fen Ge Wu Island (芬葛梧島) is a fictional island. Though English is used in speech, the island uses a different writing system.
+
+## Culture
+The island places a strong emphasis on their local culture.
+
+### Cuisine and Dining Customs
+Notable dishes include:
+* Square fried eggs: Eggs are fried using square molds then topped with a layer of yeast.
+* Leftover Lobster: A dish consisting exclusively of lobster legs.
+
+There is a superstition on Fen Ge Wu Island where unfinished dishes bring bad luck.
+
+### Religion
+The island has a pool of water described as its "most sacred spring". Only the King has the authority to grant others permission to drink the water from the spring. Dipping one's feet into the spring is a grave offense liable to potential death.
+
+## 體里梧島 (Ti Li Wu Island)
+[^1995]
+Not much is known about the Ti Li Wu Island.
+
+## 烏里丹島 (Wu Li Dan Island)
+[^1877]
+Wu Li Dan Island (烏里丹島) is a fictional island. It is presumably majority Muslim.
+
+### Cuisine
+The highest-grade cuisine of Wu Li Dan Island consists entirely of animal eyes, including deer, sheep, and cow eyes.
+
+## 寶里梧島 (Bao Li Wu Island)
+[^1988]
+Not much is known about the Bao Li Wu Island, other than how it specialises in bungee jumping and uses Chinese in both speech (Cantonese in particular) and writing.
+
+## 美少女群島 (Mei Shao Nü Islands)
+[^2089]
+The Mei Shao Nü islands form a fictional archipelago. The islands have diplomatic ties with Ng Wong Tat. My lawyer has advised me not to document its industry due to its sexual nature.
+
 ## References
 
+[^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
 [^0323]:  Episode 323, <https://youtu.be/lvhvCThgemM>
 [^0430]:  Episode 430, <https://youtu.be/N89qp3GFmj8>
 [^0446]:  Episode 446, <https://youtu.be/GzUFniC4-k4>
@@ -132,12 +197,23 @@ Not much is known about the Kai Fa Wu Island, other than how many corporations h
 [^1023]: Episode 1023, <https://youtu.be/7s0d2FlydZ8>
 [^1646]: Episode 1646, <https://youtu.be/tAE7BQ5ZJsA>
 [^1763]: Episode 1763, <https://youtu.be/1RPEbG5no_E>
+[^1818]: Episode 1818, <https://youtu.be/lVxumjPOTyA>
+[^1877]: Episode 1877, <https://youtu.be/QjROw50wUfw>
+[^1988]: Episode 1988, <https://youtu.be/k8OSQ6rt9Fs>
+[^1995]: Episode 1995, <https://youtu.be/oFDE6eGzw2g>
+[^2021]: Episode 2021, <https://youtu.be/SqYCwGRVKYw>
 [^2030]: Episode 2030, <https://youtu.be/d6CIjbIHoNY>
 [^2064]: Episode 2064, <https://youtu.be/OfHdjfwvFOw>
 [^2079]: Episode 2079, <https://youtu.be/JbdrZ-tTLvg>
+[^2089]: Episode 2089, <https://youtu.be/57QkbZxxi1A>
+[^2116]: Episode 2116, <https://youtu.be/3XboZvdk_NQ>
+[^2117]: Episode 2117, <https://youtu.be/UCZBiDDCEdI>
+[^2145]: Episode 2145, <https://youtu.be/YLHiH7BzWZ4>
+[^2294]: Episode 2294, <https://youtu.be/DCn0zqXoUSE>
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
 [^2340]: Episode 2340, <https://youtu.be/U8ufQNATc2I>
+[^2346]: Episode 2346, <https://youtu.be/gaF7AlU5r4k>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
 [^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
