@@ -5,11 +5,11 @@
 
 ![ ](/wiki/not_even_a_flag.png)
 
-The flag of Island de Orange, sourced from https://youtu.be/VBUkS0WQhVI
+The flag of Island de Orange[^0430]
 
 ![ ](/wiki/not_even_a_coat_of_arms.png)
 
-The coat of arms of Island de Orange, sourced from https://youtu.be/VBUkS0WQhVI
+The coat of arms of Island de Orange[^0430]
 
 Island de Orange (Chinese: 橙不忍島) is a fictional island country. It speaks both Cantonese and English. It has a prison.[^0430]
 
@@ -49,6 +49,8 @@ E Li Wu Dao (Chinese: 厄里梧島) is a fictional island. According to the TVB 
 ## 聯樂梧島 (Lian Le Wu Dao)
 
 ![dude I don't speak Epsteinian](https://github.com/user-attachments/assets/f41b099b-cde6-42bc-9e21-afc25c48200b)
+
+The Lian Le Wu Dao airport[^2747]
 
 Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island,[^2356] and there is no Internet connection throughout the island.[^2747] The island speaks Cantonese. The island has only one hotel that once went bankrupt[^0706] but resumed operation[^2747], and relies on camels for transportation. It is valued at USD $1,280,000.[^0706] During Lunar New Year, the island celebrates Washing Month, which emphasises simple living and peace in aspects such as clothing and thought.[^2747]
 
@@ -102,8 +104,13 @@ Not much is known about the Men Qin Li Islands.
 ## 桃酒梧島 (Tao Jiu Wu Island)
 
 ![Ferry sign on Tao Jiu Wu Island](https://github.com/user-attachments/assets/d0ab3df8-b620-45e2-90fb-94024750593e)
+
+Ferry sign[^1818]
+
 ![View 1 of Tao Jiu Wu Island](https://github.com/user-attachments/assets/4de72f04-7dc5-4b74-9878-0a6911116dc5)
 ![View 2 of Tao Jiu Wu Island](https://github.com/user-attachments/assets/0dee793f-6332-404c-86dd-0cd9a0c3dcdb)
+
+Views of the island[^1818]
 
 Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818]
 
@@ -138,6 +145,9 @@ Not much is known about the Da Hua Tong Islands.
 ## 地鎮群島 (Di Zhen Islands)
 [^2346]
 ![Wu Yi Xing Mian Hotel and surroundings](https://github.com/user-attachments/assets/52d21c87-6d63-481a-8216-e2f19ff18164)
+
+The Wu Yi Xing Mian Hotel and surroundings[^2346]
+
 Not much is known about the Di Zhen Islands. A Magnitude 6.8 earthquake occurred on the Di Zhen Islands, destroying the Wu Yi Xing Mian Hotel (巫壹杏冕大酒店).
 
 ## 實穩吾島 (Shi Wen Wu Island)
@@ -152,6 +162,9 @@ Supposedly exists in Episode 2294, but evidence not found on YouTube.
 [^2116]
 ![Signs on Fen Ge Wu Island](https://github.com/user-attachments/assets/cf04ac65-1844-4f2a-b62b-37be441973b0)
 ![Signs on Fen Ge Wu Island (cont.)](https://github.com/user-attachments/assets/0d73797c-aea0-4e23-85cd-0c2993c849f1)
+
+Signs on Fen Ge Wu Island[^2116]
+
 Fen Ge Wu Island (芬葛梧島) is a fictional island. Though English is used in speech, the island uses a different writing system.
 
 ## Culture
