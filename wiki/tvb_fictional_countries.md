@@ -46,7 +46,7 @@ The work culture is also flawed, with everything striving to be as slow as possi
 
 (Episode 2132) There is a furry community in Ng Wong Tat, where a person in a bear fursuit had once visited a restaurant after a typo in a contract which is supposed to invite a Komodo dr*gon instead. This part, though, is conveniently left undocumented in TVB's YouTube videos.
 
-**多巫**
+#### 多巫
 
 There is also a ritual named the "多巫", where one would climb Xiao Wu Shan and jump over to Da Wu Shan in order to be promoted to a higher position, which only has a 30% chance of succeeding. If one fails, they will be caught by one of three platforms attached to Xiao Wu Shan, the higher platform causes the person to lose a leg, the middle platform saves the person's life, and the lower platform guarantees death. After succeeding, someone will dance around the person while holding a spear.[^1543]
 
@@ -67,7 +67,7 @@ Komodo dr\*gons are supposedly used as bodyguards.[^2079]
 A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
 
 
-## 豺狼國 *(K\*ngdom of Wolves)*
+## 豺狼國 (K\*ngdom of Wolves)
 
 ![ ](/wiki/flag_of_aw_hell_naw_cringe.png/)
 
@@ -86,7 +86,7 @@ The terrain in K\*ngdom of Wolves is mostly flat land, half of which covered by 
 ### Culture
 Most of the population practice <a href="https://www.urbandictionary.com/define.php?term=awoo">awoo (wolf howl)</a> all the time[^1], which is an integral part of the culture in K*ngdom of Wolves.
 
-## 獅吼國 *(Shi Hou Guo)*
+## 獅吼國 (Shi Hou Guo)
 
 Shi Hou Guo (Chinese: 獅吼國, also 獅吼共和國) is a republic north of the K\*ngdom of Wolves, and therefore human trafficking exists.[^2082] Presumably it is a major exporter of coconuts.[^1059] They have history books.[^2082]
 
@@ -98,23 +98,23 @@ The southern area of the country is a forest and is severely underdeveloped, whi
 
 Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi parak (do onomatopoeia of a lion)</a> a lot[^2082] [^1], which is an integral part of the culture in Shi Hou Guo as it symbolises peace and politeness, but if overdone, adverse consequences will happen.[^1059] For some reason, chocolate is also seen as a solution to all problems and conflicts.[^1059]
 
-## 女兒國 *(Nü Er Guo)*
+## 女兒國 (Nü Er Guo)
 
 [^2113]It coexisted at the same time as Wu Duo Guo and Hao Duo Guo. There is also a commemorative 1:1 statue of a random person who went there as a model. My lawyer had advised me not to elaborate anymore on this section.
 
-## 吳多國 *(Wu Duo Guo)*
+## 吳多國 (Wu Duo Guo)
 
 [^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">language</a> consisting only of swear words. Also, the country is prone to earthquakes.
 
-## 豪多國 *(Hao Duo Guo)*
+## 豪多國 (Hao Duo Guo)
 
 [^2113]Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
 
-## 剛罕共和國 *(Gang Han Republic)*
+## 剛罕共和國 (Gang Han Republic)
 
 [^2433]Not much is known.
 
-## 哈多爾 *(Ha Duo Er)*
+## 哈多爾 (Ha Duo Er)
 
 [^ytqa2]
 ![ ](/wiki/flag_of_ha_duo_er.png)
@@ -131,11 +131,21 @@ It is rich in natural resources, especially in 🦅oil🦅 and rare earth metals
 
 It has a specialised military ranked high globally. It has a lot of opposing parties, which makes its politics complicated and is a leading cause of many terrorist attacks.</p>
 
-## 薩卡比亞 *(Sa Ka Bi Ya)*
+## 薩卡比亞 (Sa Ka Bi Ya)
 
 The fakest country that's ever faked.
 
 There is an island nearby named 秀亞島.
+
+## 珊卡拉共和國 (Republic of San Ka La)
+
+[^2495]
+Not much is known about the Republic of San Ka La.
+
+## 煞里阿哥共和國 (Republic of Sha Li A Ge)
+
+[^2294]
+Not much is known about the Republic of Sha Li A Ge.
 
 ## Unnamed Countries
 
@@ -161,6 +171,8 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2113]: Episode 2113, <https://youtu.be/0nl4Co9it_k>
 [^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
 [^2242]: Episode 2242, <https://youtu.be/a7iFe454h2E>
+[^2294]: Episode 2294, <https://youtu.be/LANt1aEHUik>
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
+[^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
