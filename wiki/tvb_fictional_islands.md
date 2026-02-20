@@ -29,7 +29,7 @@ Kun Li Wu Dao (Chinese: 昆里梧島) is a fictional island. It speaks [Animales
 
 ### Politics
 
-Stepping on carpets is illegal and can be sentenced to one day of jail and making plastic flowers.
+Stepping on carpets is illegal and can be sentenced to one day of jail and creating plastic flowers.
 
 ## 葡萄梧島 (Pu Tao Wu Dao)
 
@@ -88,7 +88,7 @@ The Ji Wo Islands (Chinese: 姬臥群島) are fictional islands near Ng Wong Tat
 ## 穹困老島 (Qiong Kun Lao Island)
 
 [^2310]
-Qiong Kun Lao Island (Chinese: 穹困老島) is a fictional remote island. Its cellular connection is poor. Its official language is English. Its security is poor, making pickpocketing and robberies rampant. Its maps are also upside down, such that south points upwards.
+Qiong Kun Lao Island (Chinese: 穹困老島) is a fictional remote island. Its cellular connection is poor. Its official language is English. Its security is poor, so pickpocketing and robberies are rampant. Its maps are also upside down, such that south points upwards.
 
 ### Geography
 
