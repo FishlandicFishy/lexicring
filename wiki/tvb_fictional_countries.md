@@ -147,6 +147,21 @@ Not much is known about the Republic of San Ka La.
 [^2294]
 Not much is known about the Republic of Sha Li A Ge.
 
+## 魁非燕滅國 (Kui Fei Yan Mie Guo)
+[^2609]
+Kui Fei Yan Mie Guo (魁非燕滅國) is a fictional country acting as a scam corporation.
+
+### "Space tours"
+The country organises annual "space tours" costing US$500,000 per two individuals<sup>[cost per one individual?]</sup>, where five people out of around 1000 are chosen per year. The "tours" are falsified and consists only of a studio, despite claims that participants would be suspended 1000 km above ground for 4 minutes. There is apparently a website for the "tours". Critics of the "tours" have been threatened with sniper assassinations.
+
+#### Criteria
+Purported criteria: Written test and "physique check" including simulations of low gravity and vibrations (done by moving an elevator vertically), measuring body mass, elevator speed, and "other preexisting data".
+
+Actual criteria: Social status and a lack of intelligence.
+
+### History
+Kui Fei Yan Mie Guo was attacked by a neighbouring country via nuclear bomb, causing chaos.
+
 ## Unnamed Countries
 
 ### Unnamed 1
@@ -174,5 +189,6 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2294]: Episode 2294, <https://youtu.be/LANt1aEHUik>
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
+[^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.</p>
