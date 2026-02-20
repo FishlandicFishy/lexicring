@@ -112,7 +112,7 @@ Ferry sign[^1818]
 
 Views of the island[^1818]
 
-Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818]
+Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818] The actual area is near [Shelter Island](https://en.wikipedia.org/wiki/Shelter_Island_(Hong_Kong)).
 
 ## 火山群島 (Huoshan Islands)
 
