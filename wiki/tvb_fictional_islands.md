@@ -150,7 +150,7 @@ Supposedly exists in Episode 2294, but evidence not found on YouTube.
 
 ## 芬葛梧島 (Fen Ge Wu Island)
 [^2116]
-![Signs on Fen Ge Wu Island](ttps://github.com/user-attachments/assets/9fd1fcb9-ed67-4334-8fab-febb1f5106d5)
+![Signs on Fen Ge Wu Island](https://github.com/user-attachments/assets/cf04ac65-1844-4f2a-b62b-37be441973b0)
 ![Signs on Fen Ge Wu Island (cont.)](https://github.com/user-attachments/assets/0d73797c-aea0-4e23-85cd-0c2993c849f1)
 Fen Ge Wu Island (芬葛梧島) is a fictional island. Though English is used in speech, the island uses a different writing system.
 
