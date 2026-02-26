@@ -199,6 +199,18 @@ Not much is known about the Bao Li Wu Island, other than how it specialises in b
 [^2089]
 The Mei Shao Nü islands form a fictional archipelago. The islands have diplomatic ties with Ng Wong Tat. My lawyer has advised me not to document its industry due to its sexual nature.
 
+## 造假群島 (Zao Jia Islands)
+
+(Episode 2752, not on YouTube)
+
+Not much is known about the Zao Jia Islands, except that it produces counterfeit goods prone to shorting.
+
+## 悅耳群島 (Yue Er Islands)
+
+(Episode 2752, not on YouTube)
+
+Not much is known about the Yue Er Islands, except that it is known for producing audio output devices.
+
 ## References
 
 [^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
