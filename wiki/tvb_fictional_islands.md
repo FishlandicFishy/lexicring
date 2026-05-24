@@ -199,6 +199,29 @@ Not much is known about the Bao Li Wu Island, other than how it specialises in b
 [^2089]
 The Mei Shao Nü islands form a fictional archipelago. The islands have diplomatic ties with Ng Wong Tat. My lawyer has advised me not to document its industry due to its sexual nature.
 
+## 寸草不生群島 (Cun Cao Bu Sheng Islands)
+[^2497]
+![Cun Cao Bu Sheng Islands](https://github.com/user-attachments/assets/d8198b50-a6dd-4f0e-aefa-0616df554b71)
+
+The Cun Cao Bu Sheng Islands form a fictional archipelago. The actual location is probably the Clear Water Bay Country Park Tree Walk.
+
+Due to its less-developed nature, it is hard to survive. Its citizens are unaware of the existence of paper clips.
+
+A large castle-themed hotel is present; rooms are quite spacious with room service provided, and can be booked for free if a paper clip is given.
+
+## Geography
+
+It is quite windy. Despite its name, grass and plants are present on the islands.
+
+## Politics
+
+By law, temperature of hotel rooms must be kept at 25°C.
+
+## 意想畢島 (Yi Xiang Bi Island)
+[^2504]
+
+WIP
+
 ## 造假群島 (Zao Jia Islands)
 
 (Episode 2752, not on YouTube)
@@ -243,4 +266,6 @@ Not much is known about the Yue Er Islands, except that it is known for producin
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
 [^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
 [^2465]: Episode 2465, <https://youtu.be/tDa8ympYu5g>
+[^2497]: Episode 2497, <https://youtu.be/dE7wMUkdTEQ>
+[^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
