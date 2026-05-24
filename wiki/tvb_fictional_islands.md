@@ -220,7 +220,40 @@ By law, temperature of hotel rooms must be kept at 25°C.
 ## 意想畢島 (Yi Xiang Bi Island)
 [^2504]
 
-WIP
+(below written by a clanker)
+
+Yi Xiang Bi Island (意想畢島) is a fictional island. It serves as a prominent regional transit point, resort destination, and event hub.
+
+### Geography
+
+Yi Xiang Bi Island is probably situated in the Pacific Ocean. It is geographically positioned near other remote Pacific territories, most notably Gu Li Wu Island, with which it shares regular air travel routes.
+
+The island's coastal geography features dynamic maritime conditions, capable of producing large ocean swells and waves.
+
+### Infrastructure
+
+Despite its remote oceanic location, the island boasts a highly developed tourism, hospitality, and event infrastructure.
+
+The island is serviced by a commercial airport that handles international flights and regional Pacific routes. The aviation sector experiences high passenger traffic, occasionally resulting in flight overbooking.
+
+Yi Xiang Bi Island is a recognized luxury getaway. It features high-end resort accommodations offering premium wellness services, including private massage, shoulder therapy, and back-stepping treatments.  
+
+The island's luxury resorts and hotels feature large convention facilities, including dedicated press halls capable of hosting international media contingents, weddings, and entertainment press conferences. 
+
+### Culture
+
+The island is a popular destination for international high society, entertainment figures, and destination weddings.
+
+### Incidents
+
+A major regional aviation accident had occurred on a flight bound from Yi Xiang Bi Island to Gu Li Wu Island.
+
+## 垃圾群島 (Le Se Islands)
+[^2566]
+
+![Le Se Islands](https://github.com/user-attachments/assets/8c3b5e39-1213-4bee-bf1b-30a94096985c)
+
+Not much is known about the Le Se Islands, except that it is mountainous and has a lot of trash.
 
 ## 造假群島 (Zao Jia Islands)
 
@@ -268,4 +301,5 @@ Not much is known about the Yue Er Islands, except that it is known for producin
 [^2465]: Episode 2465, <https://youtu.be/tDa8ympYu5g>
 [^2497]: Episode 2497, <https://youtu.be/dE7wMUkdTEQ>
 [^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
+[^2566]: Episode 2566, <https://youtu.be/f1XQpcVNZN8>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
