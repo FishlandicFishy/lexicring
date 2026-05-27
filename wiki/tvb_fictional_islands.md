@@ -52,7 +52,7 @@ E Li Wu Dao (Chinese: 厄里梧島) is a fictional island. According to the TVB 
 
 The Lian Le Wu Dao airport[^2747]
 
-Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island,[^2356] and there is no Internet connection throughout the island.[^2747] The island speaks Cantonese. The island has only one hotel that once went bankrupt[^0706] but resumed operation[^2747], and relies on camels for transportation. It is valued at USD $1,280,000.[^0706] During Lunar New Year, the island celebrates Washing Month, which emphasises simple living and peace in aspects such as clothing and thought.[^2747]
+Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island,[^2356] and there is no Internet connection throughout the island.[^2747][^1995] The island speaks Cantonese. The island has only one hotel that once went bankrupt[^0706] but resumed operation[^2747], and relies on camels for transportation. It is valued at USD $1,280,000.[^0706] During Lunar New Year, the island celebrates Washing Month, which emphasises simple living and peace in aspects such as clothing and thought.[^2747]
 
 ### Politics
 
@@ -255,15 +255,31 @@ A major regional aviation accident had occurred on a flight bound from Yi Xiang 
 
 Not much is known about the Le Se Islands, except that it is mountainous and has a lot of trash.
 
-## 造假群島 (Zao Jia Islands)
+## 蛇蠍美人島 (She Xie Mei Ren Island)
+[^2627]
 
-(Episode 2752, not on YouTube)
+(below written by a clanker)
+
+She Xie Mei Ren Island (蛇蠍美人島), also known as Mei Ren Island (美人島), is a fictional island famous for its exotic lifestyle, wellness tourism, and extreme climate.
+
+### Climate
+The island experiences an intensely hot and sunny climate. Visitors frequently report very strong solar radiation and high baseline temperatures, which characterize the outdoor market and resort areas.
+
+### Economy
+The primary economic driver of Snake Femme Fatale Island is its robust beauty, styling, and wellness industry.  Cosmetic and Salon Services: The island offers an array of high-end salon treatments and afternoon beauty care/spa packages (美容護理) designed to enhance physical appearance.
+
+### Culture
+The island features a prominent night market hosting food stalls that leverage internet celebrity culture.
+
+A cornerstone of the local culinary tourism is the consumption of native venomous fauna—specifically snakes and scorpions. According to local vendors and online influencers, ingesting these delicacies whole maximizes their cosmetic efficacy, allegedly causing the consumer’s skin to glow with distinct radiance.  
+
+## 造假群島 (Zao Jia Islands)
+[^2752]
 
 Not much is known about the Zao Jia Islands, except that it produces counterfeit goods prone to shorting.
 
 ## 悅耳群島 (Yue Er Islands)
-
-(Episode 2752, not on YouTube)
+[^2752]
 
 Not much is known about the Yue Er Islands, except that it is known for producing audio output devices.
 
@@ -302,4 +318,6 @@ Not much is known about the Yue Er Islands, except that it is known for producin
 [^2497]: Episode 2497, <https://youtu.be/dE7wMUkdTEQ>
 [^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
 [^2566]: Episode 2566, <https://youtu.be/f1XQpcVNZN8>
+[^2627]: Episode 2627, <https://youtu.be/xw88X_x1Asc>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
+[^2752]: Episode 2752 *(segment not on YouTube)*
