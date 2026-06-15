@@ -9,7 +9,7 @@ This is a "parallel universe" article for Xiong Ruoshui (Mary Hung), uploaded on
 
 # 熊若水
 
-**熊若水**（英語：Mary Hung，1978年出生），[「接龍集團」](example.com)的CEO（行政總裁），是熊樹根的女兒。
+**熊若水**（英語：Mary Hung，1978年出生），[「接龍集團」](https://www.example.com)的CEO（行政總裁），是熊樹根的女兒。
 
 ## 家庭
 
