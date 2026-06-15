@@ -1,5 +1,5 @@
 > [!WARNING]
-> The text below is directly paraphrased from [Episode 2829 of Love Coming Home](https://youtu.be/AYspRu0hRxE), and is NOT owned by me. Content below is NOT in the public domain.
+> The text below is directly taken from [Episode 2829 of Love Coming Home](https://youtu.be/AYspRu0hRxE), and is NOT owned by me. Content below is NOT in the public domain.
 
 ## Synopsis
 
@@ -30,6 +30,8 @@ LOST
 [《我和殭屍有個誤會》](example.com)是熊尚善小姐的處女作、巔峯作和代表作，其承載的人文意義連矛盾文學獎評審都看不懂，比魯迅的作品更令人深省。因爲《[殭](example.com)》的關係，熊尚善小姐也被文壇稱為最被期待新星。儘管熊小姐一直都是想寫就寫不想寫就不寫，因此產文的數量也不多。
 
 ## 參考
+
+---
 
 上次在6個月之前修改過
 
