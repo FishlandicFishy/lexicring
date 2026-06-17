@@ -22,6 +22,12 @@ Importing orange products is prohibited and is liable to life imprisonment, as a
 [^0949]
 Gu Li Wu Dao (Chinese: 古里梧島) is a fictional island. It participated in a match and you can puchase awards there. Allegedly it invented the most generic AI product ever.[^2030]
 
+The island is known for its strong economy as well as its expertise in landmark restoration.[^2829]
+
+### Culture
+
+Gu Li Wu Dao is home to a temple with brittle walls; even a phone flashlight could cause them to crumble. Only the perpetrators are allowed to fix the walls; an alternative method of fulfilling the ritual is to consume tarantulas.[^2829]
+
 ## 昆里梧島 (Kun Li Wu Dao)
 
 [^1023]
@@ -167,17 +173,17 @@ Signs on Fen Ge Wu Island[^2116]
 
 Fen Ge Wu Island (芬葛梧島) is a fictional island. Though English is used in speech, the island uses a different writing system.
 
-## Culture
+### Culture
 The island places a strong emphasis on their local culture.
 
-### Cuisine and Dining Customs
+#### Cuisine and Dining Customs
 Notable dishes include:
 * Square fried eggs: Eggs are fried using square molds then topped with a layer of yeast.
 * Leftover Lobster: A dish consisting exclusively of lobster legs.
 
 There is a superstition on Fen Ge Wu Island where unfinished dishes bring bad luck.
 
-### Religion
+#### Religion
 The island has a pool of water described as its "most sacred spring". Only the King has the authority to grant others permission to drink the water from the spring. Dipping one's feet into the spring is a grave offense liable to potential death.
 
 ## 體里梧島 (Ti Li Wu Island)
@@ -321,3 +327,4 @@ Not much is known about the Yue Er Islands, except that it is known for producin
 [^2627]: Episode 2627, <https://youtu.be/xw88X_x1Asc>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
 [^2752]: Episode 2752 *(segment not on YouTube)*
+[^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
