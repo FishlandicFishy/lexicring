@@ -104,7 +104,24 @@ Most of the population practice <a href="https://youtu.be/q42qi0Nmm24">jurasisi 
 
 ## 吳多國 (Wu Duo Guo)
 
-[^2113]Wu Duo Guo (Chinese: 吳多國) is a fictional country. 28 years ago (presumably relative to 2023) a Superstitious Worship Basin idk what it's called was stolen by someone, which caused a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing. It also has this <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">language</a> consisting only of swear words. Also, the country is prone to earthquakes.
+Wu Duo Guo (Chinese: 吳多國) is a fictional country.
+
+### Geography
+Wu Duo Guo is prone to earthquakes.[^2113]
+
+It is presumably home to wolves and tigers.[^2823]
+
+### Politics
+Those who attempt to escape are considered "cowards"; offenders are added to the "coward list" for thirty years.
+
+Attempts of escaping include all forms of turning back.[^2823]
+
+### History
+In 1995, a Superstitious Worship Basin was stolen, causing a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing.[^2113]
+
+### Language
+
+Wu Duo Guo speaks <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">its own language</a>, consisting only of swear words.[^2113]
 
 ## 豪多國 (Hao Duo Guo)
 
@@ -196,6 +213,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
+[^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
 [^anonsignal]: <https://zh.wikipedia.org/zh-hk/%E5%A5%AA%E5%91%BD%E6%8F%90%E7%A4%BA> (奪命提示)
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
-[^1]: This is part of the official lore, I do not intend to offend anyone.</p>
+[^1]: This is part of the official lore, I do not intend to offend anyone.
