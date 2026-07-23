@@ -294,6 +294,15 @@ Not much is known about the Yue Er Islands, except that it is known for producin
 
 Not much is known about Ying Li Wu Island, except that it has a "film city" said to exploit the "Since We're Already Here" conjecture.
 
+## 不赦島 (Bu She Island)
+[^2633]
+
+The Bu She Island (不赦島) is an island near the equator.
+
+It has a mountain named 不赦山.
+
+The island does not have a ferry terminal; the only route is swimming.
+
 ## References
 
 [^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
@@ -330,6 +339,7 @@ Not much is known about Ying Li Wu Island, except that it has a "film city" said
 [^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
 [^2566]: Episode 2566, <https://youtu.be/f1XQpcVNZN8>
 [^2627]: Episode 2627, <https://youtu.be/xw88X_x1Asc>
+[^2633]: Episode 2633, <https://youtu.be/8MQ6I9GAzgk>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
 [^2752]: Episode 2752 *(segment not on YouTube)*
 [^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
