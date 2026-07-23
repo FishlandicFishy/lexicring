@@ -289,6 +289,11 @@ Not much is known about the Zao Jia Islands, except that it produces counterfeit
 
 Not much is known about the Yue Er Islands, except that it is known for producing audio output devices.
 
+## 映里梧島 (Ying Li Wu Island)
+[^2627]
+
+Not much is known about Ying Li Wu Island, except that it has a "film city" said to exploit the "Since We're Already Here" conjecture.
+
 ## References
 
 [^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
