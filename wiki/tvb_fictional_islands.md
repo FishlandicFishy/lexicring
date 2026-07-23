@@ -297,6 +297,14 @@ Not much is known about Ying Li Wu Island, except that it has a "film city" said
 ## 不赦島 (Bu She Island)
 [^2633]
 
+![Bu She Island](https://github.com/user-attachments/assets/4f978643-85cc-475e-a2d1-7401cdb3411d)
+
+A view of Bu She Island.
+
+![another view of Bu She Island](https://github.com/user-attachments/assets/8d30eb54-d0ad-4412-854b-1d0833d0b112)
+
+Another view of the island.
+
 The Bu She Island (不赦島) is an island near the equator.
 
 It has a mountain named 不赦山.
