@@ -38,13 +38,13 @@ Nai Sa Long Chan (Na)
 拉 洞 嗌 窿 鬥
 Lai (Dong) I Lone Dau
 
-There are also alternate CJK forms for some of the characters. They are, from left to right, 奶 沙 龍 陳 拿 拉.
+There are also alternate CJK forms for some of the characters. They are, from left to right, 奶/Nai 沙/Sa 龍/Long 陳/Chan 拿/Na 拉/Lai.
 
 ![FontForge screenshot](https://github.com/user-attachments/assets/aeefd5aa-7df4-4bec-b088-2a816d3943de)
 
 陳: yes/you too/thanks
 
-瀨瀨棟: beef
+瀨瀨棟: beef (meat)
 
 洞人: the huzz
 
@@ -58,27 +58,27 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 奶奶龍奶奶陳，奶奶龍陳龍奶陳: Have a good day
 
-洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶: For this project, you are not the most desirable candidate, because I hope we can find a person who understands the culture in Ng Wong Tat. I apologise for the inconvenience and we will cooperate next time.
+洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶: For this project, you are not the most desirable candidate; I am looking for someone who understands the culture in Ng Wong Tat. I apologise for the inconvenience, but we will cooperate next time.
 
-陳陳陳，侵侵侵，陳陳侵侵陳陳侵: You can speak Ng Wong Tat. Seeing how sincere you are, I would like to meet you in person.
+陳陳陳，侵侵侵，陳陳侵侵陳陳侵: You can speak Ng Wong Tat. Seeing your sincerity, I would like to meet you in person.
 
-奶陳龍龍沙拉拉，奶沙鬥鬥嗌洞洞: The teacher's virtue is that he is honest, he does not lie to deceive others.
+奶陳龍龍沙拉拉，奶沙鬥鬥嗌洞洞: The teacher's virtue is his honesty; he does not lie to deceive others.
 
-奶陳龍龍洞拿窿，奶沙陳陳奶拉拉: The teacher's virtue is that he is generous, he does not talk bad about people.
+奶陳龍龍洞拿窿，奶沙陳陳奶拉拉: The teacher's virtue is his generosity; he does not speak ill of anyone.
 
-奶陳龍龍沙拉窿拉，窿拉，陳: The teacher's virtue is his humour, he never told a joke that wasn't funny.
+奶陳龍龍沙拉窿拉，窿拉，陳: The teacher's virtue is his humour; he never told an unfunny joke.
 
 龍沙陳陳沙龍陳: I really appreciate you two.
 
-陳陳陳奶龍陳: Allow us to commence inappropriate activities. OR: (humorous, but highly honorific) Good night.
+陳陳陳奶龍陳: Please commence inappropriate activities towards me. OR: (humorous, but highly honorific) Good night.
 
-陳龍沙，奶沙陳: I wish you all a happy cooperation.
+陳龍沙，奶沙陳: I hope we can cooperate amicably.
 
 奶沙陳，龍龍陳: It's getting late, I need to go home and rest.
 
 奶奶沙: I never thought you would say something like that.
 
-沙沙奶: Seeing your proactiveness, I will give you a chance.
+沙沙奶: Seeing how proactive you are, I will give you a chance.
 
 陳沙窿沙奶，奶沙陳陳: (unknown)
 
