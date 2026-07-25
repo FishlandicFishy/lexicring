@@ -40,7 +40,7 @@ Lai (Dong) I Lone Dau
 
 There are also alternate CJK forms for some of the characters. They are, from left to right, 奶 沙 龍 陳 拿 拉.
 
-![FontForge screenshot](https://github.com/user-attachments/assets/b1a8be97-cfd3-47e3-9bd4-3c1bff13c687)
+![FontForge screenshot](https://github.com/user-attachments/assets/6bc936dc-434c-4ae2-9eaa-6fa51187429a)
 
 陳: yes/you too/thanks
 
