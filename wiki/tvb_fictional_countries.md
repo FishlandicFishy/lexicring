@@ -201,6 +201,11 @@ Actual criteria: Social status and a lack of intelligence.
 ### History
 Kui Fei Yan Mie Guo was attacked by a neighbouring country via nuclear bomb, causing chaos.
 
+## 黑夫共和國 (Republic of Hei Fu)
+[^513]
+
+Not much is known about the Republic of Hei Fu.
+
 ## Unnamed Countries
 
 ### Unnamed 1
@@ -213,6 +218,7 @@ They have engaged in diplomacy with Ha Duo Er.
 
 ## References
 
+[^513]: Episode 513, <https://youtu.be/eyj6SJ_NZPI>
 [^1059]: Episode 1059, <https://youtu.be/Ru4jGPQO5MI>
 [^1543]: Episode 1543, <https://youtu.be/nTz-xp42xOo>
 [^1567]: Episode 1567, <https://youtu.be/0IxvsUvuIKw>
