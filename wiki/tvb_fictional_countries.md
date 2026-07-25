@@ -8,21 +8,21 @@
 (Disclaimer: The quote is from a content farm)
 
 ## Ng Wong Tat
-![ ](/wiki/flag_of_ng.png "flag")
+![flag](/wiki/flag_of_ng.png)
 
 Flag of Ng Wong Tat sourced from https://youtu.be/40B0vdrFeV8.
 
-![ ](/wiki/not_the_coat_of_arms_of_ng.png "Is this the cost of arms?")
+![Is this the coat of arms?](/wiki/not_the_coat_of_arms_of_ng.png)
 
 Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F9QVvkQ.
 
-![ ](/wiki/komodoStamp.png "stamp")
+![stamp](/wiki/komodoStamp.png)
 
 Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
 Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
-In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless. This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.[^2242]
+In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless.<!-- This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.-->[^2242]
 
 <!-- Cannot be verified | People there are stronger than usual. -->
 
@@ -30,21 +30,21 @@ In the forest area, the most advanced way of transportation is a wood raft, whic
 
 Ng Wong Tat is divided into two main regions: the forest area and the non-forest area.
 
-The forest is inhabited by dark green/black lizards with CGI glowing red dots, labelled as <a href="https://en.m.wikipedia.org/wiki/Komodo_dragon">Komodo dr*gons</a> (probably mislabelled, but I can't be sure), which supposedly eats cockroaches[^2095], although "conveniently" they left out the close-up shot of them in both of their YouTube videos.[^2084]
+The forest is inhabited by dark green/black lizards with CGI glowing red dots, labelled as [Komodo dragons](https://en.m.wikipedia.org/wiki/Komodo_dragon) (probably mislabelled, but I can't be sure), which supposedly eats cockroaches[^2095], although "conveniently" they left out the close-up shot of them in both of their YouTube videos.[^2084]
 
 The highest mountain in Ng Wong Tat is called "小巫山" (Xiao Wu Shan), which is adjacent to "大巫山" (Da Wu Shan). The gap between the two mountains is approximately 4 metres, and both sides are steep cliffs.[^1543]
 
 The forest area is severely underdeveloped, while the non-forest area is more developed.
 
-In Ng Wong Tat there are frequent volcano eruptions, and also an abundance of caves, which is what people use their aimbot for.
+In Ng Wong Tat there are frequent volcano eruptions, and also an abundance of caves, which is what people use their *aimbot* for.
 
 ### Culture
 
-The culture in Ng Wong Tat includes using <a href="https://www.urbandictionary.com/define.php?term=aimbot">aimbot</a> in real life (by shooting arrows at random people to indicate interest)[^2061], (Episode 2095) poking someone's face "lightly" as a lighthearted punishment, and (Episode 2084) eating without hands, which supposedly imitates a Komodo dr*gon but is probably scientifically inaccurate.
+The culture in Ng Wong Tat includes using *aimbot* in real life (by shooting arrows at random people to indicate interest)[^2061], poking someone's face "lightly" as a lighthearted punishment[^2095], and eating without hands, which supposedly imitates a Komodo dragon but is probably scientifically inaccurate[^2084].
 
 The work culture is also flawed, with everything striving to be as slow as possible. [^1574]
 
-(Episode 2132) There is a furry community in Ng Wong Tat, where a person in a bear fursuit had once visited a restaurant after a typo in a contract which is supposed to invite a Komodo dr*gon instead. This part, though, is conveniently left undocumented in TVB's YouTube videos.
+There is a furry community in Ng Wong Tat, where a person in a bear fursuit had once visited a restaurant after a typo in a contract which is supposed to invite a Komodo dragon instead.[^2132]
 
 #### 多巫
 
@@ -52,20 +52,25 @@ There is also a ritual named the "多巫", where one would climb Xiao Wu Shan an
 
 ### Politics
 
-Getting hit by an arrow is equivalent to being engaged.[^2095]
+Being struck by an arrow constitutes a legally binding engagement.[^2095]
 
 Ng Wong Tat maintains a consulate-general.[^2084]
 
-Because of the questionable state of tourism in Ng Wong Tat, importing sleeping clothes is considered illegal. If someone brings sleeping clothes, they must complete the AC9527 form to report their status daily, ensuring compliance with the regulations. Shoes may also be cut in half to ensure that illegal substances are not hidden inside.[^1543]
+Ng Wong Tat publicly promotes marriage.[^2858]
 
-Exporting fertilised Komodo dr\*gon eggs is illegal.[^1567]
+Due to tourism regulations, importing sleepwear is prohibited. Travelers carrying nightwear must file a daily "AC9527 form" to declare status. Customs officials reserve the right to cut footwear in half to check for contraband.[^1543]
 
-Komodo dr\*gons are supposedly used as bodyguards.[^2079]
+A civil right chosen via a random lottery draw is stripped during imprisonment. Such rights include voting rights, "sleep-deprivation rights", "holiday rights", "dancing rights", and marriage rights.[^2858]
 
 <!--(Episode I forgot) Ng Wong Tat also has a translation officer who can speak Cantonese, Min Nan, Hakka, among other languages.-->
 
-A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
+#### Significance of Komodo dragons
 
+Exporting fertilised Komodo dragon eggs is illegal.[^1567] Moreover, causing a Komodo dragon to pass unrealistically blue-coloured stool is a major offense carrying potential life imprisonment.[^2856]
+
+Komodo dragons are supposedly used as bodyguards.[^2079]
+
+A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
 
 ## 豺狼國 (K\*ngdom of Wolves)
 
@@ -142,7 +147,7 @@ Ha Duo Er (Chinese: 哈多爾) is a fictional African country. Its national lang
 
 ### Geography
 
-It is rich in natural resources, especially in 🦅oil🦅 and rare earth metals.</p>
+It is rich in natural resources, especially in oil and rare earth metals.</p>
 
 ### Politics
 
@@ -207,6 +212,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2084]: Episode 2084, <https://youtu.be/uIR7JBHPtnk>
 [^2095]: Episode 2095, <https://youtu.be/a91IuH587nQ>
 [^2113]: Episode 2113, <https://youtu.be/0nl4Co9it_k>
+[^2132]: Episode 2132 *(segment not on YouTube)*
 [^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
 [^2242]: Episode 2242, <https://youtu.be/a7iFe454h2E>
 [^2294]: Episode 2294, <https://youtu.be/LANt1aEHUik>
@@ -214,6 +220,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
+[^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^anonsignal]: <https://zh.wikipedia.org/zh-hk/%E5%A5%AA%E5%91%BD%E6%8F%90%E7%A4%BA> (奪命提示)
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.
