@@ -97,7 +97,7 @@ A transliterated quote is below:
 | --- | --- | --- |
 | bagə'adu, bababa, galagalatʃoko. | 巴卡阿杜，巴巴巴，卡拉卡拉錯柯。 | *(generic swearing)* |
 
-## Qingwa Wanzi Islands Language
+## Qingwa Wangzi Islands Language
 The Qingwa Wangzi Islands Language [unofficial name] is spoken on the [Qingwa Wangzi Islands](/wiki/tvb_fictional_islands.md). It is taken from [this TVB episode excerpt](https://youtu.be/qw3UuY_I7Mo).
 
 | Transliteration | Meaning |
