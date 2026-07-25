@@ -13,6 +13,8 @@ The coat of arms of Island de Orange[^0430]
 
 Island de Orange (Chinese: 橙不忍島) is a fictional island country. It speaks both Cantonese and English. It has a prison.[^0430]
 
+The island is said to only have two chefs.
+
 ### Politics
 
 Importing orange products is prohibited and is liable to life imprisonment, as a certain type of orange is considered to be sacred in the country.[^0430] However, tangerines are allowed.
@@ -316,6 +318,44 @@ The island does not have a ferry terminal; the only route is swimming.
 
 Not much is known about the Wen Yi Islands.
 
+## 青蛙王子群島 (Qingwa Wangzi Islands)
+[^2799]
+
+Not much is known about the Qingwa Wangzi Islands other than the fact that it speaks [its own language](/archival/languages/tvb-fictional-languages.md#hung-island-language).
+
+## 甜絲絲群島 (Tian Si Si Islands)
+[^2857]
+
+![Aerial view of Tian Si Si Island](https://github.com/user-attachments/assets/65e9f62e-2bb8-443c-9b41-dc9b307d89b4)
+
+Aerial view of Tian Si Si Island.
+
+![A lake on the island](https://github.com/user-attachments/assets/80d23bff-e6a7-4cfd-b293-d26b162cd754)
+
+A lake on the island, actually the [former Lamma Island Quarry](https://zh.wikipedia.org/zh-hk/%E5%89%8D%E5%8D%97%E4%B8%AB%E7%9F%B3%E7%A4%A6%E5%A0%B4) near Mo Tat Wan.
+
+The Tian Si Si Islands (甜絲絲群島) are islands in the eastern Pacific Ocean.
+
+The territory boasts an exceptionally high Human Development Index (HDI). Standard living conditions are lavish, with every citizen residing in a home exceeding 1,000 square feet, complemented by private backyards comparable in scale to Victoria Park.
+
+### Geography
+
+![Bamboo forest](https://github.com/user-attachments/assets/ced7b06d-cd8c-45fc-9fe0-0a677729c770)
+
+A bamboo forest, actually the [Yin Ngam Bamboo Forest](https://hkppltravel.com/18431/events/nt3/%E3%80%90%E7%AB%B9%E6%B5%B7%E7%9F%B3%E6%9E%97%E3%80%82%E5%A4%A7%E5%B8%BD%E5%B1%B1%E3%80%91/) on the slopes of Tai Mo Shan.
+
+The islands experience a spring-like climate year round and are rich in natural resources.
+
+With its lush sugarcane forests, the island is world-renowned for producing high-quality cane sugar distributed at low costs.
+
+## Politics
+
+Healthcare, education, and standard municipal operations are heavily subsidized by the government.
+
+The administration places an intense focus on childbirth; medical response teams are dispatched as soon as a birth is anticipated.
+
+Local factories operate under strict government regulatory policies.
+
 ## References
 
 [^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
@@ -356,4 +396,6 @@ Not much is known about the Wen Yi Islands.
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
 [^2752]: Episode 2752 *(segment not on YouTube)*
 [^2764]: Episode 2764, <https://youtu.be/fP9HpnsEXSU>
+[^2799]: Episode 2799, <https://youtu.be/qw3UuY_I7Mo>
 [^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
+[^2857]: Episode 2857, <https://youtu.be/4TN0t3Eob7M>
