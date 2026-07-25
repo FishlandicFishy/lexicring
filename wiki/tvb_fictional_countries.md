@@ -22,6 +22,8 @@ Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
 Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
+Ng Wong Tat uses the Arabic script in some occasions.[^2642]
+
 In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless.<!-- This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.-->[^2242]
 
 <!-- Cannot be verified | People there are stronger than usual. -->
@@ -51,10 +53,17 @@ There is a furry community in Ng Wong Tat, where a person in a bear fursuit had 
 There is also a ritual named the "多巫", where one would climb Xiao Wu Shan and jump over to Da Wu Shan in order to be promoted to a higher position, which only has a 30% chance of succeeding. If one fails, they will be caught by one of three platforms attached to Xiao Wu Shan, the higher platform causes the person to lose a leg, the middle platform saves the person's life, and the lower platform guarantees death. After succeeding, someone will dance around the person while holding a spear.[^1543]
 
 ### Politics
+![A card from the Hong Kong-based bank](https://github.com/user-attachments/assets/3c8e368c-7795-4829-9c5d-867328e2c095)
+
+A card from a Ng Wong Tat bank ("信用黑卡").
+
+![A box from the bank](https://github.com/user-attachments/assets/d3ce96d4-4a90-4136-a5a9-2ab88af7d488)
+
+A box from a Ng Wong Tat bank.
+
+Ng Wong Tat maintains a consulate-general[^2084] and a Hong Kong-based bank[^2642].
 
 Being struck by an arrow constitutes a legally binding engagement.[^2095]
-
-Ng Wong Tat maintains a consulate-general.[^2084]
 
 If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
 
@@ -221,6 +230,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
+[^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^anonsignal]: <https://zh.wikipedia.org/zh-hk/%E5%A5%AA%E5%91%BD%E6%8F%90%E7%A4%BA> (奪命提示)
