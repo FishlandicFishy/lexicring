@@ -56,6 +56,8 @@ Being struck by an arrow constitutes a legally binding engagement.[^2095]
 
 Ng Wong Tat maintains a consulate-general.[^2084]
 
+If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
+
 Ng Wong Tat publicly promotes marriage.[^2858]
 
 Due to tourism regulations, importing sleepwear is prohibited. Travelers carrying nightwear must file a daily "AC9527 form" to declare status. Customs officials reserve the right to cut footwear in half to check for contraband.[^1543]
@@ -70,7 +72,7 @@ Exporting fertilised Komodo dragon eggs is illegal.[^1567] Moreover, causing a K
 
 Komodo dragons are supposedly used as bodyguards.[^2079]
 
-A komodo stamp is used as a symbolism for the president, and it is made of an unknown material which is unbreakable using a drill or a flamethrower. If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
+A komodo stamp is used as a symbolism for the president, and it is made of an unknown material unbreakable using a drill or a flamethrower.[^2150]
 
 ## 豺狼國 (K\*ngdom of Wolves)
 
