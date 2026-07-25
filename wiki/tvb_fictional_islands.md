@@ -375,23 +375,28 @@ Not much is known about the Fei Wen Islands.
 ## 約梧島 (Yue Wu Island)
 [^2730]
 
-Not much is known about Yue Wu Island.
+Not much is known about Yue Wu Island, other than the fact that the islands once experienced a magnitude 10 earthquake, causing the island to "sink".
 
 ## 鱷不群島 (E Bu Islands)
 [^2658]
+
 ![Aerial view of the island](https://github.com/user-attachments/assets/43d2f2cc-8f8f-453c-ad46-aecd23b3d024)
+
 Aerial view of the E Bu Islands
 
 ![idk anymore](https://github.com/user-attachments/assets/cac62159-264e-42cc-90af-f574d3dd3664)
 
 ![Pool](https://github.com/user-attachments/assets/1d9abc25-068c-499d-a486-6a039d9d65bb)
+
 A pool, actually [Bride's Pool (新娘潭)](https://zh.wikipedia.org/zh-hk/%E6%96%B0%E5%A8%98%E6%BD%AD).
 
 Not much is known about the E Bu Islands.
 
 ## 世囈島 (Shi Yi Island)
 [^2623]
+
 ![mountain](https://github.com/user-attachments/assets/77369ed3-af07-4379-86e8-738dcc5881a3)
+
 The sacred mountain, a poorly edited Mount Rushmore
 
 Not much is known about Shi Yi Island.
@@ -404,7 +409,9 @@ There is a resort in development; purportedly, the hot spring water in the resor
 
 ## 小氣群島 (Xiao Qi Islands)
 [^2800]
+
 ![Generic shot of an island](https://github.com/user-attachments/assets/966465fe-741e-426e-8855-33d31ddbc069)
+
 A generic shot of an island, labelled "小氣群島".
 
 Not much is known about the Xiao Qi Islands.
@@ -413,6 +420,22 @@ Not much is known about the Xiao Qi Islands.
 [^2800]
 
 Not much is known about the Kai Xin Islands, except that its timezone is two minutes earlier than UTC+0800.
+
+## 生育群島 (Sheng Yu Islands)
+[^2736]
+
+Not much is known about the Sheng Yu Islands, except that it has a high birth rate.
+
+## 聖氏群島 (Sheng Shi Islands)
+[^2745]
+
+Sheng Shi Island (聖氏群島) is a fictional island.
+
+The island is known for its high-quality wood used to create signs. All signs smaller than 100 square feet are free of charge.
+
+The island hosts an annual "Surname of the Year"; individuals with such surnames enjoy "luxurious treatment". Such treatment includes free purchases and wheelchair services for individuals aged 65 or above.
+
+The year 2026 was specifically designated as the "year of the Xiong" as three individuals surnamed Xiong each won a Nobel Prize, a Florence Nightingale Medal, and the champion award of an international racing competition respectively.
 
 ## 友木共島 (You Mu Gong Island)
 [^quizchl]
@@ -460,6 +483,8 @@ Explicitly NOT an island that appeared in the show.
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
 [^2658]: Episode 2658, <https://youtu.be/yuHWHd1Bkk0>
 [^2730]: Episode 2730, <https://youtu.be/UWhXmeUcz_E>
+[^2736]: Episode 2736, <https://youtu.be/rWWlgDJBhyM>
+[^2745]: Episode 2745, <https://youtu.be/-mxBg_Vo9Ts>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
 [^2752]: Episode 2752 *(segment not on YouTube)*
 [^2764]: Episode 2764, <https://youtu.be/fP9HpnsEXSU>
