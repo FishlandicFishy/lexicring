@@ -70,7 +70,7 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 龍沙陳陳沙龍陳: I really appreciate you two.
 
-陳陳陳奶龍陳: Allow us to commence say gex/sesbian lex. OR: (humorous, but highly honorific) Good night.
+陳陳陳奶龍陳: Allow us to commence inappropriate activities. OR: (humorous, but highly honorific) Good night.
 
 陳龍沙，奶沙陳: I wish you all a happy cooperation.
 
@@ -88,26 +88,7 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 One of the typefaces used in the anime "Konosuba" is confirmed to be the font. Link: <https://harjit.moe/images/1502563327965.png>
 
-The Wolf Script [unofficial name] is a one-to-one cipher of Latin (and predominantly English), used in the [K\*ngdom of Wolves](/wiki/tvb_fictional_countries.md). Taken from [this excerpt](https://youtu.be/LGxMK6PX0as), note that below is approximation using random Unicode characters that resemble the characters and may not be exact.
-
-| Script | Latin |
-| --- | --- |
-| ℭ | c  |
-| ⦛ | d   |
-| 叾 | e    |
-| 7 | f     |
-| 𠃌 | g    |
-| ᚹ | i   |
-| R | k     |
-| ∢ | l     |
-| Ｇ | m     |
-| ∂ | n     |
-| ⊄ | o     |
-| б | s     |
-| ⋉ | t     |
-| ⊅ | v     |
-| ᛞ | W |
-| ⧖ | w |
+The Wolf Script [unofficial name] is a one-to-one cipher of Latin (and predominantly English), used in the [K\*ngdom of Wolves](/wiki/tvb_fictional_countries.md), taken from [this excerpt](https://youtu.be/LGxMK6PX0as).
 
 ## Wu Duo Guo Language
 The Wu Duo Guo language [unofficial name] is spoken in [Wu Duo Guo](/wiki/tvb_fictional_countries.md). It is taken from [this TVB episode excerpt](https://youtu.be/0nl4Co9it_k).
@@ -115,6 +96,17 @@ A transliterated quote is below:
 | Transliteration | Official Chinese Transliteration | Meaning |
 | --- | --- | --- |
 | bagə'adu, bababa, galagalatʃoko. | 巴卡阿杜，巴巴巴，卡拉卡拉錯柯。 | *(generic swearing)* |
+
+## Qingwa Wanzi Islands Language
+The Qingwa Wangzi Islands Language [unofficial name] is spoken on the [Qingwa Wangzi Islands](/wiki/tvb_fictional_islands.md). It is taken from [this TVB episode excerpt](https://youtu.be/qw3UuY_I7Mo).
+
+| Transliteration | Meaning |
+| --- | --- |
+| ha so so sa sa li, ji wa wa sa wa. ji wa wa ha! | I heard Hong Kong's canned food is very famous, so I plan to order 100,000 boxes to take back as souvenirs. |
+| zi zi, mo ma ja o, wa ha ha, so da da. | (acknowledgment) |
+| o ma. wa so so so ha ji ji. | (conclusion of order details) |
+| so ba, la la ha o, wa ha ha. | (request for contact information.) |
+| za za. | (affirmative.) |
 
 ## Notes
 [^1]: Characters for mu (木), i (依), ja (也), jou (油), bun (搬), and ba (罷) are not officially defined.
