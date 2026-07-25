@@ -67,7 +67,7 @@ Being struck by an arrow constitutes a legally binding engagement.[^2095]
 
 If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
 
-Ng Wong Tat publicly promotes marriage.[^2858]
+Ng Wong Tat publicly promotes marriage.[^2856]
 
 Due to tourism regulations, importing sleepwear is prohibited. Travelers carrying nightwear must file a daily "AC9527 form" to declare status. Customs officials reserve the right to cut footwear in half to check for contraband.[^1543]
 
