@@ -54,6 +54,11 @@ An Ling Wu Dao (Chinese: 安寧梧島) is a fictional island. Many wars happen t
 [^0446]
 E Li Wu Dao (Chinese: 厄里梧島) is a fictional island. According to the TVB programme the island has a prison. The island speaks fluent English.
 
+## 呃你梧島 (E Ni Wu Dao)
+
+[^eniwudao]
+Not much is known about E Ni Wu Dao; it might be an alternate name for E Li Wu Dao (厄里梧島).
+
 ## 聯樂梧島 (Lian Le Wu Dao)
 
 ![dude I don't speak Epsteinian](https://github.com/user-attachments/assets/f41b099b-cde6-42bc-9e21-afc25c48200b)
@@ -157,6 +162,12 @@ Not much is known about the Da Hua Tong Islands.
 The Wu Yi Xing Mian Hotel and surroundings[^2346]
 
 Not much is known about the Di Zhen Islands. A Magnitude 6.8 earthquake occurred on the Di Zhen Islands, destroying the Wu Yi Xing Mian Hotel (巫壹杏冕大酒店).
+
+## 地振群島 (Di Zhen Islands)
+[^2642]
+![A map of the islands](https://github.com/user-attachments/assets/33c527c3-12a7-4706-88d0-b016e653626d)
+
+Not much is known about the Di Zhen Islands, other than the fact that the islands once experienced a magnitude 6.3 earthquake.
 
 ## 實穩吾島 (Shi Wen Wu Island)
 [^2294]
@@ -361,6 +372,53 @@ Local factories operate under strict government regulatory policies.
 
 Not much is known about the Fei Wen Islands.
 
+## 約梧島 (Yue Wu Island)
+[^2730]
+
+Not much is known about Yue Wu Island.
+
+## 鱷不群島 (E Bu Islands)
+[^2658]
+![Aerial view of the island](https://github.com/user-attachments/assets/43d2f2cc-8f8f-453c-ad46-aecd23b3d024)
+Aerial view of the E Bu Islands
+
+![idk anymore](https://github.com/user-attachments/assets/cac62159-264e-42cc-90af-f574d3dd3664)
+
+![Pool](https://github.com/user-attachments/assets/1d9abc25-068c-499d-a486-6a039d9d65bb)
+A pool, actually [Bride's Pool (新娘潭)](https://zh.wikipedia.org/zh-hk/%E6%96%B0%E5%A8%98%E6%BD%AD).
+
+Not much is known about the E Bu Islands.
+
+## 世囈島 (Shi Yi Island)
+[^2623]
+![mountain](https://github.com/user-attachments/assets/77369ed3-af07-4379-86e8-738dcc5881a3)
+The sacred mountain, a poorly edited Mount Rushmore
+
+Not much is known about Shi Yi Island.
+
+It is known for its cheap labour and materials.
+
+One of the mountains is considered to be sacred; however, it had been defaced.
+
+There is a resort in development; purportedly, the hot spring water in the resort has "cosmetic benefits".
+
+## 小氣群島 (Xiao Qi Islands)
+[^2800]
+![Generic shot of an island](https://github.com/user-attachments/assets/966465fe-741e-426e-8855-33d31ddbc069)
+A generic shot of an island, labelled "小氣群島".
+
+Not much is known about the Xiao Qi Islands.
+
+## 開心群島 (Kai Xin Islands)
+[^2800]
+
+Not much is known about the Kai Xin Islands, except that its timezone is two minutes earlier than UTC+0800.
+
+## 友木共島 (You Mu Gong Island)
+[^quizchl]
+
+Explicitly NOT an island that appeared in the show.
+
 ## References
 
 [^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
@@ -396,12 +454,19 @@ Not much is known about the Fei Wen Islands.
 [^2497]: Episode 2497, <https://youtu.be/dE7wMUkdTEQ>
 [^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
 [^2566]: Episode 2566, <https://youtu.be/f1XQpcVNZN8>
+[^2623]: Episode 2623, <https://youtu.be/bkX2K4lHMDk>
 [^2627]: Episode 2627, <https://youtu.be/xw88X_x1Asc>
 [^2633]: Episode 2633, <https://youtu.be/8MQ6I9GAzgk>
+[^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
+[^2658]: Episode 2658, <https://youtu.be/yuHWHd1Bkk0>
+[^2730]: Episode 2730, <https://youtu.be/UWhXmeUcz_E>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
 [^2752]: Episode 2752 *(segment not on YouTube)*
 [^2764]: Episode 2764, <https://youtu.be/fP9HpnsEXSU>
 [^2799]: Episode 2799, <https://youtu.be/qw3UuY_I7Mo>
+[^2800]: Episode 2800, <https://youtu.be/_4TRJNLapwI>
 [^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^2857]: Episode 2857, <https://youtu.be/4TN0t3Eob7M>
+[^eniwudao]: Episode unknown, <https://www.threads.com/@hey.i.wannabe.a.wannabe/post/DYWt2-Lk8MC>
+[^quizchl]: <https://web.archive.org/web/20260725041127/https://tvb.app.do/quiz_chl>
