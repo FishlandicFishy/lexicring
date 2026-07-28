@@ -211,6 +211,11 @@ Kui Fei Yan Mie Guo was attacked by a neighbouring country via nuclear bomb, cau
 
 Not much is known about the Republic of Hei Fu.
 
+## 多妻共和國 (Republic of Duo Qi)
+[^2396]
+
+Not much is known about the Republic of Duo Qi.
+
 ## Unnamed Countries
 
 ### Unnamed 1
@@ -238,6 +243,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
 [^2242]: Episode 2242, <https://youtu.be/a7iFe454h2E>
 [^2294]: Episode 2294, <https://youtu.be/LANt1aEHUik>
+[^2396]: Episode 2396, <https://youtu.be/ID5Vm8lp7zI>
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
