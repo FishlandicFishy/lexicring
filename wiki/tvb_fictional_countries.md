@@ -128,9 +128,9 @@ Wu Duo Guo is prone to earthquakes.[^2113]
 It is presumably home to wolves and tigers.[^2823]
 
 ### Politics
-Those who attempt to escape are considered "cowards"; offenders are added to the "coward list" for thirty years.
+Those who attempt to escape are considered "cowards"; offenders are added to the "coward list" for thirty years. Attempts of escaping include all forms of turning back.[^2823]
 
-Attempts of escaping include all forms of turning back.[^2823]
+Wu Duo Guo designates a "national-level apology" for issues pertaining to the reputation of Wu Duo Guo; this apology is described as a ritual performed at noon toward the south, requiring the offender to continuously carry out the Three Kneelings and Nine Kowtows (三跪九叩) until sunset.[^2604]
 
 ### History
 In 1995, a Superstitious Worship Basin was stolen, causing a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing.[^2113]
@@ -246,6 +246,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2396]: Episode 2396, <https://youtu.be/ID5Vm8lp7zI>
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
+[^2604]: Episode 2604, <https://youtu.be/7eIa9CwFxRM>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
