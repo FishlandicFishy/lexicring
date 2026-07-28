@@ -142,7 +142,7 @@ In 1995, a Superstitious Worship Basin was stolen, causing a war with Hao Duo Gu
 ### Culture
 Wu Duo Guo emphasises "working from grasslands" to encourage its citizens to interact with nature.[^2515]
 
-Blowing dandelions is a popular pastime in Wu Duo Guo; wind conditions must be considered such that nothing is blown towards the nearby Lang Li Islands, which constitutes an attack; locals from the Lang Li Islands are fatally sensitive to dandelions.[^2515]
+Blowing dandelions is a popular pastime in Wu Duo Guo; wind conditions must be considered such that nothing is blown towards the nearby [Lang Li Islands](tvb_fictional_islands.md#狼戾群島-lang-li-islands), which constitutes an attack; locals from the Lang Li Islands are fatally sensitive to dandelions.[^2515]
 
 No bride price is required to be paid before marriage.[^2515]
 
