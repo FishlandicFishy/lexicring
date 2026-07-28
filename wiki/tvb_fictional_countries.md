@@ -22,7 +22,7 @@ Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
 Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
-Ng Wong Tat uses the Arabic script in some occasions.[^2642]
+Ng Wong Tat uses the Arabic script in some occasions.[^2642][^2860]
 
 In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless.<!-- This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.-->[^2242]
 
@@ -186,6 +186,11 @@ Not much is known about the Republic of San Ka La.
 [^2294]
 Not much is known about the Republic of Sha Li A Ge.
 
+## 薩里亞哥 (Sa Li Ya Ge)
+
+[^2860]
+Not much is known about Sa Li Ya Ge, except that a civil war once occured there. This might be an alternate name for the Republic of Sha Li A Ge (煞里阿哥共和國).
+
 ## 魁非燕滅國 (Kui Fei Yan Mie Guo)
 [^2609]
 Kui Fei Yan Mie Guo (魁非燕滅國) is a fictional country acting as a scam corporation.
@@ -239,6 +244,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
+[^2860]: Episode 2860, <https://youtu.be/hFQlszBO_gk>
 [^anonsignal]: <https://zh.wikipedia.org/zh-hk/%E5%A5%AA%E5%91%BD%E6%8F%90%E7%A4%BA> (奪命提示)
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.
