@@ -128,24 +128,41 @@ Wu Duo Guo is prone to earthquakes.[^2113]
 It is presumably home to wolves and tigers.[^2823]
 
 ### Politics
-Those who attempt to escape are considered "cowards"; offenders are added to the "coward list" for thirty years. Attempts of escaping include all forms of turning back.[^2823]
+Those who attempt to escape are considered "cowards"; offenders are added to the "coward list" for thirty years.[^2823] Attempts of escaping include all forms of turning back.[^2823][^2515]
 
 Wu Duo Guo designates a "national-level apology" for issues pertaining to the reputation of Wu Duo Guo; this apology is described as a ritual performed at noon toward the south, requiring the offender to continuously carry out the Three Kneelings and Nine Kowtows (三跪九叩) until sunset.[^2604]
+
+Wu Duo Guo emphasises harmony; for offenses not involving murder or arson, conflicts are resolved by dancing with victims around the fire and drinking goat milk wine. Whenever this "harmony" is achieved, the perpetrator must "repay kindness" by working for the victims. Otherwise, major offenses may only be resolved by enlistment or, if unknowing of their wrongdoings, by signing a contract surrendering their status in Wu Duo Guo. Such a contract is irrevokable even if the issue is rectified.[^2515]
+
+Those with great contributions to Wu Duo Guo are officially remembered in history and may enjoy riches and honours.[^2515]
 
 ### History
 In 1995, a Superstitious Worship Basin was stolen, causing a war with Hao Duo Guo named by historians as "荔枝事變". It lasted for roughly ten years, until they realised the fight was all for nothing.[^2113]
 
-### Language
+### Culture
+Wu Duo Guo emphasises "working from grasslands" to encourage its citizens to interact with nature.[^2515]
 
-Wu Duo Guo speaks <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">its own language</a>, consisting only of swear words.[^2113]
+Blowing dandelions is a popular pastime in Wu Duo Guo; wind conditions must be considered such that nothing is blown towards the nearby Lang Li Islands, which constitutes an attack; locals from the Lang Li Islands are fatally sensitive to dandelions.[^2515]
+
+No bride price is required to be paid before marriage.[^2515]
+
+#### Festivities
+Wu Duo Guo holds a "草原小姐" contest, where its winners would advertise for the government.[^2515]
+
+### Language
+Wu Duo Guo speaks Cantonese[^2515] along with <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">its own language</a> consisting only of swear words.[^2113]
 
 ## 豪多國 (Hao Duo Guo)
 
-[^2113]Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
+[^2113]
+
+Hao Duo Guo (Chinese: 豪多國) is a fictional country. Not much is known other than that it used to co-exist with Wu Duo Guo.
 
 ## 剛罕共和國 (Gang Han Republic)
 
-[^2433]Not much is known.
+[^2433]
+
+Not much is known.
 
 ## 哈多爾 (Ha Duo Er)
 
@@ -246,6 +263,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2396]: Episode 2396, <https://youtu.be/ID5Vm8lp7zI>
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
+[^2515]: Episode 2515, <https://youtu.be/abz5DQ2MpVk>
 [^2604]: Episode 2604, <https://youtu.be/7eIa9CwFxRM>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
