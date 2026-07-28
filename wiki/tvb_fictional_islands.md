@@ -448,6 +448,11 @@ The Lei Man Islands (雷曼群島) is a presumably monarchic island-state.
 
 There was once a war on the islands; peace was achieved after a person folded paper cranes.
 
+## 狼戾群島 (Lang Li Islands)
+[^2515]
+
+Not much is known about the Lang Li Islands, except that they are near [Wu Duo Guo](tvb_fictional_countries.md#吳多國-wu-duo-guo) and that its locals are fatally allergic to dandelions. To combat this, a medication preventing this allergy was developed.
+
 ## 心心灣 (Xin Xin Wan)
 [^2859]
 
@@ -497,6 +502,7 @@ Explicitly NOT an island that appeared in the show.
 [^2465]: Episode 2465, <https://youtu.be/tDa8ympYu5g>
 [^2497]: Episode 2497, <https://youtu.be/dE7wMUkdTEQ>
 [^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
+[^2515]: Episode 2515, <https://youtu.be/abz5DQ2MpVk>
 [^2566]: Episode 2566, <https://youtu.be/f1XQpcVNZN8>
 [^2623]: Episode 2623, <https://youtu.be/bkX2K4lHMDk>
 [^2627]: Episode 2627, <https://youtu.be/xw88X_x1Asc>
