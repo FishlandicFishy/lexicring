@@ -335,8 +335,6 @@ Not much is known about the Wen Yi Islands.
 Not much is known about the Qingwa Wangzi Islands other than the fact that it speaks [its own language](/archival/languages/tvb-fictional-languages.md#hung-island-language).
 
 ## 甜絲絲群島 (Tian Si Si Islands)
-[^2857]
-
 ![Aerial view of Tian Si Si Island](https://github.com/user-attachments/assets/65e9f62e-2bb8-443c-9b41-dc9b307d89b4)
 
 Aerial view of Tian Si Si Island.
@@ -345,9 +343,9 @@ Aerial view of Tian Si Si Island.
 
 A lake on the island, actually the [former Lamma Island Quarry](https://zh.wikipedia.org/zh-hk/%E5%89%8D%E5%8D%97%E4%B8%AB%E7%9F%B3%E7%A4%A6%E5%A0%B4) near Mo Tat Wan.
 
-The Tian Si Si Islands (甜絲絲群島) are islands in the eastern Pacific Ocean.
+The Tian Si Si Islands (甜絲絲群島) are islands in the eastern Pacific Ocean.[^2857]
 
-The territory boasts an exceptionally high Human Development Index (HDI). Standard living conditions are lavish, with every citizen residing in a home exceeding 1,000 square feet, complemented by private backyards comparable in scale to Victoria Park.
+The territory boasts an exceptionally high Human Development Index (HDI). Standard living conditions are lavish, with every citizen residing in a home exceeding 1,000 square feet, complemented by private backyards comparable in scale to Victoria Park.[^2857]
 
 ### Geography
 
@@ -365,7 +363,13 @@ Healthcare, education, and standard municipal operations are heavily subsidized 
 
 The administration places an intense focus on childbirth; medical response teams are dispatched as soon as a birth is anticipated.
 
-Local factories operate under strict government regulatory policies.
+Local factories operate under strict government regulatory policies.[^2857]
+
+## 苦Del Del群島 (Ku Del Del Islands)
+
+[^2860]
+
+Not much is known about the Ku Del Del Islands, except that the islands were once at war with the Tian Si Si Islands; peace was immediately reached when its citizens had access to candy from the Tian Si Si Islands, with the candy acting as a token of peace.
 
 ## 飛蚊群島 (Fei Wen Islands)
 [^2856]
@@ -437,6 +441,13 @@ The island hosts an annual "Surname of the Year"; individuals with such surnames
 
 The year 2026 was specifically designated as the "year of the Xiong" as three individuals surnamed Xiong each won a Nobel Prize, a Florence Nightingale Medal, and the champion award of an international racing competition respectively.
 
+## 雷曼群島 (Lei Man Islands)
+[^2396]
+
+The Lei Man Islands (雷曼群島) is a presumably monarchic island-state.
+
+There was once a war on the islands; peace was achieved after a person folded paper cranes.
+
 ## 友木共島 (You Mu Gong Island)
 [^quizchl]
 
@@ -472,6 +483,7 @@ Explicitly NOT an island that appeared in the show.
 [^2346]: Episode 2346, <https://youtu.be/gaF7AlU5r4k>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
+[^2396]: Episode 2396, <https://youtu.be/ID5Vm8lp7zI>
 [^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
 [^2465]: Episode 2465, <https://youtu.be/tDa8ympYu5g>
 [^2497]: Episode 2497, <https://youtu.be/dE7wMUkdTEQ>
@@ -493,5 +505,6 @@ Explicitly NOT an island that appeared in the show.
 [^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^2857]: Episode 2857, <https://youtu.be/4TN0t3Eob7M>
+[^2860]: Episode 2860, <https://youtu.be/hFQlszBO_gk>
 [^eniwudao]: Episode unknown, <https://www.threads.com/@hey.i.wannabe.a.wannabe/post/DYWt2-Lk8MC>
 [^quizchl]: <https://web.archive.org/web/20260725041127/https://tvb.app.do/quiz_chl>
