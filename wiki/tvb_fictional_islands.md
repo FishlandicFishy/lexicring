@@ -448,6 +448,15 @@ The Lei Man Islands (雷曼群島) is a presumably monarchic island-state.
 
 There was once a war on the islands; peace was achieved after a person folded paper cranes.
 
+## 心心灣 (Xin Xin Wan)
+[^2859]
+
+![View of the island](https://github.com/user-attachments/assets/cf1207e8-abe0-4726-ab26-c281821b267c)
+
+A view of Xin Xin Wan.
+
+Not much is known about Xin Xin Wan, except that it is remote and that the island is [heart-shaped](https://hushbugger.github.io/deltarune/text/#en:2:obj_ch2_city05_slash_Step_0_gml_397_0).
+
 ## 友木共島 (You Mu Gong Island)
 [^quizchl]
 
@@ -505,6 +514,7 @@ Explicitly NOT an island that appeared in the show.
 [^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^2857]: Episode 2857, <https://youtu.be/4TN0t3Eob7M>
+[^2859]: Episode 2859, <https://youtu.be/lKq35rPf62E>
 [^2860]: Episode 2860, <https://youtu.be/hFQlszBO_gk>
 [^eniwudao]: Episode unknown, <https://www.threads.com/@hey.i.wannabe.a.wannabe/post/DYWt2-Lk8MC>
 [^quizchl]: <https://web.archive.org/web/20260725041127/https://tvb.app.do/quiz_chl>
