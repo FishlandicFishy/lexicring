@@ -454,7 +454,7 @@ There was once a war on the islands; peace was achieved after a person folded pa
 Not much is known about the Lang Li Islands, except that they are near [Wu Duo Guo](tvb_fictional_countries.md#吳多國-wu-duo-guo) and that its locals are fatally allergic to dandelions. To combat this, a medication preventing this allergy was developed.
 
 ## 溝通梧島 (Gou Tong Wu Island)
-[^913]
+[^0913]
 
 Not much is known about Gou Tong Wu Island.
 
