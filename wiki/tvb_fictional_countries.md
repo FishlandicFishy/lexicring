@@ -150,7 +150,7 @@ No bride price is required to be paid before marriage.[^2515]
 Wu Duo Guo holds a "草原小姐" contest, where its winners would advertise for the government.[^2515]
 
 ### Language
-Wu Duo Guo speaks Cantonese[^2515] along with <a href="/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language">its own language</a> consisting only of swear words.[^2113]
+Wu Duo Guo speaks Cantonese[^2515] along with [its own language](/archival/languages/tvb-fictional-languages.md#wu-duo-guo-language) consisting only of swear words.[^2113]
 
 ## 豪多國 (Hao Duo Guo)
 
@@ -167,7 +167,7 @@ Not much is known.
 ## 哈多爾 (Ha Duo Er)
 
 [^ytqa2]
-<img src="/wiki/flag_of_ha_duo_er.png" alt="flag of Ha Duo Er" width="207" height="146">
+<img src="flag_of_ha_duo_er.png" alt="flag of Ha Duo Er" width="207" height="146">
 
 Flag of Ha Duo Er, recreated in ibisPaint X. Note that the pixel shape is supposed to be a triangle.
 
@@ -237,7 +237,7 @@ Not much is known about the Republic of Duo Qi.
 
 ### Unnamed 1
 [^ytqa2]
-![ ](/wiki/flag_of_unnamed1.png)
+<img src="flag_of_unnamed1.png" alt="flag" width="207" height="146">
 
 Flag, recreated in ibisPaint X.
 
