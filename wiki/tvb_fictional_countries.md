@@ -167,7 +167,7 @@ Not much is known.
 ## 哈多爾 (Ha Duo Er)
 
 [^ytqa2]
-![ ](/wiki/flag_of_ha_duo_er.png)
+<img src="/wiki/flag_of_ha_duo_er.png" alt="flag of Ha Duo Er" width="828" height="584">
 
 Flag of Ha Duo Er, recreated in ibisPaint X. Note that the pixel shape is supposed to be a triangle.
 
