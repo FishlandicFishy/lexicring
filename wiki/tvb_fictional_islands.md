@@ -458,6 +458,19 @@ Not much is known about the Lang Li Islands, except that they are near [Wu Duo G
 
 Not much is known about Gou Tong Wu Island.
 
+## 金毛群島 (Jin Mao Islands)
+[^2741]
+
+The Jin Mao Islands is a totalitarian island-state.
+
+### Politics
+
+Citizens may not leave the islands; offenders must go through the "金光淨化" punishment, where all hair (including armpit hair) must be dyed gold using an unknown dye. This dye is known to cause itching.
+
+### Culture
+
+The amount of eyebrows dictates the status of a person; a person with fewer eyebrows must do manual labour.
+
 ## 心心灣 (Xin Xin Wan)
 [^2859]
 
@@ -517,6 +530,7 @@ Explicitly NOT an island that appeared in the show.
 [^2658]: Episode 2658, <https://youtu.be/yuHWHd1Bkk0>
 [^2730]: Episode 2730, <https://youtu.be/UWhXmeUcz_E>
 [^2736]: Episode 2736, <https://youtu.be/rWWlgDJBhyM>
+[^2741]: Episode 2741, <https://youtu.be/bKKNbioU4B8>
 [^2745]: Episode 2745, <https://youtu.be/-mxBg_Vo9Ts>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
 [^2752]: Episode 2752 *(segment not on YouTube)*
