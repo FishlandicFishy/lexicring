@@ -228,11 +228,11 @@ Due to its less-developed nature, it is hard to survive. Its citizens are unawar
 
 A large castle-themed hotel is present; rooms are quite spacious with room service provided, and can be booked for free if a paper clip is given.
 
-## Geography
+### Geography
 
 It is quite windy. Despite its name, grass and plants are present on the islands.
 
-## Politics
+### Politics
 
 By law, temperature of hotel rooms must be kept at 25°C.
 
