@@ -453,6 +453,11 @@ There was once a war on the islands; peace was achieved after a person folded pa
 
 Not much is known about the Lang Li Islands, except that they are near [Wu Duo Guo](tvb_fictional_countries.md#吳多國-wu-duo-guo) and that its locals are fatally allergic to dandelions. To combat this, a medication preventing this allergy was developed.
 
+## 溝通梧島 (Gou Tong Wu Island)
+[^913]
+
+Not much is known about Gou Tong Wu Island.
+
 ## 心心灣 (Xin Xin Wan)
 [^2859]
 
@@ -474,6 +479,7 @@ Explicitly NOT an island that appeared in the show.
 [^0430]:  Episode 430, <https://youtu.be/N89qp3GFmj8>
 [^0446]:  Episode 446, <https://youtu.be/GzUFniC4-k4>
 [^0706]:  Episode 706, <https://youtu.be/a3awQbSIWA4>
+[^0913]:  Episode 913, <https://youtu.be/Y-6VUjOdj7U>
 [^0949]:  Episode 949, <https://youtu.be/yoTXTOhakGA>
 [^1023]: Episode 1023, <https://youtu.be/7s0d2FlydZ8>
 [^1646]: Episode 1646, <https://youtu.be/tAE7BQ5ZJsA>
