@@ -128,6 +128,8 @@ Views of the island[^1818]
 Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818] The actual area is near [Shelter Island](https://en.wikipedia.org/wiki/Shelter_Island_(Hong_Kong)).
 
 ## 火山群島 (Huo Shan Islands)
+![Imperial Palace of the Huo Shan Islands](https://github.com/user-attachments/assets/d3fdeec0-2784-4c3d-93d1-0c04442b47a7)
+Imperial Palace of the Huo Shan Islands[^2364]
 
 The Huo Shan Islands are fictional islands.
 
@@ -135,7 +137,10 @@ The Huo Shan Islands are fictional islands.
 It has an active volcano with a reportedly burnt-soup-like odour during eruption. Therefore, very few airlines are willing to send airplanes there.[^2363]
 
 ### Culture
-The island regularly holds e-sports competitions.[^2852]
+The islands regularly hold e-sports competitions.[^2852]
+
+### Politics
+There is an imperial palace housing its empress and her attendants.[^2364]
 
 ## 冰川群島 (Bing Chuan Islands)
 
@@ -541,6 +546,7 @@ Explicitly NOT an island that appeared in the show.
 [^2346]: Episode 2346, <https://youtu.be/gaF7AlU5r4k>
 [^2356]: Episode 2356, <https://youtu.be/pmwFcBQM8n4>
 [^2363]: Episode 2363, <https://youtu.be/lrRF-bIf3Co>
+[^2364]: Episode 2364, <https://youtu.be/jKAH5xpOzPc>
 [^2396]: Episode 2396, <https://youtu.be/ID5Vm8lp7zI>
 [^2432]: Episode 2432, <https://youtu.be/C5h8Xc1tT3U>
 [^2465]: Episode 2465, <https://youtu.be/tDa8ympYu5g>
