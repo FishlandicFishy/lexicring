@@ -258,33 +258,19 @@ By law, temperature of hotel rooms must be kept at 25°C.
 ## 意想畢島 (Yi Xiang Bi Island)
 [^2504]
 
-(below written by a clanker)
-
-Yi Xiang Bi Island (意想畢島) is a fictional island. It serves as a prominent regional transit point, resort destination, and event hub.
+Yi Xiang Bi Island (意想畢島) is a fictional island.
 
 ### Geography
 
-Yi Xiang Bi Island is probably situated in the Pacific Ocean. It is geographically positioned near other remote Pacific territories, most notably Gu Li Wu Island, with which it shares regular air travel routes.
-
-The island's coastal geography features dynamic maritime conditions, capable of producing large ocean swells and waves.
+Yi Xiang Bi Island is situated in the Pacific Ocean, positioned near other remote Pacific territories, most notably Gu Li Wu Island, with which it shares regular air travel routes.
 
 ### Infrastructure
 
-Despite its remote oceanic location, the island boasts a highly developed tourism, hospitality, and event infrastructure.
+The island has an airport handling international flights and regional Pacific routes.
 
-The island is serviced by a commercial airport that handles international flights and regional Pacific routes. The aviation sector experiences high passenger traffic, occasionally resulting in flight overbooking.
+The aviation sector experiences high passenger traffic, occasionally resulting in flight overbooking.
 
-Yi Xiang Bi Island is a recognized luxury getaway. It features high-end resort accommodations offering premium wellness services, including private massage, shoulder therapy, and back-stepping treatments.  
-
-The island's luxury resorts and hotels feature large convention facilities, including dedicated press halls capable of hosting international media contingents, weddings, and entertainment press conferences. 
-
-### Culture
-
-The island is a popular destination for international high society, entertainment figures, and destination weddings.
-
-### Incidents
-
-A major regional aviation accident had occurred on a flight bound from Yi Xiang Bi Island to Gu Li Wu Island.
+The island also has high-end resort accommodations offering wellness services including private massage, shoulder therapy, and back-stepping treatments. The island's luxury resorts and hotels feature large convention facilities, including press halls capable of hosting international media contingents, weddings, and entertainment press conferences.
 
 ## 垃圾群島 (Le Se Islands)
 [^2566]
@@ -296,20 +282,18 @@ Not much is known about the Le Se Islands, except that it is mountainous and has
 ## 蛇蠍美人島 (She Xie Mei Ren Island)
 [^2627]
 
-(below written by a clanker)
-
-She Xie Mei Ren Island (蛇蠍美人島), also known as Mei Ren Island (美人島), is a fictional island famous for its exotic lifestyle, wellness tourism, and extreme climate.
+She Xie Mei Ren Island (蛇蠍美人島), also known as Mei Ren Island (美人島), is a fictional island.
 
 ### Climate
-The island experiences an intensely hot and sunny climate. Visitors frequently report very strong solar radiation and high baseline temperatures, which characterize the outdoor market and resort areas.
+The island experiences an intensely hot and sunny climate, with strong solar radiation and high baseline temperatures.
 
 ### Economy
-The primary economic driver of Snake Femme Fatale Island is its robust beauty, styling, and wellness industry.  Cosmetic and Salon Services: The island offers an array of high-end salon treatments and afternoon beauty care/spa packages (美容護理) designed to enhance physical appearance.
+The island is known for its wellness industry. In developing its wellness industry, the island offers salon and beauty care/spa services.
 
 ### Culture
-The island features a prominent night market hosting food stalls that leverage internet celebrity culture.
+The island features a night market hosting food stalls, leveraging internet celebrity culture.
 
-A cornerstone of the local culinary tourism is the consumption of native venomous fauna—specifically snakes and scorpions. According to local vendors and online influencers, ingesting these delicacies whole maximizes their cosmetic efficacy, allegedly causing the consumer’s skin to glow with distinct radiance.  
+A cornerstone of the local culinary tourism is the consumption of native venomous fauna, specifically snakes and scorpions. According to local vendors and online influencers, ingesting these delicacies whole maximizes their cosmetic efficacy, allegedly causing the consumer’s skin to glow with distinct radiance.  
 
 ## 造假群島 (Zao Jia Islands)
 [^2752]
