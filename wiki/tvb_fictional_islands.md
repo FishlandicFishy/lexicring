@@ -127,10 +127,23 @@ Views of the island[^1818]
 
 Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818] The actual area is near [Shelter Island](https://en.wikipedia.org/wiki/Shelter_Island_(Hong_Kong)).
 
-## 火山群島 (Huoshan Islands)
+## 火山群島 (Huo Shan Islands)
 
-[^2363]
-Not much is known about the Huoshan Islands, other than the fact that it has an active volcano which smells like burnt soup when it erupts. Very few airlines are willing to send airplanes there.
+The Huo Shan Islands are fictional islands.
+
+### Geography
+It has an active volcano with a reportedly burnt-soup-like odour during eruption. Therefore, very few airlines are willing to send airplanes there.[^2363]
+
+### Culture
+The island regularly holds e-sports competitions.[^2852]
+
+## 冰川群島 (Bing Chuan Islands)
+
+[^2852]
+The Bing Chuan Islands are fictional islands. The islands noticeably lack stationery stores.
+
+### Culture
+Annually, three days are designated as the Pen-Banning Festival (禁筆節), which prohibits anyone from writing using a pen. Offenders are shot to death. Workarounds include using forks to write instead.
 
 ## 過梧島 (Guo Wu Island)
 
@@ -369,7 +382,9 @@ Local factories operate under strict government regulatory policies.[^2857]
 
 [^2860]
 
-Not much is known about the Ku Del Del Islands, except that the islands were once at war with the Tian Si Si Islands; peace was immediately reached when its citizens had access to candy from the Tian Si Si Islands, with the candy acting as a token of peace.
+Not much is known about the Ku Del Del <img width="102" height="17" alt="image" src="https://github.com/user-attachments/assets/f67ede81-2145-4f93-809e-8fb56a4e858f" />
+<img width="102" height="17" alt="image" src="https://github.com/user-attachments/assets/88b67fbc-f9f1-4533-8182-ebcb0d9faf48" />
+Islands, except that the islands were once at war with the Tian Si Si Islands; peace was immediately reached when its citizens had access to candy from the Tian Si Si Islands, with the candy acting as a token of peace.
 
 ## 飛蚊群島 (Fei Wen Islands)
 [^2856]
@@ -471,6 +486,11 @@ Citizens may not leave the islands; offenders must go through the "金光淨化"
 
 The amount of eyebrows dictates the status of a person; a person with fewer eyebrows must do manual labour.
 
+## 建梧島 (Jian Wu Island)
+[^2852]
+
+Not much is known about Jian Wu Island.
+
 ## 心心灣 (Xin Xin Wan)
 [^2859]
 
@@ -539,6 +559,7 @@ Explicitly NOT an island that appeared in the show.
 [^2799]: Episode 2799, <https://youtu.be/qw3UuY_I7Mo>
 [^2800]: Episode 2800, <https://youtu.be/_4TRJNLapwI>
 [^2829]: Episode 2829, <https://youtu.be/AYspRu0hRxE>
+[^2852]: Episode 2852, <https://youtu.be/2MVKHZL-YAc>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^2857]: Episode 2857, <https://youtu.be/4TN0t3Eob7M>
 [^2859]: Episode 2859, <https://youtu.be/lKq35rPf62E>
