@@ -65,7 +65,7 @@ Not much is known about E Ni Wu Dao; it might be an alternate name for E Li Wu D
 
 The Lian Le Wu Dao airport[^2747]
 
-Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island,[^2356] and there is no Internet connection throughout the island.[^2747][^1995] The island speaks Cantonese. The island has only one hotel that once went bankrupt[^0706] but resumed operation[^2747], and relies on camels for transportation. It is valued at USD $1,280,000.[^0706] During Lunar New Year, the island celebrates Washing Month, which emphasises simple living and peace in aspects such as clothing and thought.[^2747]
+Lian Le Wu Dao (Chinese: 聯樂梧島) is a fictional island. All means of communication cannot reach the island,[^2356] and there is no Internet connection throughout the island[^2747][^1995] besides an island-wide intranet accessible only by phones; this is due to constant interception efforts by the local authorities[^2751]. The island speaks Cantonese. The island has only one hotel that once went bankrupt[^0706] but resumed operation[^2747], and relies on camels for transportation. It is valued at USD $1,280,000.[^0706] During Lunar New Year, the island celebrates Washing Month, which emphasises simple living and peace in aspects such as clothing and thought.[^2747]
 
 ### Politics
 
@@ -533,6 +533,7 @@ Explicitly NOT an island that appeared in the show.
 [^2741]: Episode 2741, <https://youtu.be/bKKNbioU4B8>
 [^2745]: Episode 2745, <https://youtu.be/-mxBg_Vo9Ts>
 [^2747]: Episode 2747, <https://youtu.be/G-q7wpzlZGI>
+[^2751]: Episode 2751, <https://youtu.be/izDz4LtgDcA>
 [^2752]: Episode 2752 *(segment not on YouTube)*
 [^2764]: Episode 2764, <https://youtu.be/fP9HpnsEXSU>
 [^2799]: Episode 2799, <https://youtu.be/qw3UuY_I7Mo>
