@@ -129,6 +129,7 @@ Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferr
 
 ## 火山群島 (Huo Shan Islands)
 ![Imperial Palace of the Huo Shan Islands](https://github.com/user-attachments/assets/d3fdeec0-2784-4c3d-93d1-0c04442b47a7)
+
 Imperial Palace of the Huo Shan Islands[^2364]
 
 The Huo Shan Islands are fictional islands.
@@ -498,6 +499,8 @@ Not much is known about Jian Wu Island.
 [^2690]
 
 ![View of the islands](https://github.com/user-attachments/assets/090ab458-9219-4323-b837-abddc8fbc3ab)
+
+A view of the islands.
 
 Not much is known about the Di Xiao Fei Islands, except that it is a less-developed region and that its products and services are noticeably cheap.
 
