@@ -489,6 +489,13 @@ The amount of eyebrows dictates the status of a person; a person with fewer eyeb
 
 Not much is known about Jian Wu Island.
 
+## 低消費群島 (Di Xiao Fei Islands)
+[^2690]
+
+![View of the islands](https://github.com/user-attachments/assets/090ab458-9219-4323-b837-abddc8fbc3ab)
+
+Not much is known about the Di Xiao Fei Islands, except that it is a less-developed region and that its products and services are noticeably cheap.
+
 ## 心心灣 (Xin Xin Wan)
 [^2859]
 
@@ -546,6 +553,7 @@ Explicitly NOT an island that appeared in the show.
 [^2633]: Episode 2633, <https://youtu.be/8MQ6I9GAzgk>
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
 [^2658]: Episode 2658, <https://youtu.be/yuHWHd1Bkk0>
+[^2690]: Episode 2690, <https://youtu.be/To5PFuu13ms>
 [^2730]: Episode 2730, <https://youtu.be/UWhXmeUcz_E>
 [^2736]: Episode 2736, <https://youtu.be/rWWlgDJBhyM>
 [^2741]: Episode 2741, <https://youtu.be/bKKNbioU4B8>
