@@ -382,9 +382,7 @@ Local factories operate under strict government regulatory policies.[^2857]
 
 [^2860]
 
-Not much is known about the Ku Del Del <img width="102" height="17" alt="image" src="https://github.com/user-attachments/assets/f67ede81-2145-4f93-809e-8fb56a4e858f" />
-<img width="102" height="17" alt="image" src="https://github.com/user-attachments/assets/88b67fbc-f9f1-4533-8182-ebcb0d9faf48" />
-Islands, except that the islands were once at war with the Tian Si Si Islands; peace was immediately reached when its citizens had access to candy from the Tian Si Si Islands, with the candy acting as a token of peace.
+Not much is known about the Ku Del Del Islands, except that the islands were once at war with the Tian Si Si Islands; peace was immediately reached when its citizens had access to candy from the Tian Si Si Islands, with the candy acting as a token of peace.
 
 ## 飛蚊群島 (Fei Wen Islands)
 [^2856]
