@@ -233,6 +233,11 @@ Not much is known about the Republic of Hei Fu.
 
 Not much is known about the Republic of Duo Qi.
 
+## 撩事鬥非共和國 (Republic of Liao Shi Dou Fei)
+[^2751]
+
+Not much is known about the Republic of Liao Shi Dou Fei.
+
 ## Unnamed Countries
 
 ### Unnamed 1
@@ -267,6 +272,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2604]: Episode 2604, <https://youtu.be/7eIa9CwFxRM>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
+[^2751]: Episode 2751, <https://youtu.be/izDz4LtgDcA>
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^2860]: Episode 2860, <https://youtu.be/hFQlszBO_gk>
