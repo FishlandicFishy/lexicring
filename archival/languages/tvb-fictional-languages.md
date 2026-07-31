@@ -82,6 +82,22 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 陳沙窿沙奶，奶沙陳陳: (unknown)
 
+奶沙龍陳，沙龍陳。(answering the phone)
+
+奶沙龍陳。(greetings)
+奶沙龍陳陳，沙龍陳。奶沙龍陳陳，沙龍陳陳陳。(what would you like to order?)
+沙龍陳？(are you sure?)
+奶沙龍陳，沙龍陳。
+
+奶沙龍陳。(welcome.)
+龍龍陳。(I would like this (seat), please.)
+奶沙龍陳。(okay.)
+陳陳沙龍陳。(please switch your seat.)
+陳陳陳，龍龍沙陳。(okay³, I'll go ahead.)
+
+奶沙龍龍陳陳陳？(where is the bathroom?)
+龍沙沙陳奶奶奶。(I would like a few more sheets of toilet paper.)
+
 ## Wolf Script
 
 ![ ](https://harjit.moe/images/1502563327965.png)
