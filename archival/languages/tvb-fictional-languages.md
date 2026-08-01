@@ -8,7 +8,7 @@ A sample quote transliterated roughly can be found below:
 
 | Transliteration | Meaning |
 | --- | --- |
-| wo ta nia mo ha ka la ma, ham ba lu ka li, lu lu pra la, a le i kja, pra pra la ni. | I miss Hung Island, I want to go back. |
+| wo ta nia mo pa ka la ma, ham ba la ka li; tʃu lu lu pra ga, ba la di dja, pla pla la mi. | I miss Hung Island, I want to go back. |
 
 ## Ng Wong Tat Language
 
