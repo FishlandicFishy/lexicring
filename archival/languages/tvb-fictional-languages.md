@@ -125,7 +125,7 @@ The Wu Duo Guo language [unofficial name] is spoken in [Wu Duo Guo](/wiki/tvb_fi
 A transliterated quote is below:
 | Transliteration | Official Chinese Transliteration | Meaning |
 | --- | --- | --- |
-| bagə'adu, bababa, galagalatʃoko. | 巴卡阿杜，巴巴巴，卡拉卡拉錯柯。 | *(generic swearing)* |
+| bagaladu, bababa, kalakala tʃoko. | 巴卡阿杜，巴巴巴，卡拉卡拉錯柯。 | *(generic swearing)* |
 
 ## Qingwa Wangzi Islands Language
 The Qingwa Wangzi Islands Language [unofficial name] is spoken on the [Qingwa Wangzi Islands](/wiki/tvb_fictional_islands.md). It is taken from [this TVB episode excerpt](https://youtu.be/qw3UuY_I7Mo).
