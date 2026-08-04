@@ -71,35 +71,40 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 | Quote | Meaning |
 | --- | --- |
-| 陳沙奶龍沙奶。陳奶，龍沙沙陳沙沙，龍陳龍奶奶。龍沙沙陳龍，陳龍沙奶。奶沙沙，龍奶奶。[^1] | It's better if you go first. |
-| 罷窿沙！罷窿沙沙窿罷，罷窿沙矇沙矇沙矇化，乍龍勇鬆沙。沙拉龍奶也！[^1] | Okay. (with the subtext of "why don't you understand me?") |
+| 陳沙奶龍沙奶。陳奶，龍沙沙陳沙沙，龍陳龍奶奶。龍沙沙陳龍，陳龍沙奶。奶沙沙，龍奶奶。[^2061] | It's better if you go first. |
+| 罷窿沙！罷窿沙沙窿罷，罷窿沙矇沙矇沙矇化，乍龍勇鬆沙。沙拉龍奶也！[^2061] | Okay. (with the subtext of "why don't you understand me?") |
 | 奶奶陳！ | Let's go! / I did it! |
 | 奶沙龍陳！ | Okay! / Welcome! / Greetings! / (any other exclamation) |
-| 奶陳龍陳，龍沙奶陳，龍沙奶奶陳 | (said in a furry convention) |
+| 龍陳奶奶，奶陳龍龍龍沙奶。[^2132] | Take a look. |
+| 奶沙奶，龍沙奶，陳沙龍奶奶。[^2132] | (unknown) |
+| 龍沙奶。[^2132] | (unknown) |
+| 龍沙陳奶。[^2132]| (unknown) |
+| 龍奶。[^2132] | (unknown) |
+| 奶陳龍陳，龍沙奶陳，龍沙奶奶陳。[^2132] | (said in a furry convention) |
 | 奶陳龍奶陳！ | I absolutely support you! / Good night! |
 | 鬥奶。 | Thank you. |
 | 陳窿窿鬥奶奶。 | Thank you. (more formal) |
-| 奶奶龍奶奶陳，奶奶龍陳龍奶陳。 | Have a good day. |
-| 洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶。 | For this project, you are not the most desirable candidate; I am looking for someone who understands the culture in Ng Wong Tat. I apologise for the inconvenience, but we will cooperate next time. |
-| 陳陳陳，侵侵侵，陳陳侵侵陳陳侵。 | You can speak Ng Wong Tat. Seeing your sincerity, I would like to meet you in person. |
-| 奶陳龍龍沙拉拉，奶沙鬥鬥嗌洞洞。 | The teacher's virtue is his honesty; he does not lie to deceive others. |
-| 奶陳龍龍洞拿窿，奶沙陳陳奶拉拉。 | The teacher's virtue is his generosity; he does not speak ill of anyone. |
-| 奶陳龍龍沙拉窿拉，窿拉，陳！ | The teacher's virtue is his humour; he never told an unfunny joke. Yes! |
-| 龍沙陳陳沙龍陳。 | I really appreciate you two. |
-| 陳陳陳奶龍陳。 | Please commence inappropriate activities with me. / (humorous, but highly honorific) Good night. |
-| 陳龍沙，奶沙陳。 | I hope we can cooperate amicably. |
-| 奶沙陳，龍龍陳。 | It's getting late, I need to go home and rest. |
-| 奶奶沙。 | I never thought you would say something like that. |
-| 沙沙奶。 | Seeing how proactive you are, I will give you a chance. |
+| 奶奶龍奶奶陳，奶奶龍陳龍奶陳。[^2528] | Have a good day. |
+| 洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶。[^2528] | For this project, you are not the most desirable candidate; I am looking for someone who understands the culture in Ng Wong Tat. I apologise for the inconvenience, but we will cooperate next time. |
+| 陳陳陳，侵侵侵，陳陳侵侵陳陳侵。[^2528] | You can speak Ng Wong Tat. Seeing your sincerity, I would like to meet you in person. |
+| 奶陳龍龍沙拉拉，奶沙鬥鬥嗌洞洞。[^2528] | The teacher's virtue is his honesty; he does not lie to deceive others. |
+| 奶陳龍龍洞拿窿，奶沙陳陳奶拉拉。[^2528] | The teacher's virtue is his generosity; he does not speak ill of anyone. |
+| 奶陳龍龍沙拉窿拉，窿拉，陳！ [^2528]| The teacher's virtue is his humour; he never told an unfunny joke. Yes! |
+| 龍沙陳陳沙龍陳。[^2528] | I really appreciate you two. |
+| 陳陳陳奶龍陳。[^2528] | Please commence inappropriate activities with me tonight. / (humorous, but highly honorific) Good night. |
+| 陳龍沙，奶沙陳。[^2528] | I hope we can cooperate amicably. |
+| 奶沙陳，龍龍陳。[^2528] | It's getting late, I need to go home and rest. |
+| 奶奶沙。[^2528] | I never thought you would say something like that. |
+| 沙沙奶。[^2528] | Seeing how proactive you are, I will give you a chance. |
 | 陳沙窿沙奶，奶沙陳陳。 | (unknown) |
-| 奶沙龍陳，沙龍陳。 | (answering the phone) |
-| 奶沙龍陳陳，沙龍陳。奶沙龍陳陳，沙龍陳陳陳。 | What would you like to order? |
-| 沙龍陳？ | Pardon? / Are you sure? |
-| 龍龍陳。 | I would like this. |
-| 陳陳沙龍陳。 | Please switch to another seat. |
-| 龍龍沙陳。 | I'll go ahead. |
-| 奶沙龍龍陳陳陳？ | Where is the bathroom? |
-| 龍沙沙陳奶奶奶。 | I would like a few more sheets of toilet paper. |
+| 奶沙龍陳，沙龍陳。[^2862] | (answering the phone) |
+| 奶沙龍陳陳，沙龍陳。奶沙龍陳陳，沙龍陳陳陳。[^2862] | What would you like to order? |
+| 沙龍陳？[^2862] | Pardon? / Are you sure? |
+| 龍龍陳。[^2862] | I would like this. |
+| 陳陳沙龍陳。[^2862] | Please switch to another seat. |
+| 龍龍沙陳。[^2862] | I'll go ahead. |
+| 奶沙龍龍陳陳陳？[^2862] | Where is the bathroom? |
+| 龍沙沙陳奶奶奶。[^2862] | I would like a few more sheets of toilet paper. |
 
 ## Wolf Script
 
@@ -129,4 +134,7 @@ The Qingwa Wangzi Islands Language [unofficial name] is spoken on the [Qingwa Wa
 
 ---
 
-[^1]: <https://youtu.be/2cmKiv6FPnk>
+[^2061]: Episode 2061, <https://youtu.be/zbDCKnPNfF4>
+[^2132]: Episode 2132, *(segment not on YouTube)*
+[^2528]: Episode 2528, <https://youtu.be/y0RunipWsgA>
+[^2862]: Episode 2862, <https://youtu.be/tgP-TImdzkI>
