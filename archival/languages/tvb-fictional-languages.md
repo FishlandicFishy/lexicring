@@ -24,14 +24,14 @@ The characters in order are:
 | --- | --- | --- | --- |
 | 1 | 奶 | lai | Nai |
 | 2 | 沙 | sa | Sa |
-| 3 | 龍 | nəŋ | Long |
+| 3 | 龍 | nʊŋ | Long |
 | 4 | 陳 | tsən | Chan |
 | 5 | 拿 | na | Na? |
 | 6 | 拉 | lai | Lai |
-| 7 | 洞 | dəŋ | Dong? |
+| 7 | 洞 | dʊŋ | Dong? |
 | 8 | 嗌 | ai | I |
-| 9 | 窿 | ləŋ | Lone |
-| 10 | 鬥 | daʊ | Dau |
+| 9 | 窿 | lʊŋ | Lone |
+| 10 | 鬥 | dəʊ | Dau |
 
 Characters without numbering are:
 
