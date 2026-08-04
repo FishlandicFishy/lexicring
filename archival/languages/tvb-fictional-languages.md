@@ -12,7 +12,7 @@ A sample quote transliterated roughly can be found below:
 
 ## Ng Wong Tat Language
 
-The Ng Wong Tat language (Chinese: 吳旺達語) is spoken in a fictional country, [Ng Wong Tat](/wiki/tvb_fictional_countries.md), presumably in East Asia, probably near Indonesia. It is taken from [this TVB episode excerpt](https://youtu.be/2cmKiv6FPnk).
+The Ng Wong Tat language (Chinese: 吳旺達語) is spoken in a fictional country, [Ng Wong Tat](/wiki/tvb_fictional_countries.md), presumably in East Asia, probably near Indonesia.
 
 ### Orthography
 
@@ -37,20 +37,21 @@ Characters without numbering are:
 
 | Character | IPA | Notes |
 | --- | --- | --- |
-| 罷 | ba | Not officially defined. Only known use case is "罷龍沙" and its inversion "沙龍罷". |
-| 木 | mu | Not officially defined. Only known use case is "木沙", possibly used for emphasis. |
-| 依 | i | Not officially defined. Only known use case is "依也", possibly an exclamation. |
-| 也 | ja | Not officially defined. Only known use case is "依也", possibly an exclamation. |
-| 油 | joʊ | Not officially defined. Only known use case is "油搬沙". |
-| 搬 | bun | Not officially defined. Only known use case is "油搬沙". |
+| 罷 | ba | Not officially defined. Only known use case is "罷窿沙" and its inversion "沙窿罷". |
+| 矇 | məŋ | Not officially defined. Only known use case is "矇沙", possibly used for emphasis. |
+| 化 | fa | Not officially defined. Only known use case is "矇化", possibly used for emphasis. |
+| 也 | ja | Not officially defined. Only known use case is "沙拉龍奶也", possibly an exclamation. |
+| 乍 | za | Not officially defined. Only known use case is "乍龍勇鬆沙". |
+| 勇 | jəŋ | Not officially defined. Only known use case is "乍龍勇鬆沙". |
+| 鬆 | səŋ | Not officially defined. Only known use case is "乍龍勇鬆沙". |
 | 人 | jən | Used only in "洞人" ("the huzz"). |
 | 乸 | na | Used only in "洞乸" ("the bruzz"). |
 | 多 | dɔ | Used only in "多巫" ("warrior"). |
 | 巫 | moʊ | Used only in "多巫" ("warrior"). |
 | 瀨 | lai | Used only in "瀨瀨棟" ("beef"). |
 | 棟 | dəŋ | Used only in "瀨瀨棟" ("beef"). |
-| 嬲 | ləʊ | Only known use case is "洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶" ("For this project, you are not the most desirable candidate; I am looking for someone who understands the culture in Ng Wong Tat. I apologise for the inconvenience, but we will cooperate next time."). |
-| 侵 | tsəm | Only known use case is "陳陳陳，侵侵侵，陳陳侵侵陳陳侵" ("You can speak Ng Wong Tat. Seeing your sincerity, I would like to meet you in person."). |
+| 嬲 | ləʊ | Only known use case is "洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶". |
+| 侵 | tsəm | Only known use case is "陳陳陳，侵侵侵，陳陳侵侵陳陳侵". |
 
 There are also alternate CJK forms for some of the characters. They are, from left to right, 奶/Nai 沙/Sa 龍/Long 陳/Chan 拿/Na 拉/Lai.
 
@@ -70,14 +71,14 @@ There are also alternate CJK forms for some of the characters. They are, from le
 
 | Quote | Meaning |
 | --- | --- |
-| 陳沙奶龍沙奶，陳奶，龍沙奶陳沙沙、龍陳龍奶奶，沙沙陳，陳龍沙奶，龍沙沙，龍奶奶 | It's better if you go first. |
-| 罷龍沙！罷龍沙沙龍罷，罷龍沙木沙木沙木沙，罷龍沙油搬沙，沙拉龍沙依也！ | Okay. (with the subtext of "why don't you understand me?") |
+| 陳沙奶龍沙奶。陳奶，龍沙沙陳沙沙，龍陳龍奶奶。龍沙沙陳龍，陳龍沙奶。奶沙沙，龍奶奶。[^1] | It's better if you go first. |
+| 罷窿沙！罷窿沙沙窿罷，罷窿沙矇沙矇沙矇化，乍龍勇鬆沙。沙拉龍奶也！[^1] | Okay. (with the subtext of "why don't you understand me?") |
 | 奶奶陳！ | Let's go! / I did it! |
 | 奶沙龍陳！ | Okay! / Welcome! / Greetings! / (any other exclamation) |
 | 奶陳龍陳，龍沙奶陳，龍沙奶奶陳 | (said in a furry convention) |
 | 奶陳龍奶陳！ | I absolutely support you! / Good night! |
 | 鬥奶。 | Thank you. |
-| 陳窿窿鬥奶奶。 | Thank you. |
+| 陳窿窿鬥奶奶。 | Thank you. (more formal) |
 | 奶奶龍奶奶陳，奶奶龍陳龍奶陳。 | Have a good day. |
 | 洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶。 | For this project, you are not the most desirable candidate; I am looking for someone who understands the culture in Ng Wong Tat. I apologise for the inconvenience, but we will cooperate next time. |
 | 陳陳陳，侵侵侵，陳陳侵侵陳陳侵。 | You can speak Ng Wong Tat. Seeing your sincerity, I would like to meet you in person. |
@@ -126,5 +127,6 @@ The Qingwa Wangzi Islands Language [unofficial name] is spoken on the [Qingwa Wa
 | so ba, la la ha o, wa ha ha. | (request for contact information.) |
 | za za. | (affirmative.) |
 
-## Notes
-[^1]: Characters for mu (木), i (依), ja (也), jou (油), bun (搬), and ba (罷) are not officially defined.
+---
+
+[^1]: <https://youtu.be/2cmKiv6FPnk>
