@@ -38,18 +38,18 @@ Characters without numbering are:
 | Character | IPA | Notes |
 | --- | --- | --- |
 | 罷 | ba | Not officially defined. Only known use case is "罷窿沙" and its inversion "沙窿罷". |
-| 矇 | məŋ | Not officially defined. Only known use case is "矇沙", possibly used for emphasis. |
+| 矇 | mʊŋ | Not officially defined. Only known use case is "矇沙", possibly used for emphasis. |
 | 化 | fa | Not officially defined. Only known use case is "矇化", possibly used for emphasis. |
 | 也 | ja | Not officially defined. Only known use case is "沙拉龍奶也", possibly an exclamation. |
 | 乍 | za | Not officially defined. Only known use case is "乍龍勇鬆沙". |
-| 勇 | jəŋ | Not officially defined. Only known use case is "乍龍勇鬆沙". |
-| 鬆 | səŋ | Not officially defined. Only known use case is "乍龍勇鬆沙". |
+| 勇 | jʊŋ | Not officially defined. Only known use case is "乍龍勇鬆沙". |
+| 鬆 | sʊŋ | Not officially defined. Only known use case is "乍龍勇鬆沙". |
 | 人 | jən | Used only in "洞人" ("the huzz"). |
 | 乸 | na | Used only in "洞乸" ("the bruzz"). |
 | 多 | dɔ | Used only in "多巫" ("warrior"). |
 | 巫 | moʊ | Used only in "多巫" ("warrior"). |
 | 瀨 | lai | Used only in "瀨瀨棟" ("beef"). |
-| 棟 | dəŋ | Used only in "瀨瀨棟" ("beef"). |
+| 棟 | dʊŋ | Used only in "瀨瀨棟" ("beef"). |
 | 嬲 | ləʊ | Only known use case is "洞洞嬲，洞洞奶，洞洞嬲嬲洞洞奶". |
 | 侵 | tsəm | Only known use case is "陳陳陳，侵侵侵，陳陳侵侵陳陳侵". |
 
