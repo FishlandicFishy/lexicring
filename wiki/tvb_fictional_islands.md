@@ -1,4 +1,4 @@
-<img width="565" height="348" alt="image" src="https://github.com/user-attachments/assets/55baeffc-d2c0-41ca-b8fb-4197377295e6" /># TVB Fictional Islands
+# TVB Fictional Islands
 ## Were you looking for [TVB Fictional Countries](/wiki/tvb_fictional_countries)?
 
 ## 橙不忍島 (Island de Orange)
