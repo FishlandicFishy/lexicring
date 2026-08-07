@@ -20,11 +20,9 @@ Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F
 
 Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
-Ng Wong Tat (Chinese: 吳旺達) is presumably a country in East Asia. It *might* be an island and is probably located near Indonesia. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
+Ng Wong Tat (Chinese: 吳旺達) is an island-state in the South Pacific Ocean, adjacent to [Yu Ji Wu Island](/wiki/tvb_fictional_islands.md#榆計梧島-yu-ji-wu-island)[^1556]. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese, occasionally using Arabic in some written contexts[^2642][^2860]. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
-Ng Wong Tat uses the Arabic script in some occasions.[^2642][^2860]
-
-In the forest area, the most advanced way of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people who can write calligraphy.[^2095] It also has an unstable s**tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless.<!-- This phenomenon had been widely likened to the eruption of a volcano and its aftermath cooling down.-->[^2242]
+In the forest area, the most advanced method of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people practicing calligraphy.[^2095] It also has an unstable s\*\*tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless.[^2242]
 
 <!-- Cannot be verified | People there are stronger than usual. -->
 
@@ -32,7 +30,7 @@ In the forest area, the most advanced way of transportation is a wood raft, whic
 
 Ng Wong Tat is divided into two main regions: the forest area and the non-forest area.
 
-The forest is inhabited by dark green/black lizards with CGI glowing red dots, labelled as [Komodo dragons](https://en.m.wikipedia.org/wiki/Komodo_dragon) (probably mislabelled, but I can't be sure), which supposedly eats cockroaches[^2095], although "conveniently" they left out the close-up shot of them in both of their YouTube videos.[^2084]
+The forest is inhabited by dark green/black lizards with CGI glowing red dots, labelled as [Komodo dragons](https://en.m.wikipedia.org/wiki/Komodo_dragon), which supposedly eats cockroaches[^2095].
 
 The highest mountain in Ng Wong Tat is called "小巫山" (Xiao Wu Shan), which is adjacent to "大巫山" (Da Wu Shan). The gap between the two mountains is approximately 4 metres, and both sides are steep cliffs.[^1543]
 
@@ -46,13 +44,28 @@ The culture in Ng Wong Tat includes using *aimbot* in real life (by shooting arr
 
 The work culture is also flawed, with everything striving to be as slow as possible. [^1574]
 
-There is a furry community in Ng Wong Tat, where a person in a bear fursuit had once visited a restaurant after a typo in a contract which is supposed to invite a Komodo dragon instead.[^2132]
+There is a furry community in Ng Wong Tat, where a person in a bear ("Komodo bear") fursuit once visited a restaurant following a typo in a contract intended to invite a Komodo dragon.[^2132]
+
+Those who carry a Komodo dragon may "do whatever they want".[^2862]
+
+Annually, a month is designated as a "fasting month"; when the bell rings, locals are expected to kneel facing south of Shanwei (汕尾) for a while. Tourists need not participate in this ritual.[^2864]
+
+#### Relationships
+
+![Divorce](https://github.com/user-attachments/assets/07299662-84ba-4de2-870c-e751ad3f8e01)
+
+A "divorce lipstick"
+
+Local marriages are mostly brief, consisting only of bowing and kissing each other. However, if one of the parties are not from Ng Wong Tat, the marriage would then follow their culture before the ceremony ends.
+
+A special lipstick with pigment supposedly extracted from "Komodo dragon droppings" is used by grooms, which can be detected by UV light.[^2856] This lipstick cannot be removed[^2856] until a "Divorce Lipstick" intended to remove this pigment is applied[^2864].
 
 #### 多巫
 
-There is also a ritual named the "多巫", where one would climb Xiao Wu Shan and jump over to Da Wu Shan in order to be promoted to a higher position, which only has a 30% chance of succeeding. If one fails, they will be caught by one of three platforms attached to Xiao Wu Shan, the higher platform causes the person to lose a leg, the middle platform saves the person's life, and the lower platform guarantees death. After succeeding, someone will dance around the person while holding a spear.[^1543]
+"多巫" (meaning "warrior" in the Ng Wong Tat language) is a ritual where one would climb Xiao Wu Shan and jump over to Da Wu Shan in order to be promoted to a higher position. The ritual only has a 30% chance of succeeding. If one fails, they will be caught by one of three platforms attached to Xiao Wu Shan, the higher platform causes the person to lose a leg, the middle platform saves the person's life, and the lower platform guarantees death. After succeeding, someone will dance around the person while holding a spear.[^1543]
 
-### Politics
+### Economy
+
 ![A card from the Hong Kong-based bank](https://github.com/user-attachments/assets/3c8e368c-7795-4829-9c5d-867328e2c095)
 
 A card from a Ng Wong Tat bank ("信用黑卡").
@@ -61,19 +74,29 @@ A card from a Ng Wong Tat bank ("信用黑卡").
 
 A box from a Ng Wong Tat bank.
 
-Ng Wong Tat maintains a consulate-general[^2084] and a Hong Kong-based bank[^2642].
+Ng Wong Tat maintains a Hong Kong-based bank which distributes credit cards; notably, its packaging uses incorrectly rendered Arabic text.[^2642]
 
-Being struck by an arrow constitutes a legally binding engagement.[^2095]
+### Politics
+
+![Emblem of the Department of Prison](https://github.com/user-attachments/assets/3f912a72-25d2-46c4-97d9-3e05d9bcc602)
+
+Ng Wong Tat maintains a consulate-general.[^2084]
+
+Ng Wong Tat has a Department of Prison.[^2864]
 
 If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
-
-Ng Wong Tat publicly promotes marriage.[^2856]
 
 Due to tourism regulations, importing sleepwear is prohibited. Travelers carrying nightwear must file a daily "AC9527 form" to declare status. Customs officials reserve the right to cut footwear in half to check for contraband.[^1543]
 
 A civil right chosen via a random lottery draw is stripped during imprisonment. Such rights include voting rights, "sleep-deprivation rights", "holiday rights", "dancing rights", and marriage rights.[^2856]
 
-<!--(Episode I forgot) Ng Wong Tat also has a translation officer who can speak Cantonese, Min Nan, Hakka, among other languages.-->
+Those who intend to become a high-ranking official must undergo an assessment; as per the "Ng Wong Tat Adventure Regulations" (吳旺達歷奇條例), examiners "have the right to adjust the difficulty level according to the candidate's physical fitness" (at the discretion of the examiner). This has notably been abused by at least one examiner.[^2864]
+
+#### Politics regarding relationships
+
+Being struck by an arrow constitutes a legally binding engagement.[^2095]
+
+Ng Wong Tat is known to promote marriage.[^2856]
 
 #### Significance of Komodo dragons
 
@@ -253,6 +276,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^513]: Episode 513, <https://youtu.be/eyj6SJ_NZPI>
 [^1059]: Episode 1059, <https://youtu.be/Ru4jGPQO5MI>
 [^1543]: Episode 1543, <https://youtu.be/nTz-xp42xOo>
+[^1556]: Episode 1556, <https://youtu.be/wVlo-ccW1zQ>
 [^1567]: Episode 1567, <https://youtu.be/0IxvsUvuIKw>
 [^1574]: Episode 1574, <https://youtu.be/40B0vdrFeV8>
 [^2061]: Episode 2061, <https://youtu.be/zbDCKnPNfF4>
@@ -276,6 +300,8 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
 [^2860]: Episode 2860, <https://youtu.be/hFQlszBO_gk>
+[^2862]: Episode 2862, <https://youtu.be/tgP-TImdzkI>
+[^2864]: Episode 2864, <https://youtu.be/fdgGIY_G2gY>
 [^anonsignal]: <https://zh.wikipedia.org/zh-hk/%E5%A5%AA%E5%91%BD%E6%8F%90%E7%A4%BA> (奪命提示)
 [^ytqa2]:   Episode 1, <https://youtu.be/OmouIiAJVrg> (逆天奇案2)
 [^1]: This is part of the official lore, I do not intend to offend anyone.
