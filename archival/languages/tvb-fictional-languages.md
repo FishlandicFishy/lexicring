@@ -76,7 +76,7 @@ There are also alternate CJK forms for some of the characters. They are, from le
 | 陳沙奶龍沙奶。陳奶，龍沙沙陳沙沙，龍陳龍奶奶。龍沙沙陳龍，陳龍沙奶。奶沙沙，龍奶奶。[^2061] | It's better if you go first. |
 | 罷窿沙！罷窿沙沙窿罷，罷窿沙矇沙矇沙矇化，乍龍勇鬆沙。沙拉龍奶也！[^2061] | Okay. (with the subtext of "why don't you understand me?") |
 | 奶奶陳！ | Let's go! / I did it! |
-| 奶沙龍陳！ | Okay! / Welcome! / Greetings! / You are a… (followed by noun) / (any other exclamation) |
+| 奶沙龍陳！ | Okay! / Welcome! / Greetings! / Oh, you… (followed by noun) / (any other exclamation) |
 | 龍陳奶奶，奶陳龍龍龍沙奶。[^2132] | Take a look. |
 | 奶沙奶，龍沙奶，陳沙龍奶奶。[^2132] | (unknown) |
 | 龍沙奶。[^2132] | (unknown) |
