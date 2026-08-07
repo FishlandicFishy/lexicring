@@ -12,7 +12,7 @@ A sample quote transliterated roughly can be found below:
 
 ## Ng Wong Tat Language
 
-The Ng Wong Tat language (Chinese: 吳旺達語) is spoken in a fictional country, [Ng Wong Tat](/wiki/tvb_fictional_countries.md), presumably in East Asia, probably near Indonesia.
+The Ng Wong Tat language (Chinese: 吳旺達語) is spoken in a fictional island-state, [Ng Wong Tat](/wiki/tvb_fictional_countries.md).
 
 ### Orthography
 
