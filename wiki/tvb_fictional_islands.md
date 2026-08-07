@@ -1,4 +1,4 @@
-# TVB Fictional Islands
+<img width="565" height="348" alt="image" src="https://github.com/user-attachments/assets/55baeffc-d2c0-41ca-b8fb-4197377295e6" /># TVB Fictional Islands
 ## Were you looking for [TVB Fictional Countries](/wiki/tvb_fictional_countries)?
 
 ## 橙不忍島 (Island de Orange)
@@ -99,6 +99,11 @@ Not much is known about the Shan La Ga Islands except that it is very remote and
 
 [^2209]
 The Ji Wo Islands (Chinese: 姬臥群島) are fictional islands near Ng Wong Tat. It has only one airport. It adopts a totalitarian regime which strictly prohibits any form of joking. It has at least one active volcano, which had caused a famine in the island.
+
+## 基臥群島 (Ji Wo Islands)
+[^2170]
+
+Not much is known about the Ji Wo Islands. It might be an alternate name for 姬臥群島 (the Ji Wo Islands).
 
 ## 穹困老島 (Qiong Kun Lao Island)
 
@@ -488,6 +493,51 @@ A view of the islands.
 
 Not much is known about the Di Xiao Fei Islands, except that it is a less-developed region and that its products and services are noticeably cheap.
 
+## 比里執島 (Bi Li Zhi Island)
+[^0221]
+
+Not much is known about Bi Li Zhi Island.
+
+## 莊里梧島 (Zhuang Li Wu Island)
+[^0952]
+
+Not much is known about Zhuang Li Wu Island, other than the fact that it is near Mexico and that there are only two police officers on the island, with one of them about to resign.
+
+## 巫三著群島 (Wu San Zhe Islands)
+[^2170]
+
+Not much is known about the Wu San Zhe Islands, other than the fact that its population experiences poverty with no clothes to wear.
+
+## 榆計梧島 (Yu Ji Wu Island)
+[^1556]
+
+Yu Ji Wu Island is an island located in the south Pacific Ocean, adjacent to Ng Wong Tat. Its population and area are similar to that of Ng Wong Tat, as well as its economic development and GDP.
+
+The island reportedly sank due to collisions between the Pacific Plate and the Eurasian Plate.
+
+## 菲梧島 (Fei Wu Island)
+[^1866]
+
+![Location on a map](https://github.com/user-attachments/assets/33b244da-e177-44f7-b644-4ee93c19c3db)
+
+Location of Fei Wu Island on a map.
+
+Not much is known about Fei Wu Island other than the fact that it has a time zone of UTC-1000, despite its location suggesting it should be in UTC-0300.
+
+## 況閃羣島 (Kuang Shan Islands)
+[^1866]
+
+![Location on a map](https://github.com/user-attachments/assets/1818d240-fa32-4913-88da-885ebeac8f3a)
+
+Location of the Kuang Shan Islands on a map.
+
+Not much is known about the Kuang Shan Islands other than the fact that it is located in the Pacific Ocean and that it has a time zone of UTC+14:00.
+
+## 出景梧島 (Chu Jing Wu Island)
+[^0980]
+
+Not much is known about Chu Jing Wu Island.
+
 ## 心心灣 (Xin Xin Wan)
 [^2859]
 
@@ -505,16 +555,21 @@ Explicitly NOT an island that appeared in the show.
 ## References
 
 [^1]: <https://zh.wikiversity.org/zh-hk/%E6%84%9B%C2%B7%E5%9B%9E%E5%AE%B6%E4%B9%8B%E9%96%8B%E5%BF%83%E9%80%9F%E9%81%9E%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8>
+[^0221]:  Episode 221, *(segment not on YouTube)*
 [^0323]:  Episode 323, <https://youtu.be/lvhvCThgemM>
 [^0430]:  Episode 430, <https://youtu.be/N89qp3GFmj8>
 [^0446]:  Episode 446, <https://youtu.be/GzUFniC4-k4>
 [^0706]:  Episode 706, <https://youtu.be/a3awQbSIWA4>
 [^0913]:  Episode 913, <https://youtu.be/Y-6VUjOdj7U>
 [^0949]:  Episode 949, <https://youtu.be/yoTXTOhakGA>
+[^0952]:  Episode 952, <https://youtu.be/tWucq_Fjxxw>
+[^0980]:  Episode 980, *(segment not on YouTube)*
 [^1023]: Episode 1023, <https://youtu.be/7s0d2FlydZ8>
+[^1556]: Episode 1556, <https://youtu.be/wVlo-ccW1zQ>
 [^1646]: Episode 1646, <https://youtu.be/tAE7BQ5ZJsA>
 [^1763]: Episode 1763, <https://youtu.be/1RPEbG5no_E>
 [^1818]: Episode 1818, <https://youtu.be/lVxumjPOTyA>
+[^1866]: Episode 1866, <https://youtu.be/5XdJ7ugNWfg>
 [^1877]: Episode 1877, <https://youtu.be/QjROw50wUfw>
 [^1988]: Episode 1988, <https://youtu.be/k8OSQ6rt9Fs>
 [^1995]: Episode 1995, <https://youtu.be/oFDE6eGzw2g>
@@ -526,6 +581,7 @@ Explicitly NOT an island that appeared in the show.
 [^2116]: Episode 2116, <https://youtu.be/3XboZvdk_NQ>
 [^2117]: Episode 2117, <https://youtu.be/UCZBiDDCEdI>
 [^2145]: Episode 2145, <https://youtu.be/YLHiH7BzWZ4>
+[^2170]: Episode 2170, <https://youtu.be/x06kXB8Vw_0>
 [^2294]: Episode 2294, <https://youtu.be/DCn0zqXoUSE>
 [^2209]: Episode 2209, <https://youtu.be/zsBfpkD1Xas>
 [^2310]: Episode 2310, <https://youtu.be/hSW1Vz-DE6g>
