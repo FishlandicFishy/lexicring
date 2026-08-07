@@ -68,6 +68,7 @@ There are also alternate CJK forms for some of the characters. They are, from le
 | 洞乸 | the bruzz |
 | 洞奶 | turtle |
 | 拿窿 | above / upwards |
+| 陳奶 | reject |
 
 | Quote | Meaning |
 | --- | --- |
