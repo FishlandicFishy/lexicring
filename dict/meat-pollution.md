@@ -3,4 +3,4 @@
 
 [n] the state of cooking too much meat[^1]
 
-[^1]: <youtu.be/pjILMorfT_M>
+[^1]: <https://youtu.be/pjILMorfT_M>
