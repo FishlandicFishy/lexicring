@@ -132,6 +132,19 @@ Views of the island[^1818]
 
 Not much is known about Tao Jiu Wu Island, but it is hard to escape.[^2079] Ferries arrive once every ten years.[^1818] The actual area is near [Shelter Island](https://en.wikipedia.org/wiki/Shelter_Island_(Hong_Kong)).
 
+## 酒梧島 (Jiu Wu Island)
+[^0748]
+
+![Jiu Wu Island](https://github.com/user-attachments/assets/43d6bb2a-7731-4313-b6af-131460c86b1c)
+
+Jiu Wu Island is the "southernmost island of Hong Kong" in the show. There is only one ferry per week.
+
+(Note that [Po Toi](https://en.wikipedia.org/wiki/Po_Toi) is the actual southernmost island of Hong Kong.)
+
+### Geography
+
+One of the species present on the island is the domestic goat.
+
 ## 火山群島 (Huo Shan Islands)
 ![Imperial Palace of the Huo Shan Islands](https://github.com/user-attachments/assets/d3fdeec0-2784-4c3d-93d1-0c04442b47a7)
 
@@ -565,6 +578,7 @@ Explicitly NOT an island that appeared in the show.
 [^0430]:  Episode 430, <https://youtu.be/N89qp3GFmj8>
 [^0446]:  Episode 446, <https://youtu.be/GzUFniC4-k4>
 [^0706]:  Episode 706, <https://youtu.be/a3awQbSIWA4>
+[^0748]:  Episode 748, *(segment not on YouTube)*
 [^0913]:  Episode 913, <https://youtu.be/Y-6VUjOdj7U>
 [^0949]:  Episode 949, <https://youtu.be/yoTXTOhakGA>
 [^0952]:  Episode 952, <https://youtu.be/tWucq_Fjxxw>
