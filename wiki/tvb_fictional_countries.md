@@ -20,11 +20,9 @@ Probably not the coat of arms of Ng Wong Tat sourced from https://youtu.be/wrT6F
 
 Komodo stamp sourced from https://youtu.be/lJaOhO8JYy0.
 
-Ng Wong Tat (Chinese: 吳旺達) is an island-state in the South Pacific Ocean, adjacent to [Yu Ji Wu Island](/wiki/tvb_fictional_islands.md#榆計梧島-yu-ji-wu-island)[^1556]. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese, occasionally using Arabic in some written contexts[^2642][^2860]. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
+Ng Wong Tat (Chinese: 吳旺達; also 吳國[^57]) is an island-state in the South Pacific Ocean, adjacent to [Yu Ji Wu Island](/wiki/tvb_fictional_islands.md#榆計梧島-yu-ji-wu-island)[^1556]. It speaks [the Ng Wong Tat Language](/archival/languages/tvb-fictional-languages.md#ng-wong-tat-language) and Cantonese, occasionally using Arabic in some written contexts[^2642][^2860]. There is at least one hotel and at least one restaurant[^1543]. The life expectancy is about 35 years old.[^2095]
 
 In the forest area, the most advanced method of transportation is a wood raft, which tends to detach easily when the rope securing them is gone.[^2084] It is also highly illiterate with very few people practicing calligraphy.[^2095] It also has an unstable s\*\*tcoin named the "吳旺達幣" which has increased in price for a while but then became worthless.[^2242]
-
-<!-- Cannot be verified | People there are stronger than usual. -->
 
 ### Geography
 
@@ -80,9 +78,9 @@ Ng Wong Tat maintains a Hong Kong-based bank which distributes credit cards; not
 
 ![Emblem of the Department of Prison](https://github.com/user-attachments/assets/3f912a72-25d2-46c4-97d9-3e05d9bcc602)
 
-Ng Wong Tat maintains a consulate-general.[^2084]
+Ng Wong Tat maintains a consulate-general in Hong Kong.[^57][^2084]
 
-Ng Wong Tat has a Department of Prison.[^2864]
+Ng Wong Tat has a Department of Prison[^2864] as well as a Ministry of Agriculture[^2496].
 
 If the president is involved in a life-threatening incident, until the president is proven to be safe, the officer with the highest rank will become the temporary president.[^2150]
 
@@ -91,6 +89,8 @@ Due to tourism regulations, importing sleepwear is prohibited. Travelers carryin
 A civil right chosen via a random lottery draw is stripped during imprisonment. Such rights include voting rights, "sleep-deprivation rights", "holiday rights", "dancing rights", and marriage rights.[^2856]
 
 Those who intend to become a high-ranking official must undergo an assessment; as per the "Ng Wong Tat Adventure Regulations" (吳旺達歷奇條例), examiners "have the right to adjust the difficulty level according to the candidate's physical fitness" (at the discretion of the examiner). This has notably been abused by at least one examiner.[^2864]
+
+In 2005, an incident occurred at one of its villages, 愛滋村, where an HIV outbreak occurred; the Ng Wong Tat government does not allow discourse regarding this issue.[^57]
 
 #### Politics regarding relationships
 
@@ -273,7 +273,8 @@ They have engaged in diplomacy with Ha Duo Er.
 
 ## References
 
-[^513]: Episode 513, <https://youtu.be/eyj6SJ_NZPI>
+[^57]:   Episode 57 *(segment not on YouTube)*
+[^513]:  Episode 513, <https://youtu.be/eyj6SJ_NZPI>
 [^1059]: Episode 1059, <https://youtu.be/Ru4jGPQO5MI>
 [^1543]: Episode 1543, <https://youtu.be/nTz-xp42xOo>
 [^1556]: Episode 1556, <https://youtu.be/wVlo-ccW1zQ>
@@ -292,6 +293,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2396]: Episode 2396, <https://youtu.be/ID5Vm8lp7zI>
 [^2433]: Episode 2433, <https://youtu.be/CeBFa7e3WgI>
 [^2495]: Episode 2495, <https://youtu.be/GoVz8Jd-xjE>
+[^2496]: Episode 2496, <https://youtu.be/xPYv5Vf9W2s>
 [^2515]: Episode 2515, <https://youtu.be/abz5DQ2MpVk>
 [^2604]: Episode 2604, <https://youtu.be/7eIa9CwFxRM>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
