@@ -107,8 +107,10 @@ There are also alternate CJK forms for some of the characters. They are, from le
 | 龍龍沙陳。[^2862] | I'll go ahead. |
 | 奶沙龍龍陳陳陳？[^2862] | Where is the bathroom? |
 | 龍沙沙陳奶奶奶。[^2862] | I would like a few more sheets of toilet paper. |
-| 奶沙龍陳龍陳 | (insult towards ancestors of 18 generations) |
-| 奶沙 | (general insult) |
+| 奶沙龍陳龍陳。 | (insult towards ancestors of 18 generations) |
+| 奶沙。 | (general insult) |
+| 奶陳。[^2150] | (unknown) |
+| 奶沙沙。[^2150] | unknown) |
 
 ## Wolf Script
 
@@ -140,5 +142,6 @@ The Qingwa Wangzi Islands Language [unofficial name] is spoken on the [Qingwa Wa
 
 [^2061]: Episode 2061, <https://youtu.be/zbDCKnPNfF4>
 [^2132]: Episode 2132, *(segment not on YouTube)*
+[^2150]: Episode 2150, <https://youtu.be/lJaOhO8JYy0>
 [^2528]: Episode 2528, <https://youtu.be/y0RunipWsgA>
 [^2862]: Episode 2862, <https://youtu.be/tgP-TImdzkI>
