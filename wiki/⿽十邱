@@ -1,0 +1,9 @@
+# ⿽十邱
+
+**⿽十邱** is a binary operator that evaluates the sum of lengths of English names of each number.
+
+For example, 1 ⿽十邱 1 = 6 since "one" is three letters long.
+
+The operator ⿽十邱 is notably used in ["Black Magic"](https://zh.wikipedia.org/zh-hk/%E9%BB%91%E8%89%B2%E9%AD%94%E8%A1%93)[^1] games as a means to sow confusion.
+
+[^1]: A genre of games with "hidden rules". 
