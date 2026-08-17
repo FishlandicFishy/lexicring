@@ -17,7 +17,7 @@ Here's a list of these fursonas:
 * 19/11/2024 TVB celebration, The Return of the White Cat Fursona(TM)[^3]
   * It is revealed that this fursona is a result of the protagonist's schizophrenia during a drama
 * 12/1/2025 police infomercial, wolf fursona[^4]
-  * Yields a really big hammer to Unalive (TM) those who insult him, but vulnerable to being disconnected from reality when touched by a police officer, forgotten by the universe as he suffers in a room devoid of spacetime while said police officer "logs out"
+  * Wields a really big hammer to Unalive (TM) those who insult him, but vulnerable to being disconnected from reality when touched by a police officer, forgotten by the universe as he suffers in a room devoid of spacetime while said police officer "logs out"
 * 12/1/2025 show, The Return of the White Cat Fursona(TM) plus a sheep/lamb fursona[^5]
   * This is a cameo as part of the cashgrab show "Super", featuring many offbrand products
 * 3/2/2025 "Lo and Behold" episode, Fursona in a Nian Fursuit[^6]
