@@ -1,7 +1,7 @@
 # cc
 ## Social Crebit English
 
-[n] Historical character Caocao (曹操).
+[n] Historical individual Caocao (曹操).
 
 Example:
 
