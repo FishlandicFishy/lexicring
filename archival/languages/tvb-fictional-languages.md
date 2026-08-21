@@ -114,6 +114,8 @@ There are also alternate CJK forms for some of the characters. They are, from le
 | 陳沙龍奶，陳沙龍陳。[^2150] | (unknown) |
 | 奶沙龍奶沙龍龍陳龍奶奶？[^2150] | (unknown) |
 | 奶沙奶。[^2150] | (unknown) |
+| 龍沙沙陳，奶沙沙陳。[^2150] | (unknown) |
+| 奶沙龍沙龍沙陳。[^2150] | (unknown) |
 
 ## Wolf Script
 
