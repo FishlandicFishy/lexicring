@@ -261,6 +261,11 @@ Not much is known about the Republic of Duo Qi.
 
 Not much is known about the Republic of Liao Shi Dou Fei.
 
+## 立雜宛 (Li Za Wan)
+[^2750]
+
+Not much is known about Li Za Wan.
+
 ## Unnamed Countries
 
 ### Unnamed 1
@@ -298,6 +303,7 @@ They have engaged in diplomacy with Ha Duo Er.
 [^2604]: Episode 2604, <https://youtu.be/7eIa9CwFxRM>
 [^2609]: Episode 2609, <https://youtu.be/JBVUVyZ8dOU>
 [^2642]: Episode 2642, <https://youtu.be/xjvwtEcDvVA>
+[^2750]: Episode 2750, <https://youtu.be/iroRdqrL1Io>
 [^2751]: Episode 2751, <https://youtu.be/izDz4LtgDcA>
 [^2823]: Episode 2823, <https://youtu.be/4LNvG60IfkY>
 [^2856]: Episode 2856, <https://youtu.be/laZCTPzkUVc>
