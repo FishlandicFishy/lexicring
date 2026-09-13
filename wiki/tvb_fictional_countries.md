@@ -264,6 +264,10 @@ Not much is known about the Republic of Liao Shi Dou Fei.
 ## 立雜宛 (Li Za Wan)
 [^2750]
 
+![Flag of Li Za Wan](https://github.com/user-attachments/assets/5bb02514-d34d-4994-b555-d2ada228dd26)
+
+Flag of Li Za Wan.
+
 Not much is known about Li Za Wan.
 
 ## Unnamed Countries
