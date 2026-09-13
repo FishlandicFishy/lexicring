@@ -565,6 +565,11 @@ A view of Xin Xin Wan.
 
 Not much is known about Xin Xin Wan, except that it is remote and that the island is [heart-shaped](https://hushbugger.github.io/deltarune/text/#en:2:obj_ch2_city05_slash_Step_0_gml_397_0).
 
+## 納撒群島 (Na Sa Islands)
+[^2603]
+
+Not much is known about the Na Sa Islands.
+
 ## 友木共島 (You Mu Gong Island)
 [^quizchl]
 
@@ -616,6 +621,7 @@ Explicitly NOT an island that appeared in the show.
 [^2504]: Episode 2504, <https://youtu.be/ICNoS6tWzl0>
 [^2515]: Episode 2515, <https://youtu.be/abz5DQ2MpVk>
 [^2566]: Episode 2566, <https://youtu.be/f1XQpcVNZN8>
+[^2603]: Episode 2603, <https://youtu.be/p5Q9WCko32w>
 [^2623]: Episode 2623, <https://youtu.be/bkX2K4lHMDk>
 [^2627]: Episode 2627, <https://youtu.be/xw88X_x1Asc>
 [^2633]: Episode 2633, <https://youtu.be/8MQ6I9GAzgk>
