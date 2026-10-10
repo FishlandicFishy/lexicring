@@ -4,9 +4,10 @@ Trash self-promotion that no one cares about:
 * Chonqging I: <https://suno.com/song/7228d749-9dde-478b-871c-3ec7e0ff57ee>
 * Chongqing II: <https://suno.com/song/d2b1e157-f5f5-4e6d-aafa-46de200dcdd6>
 * Chongqing III: <https://suno.com/song/93145f23-0bfd-402a-9aaf-b5dfc52bdfb6>
-* Chongqing IV: <https://suno.com/song/f119d09c-f8f3-489b-8ac5-26e0570c3205>
+* Chongqing IV: <https://suno.com/song/117af38b-1e94-4bb6-9bcf-97e4ccdb5975>
 * Chongqing V: <https://suno.com/song/6d914af1-15b3-4f11-a452-c4be17a6cc69>
 * Chongqing VI: <https://suno.com/song/aab1b597-a830-42d2-908e-0c32afa3d9cc>
+* Chongqing VII: <https://suno.com/song/e70f7c7c-99b0-4b42-bf76-f52e33a676e7>
 
 ## Chongqing I
 
@@ -179,30 +180,32 @@ You've clearly seen with your eyes, 我的確係講咗啲嘢。
 * Response to "If I still see any student talking,"
 * Cantonese: "Indeed, I had said something"
 
-今は、日付に誘うましょう。
+今は、DATETIMEに誘うましょう。
 * Next line of previous, "I will ask them out."
-* "Now, ask out for a date" in Japanese. Note that "date" as in date and time is used instead of the romantic one; this is intentional.
+* "Now, ask out for a DATETIME" in Japanese. DATETIME is a data type in databases.
 
 Hark, bee, for thou art a swimming pool (length 30 metres)
 * The allegorical Geography Buddy is also canonically a bee, though more accurately a wasp.
 * "Length 30 metres" is a reference to a line of lyrics from the satirical Borat anthem referring to a swimming pool: "Its length 30 metres, width 6 metres."
 
-When thou jump in, it turns into a Chongqing hotpot
+Thou shalt jump in — it turns into a Chongqing hotpot
 * The Geography Buddy is associated with the city of Chongqing.
 
-See the countless pimples, floating around (搶暗瘡)
-* Refer to "搶包山搶暗瘡", which means "snatching buns, snatching pimples".
+For every heart that calls, two pimples shall rise
 
-And the preservatives — the pot's a hotspot
+With the preservatives — the pot's a hotspot
 * i.e. the hotpot uses excessive preservatives, frowned upon by Geography Buddy
 
-You just flew into a spider web
-* "You" here refers to the Geography Buddy, also a wasp
+Pythagoras' theorem first principle
+Red and blue, orange is discernible
+* Chung claimed that mixing red and blue together yields orange due to "Pythagoras' theorem first principle"
 
-Now they'll get you; but after that, it'll turn into 裂 (點解好似重咗嘅)
-* "they'll" refer to spiders, "it" is one of them which turns into a philosopher named Lit who once said "why is it heavier than usual" (點解好似重咗嘅)
+Wealth and health in the ABC Temple
+* A "Filipino" temple Chung made up
 
-Then "boom", two cars collide; the sixth natural numeral, they'd decide
+The integral, as it doth show — 點解好似重咗嘅？
+
+"Boom", two cars collide; the sixth natural numeral, they'd decide
 * Crashing cars is associated with Lit
   * It is now canon that both cars run on hydrogen gas
 * The number 6 is also associated with Lit; it is said to be a "holy number" for him
@@ -211,7 +214,7 @@ To ask them out, like the ones who speak
 * Lit is often the go-to subject for answering questions
 * Also refers to the line "If I still see any student talking, I will ask them out"; this time he's simultaneously being asked a question and being "asked out"
 
-Doom, louder than a math lesson; not like the chaos would lessen
+Doom, louder than a math lesson; not that the chaos would lessen
 * Math lessons are known for being loud [citation needed]
 
 "This has to be his shop, y'all"
@@ -222,18 +225,18 @@ As lendas se dizem isso, um furry toca a guitarra (owo)
 * Refer to "Como as lendas dizem, o meu guitarrista é furry" ("As the legends say, my guitarist is a furry" from Furry Elise II
   * A person in Roblox chat once said "meu guitarrista é furry)
 
-If you don't know physics, don't you dare barbecue
-* Refer to "Lo, thou shalt not come to the barbecue, lest thou dost not ask a physics question." from Chongqing II
+If thou dost not know physics
+
+A piece of dirt, thou shalt be
 
 Eu gosto das configurações; então, vá pela surface area
 * "I like the settings; so, go by the surface area"
 * Refer to "Lo, for my favoured application, Settings, thou shalt go through the surface area of the table." from Chongqing III
 
-And the swimming pool: As they'd say, "sacre bleu"
-* The swimming pool causes surprise, thus the English corruption of the Fr\*nch phrase
+And the swimming pool — hexa-hepta, thou shalt see
 
-喂，行慢啲啦 一千零一、一千零二咁樣啊
-* "Hey, walk a bit slower, like 1001 and 1002"
+喂，行慢啲啦 六十七、六十九噉樣啊
+* "Hey, walk a bit slower, like 67 and 69"
 
 ## Chongqing V
 
@@ -420,3 +423,148 @@ Find the local maximum of the Chinese papers you put aside
 Find the local maximum of the local maximum of the local maximum of the local of the
 
 Find the local maximum of your Chongqing hotpots
+
+## Chongqing VII
+
+For thy spheres of pescado are spheres
+* "My fish balls is so balls."
+
+And He'll challenge the crowds for mere views
+
+"I survived in prison for months and for years"
+* "入監獄，生存咗一個月！", referring to MrBeast-type clickbait
+
+DIY keys or bread, wilt thou choose?
+* "DIY 個鎖出嚟！"
+
+And seas of stationery surround thee;
+* "「文具海」哉！"
+
+In the workplace, a five-star-star freed?
+* "難道我的 5**要被職場剝削？"
+
+Three calculators, they would plunder
+* "我帶着三台計數機……"
+
+And run, lest they shall blunder
+* "偷太多嘢，要跑！"
+
+Generations and thy consumption.
+* "食咗幾多個家族？"
+
+Alas, the SU doth not excel when they lead —
+
+so we've become Churchill and Chamberlain.
+* "私達は Chamberlain と Churchill です。In what way is the SU a great leader?"
+
+A paper, a deadline, a flourish
+
+Past the hour, remaining unfinished
+* "Past the deadline, but still look like not finished."
+
+I've given you all feasts to look to —
+
+あなたは鵞鳥です
+* "あなたは鵞鳥です。", alluding to fattening the goose before the slaughter
+
+The exponential noise fills my surroundings
+* "科學計算，generating noise over 80 dB。Exponential 㗎！Create exponential noise to surroundings!"
+
+Amid this, my heart and its poundings:
+
+For we're children of YouTube.
+
+We live as children of YouTube
+
+We live as children of YouTube
+* "We live as children of YouTube…"
+
+Downstairs, a field trip in the library
+* "Field Trip 落 library。"
+
+The printer is what we all yearn for
+
+No one is wary and no one in hurry —
+
+「品」字漏咗喺品尚
+* "「品」字漏咗喺品尚！" 品尚 is a restaurant.
+
+Are they dodging my lesson? They are?
+
+I will hunt them down, lest they continue
+
+They don't know how crazy I am
+* "Are they dodging my lesson? They are? I will hunt them down. They don't know how crazy I am."
+
+Li Bai's poems ensue
+* "Non-stop talking, like reciting a poem from Li Bai."
+
+花間一壺酒，獨酌無相親。
+
+舉杯邀明月，對影成三人。
+* direct quote from 月下獨酌
+
+We live as children of YouTube
+
+We live as children of YouTube
+
+Vision Pro in M2 tests
+
+M2 questions in Apple Stores
+
+This reversal's a mess
+
+Not one that I adore
+* "For thou hath looked at Apple Vision Pro models during the M2 exams; alas, thou
+doth conduct M2 questions in Apple Stores. It doth be fine if M2 math is done in
+M2 class, and iPhone 15 models in Apple Stores, yet thou hath reversed it."
+
+Like how "yes" becomes a "no"
+
+A calculator formula to calculate love
+
+A "yes" for a product of negative one
+
+But alas, the graph consists of
+
+A cross, or a "no"
+* "For thou hath used a calculator formula to find the equation of love; it doth be a
+“yes”, for the product of the slopes of the two lines is negative one, meaning it is
+perpendicular; yet it doth also be a “no”, as the two lines form a cross."
+
+Maybe math is just some numbers
+* "我開始覺得數學就係一啲數字。"
+
+Maybe math is not just numerals
+* "數學唔係淨係數字！"
+
+But 借數消愁 is a certainty —
+* "我覺得數學人係經歷過 emo 嘅事先至成為數學人。真係借數消愁。"
+
+Bepincy!
+* misspelling of "beginning"
+
+Generations
+
+and thy consumption.
+
+Alas, the SU doth not excel when they lead —
+
+so we've become Churchill and Chamberlain.
+
+Mensuration
+
+Four over three times pi r cubed
+
+We will find his volume with integration
+* "出數學卷，mensuration，計ビㇰター個 volume。(4/3)πr³, 用 integration 計volume。"
+
+佢自帶襴衫
+
+佢自帶襴衫
+
+佢自帶襴衫
+
+佢自帶襴衫
+
+佢自帶　襴　　衫。
