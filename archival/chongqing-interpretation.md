@@ -477,7 +477,7 @@ For we're children of YouTube.
 We live as children of YouTube
 
 We live as children of YouTube
-* "We live as children of YouTube…"
+* "We live as children of YouTube…" (subversion of "living as children of light" in the Bible (Ephesians 5:8))
 
 Downstairs, a field trip in the library
 * "Field Trip 落 library。"
