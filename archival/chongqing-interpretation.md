@@ -436,6 +436,7 @@ And He'll challenge the crowds for mere views
 
 DIY keys or bread, wilt thou choose?
 * "DIY 個鎖出嚟！"
+* see also "because bread tastes better than key"
 
 And seas of stationery surround thee;
 * "「文具海」哉！"
