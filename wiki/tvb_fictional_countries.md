@@ -194,15 +194,15 @@ Not much is known.
 
 Flag of Ha Duo Er, recreated in ibisPaint X. Note that the pixel shape is supposed to be a triangle.
 
-Ha Duo Er (Chinese: 哈多爾) is a fictional African country. Its national language is English, and it is a small country with a small population.</p>
+Ha Duo Er (Chinese: 哈多爾) is a fictional African country. Its national language is English, and it is a small country with a small population.
 
 ### Geography
 
-It is rich in natural resources, especially in oil and rare earth metals.</p>
+It is rich in natural resources, especially in oil and rare earth metals.
 
 ### Politics
 
-It has a specialised military ranked high globally. It has a lot of opposing parties, which makes its politics complicated and is a leading cause of many terrorist attacks.</p>
+It has a specialised military ranked high globally. It has a lot of opposing parties, which makes its politics complicated and is a leading cause of many terrorist attacks.
 
 ## 薩卡比亞 (Sa Ka Bi Ya)
 
